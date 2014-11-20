@@ -1,0 +1,239 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Wellington Motors (#170)	
+        WANDA	
+        SIRIO	
+        290 GUELPH AVE	
+        	
+        CAMBRIDGE	
+        ON	
+        N3C1A8	
+        5196581156	
+        	
+        2012	
+        DODGE	
+        AVENGER	
+        07/24/2012	 
+Wellington Motors (#170)	
+        LEIGH	
+        CLARKSON	
+        34 WATT ST	
+        	
+        GUELPH	
+        ON	
+        N1E6W7	
+        5198373553	
+        5196531111	
+        2012	
+        CHRYSLER	
+        200	
+        06/25/2012	 
+Wellington Motors (#170)	
+        BERNARD	
+        REGTS	
+        6 ATTO DR	
+        	
+        GUELPH	
+        ON	
+        N1E0E4	
+        5197679214	
+        5197673625	
+        2012	
+        CHRYSLER	
+        200	
+        06/20/2012	 
+Wellington Motors (#170)	
+        HELEN	
+        ROBERTS	
+        397 STARWOOD DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1E7A3	
+        2267061599	
+        5198865400	
+        2012	
+        CHRYSLER	
+        200	
+        06/15/2012	 
+Wellington Motors (#170)	
+        JAMES	
+        BANNON	
+        17 LINKE PL	
+        	
+        GUELPH	
+        ON	
+        N1E0G2	
+        5198265380	
+        	
+        2012	
+        DODGE	
+        AVENGER	
+        05/02/2012	 
+Wellington Motors (#170)	
+        LOUISE	
+        LANKHOF	
+        59 KATEMORE DR	
+        	
+        GUELPH	
+        ON	
+        N1L0H4	
+        5192655911	
+        4163084322	
+        2012	
+        CHRYSLER	
+        200	
+        05/25/2012	 
+Wellington Motors (#170)	
+        REBECCA	
+        KLINGSPOHN	
+        224 JANEFIELD AVE UN 366	
+        	
+        GUELPH	
+        ON	
+        N1G2L6	
+        5192655681	
+        5192655681	
+        2012	
+        CHRYSLER	
+        200	
+        04/26/2012	 
+Wellington Motors (#170)	
+        GREGORY	
+        HAZELWOOD	
+        220 HARRIS STREET	
+        	
+        ROCKWOOD	
+        ON	
+        N0B2K0	
+        5198561665	
+        	
+        2012	
+        DODGE	
+        AVENGER	
+        05/14/2012	 
+Wellington Motors (#170)	
+        CHRISTOPHER	
+        BRYANT	
+        30 MONTEAGLE CRES	
+        	
+        KITCHENER	
+        ON	
+        N2N1N1	
+        5195764957	
+        5195917878	
+        2012	
+        CHRYSLER	
+        200	
+        05/23/2012	 
+Wellington Motors (#170)	
+        LINDA	
+        ARBUTHNOT	
+        118 HOLLAND CIRCLE	
+        	
+        CAMBRIDGE	
+        ON	
+        N3C0E2	
+        5194985035	
+        5197674260	
+        2012	
+        CHRYSLER	
+        200	
+        03/22/2012	 
+Wellington Motors (#170)	
+        LOU-ANN	
+        LAYTON	
+        301-689 WOOLWICH ST.	
+        	
+        GUELPH	
+        ON	
+        N1H3Y8	
+        5197637516	
+        5198240028	
+        2012	
+        CHRYSLER	
+        200	
+        04/15/2012	 
+Wellington Motors (#170)	
+        ELIZABETH	
+        LARRABEE	
+        4-116 WOODLAWN RD E	
+        	
+        GUELPH	
+        ON	
+        N1E1B7	
+        5198266071	
+        	
+        2012	
+        CHRYSLER	
+        200	
+        04/16/2012	 
+Wellington Motors (#170)	
+        RICHARD	
+        HOEKSTRA	
+        230 PRINCE'S STREET	
+        	
+        FERGUS	
+        ON	
+        N1M1X9	
+        5197874388	
+        	
+        2012	
+        CHRYSLER	
+        200	
+        05/05/2012	 
+Wellington Motors (#170)	
+        JOHN	
+        XUEREB	
+        214-37 GOODWIN DR	
+        	
+        GUELPH	
+        ON	
+        N1L0E6	
+        5198245522	
+        5198245522	
+        2012	
+        CHRYSLER	
+        200	
+        03/29/2012	 
+Wellington Motors (#170)	
+        CAROLYN	
+        NADEAU	
+        28 FLETCHER COURT	
+        	
+        GUELPH	
+        ON	
+        N1E7G8	
+        5198364905	
+        	
+        2012	
+        CHRYSLER	
+        200	
+        02/28/2012	 
+Wellington Motors (#170)	
+        STEPHEN	
+        MAGINNIS	
+        1001-380 WATERLOO AVE	
+        	
+        GUELPH	
+        ON	
+        N1H7H8	
+        5198248188	
+        5198315749	
+        2012	
+        CHRYSLER	
+        200	
+        01/19/2012	 
+Wellington Motors (#170)	
+        COSMO	
+        TEDESCO	
+        31-35 RHONDA RD	
+        APT 3	
+        GUELPH	
+        ON	
+        N1H6H1	
+        5199930063	
+        	
+        2012	
+        CHRYSLER	
+        200	
+        01/10/2012	 

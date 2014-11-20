@@ -1,0 +1,211 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Williamson Chrysler (#122)	
+        BRADLEY A MARTIN	
+        	
+        1 DAVIDGE DRIVE	
+        	
+        Port Perry	
+        ON	
+        L9L 1B6	
+        	
+        	
+        2013	
+        JEEP	
+        PATRIOT	
+        02/13/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        CHRISTOPHER E COMPTON	
+        	
+        92 MILL ST.	
+        	
+        UXBRIDGE	
+        ONT	
+        L9P 1H4	
+        (905)852-3930	
+        	
+        2013	
+        JEEP	
+        PATRIOT	
+        01/25/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        DEBORAH M AGNEW	
+        	
+        34 FIRST STREET	
+        	
+        Caesarea	
+        ON	
+        L0B 1E0	
+        (905)986-1376	
+        (905)852-1349	
+        2013	
+        JEEP	
+        PATRIOT	
+        03/30/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        JANET WORSLEY	
+        	
+        10697 DURHAM ROAD 1	
+        	
+        Uxbridge	
+        ON	
+        L9P 1R2	
+        (905)852-5430	
+        	
+        2011	
+        FORD	
+        EDGE	
+        04/11/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        JENNIFER S BREEN	
+        	
+        80 CAMERON ST E	
+        	
+        Cannington	
+        ON	
+        L0E 1E0	
+        (705)432-8694	
+        	
+        2013	
+        JEEP	
+        PATRIOT	
+        03/01/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        LARISA V THIELMANN	
+        	
+        1191 REACH STREET	
+        	
+        PORT PERRY	
+        ON	
+        L9L 1B2	
+        (905)985-7847	
+        	
+        2013	
+        JEEP	
+        COMPASS	
+        04/15/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        LINDA J GRAHAM	
+        	
+        8 LEMBITU AVE.	
+        	
+        UDORA	
+        ON	
+        L0C 1L0	
+        (705)228-8484	
+        (416)969-7170	
+        2013	
+        JEEP	
+        COMPASS	
+        07/06/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        LYNDSEY A MACLEAN	
+        	
+        28 TOLL ROAD	
+        	
+        Holland Landing	
+        ON	
+        L9N 1G6	
+        (905)235-1645	
+        	
+        2011	
+        FORD	
+        EDGE	
+        04/24/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        MARY M BEDDOWS	
+        	
+        10-73 ALBERT ST	
+        	
+        Uxbridge	
+        ON	
+        L9P 1E4	
+        (905)862-4088	
+        	
+        2013	
+        JEEP	
+        COMPASS	
+        02/15/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        KATHY CHABOT	
+        	
+        12 HILDA AVE.	
+        	
+        UXBRIDGE	
+        ON	
+        L9P 1R2	
+        (905)852-7062	
+        	
+        2013	
+        JEEP	
+        COMPASS	
+        07/14/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        MATHEW J GLEN	
+        	
+        7987 CONCESSION 2 RR1	
+        	
+        Stouffville	
+        ON	
+        L4A 7X4	
+        	
+        	
+        2008	
+        JEEP	
+        PATRIOT	
+        05/02/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        RAENA/NICK A DAWKINS	
+        	
+        4 GREENSBORO DRIVE	
+        	
+        BLACKSTOCK	
+        ON	
+        L0B 1B0	
+        (905)986-5199	
+        	
+        2012	
+        DODGE	
+        JOURNEY	
+        07/20/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        ROBERTA C JAMES	
+        	
+        8369 CONNCESSION 2	
+        	
+        MOUNT ALBERT	
+        ON	
+        L0G 1M0	
+        	
+        	
+        2013	
+        JEEP	
+        COMPASS	
+        06/06/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Ruth L Morrison	
+        	
+        568 Pinder Ave.	
+        	
+        Newmarket	
+        ON	
+        L3X 2A3	
+        (905)898-5365	
+        	
+        2012	
+        DODGE	
+        JOURNEY	
+        01/27/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        SARAH A CHIGNALL	
+        	
+        197 EAST STREET	
+        	
+        UXBRIDGE	
+        ON	
+        L9P 1L2	
+        (905)852-0225	
+        	
+        2011	
+        FORD	
+        ESCAPE	
+        06/27/2013 12:00:00 AM	 

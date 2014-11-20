@@ -1,0 +1,29 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Wellington Motors (#170)	
+        CAROL	
+        BONNEY	
+        288 CEDAR CR	
+        	
+        CAMBRIDGE	
+        ON	
+        N1S1X1	
+        5196226589	
+        2263380296	
+        2014	
+        DODGE	
+        GRAND CARAVAN	
+        03/31/2014	 
+Wellington Motors (#170)	
+        LISA	
+        MORETTI	
+        2-24 LOWES RD E	
+        	
+        GUELPH	
+        ON	
+        N1L0J5	
+        5198212291	
+        5198350856	
+        2014	
+        DODGE	
+        GRAND CARAVAN	
+        02/28/2014	 

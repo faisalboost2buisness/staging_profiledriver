@@ -1,0 +1,5 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Williamson Chrysler			478 OLD HIGHWAY 47 RR4	Uxbridge	ON	L9P 1R4		9056429522	2013	RAM	1500 CREW CAB	03/27/2013 12:00:00 AM	 
+Williamson Chrysler	CLAIRE	ANDERSON	101 ADELAIDE ST S	LINDSAY	ON	K9V 3K3	7058792889		2013	FORD	EDGE	03/27/2013 12:00:00 AM	 
+Williamson Chrysler	Angela	Jerome	22 Shetland Drive	Keswick	ON	L4P 0A3			2012	DODGE	JOURNEY	09/28/2012 12:00:00 AM	 
+Williamson Chrysler	ARTHUR	PESTILL	11 JUSTIN COURT BX 956`	Sutton West	ON	L0E 1R0	9057225155		2013	DODGE	GRAND CARAVAN	04/02/2013 12:00:00 AM	 

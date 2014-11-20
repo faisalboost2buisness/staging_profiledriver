@@ -1,0 +1,643 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>CIPRIANO PROTACIO</FirstName>
+    <LastName>TIONGSON</LastName>
+    <Address>115-6075 WILSON AVE</Address>
+    <Apartment></Apartment>
+    <City>BURNABY</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>6044364530</WorkPhone>
+    <Year>2013</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>05/28/2014</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>RALF ENEMARK</FirstName>
+    <LastName>HALLUM</LastName>
+    <Address>322-9151 NO5 RD</Address>
+    <Apartment></Apartment>
+    <City>RICHMOND</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6046195175</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2010</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>06/04/2014</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>AMARDEEP</FirstName>
+    <LastName>BHANGRE</LastName>
+    <Address>8165 15TH AVE</Address>
+    <Apartment></Apartment>
+    <City>BURNABY</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6047288455</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>06/08/2014</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName></FirstName>
+    <LastName>PFAFF MOTORS INC</LastName>
+    <Address>1711 2ND AVE W</Address>
+    <Apartment></Apartment>
+    <City>VANCOUVER</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6047319332</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2014</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>06/12/2014</PurchaseDate>
+  </Leadlist4>
+  <Leadlist5>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>LORRAINE</FirstName>
+    <LastName>FRASER</LastName>
+    <Address>1721 248 ST</Address>
+    <Apartment></Apartment>
+    <City>ALDERGROVE</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6046260337</HomePhone>
+    <WorkPhone>6042789751</WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>06/14/2014</PurchaseDate>
+  </Leadlist5>
+  <Leadlist6>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>GEORGE</FirstName>
+    <LastName>SPYTHOURAKIS</LastName>
+    <Address>11926 92A AVE</Address>
+    <Apartment></Apartment>
+    <City>DELTA</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6043497487</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2007</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>06/22/2014</PurchaseDate>
+  </Leadlist6>
+  <Leadlist7>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>LAKHVINDER</FirstName>
+    <LastName>SANDHU</LastName>
+    <Address>8068 135A ST</Address>
+    <Apartment></Apartment>
+    <City>SURREY</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6048979200</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>06/29/2014</PurchaseDate>
+  </Leadlist7>
+  <Leadlist8>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>MARK</FirstName>
+    <LastName>YUN</LastName>
+    <Address>1703-2088 MADISON AVE</Address>
+    <Apartment></Apartment>
+    <City>BURNABY</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>7788701461</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>09/29/2013</PurchaseDate>
+  </Leadlist8>
+  <Leadlist9>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>SUKHDEEP SINGH</FirstName>
+    <LastName>BAINS</LastName>
+    <Address>6906 148ST</Address>
+    <Apartment></Apartment>
+    <City>SURREY</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>06/29/2014</PurchaseDate>
+  </Leadlist9>
+  <Leadlist10>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName></FirstName>
+    <LastName>PFAFF AUTO LEASING</LastName>
+    <Address>1711 WEST 2ND AVE</Address>
+    <Apartment></Apartment>
+    <City>VANCOUVER</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6047319332</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2010</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>07/05/2014</PurchaseDate>
+  </Leadlist10>
+  <Leadlist11>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>BRUCE</FirstName>
+    <LastName>SHEPPARD</LastName>
+    <Address>612 ENGLISH BLUFF</Address>
+    <Apartment></Apartment>
+    <City>DELTA</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6049481570</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>07/17/2014</PurchaseDate>
+  </Leadlist11>
+  <Leadlist12>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>MICHAEL</FirstName>
+    <LastName>DOBUD</LastName>
+    <Address>1055 CORNELL AVE</Address>
+    <Apartment></Apartment>
+    <City>COQUITLAM</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>7789961501</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>07/19/2014</PurchaseDate>
+  </Leadlist12>
+  <Leadlist13>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>HAI-YAN</FirstName>
+    <LastName>HOU</LastName>
+    <Address>203-1468 73RD AVE W</Address>
+    <Apartment></Apartment>
+    <City>VANCOUVER</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6042548388</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>07/20/2014</PurchaseDate>
+  </Leadlist13>
+  <Leadlist14>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>JORDAN</FirstName>
+    <LastName>ATKINSON</LastName>
+    <Address>302-4926 48TH AVE</Address>
+    <Apartment></Apartment>
+    <City>DELTA</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>7788463182</HomePhone>
+    <WorkPhone>6043264650</WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>07/25/2014</PurchaseDate>
+  </Leadlist14>
+  <Leadlist15>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>STEPHEN</FirstName>
+    <LastName>TULL</LastName>
+    <Address>5285 WELLBURN DR</Address>
+    <Apartment></Apartment>
+    <City>DELTA</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6049461764</HomePhone>
+    <WorkPhone>6047881473</WorkPhone>
+    <Year>2012</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>10/02/2013</PurchaseDate>
+  </Leadlist15>
+  <Leadlist16>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>JAGJIT</FirstName>
+    <LastName>KAILEY</LastName>
+    <Address>12198 75 AVE</Address>
+    <Apartment></Apartment>
+    <City>SURREY</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6042903630</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>08/24/2014</PurchaseDate>
+  </Leadlist16>
+  <Leadlist17>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>MICHAEL</FirstName>
+    <LastName>GIGNAC</LastName>
+    <Address>2201 1033 MARINASIDE CR.</Address>
+    <Apartment></Apartment>
+    <City>VANCOUVER</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>7788820050</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>07/20/2012</PurchaseDate>
+  </Leadlist17>
+  <Leadlist18>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>PAUL</FirstName>
+    <LastName>THOMAS</LastName>
+    <Address>1425 54TH ST</Address>
+    <Apartment></Apartment>
+    <City>DELTA</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6049434059</HomePhone>
+    <WorkPhone>6049084757</WorkPhone>
+    <Year>2011</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>09/09/2012</PurchaseDate>
+  </Leadlist18>
+  <Leadlist19>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>JAMES</FirstName>
+    <LastName>CARSLAKE</LastName>
+    <Address>18117 68A AVENUE</Address>
+    <Apartment></Apartment>
+    <City>SURREY</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6042401151</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>09/16/2012</PurchaseDate>
+  </Leadlist19>
+  <Leadlist20>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>SELENA</FirstName>
+    <LastName>POLONI</LastName>
+    <Address>4854 CEDAR CR</Address>
+    <Apartment></Apartment>
+    <City>DELTA</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6048385245</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2008</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>10/06/2013</PurchaseDate>
+  </Leadlist20>
+  <Leadlist21>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>MERTON</FirstName>
+    <LastName>WALES</LastName>
+    <Address>4625 55A ST</Address>
+    <Apartment></Apartment>
+    <City>DELTA</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6049464502</HomePhone>
+    <WorkPhone>6048059343</WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>09/21/2012</PurchaseDate>
+  </Leadlist21>
+  <Leadlist22>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>MERTON</FirstName>
+    <LastName>WALES</LastName>
+    <Address>4625 55A ST</Address>
+    <Apartment></Apartment>
+    <City>DELTA</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6049464502</HomePhone>
+    <WorkPhone>6048059343</WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>09/23/2012</PurchaseDate>
+  </Leadlist22>
+  <Leadlist23>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>YANN</FirstName>
+    <LastName>CAYLA</LastName>
+    <Address>6187 PEARL AVE</Address>
+    <Apartment></Apartment>
+    <City>BURNABY</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>7788661471</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>09/29/2012</PurchaseDate>
+  </Leadlist23>
+  <Leadlist24>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>BO CHEN</FirstName>
+    <LastName>YANG</LastName>
+    <Address>11511 STEVSON HWY UNIT 21</Address>
+    <Apartment></Apartment>
+    <City>RICHMOND</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>7785587665</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>10/04/2012</PurchaseDate>
+  </Leadlist24>
+  <Leadlist25>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>RONALD</FirstName>
+    <LastName>DAVID</LastName>
+    <Address>2612 DUKE ST</Address>
+    <Apartment></Apartment>
+    <City>VANCOUVER</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6044514390</HomePhone>
+    <WorkPhone>6046856011</WorkPhone>
+    <Year>2009</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>10/19/2012</PurchaseDate>
+  </Leadlist25>
+  <Leadlist26>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>JOHN</FirstName>
+    <LastName>MCCOLLUM</LastName>
+    <Address>11250 PROSPECT DR</Address>
+    <Apartment></Apartment>
+    <City>DELTA</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6045962171</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>10/21/2012</PurchaseDate>
+  </Leadlist26>
+  <Leadlist27>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>SHABNAM</FirstName>
+    <LastName>KHAN</LastName>
+    <Address>2 7867 120 ST</Address>
+    <Apartment></Apartment>
+    <City>DELTA</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6045018005</HomePhone>
+    <WorkPhone>6046853555</WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>12/05/2012</PurchaseDate>
+  </Leadlist27>
+  <Leadlist28>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName></FirstName>
+    <LastName>SCRAPPY DOO'S</LastName>
+    <Address></Address>
+    <Apartment></Apartment>
+    <City>RICHMOND</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>7785526359</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1990</Year>
+    <Make>CHRYSLER</Make>
+    <Model>IMPERIAL</Model>
+    <PurchaseDate>11/05/2012</PurchaseDate>
+  </Leadlist28>
+  <Leadlist29>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>CHANG</FirstName>
+    <LastName>LIU</LastName>
+    <Address>D19 1373 SUMMIT DR</Address>
+    <Apartment></Apartment>
+    <City>KAMLOOPS</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>2505743887</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>01/30/2013</PurchaseDate>
+  </Leadlist29>
+  <Leadlist30>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>WILLIAM</FirstName>
+    <LastName>MACKIE</LastName>
+    <Address>3288 EAST 27TH AVE</Address>
+    <Apartment></Apartment>
+    <City>VANCOUVER</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>7789883682</HomePhone>
+    <WorkPhone>6044326845</WorkPhone>
+    <Year>2009</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>11/19/2012</PurchaseDate>
+  </Leadlist30>
+  <Leadlist31>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>KANWALDEEP</FirstName>
+    <LastName>SANDHU</LastName>
+    <Address>12473 69 AVE</Address>
+    <Apartment></Apartment>
+    <City>SURREY</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>7782314443</HomePhone>
+    <WorkPhone>6045950888</WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>11/26/2012</PurchaseDate>
+  </Leadlist31>
+  <Leadlist32>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>CHAO</FirstName>
+    <LastName>JIANG</LastName>
+    <Address>2601 128 WEST CORDOVA</Address>
+    <Apartment></Apartment>
+    <City>VANCOUVER</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>7789983040</HomePhone>
+    <WorkPhone>7789983040</WorkPhone>
+    <Year>2012</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>12/09/2012</PurchaseDate>
+  </Leadlist32>
+  <Leadlist33>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>TYLER</FirstName>
+    <LastName>WICKS</LastName>
+    <Address>1518 HUNTER STREET</Address>
+    <Apartment></Apartment>
+    <City>NORTH VANCOUVER</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6047651698</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2005</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>10/13/2013</PurchaseDate>
+  </Leadlist33>
+  <Leadlist34>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>CHARLOTTE</FirstName>
+    <LastName>BALLISAGER</LastName>
+    <Address>5727 171 ST</Address>
+    <Apartment></Apartment>
+    <City>SURRY</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>7788745208</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>12/02/2012</PurchaseDate>
+  </Leadlist34>
+  <Leadlist35>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>RICKY</FirstName>
+    <LastName>JENNINGS</LastName>
+    <Address>440 FAIRWAY ST</Address>
+    <Apartment></Apartment>
+    <City>COQUITLAM</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6043091036</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2010</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>12/02/2012</PurchaseDate>
+  </Leadlist35>
+  <Leadlist36>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName></FirstName>
+    <LastName>PARKSVILLE CHRYSLER LTD.</LastName>
+    <Address>230 SHELLY ROAD</Address>
+    <Apartment></Apartment>
+    <City>PARKSVILLE</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>2502482086</HomePhone>
+    <WorkPhone>2502483281</WorkPhone>
+    <Year>2011</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>12/12/2012</PurchaseDate>
+  </Leadlist36>
+  <Leadlist37>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>JEREMY</FirstName>
+    <LastName>BACHMAN</LastName>
+    <Address>1 2295 WEST 40TH AVE</Address>
+    <Apartment></Apartment>
+    <City>VANCOUVER</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6043550308</HomePhone>
+    <WorkPhone>6042764585</WorkPhone>
+    <Year>2010</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>12/09/2012</PurchaseDate>
+  </Leadlist37>
+  <Leadlist38>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>TONI</FirstName>
+    <LastName>KALAVESIS</LastName>
+    <Address>809 SEYMOUR BLVD</Address>
+    <Apartment></Apartment>
+    <City>NORTH VAN</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6046144041</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>12/12/2012</PurchaseDate>
+  </Leadlist38>
+  <Leadlist39>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>TEJINDER</FirstName>
+    <LastName>JAWANDHA</LastName>
+    <Address>530 CARSON AVE</Address>
+    <Apartment></Apartment>
+    <City>QUESNEL</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>2509923563</HomePhone>
+    <WorkPhone>2509839798</WorkPhone>
+    <Year>1999</Year>
+    <Make>CADILLAC</Make>
+    <Model>DEVILLE</Model>
+    <PurchaseDate>12/16/2012</PurchaseDate>
+  </Leadlist39>
+  <Leadlist40>
+    <DealershipName>Richmond Chrysler (#247)</DealershipName>
+    <FirstName>JOSEPHINE</FirstName>
+    <LastName>CRAWFORD</LastName>
+    <Address>10 102 FRASER ST</Address>
+    <Apartment></Apartment>
+    <City>PORT MOODY</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>6046572719</HomePhone>
+    <WorkPhone>6044614252</WorkPhone>
+    <Year>2007</Year>
+    <Make>MERCEDES-BENZ</Make>
+    <Model>CLS-CLASS</Model>
+    <PurchaseDate>01/14/2013</PurchaseDate>
+  </Leadlist40>
+</data>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Demo Dealer</DealershipName>
+    <FirstName>New</FirstName>
+    <LastName>Used vs. New Purchase</LastName>
+    <Address>160 BROCK CONCESSION 4</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L0C 1H0</Zip>
+    <HomePhone>NotRequired</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2012</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>08/16/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist1>
+</data>

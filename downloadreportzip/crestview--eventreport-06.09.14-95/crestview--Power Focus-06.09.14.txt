@@ -1,0 +1,2 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Crestview Chrysler			1621 VETERANS BLVD NE	AIRDRIE	AB	T4A 2G6	4039124400		2010	FORD	MUSTANG	08/26/2013	 

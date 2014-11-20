@@ -1,0 +1,211 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Wellington Motors (#170)	
+        JENNIFER	
+        JOHNSON	
+        49 ASH ST. RR5	
+        	
+        ROCKWOOD	
+        ON	
+        N0B2K0	
+        5198569841	
+        5193629679	
+        2012	
+        RAM	
+        1500	
+        07/16/2012	 
+Wellington Motors (#170)	
+        TYLER	
+        HAGEN	
+        548 WESTMOUNT AVENUE	
+        	
+        SUDBURY	
+        ON	
+        P3A1B2	
+        7056620889	
+        	
+        2012	
+        RAM	
+        1500	
+        07/05/2012	 
+Wellington Motors (#170)	
+        LORAINNE	
+        RENTON	
+        257 GEORGE ST PO BOX 659	
+        	
+        ARTHUR	
+        ON	
+        N0G1A0	
+        5198486459	
+        5198486459	
+        2007	
+        NISSAN	
+        FRONTIER	
+        07/04/2012	 
+Wellington Motors (#170)	
+        ARNOLD	
+        HANSEN	
+        143 LEE STREET	
+        	
+        GUELPH	
+        ON	
+        N1E7E9	
+        5192651764	
+        5198213414	
+        2012	
+        RAM	
+        1500	
+        04/27/2012	 
+Wellington Motors (#170)	
+        TYLER	
+        LILLICO	
+        496 ANNAPOLIS CRT	
+        	
+        WATERLOO	
+        ON	
+        N2K4E8	
+        5199541132	
+        	
+        2012	
+        RAM	
+        1500	
+        05/08/2012	 
+Wellington Motors (#170)	
+        CHARLES	
+        MANKINEN	
+        508 WALKER ST	
+        	
+        FERGUS	
+        ON	
+        N1M3J1	
+        5199932188	
+        5198437679	
+        2012	
+        RAM	
+        1500	
+        04/26/2012	 
+Wellington Motors (#170)	
+        DONALD	
+        CARTER	
+        19 PIERCE ST N	
+        R3	
+        WIARTON	
+        ON	
+        N0H2T0	
+        5195344731	
+        5195341080	
+        2006	
+        DODGE	
+        DAKOTA	
+        04/26/2012	 
+Wellington Motors (#170)	
+        AARON	
+        WATCHORN	
+        30 NORWICH DR	
+        	
+        BRESLAU	
+        ON	
+        N0B1M0	
+        5192130399	
+        5197484428	
+        2012	
+        RAM	
+        1500	
+        04/03/2012	 
+Wellington Motors (#170)	
+        STEVE	
+        BERGEN	
+        119 GENERAL DR	
+        	
+        KITCHENER	
+        ON	
+        N2K3S7	
+        5195787635	
+        5195783890	
+        2011	
+        DODGE	
+        JOURNEY	
+        04/04/2012	 
+Wellington Motors (#170)	
+        KATHERINE	
+        PEZZACK	
+        24 FERMAN DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1H7E1	
+        5198231743	
+        5198313102	
+        2011	
+        DODGE	
+        JOURNEY	
+        04/26/2012	 
+Wellington Motors (#170)	
+        PETER	
+        KEVAN	
+        352 RIVER RD	
+        	
+        CAMBRIDGE	
+        ON	
+        N3C2B7	
+        5196580573	
+        5198244120	
+        2012	
+        RAM	
+        1500	
+        04/14/2012	 
+Wellington Motors (#170)	
+        DANIAL	
+        GLOOR	
+        75 NORWICH ST	
+        	
+        BRESLAU	
+        ON	
+        N0B1M0	
+        5195011757	
+        5198215545	
+        2012	
+        RAM	
+        1500	
+        04/16/2012	 
+Wellington Motors (#170)	
+        MATTHEW	
+        AUBREY	
+        345 WESTWOOD DR SS5	
+        	
+        WALKERTON	
+        ON	
+        N0G2V0	
+        5193788255	
+        	
+        2012	
+        RAM	
+        1500	
+        04/26/2012	 
+Wellington Motors (#170)	
+        RAYMOND	
+        WELLS	
+        5538 FIFTH LINE EROMOSA TP	
+        	
+        ROCKWOOD RR1	
+        ON	
+        N0B2K0	
+        5198561308	
+        5198209243	
+        2012	
+        RAM	
+        1500	
+        01/15/2012	 
+Wellington Motors (#170)	
+        GARY	
+        BROWN	
+        110 ADLER DRIVE	
+        	
+        CAMBRIDGE	
+        ON	
+        N3C4B7	
+        5197800283	
+        5198275495	
+        2007	
+        FORD	
+        F-150	
+        01/15/2012	 

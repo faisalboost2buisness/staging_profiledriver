@@ -1,0 +1,4 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Crestview Chrysler	SUZANNE	PELZER	RR2	CRAVEN	SK	S0G 0W0	3065373849		2011	DODGE	DURANGO	10/08/2011	 
+Crestview Chrysler	BETTY	PAUL	BOX 559/423 OAK BAY	BALGONIE	SK	S0G 0E0	3067714399	3067773929	2011	RAM	1500	03/19/2012	 
+Crestview Chrysler	CAL	HANIAK	230 BROADWAY AVE	REGINA	SK	S4N 1B3	3065307726		2006	GMC	SIERRA 1500	03/23/2012	 

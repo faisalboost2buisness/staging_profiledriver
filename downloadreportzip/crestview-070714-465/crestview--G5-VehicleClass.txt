@@ -1,0 +1,1163 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Crestview Chrysler (#202)	
+        	
+        	
+        618 - 48TH STREET EAST	
+        	
+        SASKATOON	
+        SK	
+        S7K 6K4	
+        8006671162	
+        	
+        2006	
+        CHEVROLET	
+        IMPALA	
+        09/05/2012	 
+Crestview Chrysler (#202)	
+        CARRIE	
+        SCHMIDTHEISLER	
+        318 ARGYLE ST N	
+        	
+        REGINA	
+        SK	
+        S4R 4C8	
+        	
+        	
+        2011	
+        DODGE	
+        JOURNEY	
+        08/29/2012	 
+Crestview Chrysler (#202)	
+        STACY	
+        PEEVER	
+        2827 PASQUA ST	
+        	
+        REGINA	
+        SK	
+        S4S 2H4	
+        3065277385	
+        	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        06/05/2013	 
+Crestview Chrysler (#202)	
+        MARK	
+        BENNETT	
+        1311 WINNIPEG ST	
+        	
+        REGINA	
+        SK	
+        S4R 1K2	
+        3067579934	
+        	
+        2007	
+        CHEVROLET	
+        IMPALA	
+        12/14/2012	 
+Crestview Chrysler (#202)	
+        TERESA	
+        SIMPSON	
+        po box 188	
+        	
+        CARIEVALE	
+        SK	
+        S0C 0P0	
+        3069284657	
+        3069284657	
+        2011	
+        CHRYSLER	
+        300	
+        04/13/2013	 
+Crestview Chrysler (#202)	
+        	
+        	
+        3023 REVES RD	
+        	
+        REGINA	
+        SK	
+        S4V 2C7	
+        3067893434	
+        	
+        2008	
+        CHEVROLET	
+        IMPALA	
+        05/09/2013	 
+Crestview Chrysler (#202)	
+        LYLE	
+        GETZ	
+        302 CRAIGLEITH AVE	
+        	
+        FT QUAPPELLE	
+        SK	
+        S0G 1S0	
+        3063319987	
+        3063323632	
+        2012	
+        CHRYSLER	
+        200	
+        11/10/2012	 
+Crestview Chrysler (#202)	
+        MANFRED	
+        HINCK	
+        1121 HORACE STREET	
+        	
+        REGINA	
+        SK	
+        S4T 5L5	
+        3065432347	
+        	
+        2011	
+        DODGE	
+        JOURNEY	
+        05/08/2012	 
+Crestview Chrysler (#202)	
+        JULIE	
+        SABOURIN	
+        214 - 459 ST ANNES ROAD	
+        	
+        WINNIPEG	
+        MB	
+        R2M 3C9	
+        2044161477	
+        	
+        2011	
+        DODGE	
+        JOURNEY	
+        05/23/2012	 
+Crestview Chrysler (#202)	
+        JAMES	
+        HUNTER	
+        913 BISON AVE	
+        	
+        WEYBURN	
+        SK	
+        S4H 0J9	
+        3068480925	
+        3068420152	
+        2011	
+        DODGE	
+        JOURNEY	
+        05/01/2012	 
+Crestview Chrysler (#202)	
+        LINDA	
+        SOBRY	
+        36 CANADA CRES	
+        	
+        KENOSEE LAKE	
+        SK	
+        S0C 2S0	
+        3065778782	
+        	
+        2011	
+        DODGE	
+        JOURNEY	
+        05/16/2012	 
+Crestview Chrysler (#202)	
+        STEPHEN	
+        ARCHIBALD	
+        139 7TH ST	
+        	
+        WEYBURN	
+        SK	
+        S4H 1C1	
+        3068428898	
+        	
+        2011	
+        DODGE	
+        JOURNEY	
+        06/02/2012	 
+Crestview Chrysler (#202)	
+        ASHLEY	
+        SOPKOW	
+        1768 RUPERT ST	
+        	
+        REGINA	
+        SK	
+        S4N 1W3	
+        3065816963	
+        	
+        2011	
+        DODGE	
+        CHALLENGER	
+        06/01/2012	 
+Crestview Chrysler (#202)	
+        PHYLLIS	
+        CARSON	
+        40-1333 MCINTOSH STREET	
+        	
+        REGINA	
+        SK	
+        S4T 7X8	
+        3065435933	
+        	
+        2011	
+        DODGE	
+        JOURNEY	
+        05/30/2012	 
+Crestview Chrysler (#202)	
+        DEBRA	
+        BELL	
+        19 BROCKELBANK CR	
+        	
+        REGINA	
+        SK	
+        S4R 6J5	
+        3069495536	
+        3067664335	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        02/28/2012	 
+Crestview Chrysler (#202)	
+        MICHAEL	
+        WOURMS	
+        29 GOLDENGLOW DRIVE	
+        	
+        MOOSE JAW	
+        SK	
+        S6J 1N7	
+        3066310476	
+        	
+        2011	
+        DODGE	
+        DURANGO	
+        02/22/2012	 
+Crestview Chrysler (#202)	
+        TERRY	
+        GHANEY	
+        546 8TH AVE	
+        	
+        REGINA	
+        SK	
+        S4N 0C1	
+        3065335567	
+        	
+        2011	
+        CHRYSLER	
+        300	
+        02/23/2012	 
+Crestview Chrysler (#202)	
+        MICHELLE	
+        LAMONTAGNE	
+        1393 LAPCHUCK CRES	
+        	
+        REGINA	
+        SK	
+        S4X 4L4	
+        3065430035	
+        3065352481	
+        2011	
+        DODGE	
+        DURANGO	
+        06/25/2012	 
+Crestview Chrysler (#202)	
+        JOHN	
+        JUGANAS	
+        7022 WHELAN DRIVE	
+        	
+        REGINA	
+        SK	
+        S4X 3W5	
+        3065463005	
+        	
+        2011	
+        DODGE	
+        JOURNEY	
+        02/03/2012	 
+Crestview Chrysler (#202)	
+        ALLISON	
+        GARTNER	
+        BOX 579	
+        	
+        SOUTHEY	
+        SK	
+        S0G 4P0	
+        3067262938	
+        	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        01/27/2012	 
+Crestview Chrysler (#202)	
+        LINDSAY	
+        OTTENBREIT	
+        39 ROSEN CRES	
+        	
+        REGINA	
+        SK	
+        S4V 1R1	
+        	
+        3067800360	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        01/16/2012	 
+Crestview Chrysler (#202)	
+        BARRY	
+        SYDOR	
+        259 MICHENER DR	
+        	
+        REGINA	
+        SK	
+        S4V 0J1	
+        3065403360	
+        	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        03/23/2012	 
+Crestview Chrysler (#202)	
+        JARED	
+        DAVIE	
+        1619 OXFORD STREET	
+        	
+        REGINA	
+        SK	
+        S4N 6K3	
+        3062058450	
+        	
+        2011	
+        DODGE	
+        JOURNEY	
+        03/18/2012	 
+Crestview Chrysler (#202)	
+        PATRICIA	
+        CLEMENCE LUCHENSKI	
+        RR#1 BOX 41A	
+        	
+        REGINA	
+        SK	
+        S4P 2Z1	
+        3065451079	
+        3067217515	
+        2011	
+        DODGE	
+        JOURNEY	
+        02/06/2012	 
+Crestview Chrysler (#202)	
+        ALEXANDER	
+        RAPOPORT	
+        49-2751 WINDSOR PARK RD	
+        	
+        REGINA	
+        SK	
+        S4V 1H1	
+        3065208606	
+        3067779484	
+        2011	
+        DODGE	
+        JOURNEY	
+        01/21/2012	 
+Crestview Chrysler (#202)	
+        	
+        	
+        1420 SOUTH SERVICE ROAD E	
+        	
+        SWIFT CURRENT	
+        SK	
+        S9H 0B5	
+        3067739301	
+        	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        11/02/2011	 
+Crestview Chrysler (#202)	
+        	
+        	
+        1420 SOUTH SERVICE ROAD E	
+        	
+        SWIFT CURRENT	
+        SK	
+        S9H 0B5	
+        3067739301	
+        	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        12/02/2011	 
+Crestview Chrysler (#202)	
+        LORRIE	
+        LIX	
+        698 KING ST	
+        	
+        REGINA	
+        SK	
+        S4T 4C7	
+        3063520468	
+        3067879075	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        12/16/2011	 
+Crestview Chrysler (#202)	
+        ANNELIE	
+        OOSTHUIZEN	
+        28 PARKLANE DRIVE / PO BOX 174	
+        	
+        YORKTON	
+        SK	
+        S3N 2V7	
+        3067821736	
+        3066419945	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        02/04/2012	 
+Crestview Chrysler (#202)	
+        KARA	
+        NEULS	
+        2043 ATHOL ST	
+        	
+        REGINA	
+        SK	
+        S4T 3E6	
+        3065301766	
+        3067819232	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        12/28/2011	 
+Crestview Chrysler (#202)	
+        	
+        	
+        1420 SOUTH SERVICE ROAD E	
+        	
+        SWIFT CURRENT	
+        SK	
+        S9H 0B5	
+        3067739301	
+        	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        04/18/2012	 
+Crestview Chrysler (#202)	
+        JASON	
+        SPEILER	
+        295 TREMAINE AVE	
+        	
+        REGINA	
+        SK	
+        S4R 6T9	
+        3065025833	
+        	
+        2002	
+        FORD	
+        EXPLORER	
+        11/14/2011	 
+Crestview Chrysler (#202)	
+        RAYMOND	
+        HACHKEWICH	
+        BOX 367	
+        	
+        PUNNICHY	
+        SK	
+        S0A 3C0	
+        3068352068	
+        3066822623	
+        2008	
+        CHEVROLET	
+        IMPALA	
+        12/01/2011	 
+Crestview Chrysler (#202)	
+        GUY	
+        AINEMON	
+        232 2ND ST W	
+        	
+        PONTEIX	
+        SK	
+        S0N 1Z0	
+        3066253207	
+        	
+        2009	
+        CHEVROLET	
+        IMPALA	
+        12/01/2011	 
+Crestview Chrysler (#202)	
+        MAWIEN	
+        AKOT	
+        1-2056 FLEURY ST	
+        	
+        REGINA	
+        SK	
+        S4N 2L9	
+        3062056395	
+        3065434566	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        05/12/2012	 
+Crestview Chrysler (#202)	
+        COLIN	
+        LATURNAS	
+        3506 CORMORANT DR	
+        	
+        REGINA	
+        SK	
+        S4N 7G4	
+        3065698321	
+        	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        04/28/2012	 
+Crestview Chrysler (#202)	
+        JOHN	
+        POLLOCK	
+        4240 QUEEN ST	
+        	
+        REGINA	
+        SK	
+        S4S 5Y5	
+        3065692664	
+        3065693510	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        07/09/2013	 
+Crestview Chrysler (#202)	
+        	
+        	
+        601 ALBERT STREET	
+        	
+        REGINA	
+        SK	
+        S4R 2P4	
+        	
+        	
+        2013	
+        JEEP	
+        GRAND CHEROKEE	
+        07/11/2013	 
+Crestview Chrysler (#202)	
+        RAYMOND	
+        RANDALL	
+        BOX 33	
+        	
+        DRINKWATER	
+        SK	
+        S0H 1G0	
+        3066935037	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        06/21/2013	 
+Crestview Chrysler (#202)	
+        JAMES	
+        SLATER	
+        BOX 482	
+        	
+        BIENFAIT	
+        SK	
+        S0C 0M0	
+        3063882924	
+        	
+        2011	
+        CHRYSLER	
+        300	
+        06/13/2013	 
+Crestview Chrysler (#202)	
+        RICHARD	
+        KING	
+        65 LAKE ST	
+        	
+        REGINA	
+        SK	
+        S4S 4A7	
+        3065313518	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        04/12/2013	 
+Crestview Chrysler (#202)	
+        JACK	
+        NEUFELD	
+        729 PENNER PL	
+        	
+        MARTENSVILLE	
+        SK	
+        S0K 2T0	
+        3062543032	
+        	
+        2012	
+        DODGE	
+        DURANGO	
+        07/07/2013	 
+Crestview Chrysler (#202)	
+        RONALD	
+        OLSON	
+        302-1621 DAKOTA DR	
+        	
+        REGINA	
+        SK	
+        S4Z 0A8	
+        3065450290	
+        	
+        2012	
+        CHRYSLER	
+        200	
+        08/04/2013	 
+Crestview Chrysler (#202)	
+        LESLEY	
+        POTETZ	
+        3636 BISHOP CRESCENT	
+        	
+        REGINA	
+        SK	
+        S4Z 1A8	
+        3065369715	
+        	
+        2010	
+        GMC	
+        YUKON	
+        07/15/2013	 
+Crestview Chrysler (#202)	
+        JESSE	
+        MANLEY	
+        226 VINCENT AVE	
+        	
+        CHURCHBRIDGE	
+        SK	
+        S0A 0M0	
+        3068967939	
+        	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        02/25/2013	 
+Crestview Chrysler (#202)	
+        JACK	
+        BASALY	
+        260 MORRISON DR	
+        	
+        YORKTON	
+        SK	
+        S3N 4G6	
+        3067821551	
+        3066210716	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        02/26/2013	 
+Crestview Chrysler (#202)	
+        DENNIS	
+        ERICKSON	
+        36 scott cres	
+        	
+        weyburn	
+        SK	
+        S4H 1T6	
+        3068612670	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        05/04/2013	 
+Crestview Chrysler (#202)	
+        MARSHA	
+        CROSSMAN	
+        2757 MCDONALD ST	
+        	
+        REGINA	
+        SK	
+        S4N 2Z9	
+        3065015311	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        04/20/2013	 
+Crestview Chrysler (#202)	
+        BILL	
+        HUBBLE	
+        170 PETERSMEYER ST	
+        	
+        REGINA	
+        SK	
+        S4R 8J3	
+        3065458920	
+        3065356565	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        01/19/2013	 
+Crestview Chrysler (#202)	
+        MICHELLE	
+        ANDERSON	
+        253 1060 Dorothy St	
+        	
+        Regina	
+        SK	
+        S4X 3C5	
+        3069244356	
+        3065456487	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        05/27/2013	 
+Crestview Chrysler (#202)	
+        DAVOOD	
+        GOLBAR	
+        4324 RAE ST	
+        	
+        REGINA	
+        SK	
+        S4S 3A8	
+        3065226661	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        12/12/2012	 
+Crestview Chrysler (#202)	
+        ALLAN	
+        MORROW	
+        BOX 637	
+        	
+        KELVINGTON	
+        SK	
+        S0A 1W0	
+        3063275787	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        12/17/2012	 
+Crestview Chrysler (#202)	
+        GORDON	
+        BARNES	
+        914 BRACHMAN	
+        	
+        REGINA	
+        SK	
+        S4N 7P2	
+        3062051305	
+        3063475200	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        12/01/2012	 
+Crestview Chrysler (#202)	
+        DEREK	
+        MCDOUGALD	
+        1212 ABERDEEN ST	
+        	
+        REGINA	
+        SK	
+        S4T 5J9	
+        3065516961	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        01/01/2013	 
+Crestview Chrysler (#202)	
+        JON	
+        FREY	
+        4525 HAMES CRES	
+        	
+        REGINA	
+        SK	
+        S4W 0B6	
+        3065850226	
+        3065664371	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        12/10/2012	 
+Crestview Chrysler (#202)	
+        PERRY	
+        BELLEGARDE	
+        PO BOX 824 / NE24-23-10 WOF2ND	
+        	
+        BALCARRES	
+        SK	
+        S0G 0C0	
+        3067892612	
+        3069566904	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        02/20/2013	 
+Crestview Chrysler (#202)	
+        RANDY	
+        MCDOWELL	
+        BOX 1734	
+        	
+        MOOSE JAW	
+        SK	
+        S6H 7K8	
+        3066319104	
+        	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        12/09/2012	 
+Crestview Chrysler (#202)	
+        PAMELA	
+        LARSON	
+        102 FUHRMANN CRES	
+        	
+        REGINA	
+        SK	
+        S4R 7Z3	
+        3065256590	
+        3067874969	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        10/23/2012	 
+Crestview Chrysler (#202)	
+        STANLEY	
+        LEADLEY	
+        215 TRIFUNOV CRES	
+        	
+        Regina	
+        SK	
+        S4R 7C8	
+        3069499346	
+        	
+        2011	
+        CHRYSLER	
+        200	
+        06/11/2013	 
+Crestview Chrysler (#202)	
+        GREG	
+        CUTLER	
+        407 PRAIRIE AVE	
+        	
+        ARCOLA	
+        SK	
+        S0C 0G0	
+        3065771950	
+        	
+        2011	
+        CHRYSLER	
+        300	
+        05/01/2013	 
+Crestview Chrysler (#202)	
+        DARYLE	
+        LITZENBERGER	
+        1634 HANNON BAY	
+        	
+        REGINA	
+        SK	
+        S4V 0S8	
+        3067891449	
+        3067573663	
+        2011	
+        DODGE	
+        DURANGO	
+        12/22/2012	 
+Crestview Chrysler (#202)	
+        	
+        	
+        601 ALBERT ST	
+        	
+        REGINA	
+        SK	
+        S4R 2P4	
+        	
+        3065255411	
+        2011	
+        DODGE	
+        JOURNEY	
+        11/24/2012	 
+Crestview Chrysler (#202)	
+        VALERIE	
+        URZADA	
+        8615 WASCANA GARDENS LANE	
+        	
+        REGINA	
+        SK	
+        S4V 1G1	
+        3065408806	
+        3065408806	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        11/15/2012	 
+Crestview Chrysler (#202)	
+        	
+        	
+        601 ALBERT ST	
+        	
+        REGINA	
+        SK	
+        S4R 2P4	
+        	
+        3065255411	
+        2011	
+        DODGE	
+        JOURNEY	
+        11/26/2012	 
+Crestview Chrysler (#202)	
+        ADAM	
+        KISS	
+        210 TRIFUNOV BAY	
+        	
+        REGINA	
+        SK	
+        S4R 7H8	
+        3065437584	
+        3067191450	
+        2011	
+        CHRYSLER	
+        300	
+        05/25/2013	 
+Crestview Chrysler (#202)	
+        DONNA	
+        SANDERS	
+        130 LITZENBERGER CRES	
+        	
+        REGINA	
+        SK	
+        S4R 5X6	
+        3065456379	
+        	
+        2011	
+        CHRYSLER	
+        200	
+        01/28/2013	 
+Crestview Chrysler (#202)	
+        	
+        	
+        601 ALBERT ST	
+        	
+        REGINA	
+        SK	
+        S4R 2P4	
+        	
+        3065255411	
+        2011	
+        DODGE	
+        JOURNEY	
+        11/24/2012	 
+Crestview Chrysler (#202)	
+        BRADLEY	
+        WILSON	
+        BOX 234	
+        	
+        MIDALE	
+        SK	
+        S0C 1S0	
+        3064616705	
+        	
+        2011	
+        DODGE	
+        DURANGO	
+        09/21/2012	 
+Crestview Chrysler (#202)	
+        MICHAEL	
+        BUCHAN	
+        11 8TH AVE	
+        	
+        WEYBURN	
+        SK	
+        S4H 2R5	
+        3068427817	
+        	
+        2011	
+        CHRYSLER	
+        300	
+        09/19/2012	 
+Crestview Chrysler (#202)	
+        CODY	
+        WOOD	
+        4606 SHERLOCK DR	
+        	
+        REGINA	
+        SK	
+        S4T 3P4	
+        3062053831	
+        3067812711	
+        2011	
+        DODGE	
+        DURANGO	
+        09/28/2012	 
+Crestview Chrysler (#202)	
+        BRIAN	
+        BARBER	
+        BOX 486 - 586 GREEN AVER	
+        	
+        REGINA BEACH	
+        SK	
+        S0G 4C0	
+        3067292185	
+        3067218500	
+        2011	
+        DODGE	
+        DURANGO	
+        09/04/2012	 
+Crestview Chrysler (#202)	
+        LOREE	
+        MACPHERSON	
+        45 ELM BAY	
+        	
+        LUMSDEN	
+        SK	
+        S0G 3C0	
+        3067313594	
+        3065404158	
+        2011	
+        DODGE	
+        CHALLENGER	
+        06/14/2012	 
+Crestview Chrysler (#202)	
+        	
+        GORDY	
+        BOX 805 / 324 7TH ST	
+        	
+        PILOT BUTTE	
+        SK	
+        	
+        3067811330	
+        	
+        2011	
+        CHRYSLER	
+        300	
+        09/13/2012	 
+Crestview Chrysler (#202)	
+        JEFFREY	
+        ZWACK	
+        3348 GORDON RD	
+        	
+        REGINA	
+        SK	
+        S0K 4S0	
+        3062050226	
+        	
+        2011	
+        DODGE	
+        JOURNEY	
+        06/09/2012	 
+Crestview Chrysler (#202)	
+        MARILYN	
+        TODOSCHUK	
+        1569 MCVEETY DR	
+        	
+        REGINA	
+        SK	
+        S4N 7P7	
+        3069498374	
+        	
+        2011	
+        DODGE	
+        JOURNEY	
+        08/14/2012	 
+Crestview Chrysler (#202)	
+        RANDY	
+        ZOHNER	
+        279 DUNCAN RD	
+        	
+        REGINA	
+        SK	
+        S4A 0A7	
+        3066347493	
+        	
+        2011	
+        DODGE	
+        JOURNEY	
+        08/04/2012	 
+Crestview Chrysler (#202)	
+        ROXY	
+        BALKWILL	
+        142 FULTON DR	
+        	
+        REGINA	
+        SK	
+        S4X 1G1	
+        3065849541	
+        3065376197	
+        2011	
+        DODGE	
+        JOURNEY	
+        07/30/2012	 
+Crestview Chrysler (#202)	
+        MICHELLE	
+        GULKA	
+        BOX 656	
+        	
+        HUDSON BAY	
+        SK	
+        S0E 0Y0	
+        3068652948	
+        3068652267	
+        2011	
+        DODGE	
+        JOURNEY	
+        07/12/2012	 
+Crestview Chrysler (#202)	
+        FRIEDRICH	
+        MORHART	
+        32 BARR ST	
+        	
+        REGINA	
+        SK	
+        S4R 6N1	
+        3069499751	
+        3067512665	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        08/09/2012	 
+Crestview Chrysler (#202)	
+        DONNA	
+        BELOF	
+        82 HAMMOND ROAD	
+        	
+        REGINA	
+        SK	
+        S4R 3C6	
+        3065431375	
+        	
+        2011	
+        CHRYSLER	
+        300	
+        08/18/2012	 
+Crestview Chrysler (#202)	
+        SHELDON	
+        WARNER	
+        101 WILLOWDALE AVE	
+        	
+        KIPLING	
+        SK	
+        S0G 2S0	
+        3065777731	
+        	
+        2011	
+        DODGE	
+        DURANGO	
+        09/07/2012	 
+Crestview Chrysler (#202)	
+        JUSTIN	
+        LOGAN	
+        1130 MALLARD DR	
+        	
+        ROCANVILLE	
+        SK	
+        S0A 3L0	
+        3066452999	
+        3066457292	
+        2011	
+        DODGE	
+        DURANGO	
+        09/07/2012	 
+Crestview Chrysler (#202)	
+        BELINDA	
+        FERGUSON	
+        39 GREENWOOD CRES	
+        	
+        REGINA	
+        SK	
+        S4X 1G5	
+        3065691575	
+        3067312306	
+        2011	
+        CHRYSLER	
+        300	
+        08/24/2012	 

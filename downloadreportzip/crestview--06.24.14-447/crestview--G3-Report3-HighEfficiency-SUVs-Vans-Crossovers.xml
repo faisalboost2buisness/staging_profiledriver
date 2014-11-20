@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName>GARY</FirstName>
+    <LastName>DAVIDSON</LastName>
+    <Address>3623 NOTTINGHAM CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4V 2Z9</Zip>
+    <HomePhone>3065451440</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>SMART</Make>
+    <Model>FORTWO</Model>
+    <PurchaseDate>03/23/2012</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>640 ALBERT ST</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 2P3</Zip>
+    <HomePhone>3065437388</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2001</Year>
+    <Make>SUZUKI</Make>
+    <Model>SWIFT</Model>
+    <PurchaseDate>03/02/2012</PurchaseDate>
+  </Leadlist2>
+</data>

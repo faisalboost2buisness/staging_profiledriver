@@ -1,0 +1,393 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Crestview Chrysler (#202)	
+        RON	
+        GEROCK	
+        BOX 116	
+        	
+        SOUTHEY	
+        SK	
+        S0G 4P0	
+        3067264343	
+        3065396463	
+        2005	
+        VOLKSWAGEN	
+        JETTA SEDAN	
+        07/21/2013	 
+Crestview Chrysler (#202)	
+        CAL	
+        HANIAK	
+        230 BROADWAY AVE	
+        	
+        REGINA	
+        SK	
+        S4N 1B3	
+        3065307726	
+        	
+        2000	
+        FORD	
+        WINDSTAR WAGON	
+        01/19/2013	 
+Crestview Chrysler (#202)	
+        TRACEY	
+        LAURENCE	
+        BOX 197	
+        	
+        LESTOCK	
+        SK	
+        S0A 2G0	
+        3067955021	
+        	
+        2009	
+        CHEVR	
+        SILVE	
+        01/01/2013	 
+Crestview Chrysler (#202)	
+        	
+        	
+        601 ALBERT ST	
+        	
+        REGINA	
+        SK	
+        S4R 2P4	
+        3065255411	
+        	
+        2012	
+        CHRYS	
+        300	
+        02/08/2013	 
+Crestview Chrysler (#202)	
+        	
+        	
+        601 ALBERT ST	
+        	
+        REGINA	
+        SK	
+        S4R 2P4	
+        3065255411	
+        	
+        2012	
+        CHRYS	
+        300	
+        02/08/2013	 
+Crestview Chrysler (#202)	
+        	
+        	
+        601 ALBERT ST	
+        	
+        REGINA	
+        SK	
+        S4R 2P4	
+        3065255411	
+        	
+        2012	
+        CHRYS	
+        300	
+        02/08/2013	 
+Crestview Chrysler (#202)	
+        	
+        	
+        601 ALBERT ST	
+        	
+        REGINA	
+        SK	
+        S4R 2P4	
+        3065255411	
+        	
+        2012	
+        CHRYS	
+        300C	
+        02/08/2013	 
+Crestview Chrysler (#202)	
+        	
+        	
+        601 ALBERT ST	
+        	
+        REGINA	
+        SK	
+        S4R 2P4	
+        3065255411	
+        	
+        2012	
+        CHRYS	
+        200	
+        02/07/2013	 
+Crestview Chrysler (#202)	
+        	
+        	
+        601 ALBERT ST	
+        	
+        REGINA	
+        SK	
+        S4R 2P4	
+        3065255411	
+        	
+        2012	
+        CHRYS	
+        TOWN	
+        02/07/2013	 
+Crestview Chrysler (#202)	
+        QUINTON	
+        BAILEY	
+        box 242	
+        	
+        pangman	
+        SK	
+        S0C 2C0	
+        3068614834	
+        	
+        2004	
+        VOLKSWAGEN	
+        JETTA SEDAN	
+        03/21/2013	 
+Crestview Chrysler (#202)	
+        	
+        	
+        208 CHEADLE ST W	
+        	
+        SWIFT CURRENT	
+        SK	
+        S9H 0B5	
+        3067739301	
+        8884608933	
+        2003	
+        MONAC	
+        MEDAL	
+        05/01/2013	 
+Crestview Chrysler (#202)	
+        CAL	
+        HANIAK	
+        230 BROADWAY AVE	
+        	
+        REGINA	
+        SK	
+        S4N 1B3	
+        3065307726	
+        	
+        1999	
+        FORD	
+        WINDSTAR WAGON	
+        01/19/2013	 
+Crestview Chrysler (#202)	
+        CAL	
+        HANIAK	
+        230 BROADWAY AVE	
+        	
+        REGINA	
+        SK	
+        S4N 1B3	
+        3065307726	
+        	
+        1997	
+        PLYMOUTH	
+        VOYAGER	
+        04/25/2013	 
+Crestview Chrysler (#202)	
+        CAL	
+        HANIAK	
+        230 BROADWAY AVE	
+        	
+        REGINA	
+        SK	
+        S4N 1B3	
+        3065307726	
+        	
+        2000	
+        CHEVROLET	
+        MALIBU	
+        01/19/2013	 
+Crestview Chrysler (#202)	
+        CAL	
+        HANIAK	
+        230 BROADWAY AVE	
+        	
+        REGINA	
+        SK	
+        S4N 1B3	
+        3065307726	
+        	
+        2002	
+        CHEVROLET	
+        CAVALIER	
+        01/19/2013	 
+Crestview Chrysler (#202)	
+        CAL	
+        HANIAK	
+        230 BROADWAY AVE	
+        	
+        REGINA	
+        SK	
+        S4N 1B3	
+        3065307726	
+        	
+        2001	
+        FORD	
+        ESCAPE	
+        01/07/2013	 
+Crestview Chrysler (#202)	
+        CAL	
+        HANIAK	
+        230 BROADWAY AVE	
+        	
+        REGINA	
+        SK	
+        S4N 1B3	
+        3065307726	
+        	
+        2000	
+        OLDSMOBILE	
+        ALERO	
+        04/25/2013	 
+Crestview Chrysler (#202)	
+        CAL	
+        HANIAK	
+        230 BROADWAY AVE	
+        	
+        REGINA	
+        SK	
+        S4N 1B3	
+        3065307726	
+        	
+        2002	
+        CHEVROLET	
+        VENTURE	
+        01/19/2013	 
+Crestview Chrysler (#202)	
+        	
+        	
+        3023 REVES RD	
+        	
+        REGINA	
+        SK	
+        S4V 2C7	
+        3067893434	
+        	
+        2006	
+        TOYOTA	
+        RAV4	
+        01/07/2013	 
+Crestview Chrysler (#202)	
+        MYRON	
+        DREVER	
+        212 TAYLOR ST	
+        	
+        OXBOW	
+        SK	
+        S0C 2B0	
+        3064214015	
+        	
+        2011	
+        VOLKSWAGEN	
+        GTI	
+        02/16/2013	 
+Crestview Chrysler (#202)	
+        	
+        	
+        3023 REVES RD	
+        	
+        REGINA	
+        SK	
+        S4V 2C7	
+        3067893434	
+        	
+        2001	
+        VOLKSWAGEN	
+        JETTA	
+        04/28/2013	 
+Crestview Chrysler (#202)	
+        PARKER	
+        GUSWAY	
+        256 N HECTOR CRES	
+        	
+        REGINA	
+        SK	
+        S4Y 1C3	
+        3067751376	
+        3067898322	
+        2013	
+        VOLKSWAGEN	
+        GTI	
+        11/16/2013	 
+Crestview Chrysler (#202)	
+        	
+        	
+        BOX 133	
+        	
+        MINAKI	
+        ON	
+        P0X 1J0	
+        8072241275	
+        	
+        2006	
+        VOLKSWAGEN	
+        GOLF	
+        05/19/2013	 
+Crestview Chrysler (#202)	
+        	
+        	
+        1101 WINNIPEG ST	
+        	
+        REGINA	
+        SK	
+        S4R 1J5	
+        3067893252	
+        	
+        2006	
+        CHEVROLET	
+        COBALT	
+        01/17/2013	 
+Crestview Chrysler (#202)	
+        	
+        	
+        3023 REVES RD	
+        	
+        REGINA	
+        SK	
+        S4V 2C7	
+        3067893434	
+        	
+        2003	
+        NISSAN	
+        MURANO	
+        01/07/2013	 
+Crestview Chrysler (#202)	
+        CAL	
+        HANIAK	
+        230 BROADWAY AVE	
+        	
+        REGINA	
+        SK	
+        S4N 1B3	
+        3065307726	
+        	
+        2003	
+        PONTIAC	
+        MONTANA	
+        01/07/2013	 
+Crestview Chrysler (#202)	
+        CAL	
+        HANIAK	
+        230 BROADWAY AVE	
+        	
+        REGINA	
+        SK	
+        S4N 1B3	
+        3065307726	
+        	
+        1999	
+        PLYMOUTH	
+        VOYAGER	
+        01/19/2013	 
+Crestview Chrysler (#202)	
+        SANDRA	
+        GELOWITZ	
+        63 HALLERAN CRES	
+        	
+        REGINA	
+        SK	
+        S4R 3Z3	
+        3069494576	
+        	
+        1994	
+        FORD	
+        EXPLORER	
+        01/17/2013	 

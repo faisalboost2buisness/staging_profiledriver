@@ -1,0 +1,515 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>CAL</FirstName>
+    <LastName>HANIAK</LastName>
+    <Address>230 BROADWAY AVE</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4N 1B3</Zip>
+    <HomePhone>3065307726</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2004</Year>
+    <Make>OLDSMOBILE</Make>
+    <Model>ALERO</Model>
+    <PurchaseDate>10/21/2011</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>601 ALBERT STREET</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4L 5B1</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>3065255411</WorkPhone>
+    <Year>2011</Year>
+    <Make>RAM</Make>
+    <Model>1500</Model>
+    <PurchaseDate>02/28/2012</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1001 WINNIPEG STREET</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 1J3</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>3069242050</WorkPhone>
+    <Year>2003</Year>
+    <Make>PONTIAC</Make>
+    <Model>GRAND AM</Model>
+    <PurchaseDate>11/08/2011</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>3023 REVES RD</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4V 2C7</Zip>
+    <HomePhone>3067893434</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2006</Year>
+    <Make>CHEVROLET</Make>
+    <Model>SILVERADO 2500HD</Model>
+    <PurchaseDate>10/22/2012</PurchaseDate>
+  </Leadlist4>
+  <Leadlist5>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>CALVIN</FirstName>
+    <LastName>HANIAK</LastName>
+    <Address>230 BROADWAY AVENUE</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4N 1B3</Zip>
+    <HomePhone>3065418712</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2002</Year>
+    <Make>CHEVROLET</Make>
+    <Model>SILVERADO 1500</Model>
+    <PurchaseDate>10/05/2012</PurchaseDate>
+  </Leadlist5>
+  <Leadlist6>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>SCOTT</FirstName>
+    <LastName>MCGILLIVRAY</LastName>
+    <Address></Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip></Zip>
+    <HomePhone>3065645030</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2008</Year>
+    <Make>JEEP</Make>
+    <Model>GRAND CHEROKEE</Model>
+    <PurchaseDate>10/05/2011</PurchaseDate>
+  </Leadlist6>
+  <Leadlist7>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>JEFF</FirstName>
+    <LastName>ZEHNER</LastName>
+    <Address>426 rodenbush drS4R7L8</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 7L8</Zip>
+    <HomePhone>3065963383</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1998</Year>
+    <Make>DODGE</Make>
+    <Model>DAKOTA</Model>
+    <PurchaseDate>11/12/2013</PurchaseDate>
+  </Leadlist7>
+  <Leadlist8>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>8089 STRUTHERS CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4Y 1J2</Zip>
+    <HomePhone>3065307901</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2005</Year>
+    <Make>CHEVROLET</Make>
+    <Model>COLORADO</Model>
+    <PurchaseDate>08/16/2013</PurchaseDate>
+  </Leadlist8>
+  <Leadlist9>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>500 MCLEOD STREET</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4N 4Y1</Zip>
+    <HomePhone>3067872040</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>JEEP</Make>
+    <Model>WRANGLER</Model>
+    <PurchaseDate>01/06/2012</PurchaseDate>
+  </Leadlist9>
+  <Leadlist10>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>195 HODSMAN RD</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4N 5W5</Zip>
+    <HomePhone>3067216566</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>RAM</Make>
+    <Model>3500</Model>
+    <PurchaseDate>06/06/2013</PurchaseDate>
+  </Leadlist10>
+  <Leadlist11>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>601 ALBERT ST</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State></State>
+    <Zip>S4R 2P4</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>RAM</Make>
+    <Model>1500</Model>
+    <PurchaseDate>10/13/2011</PurchaseDate>
+  </Leadlist11>
+  <Leadlist12>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1101 WINNIPEG ST</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 1J5</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2000</Year>
+    <Make>DODGE</Make>
+    <Model>DAKOTA</Model>
+    <PurchaseDate>12/30/2011</PurchaseDate>
+  </Leadlist12>
+  <Leadlist13>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1850 INLAND DRIVE</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 2P3</Zip>
+    <HomePhone>3065437388</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2006</Year>
+    <Make>FORD</Make>
+    <Model>MUSTANG</Model>
+    <PurchaseDate>06/18/2013</PurchaseDate>
+  </Leadlist13>
+  <Leadlist14>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>202 2150 12TH AVE</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip></Zip>
+    <HomePhone>3065691655</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>RAM</Make>
+    <Model>1500</Model>
+    <PurchaseDate>10/21/2011</PurchaseDate>
+  </Leadlist14>
+  <Leadlist15>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>525 BROAD ST</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4T 7A1</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2004</Year>
+    <Make>GMC</Make>
+    <Model>CANYON</Model>
+    <PurchaseDate>07/25/2013</PurchaseDate>
+  </Leadlist15>
+  <Leadlist16>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>JEFF</FirstName>
+    <LastName>ZEHNER</LastName>
+    <Address>426 RODENBUSH DR</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 7L8</Zip>
+    <HomePhone>3065963383</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2005</Year>
+    <Make>CHEVROLET</Make>
+    <Model>AVALANCHE</Model>
+    <PurchaseDate>09/09/2013</PurchaseDate>
+  </Leadlist16>
+  <Leadlist17>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1850 INLAND DR</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 0T7</Zip>
+    <HomePhone>3065437386</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1990</Year>
+    <Make>CHEVROLET</Make>
+    <Model>LUMINA</Model>
+    <PurchaseDate>12/08/2011</PurchaseDate>
+  </Leadlist17>
+  <Leadlist18>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>SCOTT</FirstName>
+    <LastName>SINGLETON</LastName>
+    <Address>39 TRIFUNOV CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 7C6</Zip>
+    <HomePhone>3065916710</HomePhone>
+    <WorkPhone>3068352427</WorkPhone>
+    <Year>2014</Year>
+    <Make>RAM</Make>
+    <Model>1500</Model>
+    <PurchaseDate>12/20/2013</PurchaseDate>
+  </Leadlist18>
+  <Leadlist19>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>2413 1ST AVE N</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4T 7A1</Zip>
+    <HomePhone>3065363383</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2005</Year>
+    <Make>CHEVROLET</Make>
+    <Model>AVALANCHE</Model>
+    <PurchaseDate>03/27/2014</PurchaseDate>
+  </Leadlist19>
+  <Leadlist20>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>CODY</FirstName>
+    <LastName>GOHLISCH</LastName>
+    <Address>1409 ELPHINSTONE ST</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4T 3M7</Zip>
+    <HomePhone>3063470105</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>PONTIAC</Make>
+    <Model>G6</Model>
+    <PurchaseDate>08/01/2012</PurchaseDate>
+  </Leadlist20>
+  <Leadlist21>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>2476 VICTORIA AVE 5TH FLOOR</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4P 3W3</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>RAM</Make>
+    <Model>1500</Model>
+    <PurchaseDate>06/12/2012</PurchaseDate>
+  </Leadlist21>
+  <Leadlist22>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>CINDY</FirstName>
+    <LastName>ILLINGWORTH</LastName>
+    <Address>1171 FERGUSON CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4N 6V6</Zip>
+    <HomePhone>3065014875</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>AVENGER</Model>
+    <PurchaseDate>07/14/2012</PurchaseDate>
+  </Leadlist22>
+  <Leadlist23>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>MARGARET</FirstName>
+    <LastName>GODON</LastName>
+    <Address>63 HALLERAN CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 3Z3</Zip>
+    <HomePhone>3069494576</HomePhone>
+    <WorkPhone>3065464441</WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>JOURNEY</Model>
+    <PurchaseDate>04/22/2013</PurchaseDate>
+  </Leadlist23>
+  <Leadlist24>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>BOX 3117</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4P 3G7</Zip>
+    <HomePhone>3065652405</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>RAM</Make>
+    <Model>2500</Model>
+    <PurchaseDate>12/18/2012</PurchaseDate>
+  </Leadlist24>
+  <Leadlist25>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>161 RIDDELL CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4S 5T3</Zip>
+    <HomePhone>3065300043</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>RAM</Make>
+    <Model>2500</Model>
+    <PurchaseDate>06/11/2013</PurchaseDate>
+  </Leadlist25>
+  <Leadlist26>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>2200 SASKATCHEWAN DR</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4P 2Z5</Zip>
+    <HomePhone>5367722</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>RAM</Make>
+    <Model>2500</Model>
+    <PurchaseDate>11/28/2013</PurchaseDate>
+  </Leadlist26>
+  <Leadlist27>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>PO BOX 3117</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4P 3G7</Zip>
+    <HomePhone>3067712087</HomePhone>
+    <WorkPhone>3065645176</WorkPhone>
+    <Year>2012</Year>
+    <Make>RAM</Make>
+    <Model>2500</Model>
+    <PurchaseDate>03/05/2014</PurchaseDate>
+  </Leadlist27>
+  <Leadlist28>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>BOX</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4N 1T5</Zip>
+    <HomePhone>3065963383</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2004</Year>
+    <Make>BUICK</Make>
+    <Model>RENDEZVOUS</Model>
+    <PurchaseDate>05/03/2014</PurchaseDate>
+  </Leadlist28>
+  <Leadlist29>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>640 ALBERT ST</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 2P3</Zip>
+    <HomePhone>3065437388</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2005</Year>
+    <Make>SATURN</Make>
+    <Model>VUE</Model>
+    <PurchaseDate>03/09/2012</PurchaseDate>
+  </Leadlist29>
+  <Leadlist30>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>MARK</FirstName>
+    <LastName>BENNETT</LastName>
+    <Address>1311 WINNIPEG ST</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 1K2</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>3067579934</WorkPhone>
+    <Year>2012</Year>
+    <Make>RAM</Make>
+    <Model>3500</Model>
+    <PurchaseDate>05/15/2012</PurchaseDate>
+  </Leadlist30>
+  <Leadlist31>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>STACEY</FirstName>
+    <LastName>BORGER</LastName>
+    <Address>2705 MCCALLUM AVE</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4S 0P8</Zip>
+    <HomePhone>3065255504</HomePhone>
+    <WorkPhone>3065391755</WorkPhone>
+    <Year>2012</Year>
+    <Make>RAM</Make>
+    <Model>2500</Model>
+    <PurchaseDate>11/10/2011</PurchaseDate>
+  </Leadlist31>
+  <Leadlist32>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>ELTON</FirstName>
+    <LastName>MCLEOD</LastName>
+    <Address>1174 DEGELMAN DRIVE</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4N 7N4</Zip>
+    <HomePhone>3067898742</HomePhone>
+    <WorkPhone>3065255411</WorkPhone>
+    <Year>2012</Year>
+    <Make>RAM</Make>
+    <Model>1500</Model>
+    <PurchaseDate>02/18/2012</PurchaseDate>
+  </Leadlist32>
+</data>

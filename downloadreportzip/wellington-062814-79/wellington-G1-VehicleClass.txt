@@ -1,0 +1,1471 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Wellington Motors (#170)	
+        CHAD	
+        MITCHELL	
+        20 SHACKLETON DR, UN28	
+        UNIT # 28	
+        GUELPH	
+        ON	
+        N1E0C5	
+        5192652610	
+        16473396458	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        07/06/2012	 
+Wellington Motors (#170)	
+        GREGORY	
+        MELANSON	
+        110 ESTHER AVE	
+        	
+        CAMBRIDGE	
+        ON	
+        N1S4L6	
+        5196234950	
+        8005494373	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        07/11/2012	 
+Wellington Motors (#170)	
+        KELLY	
+        HENDERSON	
+        36 HUNTER'S LAND	
+        	
+        GUELPH	
+        ON	
+        N1C1B2	
+        5198242367	
+        9058905222	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        07/18/2012	 
+Wellington Motors (#170)	
+        RANDALL	
+        VON HEYKING	
+        9 NELSON RD	
+        	
+        GUELPH	
+        ON	
+        N1E1L1	
+        5198374222	
+        5198248543	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        07/03/2012	 
+Wellington Motors (#170)	
+        DOUGLAS	
+        WILSON	
+        279 WILLIAM ST BX 1697	
+        	
+        WINGHAM	
+        ON	
+        N0G2W0	
+        5193572363	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        07/09/2012	 
+Wellington Motors (#170)	
+        SHAHID	
+        MOGHAL	
+        89 CLAIRFIELDS DR E	
+        	
+        GUELPH	
+        ON	
+        N1L1M1	
+        5198362896	
+        5198237400	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        07/05/2012	 
+Wellington Motors (#170)	
+        CATHERINE	
+        MCISAAC	
+        20 NICKLIN CRESCENT	
+        	
+        GUELPH	
+        ON	
+        N1H5E9	
+        5192409155	
+        	
+        2006	
+        DODGE	
+        CARAVAN	
+        07/26/2012	 
+Wellington Motors (#170)	
+        JOHN	
+        KNIGHT	
+        7541 WELLINGTON RD 34 RR3	
+        	
+        GUELPH	
+        ON	
+        N1H6H9	
+        5198210626	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        07/22/2012	 
+Wellington Motors (#170)	
+        	
+        ROOFMART (ONTARIO) LTD	
+        305 RUTHERFORD RD S	
+        	
+        BRAMPTON	
+        ON	
+        L6W3R5	
+        	
+        9058222377	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        07/23/2012	 
+Wellington Motors (#170)	
+        SHAUNA	
+        PORTER	
+        138 CREIGHTON	
+        	
+        GUELPH	
+        ON	
+        N1E0H7	
+        5193627331	
+        5198244120	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        07/10/2012	 
+Wellington Motors (#170)	
+        DARYL	
+        OAKS	
+        427 FLANNERY DR	
+        	
+        FERGUS	
+        ON	
+        N1M3P3	
+        5192399771	
+        5198433680	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        07/11/2012	 
+Wellington Motors (#170)	
+        CHRISTOPHER	
+        DECK	
+        157 MCGARRY DR	
+        	
+        KITCHENER	
+        ON	
+        N2N1A8	
+        5195798039	
+        5198849696	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        06/19/2012	 
+Wellington Motors (#170)	
+        	
+        CORPORATION OF THE CITY OF GUELPH	
+        1 CARDEN STREET	
+        VENDOR #84123	
+        GUELPH	
+        ON	
+        N1H3A1	
+        5198375610	
+        5198375628	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        06/16/2012	 
+Wellington Motors (#170)	
+        J-NEIL	
+        STEWART	
+        409 SMITH ST APT 2 BOX 696	
+        	
+        ARTHUR	
+        ON	
+        N0G1A0	
+        5198482695	
+        5198339785	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        06/15/2012	 
+Wellington Motors (#170)	
+        ROBERT	
+        MADGETT	
+        L14 C1 ERIN TWP	
+        APT 302	
+        ACTON R3	
+        ON	
+        L7J2L9	
+        5198339177	
+        9056324919	
+        2008	
+        DODGE	
+        GRAND CARAVAN	
+        06/25/2012	 
+Wellington Motors (#170)	
+        THOMAS	
+        WILSON	
+        14 WIMBLEDON RD	
+        	
+        GUELPH	
+        ON	
+        N1H7N1	
+        5198246935	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        07/05/2012	 
+Wellington Motors (#170)	
+        	
+        MEDICHAIR TEMISKAMING	
+        211 ARMSTRONG ST	
+        	
+        NEW LISKEARD	
+        ON	
+        P0J1P0	
+        	
+        18003348257	
+        2010	
+        DODGE	
+        GRAND CARAVAN	
+        07/08/2012	 
+Wellington Motors (#170)	
+        ALLAN	
+        GOLKA	
+        323 STEPHANIE	
+        	
+        GUELPH	
+        ON	
+        N1K1P2	
+        5198227651	
+        5198372601	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        07/11/2012	 
+Wellington Motors (#170)	
+        ERIC	
+        HAFEMANN	
+        1160 VANCE RD	
+        	
+        CAMBRIDGE	
+        ON	
+        N0B1M0	
+        5196483189	
+        	
+        2010	
+        DODGE	
+        GRAND CARAVAN	
+        07/12/2012	 
+Wellington Motors (#170)	
+        CONNOR	
+        DUBUC	
+        9 BROOKHAVEN CRT	
+        	
+        GUELPH	
+        ON	
+        N1G4C2	
+        5198260855	
+        5194004347	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        07/16/2012	 
+Wellington Motors (#170)	
+        ANGELA	
+        RICKETTS	
+        280 WELLINGTON ST	
+        	
+        FERGUS	
+        ON	
+        N1M1E4	
+        5198432136	
+        5199941554	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        06/13/2012	 
+Wellington Motors (#170)	
+        JEFFREY	
+        POMROY	
+        20 SHACKELTON DR UN2	
+        	
+        GUELPH	
+        ON	
+        N1E0C5	
+        5192652690	
+        2267493188	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        06/18/2012	 
+Wellington Motors (#170)	
+        DOUGLAS	
+        PATAY	
+        92 QUEENSDALE CRES	
+        	
+        GUELPH	
+        ON	
+        N1H6W3	
+        5197661246	
+        5198244120	
+        2010	
+        DODGE	
+        GRAND CARAVAN	
+        06/12/2012	 
+Wellington Motors (#170)	
+        STEVEN	
+        MORRIS	
+        27 MACKAY ST	
+        	
+        GUELPH	
+        ON	
+        N1E7H3	
+        5198362514	
+        5198211760	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        06/25/2012	 
+Wellington Motors (#170)	
+        MICHAEL	
+        WEILER	
+        7894 SPEEDVALE AVE E	
+        	
+        GUELPH R4	
+        ON	
+        N1H6J1	
+        5198221458	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        03/17/2012	 
+Wellington Motors (#170)	
+        GREGORY	
+        BYERMANN	
+        48 LONSDALE DR	
+        	
+        GUELPH	
+        ON	
+        N1H5N2	
+        8240678	
+        7672373	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        05/31/2012	 
+Wellington Motors (#170)	
+        THOMAS	
+        QUIRK	
+        86 MARLBOROUGH RD.	
+        	
+        GUELPH	
+        ON	
+        N1E3X8	
+        5198269766	
+        5198294550	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        05/16/2012	 
+Wellington Motors (#170)	
+        ALEN	
+        HODZIC	
+        157 GEORGIAN PL	
+        	
+        KITCHENER	
+        ON	
+        N2B3P1	
+        5197427391	
+        5194514349	
+        2005	
+        DODGE	
+        CARAVAN	
+        05/17/2012	 
+Wellington Motors (#170)	
+        JOSEPH	
+        CASARIN	
+        16 MCLACHLAN PLACE	
+        	
+        GUELPH	
+        ON	
+        N1H8K3	
+        5192395510	
+        8005632386	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        04/30/2012	 
+Wellington Motors (#170)	
+        CAMERON	
+        STEWART	
+        67 STEVENSON STREET S	
+        	
+        GUELPH	
+        ON	
+        N1E5N3	
+        5198221821	
+        9052830608	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        06/09/2012	 
+Wellington Motors (#170)	
+        EVELYN	
+        SCHUETT	
+        5517 FIFTH LINE ERAMOSA	
+        	
+        RR # 1 ROCKWOOD	
+        ON	
+        N0B2K0	
+        5198564131	
+        5198264895	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        05/07/2012	 
+Wellington Motors (#170)	
+        SARA	
+        PAULS	
+        355 OTTERBEIN RD	
+        	
+        KITCHENER	
+        ON	
+        N2B3V9	
+        5197438583	
+        5197221686	
+        2009	
+        DODGE	
+        GRAND CARAVAN	
+        05/24/2012	 
+Wellington Motors (#170)	
+        REBECCA	
+        MYERS	
+        8 LAKESHORE LANE	
+        	
+        TIVERTON R3	
+        ON	
+        N0G2T0	
+        5193683574	
+        5193862808	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        05/12/2012	 
+Wellington Motors (#170)	
+        WILLIAM	
+        MATTHIAS	
+        473 GREENBROOK DR	
+        	
+        KITCHENER	
+        ON	
+        N2M4K5	
+        5192082908	
+        2263387829	
+        2006	
+        DODGE	
+        CARAVAN	
+        05/27/2012	 
+Wellington Motors (#170)	
+        ANDREW	
+        OLIVER	
+        1085 10TH CONCESSION W	
+        	
+        PUSLINCH	
+        ON	
+        N0B2J0	
+        9056592958	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        05/14/2012	 
+Wellington Motors (#170)	
+        JASON	
+        SPECHT	
+        L14 C1 SULLIVAN TWP	
+        	
+        CHATSWORTH R1	
+        ON	
+        N0H1G0	
+        5193870539	
+        5197940139	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        05/30/2012	 
+Wellington Motors (#170)	
+        BRYAN	
+        POLETTO	
+        901 GZOWSKI ST	
+        	
+        GUELPH	
+        ON	
+        N1M3V9	
+        5198278084	
+        	
+        2010	
+        DODGE	
+        GRAND CARAVAN	
+        05/30/2012	 
+Wellington Motors (#170)	
+        DARIA	
+        BROECKEL	
+        18 GLENDA CRT	
+        	
+        GUELPH	
+        ON	
+        N1H6V6	
+        5198246646	
+        5197663504	
+        2010	
+        DODGE	
+        GRAND CARAVAN	
+        06/05/2012	 
+Wellington Motors (#170)	
+        NEIL	
+        SARGINSON	
+        27 FLEMING RD	
+        	
+        GUELPH	
+        ON	
+        N1E7G6	
+        5195469049	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        05/24/2012	 
+Wellington Motors (#170)	
+        CHRISTOPHER	
+        HACHEY	
+        414 STONE RD W UN15	
+        	
+        GUELPH	
+        ON	
+        N1G3E1	
+        5197634219	
+        2262030483	
+        2008	
+        DODGE	
+        GRAND CARAVAN	
+        06/11/2012	 
+Wellington Motors (#170)	
+        YOUSEF	
+        EL-RAYANI	
+        18-667 PINEROW CRES	
+        	
+        WATERLOO	
+        ON	
+        N2T2L5	
+        5198847704	
+        	
+        2005	
+        DODGE	
+        CARAVAN	
+        06/04/2012	 
+Wellington Motors (#170)	
+        HELEN	
+        FEWSTER	
+        67 DEVERE DR	
+        	
+        GUELPH	
+        ON	
+        N1G2T3	
+        5198241988	
+        5198377167	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        06/07/2012	 
+Wellington Motors (#170)	
+        	
+        CRATE DESIGNS LTD	
+        87 7TH ST SW, BOX 122	
+        BOX 460	
+        CHESLEY	
+        ON	
+        N0G1L0	
+        5198316130	
+        5198316130	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        06/07/2012	 
+Wellington Motors (#170)	
+        CARMELLA	
+        MOONEY	
+        738 WOODHILL DR	
+        	
+        FERGUS	
+        ON	
+        N1M3N2	
+        5197872859	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        05/25/2012	 
+Wellington Motors (#170)	
+        	
+        MARPHIL PARTY SUPPLIES INC	
+        18 CHAD PL	
+        	
+        GUELPH	
+        ON	
+        N1H6V5	
+        5198227537	
+        5197669535	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        06/15/2012	 
+Wellington Motors (#170)	
+        CATHERINE	
+        HENRY-SIRED	
+        12 VANCOUVER DR	
+        	
+        GUELPH	
+        ON	
+        N1E2E8	
+        5198220818	
+        5198208066	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        05/12/2012	 
+Wellington Motors (#170)	
+        THOMAS	
+        CRAIG	
+        59 RICH AVE	
+        	
+        CAMBRIDGE	
+        ON	
+        N1R2A4	
+        5196223958	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        05/10/2012	 
+Wellington Motors (#170)	
+        DOUGLAS	
+        GERMANI	
+        2 DEERCHASE CRT	
+        	
+        GUELPH	
+        ON	
+        N1G3X5	
+        5198362951	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        04/11/2012	 
+Wellington Motors (#170)	
+        BECKY	
+        NEWBY	
+        116 SWIFT CRES	
+        	
+        GUELPH	
+        ON	
+        N1E7J2	
+        5197672508	
+        5197637786	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        04/16/2012	 
+Wellington Motors (#170)	
+        KENNETH	
+        ALLEN	
+        89 SEVERN DR	
+        	
+        GUELPH	
+        ON	
+        N1E7L2	
+        5198201042	
+        5198200981	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        04/26/2012	 
+Wellington Motors (#170)	
+        MURRAY	
+        STEFFEN	
+        L258 C12 CULROSS TP	
+        	
+        FORMOSA	
+        ON	
+        N0G1W0	
+        5193675220	
+        5192393156	
+        2010	
+        DODGE	
+        GRAND CARAVAN	
+        04/23/2012	 
+Wellington Motors (#170)	
+        VIRGIL	
+        PASCA	
+        173 ERINBROOK DR	
+        	
+        KITCHENER	
+        ON	
+        N2E3C7	
+        5195781182	
+        5194961561	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        05/11/2012	 
+Wellington Motors (#170)	
+        	
+        781186 ONTARIO LIMITED O/A D&W AUTO	
+        531 MICHENER ROAD	
+        	
+        GUELPH	
+        ON	
+        N1K1C8	
+        5198361170	
+        5198361170	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        04/15/2012	 
+Wellington Motors (#170)	
+        KIMBERLY	
+        BOERMANS	
+        10 SHOEMAKER CRES	
+        	
+        GUELPH	
+        ON	
+        N1K1J8	
+        5198228867	
+        5198228867	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        03/28/2012	 
+Wellington Motors (#170)	
+        CATHERINE	
+        CARAVAGGIO	
+        140 HARVARD RD	
+        	
+        GUELPH	
+        ON	
+        N1G3R1	
+        5198212899	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        04/16/2012	 
+Wellington Motors (#170)	
+        CHRISTOPHER	
+        HODGSON	
+        5950 WELLINGTON RD 7 RR5	
+        	
+        GUELPH	
+        ON	
+        N1H6J2	
+        5198378318	
+        5198862310	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        04/24/2012	 
+Wellington Motors (#170)	
+        JOANNE	
+        HARTON	
+        236 LEMON GRASS CRES	
+        	
+        KITCHENER	
+        ON	
+        N2N3R7	
+        2267483285	
+        5198219405	
+        2010	
+        DODGE	
+        GRAND CARAVAN	
+        04/20/2012	 
+Wellington Motors (#170)	
+        JAMES	
+        LUXTON	
+        6 DROHAN DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1G5H6	
+        5197675182	
+        5197674291	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        03/30/2012	 
+Wellington Motors (#170)	
+        BOZENA	
+        HOSZOWSKI	
+        40 DUNNIGAN DRIVE	
+        	
+        KITCHENER	
+        ON	
+        N2B3W5	
+        5198951829	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        04/27/2012	 
+Wellington Motors (#170)	
+        STEPHEN	
+        VASIC	
+        32 SECOND AVE	
+        	
+        CAMBRIDGE	
+        ON	
+        N1S2C1	
+        2269727059	
+        	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        05/06/2012	 
+Wellington Motors (#170)	
+        JENNIFER	
+        MCDERMOTT	
+        10 CLIVE AVENUE	
+        	
+        GUELPH	
+        ON	
+        N1E3S3	
+        5193419660	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        04/19/2012	 
+Wellington Motors (#170)	
+        	
+        COMMUNITY LIVING GUELPH WELLINGTON	
+        8 ROYAL ROAD	
+        	
+        GUELPH	
+        ON	
+        N1H1G3	
+        	
+        5198242480	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        05/03/2012	 
+Wellington Motors (#170)	
+        DANIEL	
+        BAILEY	
+        013665 GREY RD 10	
+        	
+        HANOVER R3	
+        ON	
+        N4N3B9	
+        5193647461	
+        5193641336	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        04/16/2012	 
+Wellington Motors (#170)	
+        DONNA	
+        HOWITT	
+        148 FREDERICK ST E BOX 7	
+        	
+        ARTHUR	
+        ON	
+        N0G1A0	
+        5198482540	
+        5193211611	
+        2008	
+        DODGE	
+        GRAND CARAVAN	
+        05/10/2012	 
+Wellington Motors (#170)	
+        DAVID	
+        LITTLE	
+        14 AMALIA CRES	
+        	
+        BELWOOD	
+        ON	
+        N0B1J0	
+        5197876904	
+        5199414858	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        04/10/2012	 
+Wellington Motors (#170)	
+        ANDREA	
+        CRUZ	
+        64 BARD BLVD	
+        	
+        GUELPH	
+        ON	
+        N1L0A5	
+        5192657774	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        03/18/2012	 
+Wellington Motors (#170)	
+        LESLEY	
+        COX	
+        154 PASMORE ST	
+        	
+        ROCKWOOD	
+        ON	
+        N0B2K0	
+        	
+        5198225350	
+        2005	
+        DODGE	
+        CARAVAN	
+        03/18/2012	 
+Wellington Motors (#170)	
+        LARRY	
+        SHUTSA	
+        2 GLADSTONE AVE	
+        	
+        GUELPH	
+        ON	
+        N1E1L6	
+        5198228287	
+        5197168245	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        03/23/2012	 
+Wellington Motors (#170)	
+        CAROL	
+        BYRON	
+        200 TAIT CRES	
+        	
+        FERGUS	
+        ON	
+        N1M3P6	
+        5197877838	
+        5198210571	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        03/12/2012	 
+Wellington Motors (#170)	
+        CURTIS	
+        ARCHIBALD	
+        0039 RIVERGLEN PATH	
+        	
+        GUELPH RR2	
+        ON	
+        N1H6H8	
+        5198561016	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        03/12/2012	 
+Wellington Motors (#170)	
+        LEON	
+        ZACHARIAS	
+        118 SEVERN DR	
+        	
+        GUELPH	
+        ON	
+        N1E7K6	
+        5197638576	
+        2893745297	
+        2008	
+        DODGE	
+        GRAND CARAVAN	
+        03/12/2012	 
+Wellington Motors (#170)	
+        KRISTA	
+        WAYNE	
+        167 GREEN BANK DRIVE	
+        	
+        CAMBRIDGE	
+        ON	
+        N1T2B6	
+        5192670266	
+        5198264398	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        03/30/2012	 
+Wellington Motors (#170)	
+        RAYMOND	
+        VAN OMMEN	
+        111 PINNACLE CR	
+        	
+        GUELPH	
+        ON	
+        N1K1P5	
+        5198214057	
+        	
+        2009	
+        DODGE	
+        GRAND CARAVAN	
+        03/30/2012	 
+Wellington Motors (#170)	
+        JOSELITO	
+        CASUPANAN	
+        10 BEATTIE STREET	
+        	
+        GUELPH	
+        ON	
+        N1H8N1	
+        5198360807	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        03/14/2012	 
+Wellington Motors (#170)	
+        MELANIE	
+        DIRETO	
+        28 SKYWAY DR	
+        	
+        GUELPH	
+        ON	
+        N1H6H8	
+        5198245437	
+        5198227554	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        03/21/2012	 
+Wellington Motors (#170)	
+        NICOLE	
+        KOZAK	
+        273 MILLBURN BLVD	
+        	
+        FERGUS	
+        ON	
+        N1M3S3	
+        5198437641	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        04/05/2012	 
+Wellington Motors (#170)	
+        	
+        1632450 ONTARIO INC	
+        450 MICHENER RD. UNIT C	
+        	
+        GUELPH	
+        ON	
+        N1K1E4	
+        	
+        5197630899	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        04/09/2012	 
+Wellington Motors (#170)	
+        MEAGHAN	
+        MCDERMOTT	
+        43 RIDGEWOOD AVE	
+        	
+        GUELPH	
+        ON	
+        N1H6C3	
+        5192652364	
+        5198362504	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        03/27/2012	 
+Wellington Motors (#170)	
+        RALPH	
+        EDWARDS	
+        72 WOODSIDE RD	
+        GUELPH	
+        GUELPH	
+        ON	
+        N1G2H2	
+        5192656982	
+        5192656982	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        02/11/2012	 
+Wellington Motors (#170)	
+        ANICA	
+        KULAUZOV	
+        132 APPLEWOOD CR	
+        	
+        GUELPH	
+        ON	
+        N1H6B6	
+        5198239523	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        02/20/2012	 
+Wellington Motors (#170)	
+        SUSAN	
+        ROUMIA	
+        169 WESTVALE DR	
+        	
+        WATERLOO	
+        ON	
+        N2T1B7	
+        	
+        	
+        2004	
+        DODGE	
+        CARAVAN	
+        03/11/2012	 
+Wellington Motors (#170)	
+        REBECCA	
+        NEY	
+        163 LANGLAW DR	
+        	
+        CAMBRIDGE	
+        ON	
+        N1P1E8	
+        5198358586	
+        5198413923	
+        2006	
+        DODGE	
+        GRAND CARAVAN	
+        02/27/2012	 
+Wellington Motors (#170)	
+        KEITH	
+        GOW	
+        101 TEAL DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1C1H2	
+        5198211189	
+        5198211189	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        03/01/2012	 
+Wellington Motors (#170)	
+        DIANNE	
+        OLIVEIRA	
+        94 WILLIAM ST	
+        	
+        PLATTSVILLE	
+        ON	
+        N0J1S0	
+        2266560656	
+        5196209512	
+        2008	
+        DODGE	
+        GRAND CARAVAN	
+        02/20/2012	 
+Wellington Motors (#170)	
+        GREGORY	
+        HERTEL	
+        14 ISLINGTON AVE	
+        	
+        GUELPH	
+        ON	
+        N1E6K7	
+        5197664727	
+        5197662547	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        02/14/2012	 
+Wellington Motors (#170)	
+        DONALD	
+        CARTHY	
+        4 HALTER AVE	
+        	
+        MARYHILL	
+        ON	
+        N0B2B0	
+        5196482813	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        03/01/2012	 
+Wellington Motors (#170)	
+        JESSICA	
+        BATES	
+        11 WOODLAWN AVENUE	
+        	
+        BRANTFORD	
+        ON	
+        N3V1A4	
+        5197501463	
+        5197415845	
+        2010	
+        DODGE	
+        GRAND CARAVAN	
+        02/13/2012	 
+Wellington Motors (#170)	
+        AMBER	
+        WILLIAMS	
+        451 WILSON ST SS1	
+        	
+        EDEN MILLS	
+        ON	
+        N0B1P0	
+        5198560667	
+        	
+        2009	
+        DODGE	
+        GRAND CARAVAN	
+        03/09/2012	 
+Wellington Motors (#170)	
+        THOMAS	
+        REID	
+        140 MARKSAM RD	
+        	
+        GUELPH	
+        ON	
+        N1H6T6	
+        5197634861	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        02/24/2012	 
+Wellington Motors (#170)	
+        ANDREW	
+        WILLS	
+        187 WAVERLY DR	
+        	
+        GUELPH	
+        ON	
+        N1E1H3	
+        5198293922	
+        8887649771	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        02/28/2012	 
+Wellington Motors (#170)	
+        ANDREW	
+        PETERSON	
+        14 DARNELL RD	
+        	
+        GUELPH	
+        ON	
+        N1H5K3	
+        5198238859	
+        5193627335	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        03/15/2012	 
+Wellington Motors (#170)	
+        MAGDALENA	
+        BOERS	
+        42-385 PARK RD N	
+        	
+        BRANTFORD	
+        ON	
+        N3R0A1	
+        5193042124	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        01/22/2012	 
+Wellington Motors (#170)	
+        JUSTIN	
+        ECCLES	
+        107 SPEEDVALE AVE W	
+        UNIT 217	
+        GUELPH	
+        ON	
+        N1H1K1	
+        5192651326	
+        5197722600	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        12/30/2011	 
+Wellington Motors (#170)	
+        SHERWIN	
+        SAYLON	
+        17 KERR ST	
+        	
+        GUELPH	
+        ON	
+        N1H1Z1	
+        5194004278	
+        5195796200	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        12/30/2011	 
+Wellington Motors (#170)	
+        	
+        ENGEL CANADA INC.	
+        B13- 550 PARKSIDE DR	
+        	
+        WATERLOO	
+        ON	
+        N2L5V4	
+        	
+        5197258488	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        02/03/2012	 
+Wellington Motors (#170)	
+        JACOB	
+        FRIESEN	
+        15 LEACOCK AVE	
+        	
+        GUELPH	
+        ON	
+        N1E6P9	
+        5192650806	
+        5198226870	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        01/17/2012	 
+Wellington Motors (#170)	
+        LARRY	
+        LAWRENCE	
+        346 SUFFOLK ST W	
+        	
+        GUELPH	
+        ON	
+        N1H2K4	
+        5192658882	
+        5194001909	
+        2010	
+        DODGE	
+        GRAND CARAVAN	
+        02/05/2012	 
+Wellington Motors (#170)	
+        PATRICK	
+        HAMMOND	
+        148 WEDGEWOOD DR.	
+        	
+        CAMBRIDGE	
+        ON	
+        N1S3X9	
+        5196218103	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        02/06/2012	 
+Wellington Motors (#170)	
+        IAN	
+        VANDERSTAM	
+        379 ALBERT ST ERAMOSA TP	
+        RR4 BX23	
+        EVERTON	
+        ON	
+        N0B2K0	
+        5198569856	
+        5198224080	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        02/11/2012	 
+Wellington Motors (#170)	
+        	
+        ENGEL CANADA INC.	
+        545 ELMIRA RD	
+        	
+        	
+        ON	
+        N1K1C2	
+        	
+        5197258488	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        03/05/2012	 
+Wellington Motors (#170)	
+        DANIEL	
+        BLASKIEVICH	
+        203 HADATI RD	
+        	
+        GUELPH	
+        ON	
+        N1E6N4	
+        5198227159	
+        5198353922	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        01/01/2012	 
+Wellington Motors (#170)	
+        	
+        S.G. CUNNINGHAM (KITCHENER) LIMITED	
+        745 BRIDGE STREET WEST	
+        	
+        WATERLOO	
+        ON	
+        N2V2G6	
+        5198460151	
+        5198862730	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        12/30/2011	 
+Wellington Motors (#170)	
+        JENNIFER	
+        GIGNAC	
+        46 MILLER ST	
+        	
+        GUELPH	
+        ON	
+        N1L1P2	
+        5198374043	
+        	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        12/30/2011	 
+Wellington Motors (#170)	
+        	
+        GENIVAR INC.	
+        1345 ROSEMOUNT AVENUE	
+        	
+        CORNWALL	
+        ON	
+        K6J3E6	
+        5198271453	
+        6139335602	
+        2008	
+        DODGE	
+        GRAND CARAVAN	
+        01/02/2012	 
+Wellington Motors (#170)	
+        KRISTA	
+        WAECHTER	
+        66 MUSCOVEY DR	
+        	
+        ELMIRA	
+        ON	
+        N3B3M6	
+        5198361170	
+        	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        01/08/2012	 

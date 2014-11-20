@@ -1,0 +1,925 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+PBS Demo (#198)	
+        Walter Mitchell	
+        	
+        7653 Heather Hickory Limits	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5193414969	
+        4033161170	
+        2010	
+        CHEVROLET	
+        AVALANCHE	
+        07/08/2014	 
+PBS Demo (#198)	
+        Jacqueline Richardson	
+        	
+        7450 Cotton Mountain	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196214328	
+        7116233777	
+        2011	
+        CHEVROLET	
+        AVALANCHE	
+        07/09/2014	 
+PBS Demo (#198)	
+        Julie Lewis	
+        	
+        8696 Sleepy Harbour	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198248665	
+        6115912186	
+        2008	
+        DODGE	
+        DAKOTA	
+        07/10/2014	 
+PBS Demo (#198)	
+        Kathleen Ward	
+        	
+        3605 Misty Row	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198248666	
+        3003064162	
+        2001	
+        DODGE	
+        DAKOTA	
+        07/11/2014	 
+PBS Demo (#198)	
+        Gerald White	
+        	
+        8752 Hidden Deer Front	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        4166745100	
+        2542627979	
+        2007	
+        FORD	
+        RANGER	
+        07/12/2014	 
+PBS Demo (#198)	
+        Ann Jackson	
+        	
+        5375 Green Pony Woods	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5198483743	
+        3556766221	
+        2008	
+        FORD	
+        RANGER	
+        07/01/2014	 
+PBS Demo (#198)	
+        Christine Johnson	
+        	
+        5031 Jagged Quail Rise	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198072596	
+        3821829710	
+        2013	
+        RAM	
+        1500	
+        07/02/2014	 
+PBS Demo (#198)	
+        Anthony Ramirez	
+        	
+        8795 Umber Impasse	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5193903710	
+        2476607215	
+        2014	
+        RAM	
+        1500	
+        07/03/2014	 
+PBS Demo (#198)	
+        Roy Morris	
+        	
+        5501 Amber River Wynd	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198231692	
+        9118204330	
+        2011	
+        RAM	
+        1500	
+        07/02/2014	 
+PBS Demo (#198)	
+        Teresa Morgan	
+        	
+        4313 Iron Embers Valley	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197162333	
+        2334167377	
+        2013	
+        RAM	
+        3500	
+        07/03/2014	 
+PBS Demo (#198)	
+        Joseph Reed	
+        	
+        5147 Dusty Brook Campus	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198200506	
+        7936593070	
+        2012	
+        RAM	
+        3500	
+        07/04/2014	 
+PBS Demo (#198)	
+        Marlene Henderson	
+        	
+        5848 Merry View Towers	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198216604	
+        	
+        2010	
+        CHEVROLET	
+        AVALANCHE	
+        04/30/2013	 
+PBS Demo (#198)	
+        Marcos Nelson	
+        	
+        4386 Little Trail	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198224859	
+        5198210156	
+        2011	
+        CHEVROLET	
+        AVALANCHE	
+        04/30/2014	 
+PBS Demo (#198)	
+        Joey Hanson	
+        	
+        9461 Clear Walk	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5192657683	
+        5198229393	
+        2008	
+        DODGE	
+        DAKOTA	
+        05/30/2009	 
+PBS Demo (#198)	
+        Kevin Robbins	
+        	
+        6071 Silent Field	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198800175	
+        5198840710	
+        2001	
+        DODGE	
+        DAKOTA	
+        05/30/2008	 
+PBS Demo (#198)	
+        Michael Mccormick	
+        	
+        8049 Green Panda Woods	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197800309	
+        5197639330	
+        2007	
+        FORD	
+        RANGER	
+        05/30/2010	 
+PBS Demo (#198)	
+        Bryant Gibbs	
+        	
+        6658 Middle Deer Alley	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5197669376	
+        	
+        2008	
+        FORD	
+        RANGER	
+        05/30/2011	 
+PBS Demo (#198)	
+        Roxanne Douglas	
+        	
+        7765 Dusty Extension	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196581337	
+        2263260125	
+        2013	
+        RAM	
+        1500	
+        05/30/2012	 
+PBS Demo (#198)	
+        Lance Norton	
+        	
+        9474 Misty Horse Hollow	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197373154	
+        6472688011	
+        2014	
+        RAM	
+        1500	
+        05/30/2013	 
+PBS Demo (#198)	
+        Toni Walters	
+        	
+        5222 High Byway	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5198361890	
+        5198350275	
+        2011	
+        RAM	
+        1500	
+        05/30/2014	 
+PBS Demo (#198)	
+        Jay Gomez	
+        	
+        6404 Rustic Island	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5194427239	
+        5197200880	
+        2013	
+        RAM	
+        3500	
+        07/30/2009	 
+PBS Demo (#198)	
+        Lisa Kelley	
+        	
+        7382 Pleasant Berry Mews	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5199002326	
+        2268213360	
+        2012	
+        RAM	
+        3500	
+        07/30/2008	 
+PBS Demo (#198)	
+        Olive Erickson	
+        	
+        7092 Lazy Impasse	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198231492	
+        5198218883	
+        2010	
+        CHEVROLET	
+        AVALANCHE	
+        03/01/2012	 
+PBS Demo (#198)	
+        Seth Rodriguez	
+        	
+        3972 Silver Acres	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192657590	
+        2269711626	
+        2011	
+        CHEVROLET	
+        AVALANCHE	
+        03/02/2013	 
+PBS Demo (#198)	
+        Judy Roy	
+        	
+        2629 Round Parade	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5194920485	
+        5192919900	
+        2008	
+        DODGE	
+        DAKOTA	
+        03/02/2014	 
+PBS Demo (#198)	
+        Andres Strickland	
+        	
+        8115 Jagged Oak Ledge	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198223563	
+        	
+        2001	
+        DODGE	
+        DAKOTA	
+        03/30/2009	 
+PBS Demo (#198)	
+        Sabrina Snyder	
+        	
+        9133 Indian Elk Walk	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        	
+        8003637676	
+        2007	
+        FORD	
+        RANGER	
+        03/30/2008	 
+PBS Demo (#198)	
+        Diana Huff	
+        	
+        2282 Easy Point	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5197420805	
+        5194653707	
+        2008	
+        FORD	
+        RANGER	
+        03/30/2010	 
+PBS Demo (#198)	
+        Mindy Brown	
+        	
+        153 Golden Private	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198031597	
+        5198244352	
+        2013	
+        RAM	
+        1500	
+        03/30/2011	 
+PBS Demo (#198)	
+        Terence Little	
+        	
+        3384 Heather Villas	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198244634	
+        5198866336	
+        2014	
+        RAM	
+        1500	
+        03/30/2012	 
+PBS Demo (#198)	
+        Danny Jimenez	
+        	
+        1394 Cotton Lake Landing	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198864491	
+        	
+        2011	
+        RAM	
+        1500	
+        03/30/2013	 
+PBS Demo (#198)	
+        Preston Austin	
+        	
+        9841 High Village	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198461803	
+        	
+        2013	
+        RAM	
+        3500	
+        03/30/2014	 
+PBS Demo (#198)	
+        Frank Lawson	
+        	
+        3582 Emerald Butterfly Road	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198031069	
+        	
+        2012	
+        RAM	
+        3500	
+        04/30/2009	 
+PBS Demo (#198)	
+        Karen Bryant	
+        	
+        4228 Fallen Embers Hollow	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198332231	
+        	
+        2010	
+        CHEVROLET	
+        AVALANCHE	
+        01/30/2009	 
+PBS Demo (#198)	
+        Julia Jenkins	
+        	
+        7924 Pleasant Zephyr Woods	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198556675	
+        5198332231	
+        2011	
+        CHEVROLET	
+        AVALANCHE	
+        06/30/2012	 
+PBS Demo (#198)	
+        Susan Moore	
+        	
+        3902 Foggy Glen	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5192651898	
+        5198245150	
+        2008	
+        DODGE	
+        DAKOTA	
+        06/30/2013	 
+PBS Demo (#198)	
+        Phillip Turner	
+        	
+        5686 Tawny Grounds	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198331018	
+        	
+        2001	
+        DODGE	
+        DAKOTA	
+        06/30/2014	 
+PBS Demo (#198)	
+        Andrea Coleman	
+        	
+        657 Broad Link	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198306261	
+        5197679992	
+        2007	
+        FORD	
+        RANGER	
+        01/30/2009	 
+PBS Demo (#198)	
+        Amanda Cook	
+        	
+        2582 Crystal Apple Ramp	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198234994	
+        5198234994	
+        2008	
+        FORD	
+        RANGER	
+        01/30/2008	 
+PBS Demo (#198)	
+        Paul Peterson	
+        	
+        5240 Green Barn End	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198370569	
+        5198379601	
+        2013	
+        RAM	
+        1500	
+        01/30/2010	 
+PBS Demo (#198)	
+        Michelle Davis	
+        	
+        3531 Noble Shadow Road	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        2606670362	
+        	
+        2014	
+        RAM	
+        1500	
+        01/30/2011	 
+PBS Demo (#198)	
+        Gregory Allen	
+        	
+        5707 Gentle Brook Corners	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5198249597	
+        	
+        2011	
+        RAM	
+        1500	
+        01/30/2012	 
+PBS Demo (#198)	
+        Martha Thomas	
+        	
+        6411 Colonial Branch Trace	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196482913	
+        5193626252	
+        2013	
+        RAM	
+        3500	
+        01/30/2013	 
+PBS Demo (#198)	
+        Bruce Long	
+        	
+        2721 Indian Valley	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5195462790	
+        5197667320	
+        2012	
+        RAM	
+        3500	
+        01/30/2014	 
+PBS Demo (#198)	
+        Illana Michael	
+        	
+        5848 Merry View Towers	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198216604	
+        3786053544	
+        2010	
+        CHEVROLET	
+        AVALANCHE	
+        04/30/2013	 
+PBS Demo (#198)	
+        Valentine Wynn	
+        	
+        4386 Little Trail	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198224859	
+        2377800173	
+        2011	
+        CHEVROLET	
+        AVALANCHE	
+        04/30/2014	 
+PBS Demo (#198)	
+        Vivien Whitfield	
+        	
+        9461 Clear Walk	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5192657683	
+        2271555876	
+        2008	
+        DODGE	
+        DAKOTA	
+        05/30/2009	 
+PBS Demo (#198)	
+        Reagan Charles	
+        	
+        6071 Silent Field	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198800175	
+        9316955771	
+        2001	
+        DODGE	
+        DAKOTA	
+        05/30/2008	 
+PBS Demo (#198)	
+        Martena Buchanan	
+        	
+        8049 Green Panda Woods	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197800309	
+        9757571797	
+        2007	
+        FORD	
+        RANGER	
+        05/30/2010	 
+PBS Demo (#198)	
+        Yasir Nguyen	
+        	
+        6658 Middle Deer Alley	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5197669376	
+        3747721486	
+        2008	
+        FORD	
+        RANGER	
+        05/30/2011	 
+PBS Demo (#198)	
+        Cameron Rosario	
+        	
+        7765 Dusty Extension	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196581337	
+        7947964747	
+        2013	
+        RAM	
+        1500	
+        05/30/2012	 
+PBS Demo (#198)	
+        Clare Bryant	
+        	
+        9474 Misty Horse Hollow	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197373154	
+        4097093569	
+        2014	
+        RAM	
+        1500	
+        05/30/2013	 
+PBS Demo (#198)	
+        Shannon Dillard	
+        	
+        5222 High Byway	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5198361890	
+        3847418653	
+        2011	
+        RAM	
+        1500	
+        05/30/2014	 
+PBS Demo (#198)	
+        Quyn Brady	
+        	
+        6404 Rustic Island	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5194427239	
+        5369205808	
+        2013	
+        RAM	
+        3500	
+        07/30/2009	 
+PBS Demo (#198)	
+        Cynthia Allen	
+        	
+        7382 Pleasant Berry Mews	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5199002326	
+        1759635820	
+        2012	
+        RAM	
+        3500	
+        07/30/2008	 
+PBS Demo (#198)	
+        Jessamine Montgomery	
+        	
+        7092 Lazy Impasse	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198231492	
+        5566135852	
+        2010	
+        CHEVROLET	
+        AVALANCHE	
+        03/01/2012	 
+PBS Demo (#198)	
+        Chaney Ross	
+        	
+        3972 Silver Acres	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192657590	
+        6396614468	
+        2011	
+        CHEVROLET	
+        AVALANCHE	
+        03/02/2013	 
+PBS Demo (#198)	
+        Rogan Rocha	
+        	
+        2629 Round Parade	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5194920485	
+        8427627028	
+        2008	
+        DODGE	
+        DAKOTA	
+        03/02/2014	 
+PBS Demo (#198)	
+        Ali Rollins	
+        	
+        8115 Jagged Oak Ledge	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198223563	
+        6428714708	
+        2001	
+        DODGE	
+        DAKOTA	
+        03/30/2009	 
+PBS Demo (#198)	
+        Bree Joyner	
+        	
+        9133 Indian Elk Walk	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        8384713668	
+        4599320261	
+        2007	
+        FORD	
+        RANGER	
+        03/30/2008	 
+PBS Demo (#198)	
+        Paula Blanchard	
+        	
+        2282 Easy Point	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5197420805	
+        6698077098	
+        2008	
+        FORD	
+        RANGER	
+        03/30/2010	 
+PBS Demo (#198)	
+        Jonas Bailey	
+        	
+        153 Golden Private	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198031597	
+        9392542026	
+        2013	
+        RAM	
+        1500	
+        03/30/2011	 
+PBS Demo (#198)	
+        Hope Jefferson	
+        	
+        3384 Heather Villas	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198244634	
+        9421595183	
+        2014	
+        RAM	
+        1500	
+        03/30/2012	 
+PBS Demo (#198)	
+        Hiram Perkins	
+        	
+        1394 Cotton Lake Landing	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198864491	
+        9047794356	
+        2011	
+        RAM	
+        1500	
+        03/30/2013	 
+PBS Demo (#198)	
+        Brock Becker	
+        	
+        9841 High Village	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198461803	
+        9081329403	
+        2013	
+        RAM	
+        3500	
+        03/30/2014	 
+PBS Demo (#198)	
+        Liberty Cote	
+        	
+        3582 Emerald Butterfly Road	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198031069	
+        6555430710	
+        2012	
+        RAM	
+        3500	
+        04/30/2009	 

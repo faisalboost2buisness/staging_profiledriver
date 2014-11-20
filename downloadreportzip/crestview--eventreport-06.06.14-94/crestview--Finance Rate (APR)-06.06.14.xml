@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>PAMELA</FirstName>
+    <LastName>REESE</LastName>
+    <Address>7670 Discovery Road</Address>
+    <Apartment></Apartment>
+    <City>Regina</City>
+    <State>SK</State>
+    <Zip>S4Y 1E5</Zip>
+    <HomePhone>3065312510</HomePhone>
+    <WorkPhone>3063371749</WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>DART</Model>
+    <PurchaseDate>03/12/2013</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>LESLIE</FirstName>
+    <LastName>FAYANT</LastName>
+    <Address>4-50 Read Ave</Address>
+    <Apartment></Apartment>
+    <City>Regina</City>
+    <State>SK</State>
+    <Zip>S4T 7R6</Zip>
+    <HomePhone>3065701705</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>DART</Model>
+    <PurchaseDate>06/20/2013</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>DALLAS</FirstName>
+    <LastName>MICHLIK</LastName>
+    <Address>2169 Retallack Street</Address>
+    <Apartment></Apartment>
+    <City>Regina</City>
+    <State>SK</State>
+    <Zip>S4T 2K5</Zip>
+    <HomePhone>3067267916</HomePhone>
+    <WorkPhone>3063524328</WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>DART</Model>
+    <PurchaseDate>04/05/2013</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>JELENA</FirstName>
+    <LastName>ALEKSIC</LastName>
+    <Address>31-136 HANBIDGE CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 7C5</Zip>
+    <HomePhone>3065462971</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>DART</Model>
+    <PurchaseDate>05/28/2013</PurchaseDate>
+  </Leadlist4>
+  <Leadlist5>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>DOUG</FirstName>
+    <LastName>ULRICH</LastName>
+    <Address>BOX 6</Address>
+    <Apartment></Apartment>
+    <City>PENSE</City>
+    <State>SK</State>
+    <Zip>S0G 3W0</Zip>
+    <HomePhone>3065271912</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>DART</Model>
+    <PurchaseDate>05/30/2013</PurchaseDate>
+  </Leadlist5>
+  <Leadlist6>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>JESSICA</FirstName>
+    <LastName>BOYER</LastName>
+    <Address>1814 NORMAN MACKENZIE RD</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4X 0A7</Zip>
+    <HomePhone>3065432707</HomePhone>
+    <WorkPhone>3067758336</WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>DART</Model>
+    <PurchaseDate>09/28/2013</PurchaseDate>
+  </Leadlist6>
+  <Leadlist7>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>JANET</FirstName>
+    <LastName>MCCREA</LastName>
+    <Address>BOX 33</Address>
+    <Apartment></Apartment>
+    <City>MCCORD</City>
+    <State>SK</State>
+    <Zip>S0H 2T0</Zip>
+    <HomePhone>3064782568</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>DART</Model>
+    <PurchaseDate>09/07/2013</PurchaseDate>
+  </Leadlist7>
+  <Leadlist8>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>CONRAD</FirstName>
+    <LastName>GORDON</LastName>
+    <Address>1230A Broder St</Address>
+    <Apartment></Apartment>
+    <City>Regina</City>
+    <State>SK</State>
+    <Zip>S4N 3R2</Zip>
+    <HomePhone>3062057429</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>DART</Model>
+    <PurchaseDate>08/02/2013</PurchaseDate>
+  </Leadlist8>
+  <Leadlist9>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName>SOKE</LastName>
+    <Address>2126E LAURIER CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S0G 2K0</Zip>
+    <HomePhone>3065652783</HomePhone>
+    <WorkPhone>3067777031</WorkPhone>
+    <Year>2014</Year>
+    <Make>JEEP</Make>
+    <Model>CHEROKEE</Model>
+    <PurchaseDate>01/03/2014</PurchaseDate>
+  </Leadlist9>
+  <Leadlist10>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>SCOTT</FirstName>
+    <LastName>TAYLOR</LastName>
+    <Address>4722 Singer Cres</Address>
+    <Apartment></Apartment>
+    <City>Regina</City>
+    <State>SK</State>
+    <Zip>S4X 4T6</Zip>
+    <HomePhone>3065857170</HomePhone>
+    <WorkPhone>3067988068</WorkPhone>
+    <Year>2014</Year>
+    <Make>JEEP</Make>
+    <Model>CHEROKEE</Model>
+    <PurchaseDate>04/23/2014</PurchaseDate>
+  </Leadlist10>
+  <Leadlist11>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>ADEDAYO</FirstName>
+    <LastName>AFE</LastName>
+    <Address>42 MCSHERRY CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4T 7B7</Zip>
+    <HomePhone>3062053013</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>TOYOTA</Make>
+    <Model>VENZA</Model>
+    <PurchaseDate>04/01/2014</PurchaseDate>
+  </Leadlist11>
+  <Leadlist12>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>RONALD AND DIANE</FirstName>
+    <LastName>MULLENIX</LastName>
+    <Address>7311 BEAMISH DRIVE</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4X 2G5</Zip>
+    <HomePhone>3065456607</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>05/25/2012</PurchaseDate>
+  </Leadlist12>
+</data>

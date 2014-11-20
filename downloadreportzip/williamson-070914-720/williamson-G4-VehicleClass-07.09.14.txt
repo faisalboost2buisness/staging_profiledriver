@@ -1,0 +1,43 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Williamson Chrysler (#122)	
+        Jozsef Kazinczy	
+        	
+        35 Lamont Avenue	
+        	
+        Scarborough	
+        ON	
+        M1S 1A8	
+        (416)298-6191	
+        	
+        2007	
+        PONTIAC	
+        SOLSTICE	
+        10/14/2012 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Timothy MacEwen	
+        	
+        300 Webb Road	
+        	
+        Goodwood	
+        ON	
+        L0C 1A0	
+        	
+        	
+        2003	
+        CHEVROLET	
+        CORVETTE	
+        10/22/2012 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        NEIL JORDON	
+        	
+        ***need new address***	
+        	
+        	
+        ONTARIO	
+        L9P 1L9	
+        (905)985-7790	
+        	
+        2005	
+        CHRYSLER	
+        CROSSFIRE	
+        12/30/1899 12:00:00 AM	 

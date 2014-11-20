@@ -1,0 +1,3 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Wellington Motors		
+ACE SERVICES/ DARREN HASTINGS	530 GOVERNORS ROAD	GUELPH	ON	N1K1E3		5198210710	2005	FORD	SUPER DUTY F-550 DRW	05/28/2011	 

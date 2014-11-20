@@ -1,0 +1,71 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Williamson Chrysler (#122)	
+        THOMAS & MARIE COOK	
+        	
+        99 CRANDELL STREET	
+        	
+        PORT PERRY	
+        ON	
+        L9L 1J8	
+        	
+        	
+        2014	
+        JEEP	
+        PATRIOT	
+        09/18/2013	 
+Williamson Chrysler (#122)	
+        DALE DOBSON	
+        	
+        778 STONEHAVEN AVE	
+        	
+        NEWMARKET	
+        ON	
+        L3X 2G2	
+        	
+        	
+        2014	
+        NISSAN	
+        ROGUE	
+        06/30/2014 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        BERNICE DUNKELD	
+        	
+        22462 CONCESSION ROAD 8	
+        	
+        MOUNT ALBERT	
+        ON	
+        L0G 1M0	
+        	
+        (905)852-1212	
+        2014	
+        JEEP	
+        PATRIOT	
+        03/27/2014 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        JESSICA LINDSAY FULTON	
+        	
+        2128 HOWARD DR	
+        	
+        DOURO-DUMMER	
+        ON	
+        K0L 2H0	
+        	
+        	
+        2014	
+        JEEP	
+        PATRIOT	
+        12/30/1899 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        VICTORIA PAYTON	
+        	
+        10 DAVIDSON STREET	
+        	
+        WHITBY	
+        ON	
+        L1P 1V7	
+        	
+        	
+        2014	
+        JEEP	
+        PATRIOT	
+        05/10/2014 12:00:00 AM	 

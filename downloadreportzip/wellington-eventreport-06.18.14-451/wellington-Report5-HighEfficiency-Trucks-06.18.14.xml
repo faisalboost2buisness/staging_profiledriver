@@ -1,0 +1,803 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>DAVID</FirstName>
+    <LastName>HEIL</LastName>
+    <Address>115 BRIARMEADOW PLACE</Address>
+    <Apartment></Apartment>
+    <City>KITCHENER</City>
+    <State>ON</State>
+    <Zip>N2A4C6</Zip>
+    <HomePhone>5198942558</HomePhone>
+    <WorkPhone>5198933831</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>06/02/2012</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>KIMBERLY</FirstName>
+    <LastName>KENNEDY</LastName>
+    <Address>135 ELIZABETH ST</Address>
+    <Apartment></Apartment>
+    <City>BADEN</City>
+    <State>ON</State>
+    <Zip>N3A2L6</Zip>
+    <HomePhone>5196348426</HomePhone>
+    <WorkPhone>5195729425</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>04/28/2012</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>LINDA</FirstName>
+    <LastName>LUCCHESE</LastName>
+    <Address>88 MCTAGUE DR</Address>
+    <Apartment></Apartment>
+    <City>CAMBRIDGE</City>
+    <State>ON</State>
+    <Zip>N1T1L7</Zip>
+    <HomePhone>5196211279</HomePhone>
+    <WorkPhone>5198246000</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>05/11/2012</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName></FirstName>
+    <LastName>LEE</LastName>
+    <Address>222 CENTENNIAL FOREST DR</Address>
+    <Apartment></Apartment>
+    <City>MILTON</City>
+    <State>ON</State>
+    <Zip>L9T5W9</Zip>
+    <HomePhone>9058761037</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2003</Year>
+    <Make>TOYOTA</Make>
+    <Model>ECHO</Model>
+    <PurchaseDate>04/17/2012</PurchaseDate>
+  </Leadlist4>
+  <Leadlist5>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>MADELINE</FirstName>
+    <LastName>MILLER</LastName>
+    <Address>11 ELGIN STREET</Address>
+    <Apartment></Apartment>
+    <City>CONESTOGO</City>
+    <State>ON</State>
+    <Zip>N0B1N0</Zip>
+    <HomePhone>5199989561</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>04/18/2012</PurchaseDate>
+  </Leadlist5>
+  <Leadlist6>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>JENNIFER</FirstName>
+    <LastName>KENNARD</LastName>
+    <Address>3175 GREENFIELD RD</Address>
+    <Apartment>RR 1</Apartment>
+    <City>RR #1 AYR</City>
+    <State>ON</State>
+    <Zip>N0B1E0</Zip>
+    <HomePhone>5195901523</HomePhone>
+    <WorkPhone>5198948502</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>04/18/2012</PurchaseDate>
+  </Leadlist6>
+  <Leadlist7>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>HOLLY</FirstName>
+    <LastName>STEELE</LastName>
+    <Address>266 GRAND RIDGE DR</Address>
+    <Apartment></Apartment>
+    <City>CAMBRIDGE</City>
+    <State>ON</State>
+    <Zip>N1S4W8</Zip>
+    <HomePhone>5196219052</HomePhone>
+    <WorkPhone>9058075867</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>04/24/2012</PurchaseDate>
+  </Leadlist7>
+  <Leadlist8>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>LILLIAN</FirstName>
+    <LastName>YOUNG</LastName>
+    <Address>2920 HEADON FOREST DR UN6</Address>
+    <Apartment></Apartment>
+    <City>BURLINGTON</City>
+    <State>ON</State>
+    <Zip>L7M4H1</Zip>
+    <HomePhone>9055929381</HomePhone>
+    <WorkPhone>9057193440</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>04/25/2012</PurchaseDate>
+  </Leadlist8>
+  <Leadlist9>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>DONNA</FirstName>
+    <LastName>GRANDY</LastName>
+    <Address>1075 DOON VILLAGE RD</Address>
+    <Apartment></Apartment>
+    <City>KITCHENER</City>
+    <State>ON</State>
+    <Zip>N2P1A6</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2003</Year>
+    <Make>PONTIAC</Make>
+    <Model>VIBE</Model>
+    <PurchaseDate>04/26/2012</PurchaseDate>
+  </Leadlist9>
+  <Leadlist10>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>MONTGOMERY</FirstName>
+    <LastName>WARD</LastName>
+    <Address>282 STANDLEY DR</Address>
+    <Apartment></Apartment>
+    <City>WATERLOO</City>
+    <State>ON</State>
+    <Zip>N2L1J2</Zip>
+    <HomePhone>5197426818</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>05/10/2012</PurchaseDate>
+  </Leadlist10>
+  <Leadlist11>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>LENROY</FirstName>
+    <LastName>HENRY</LastName>
+    <Address>131 WYNDHAM ST UNIT 306</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1H4E9</Zip>
+    <HomePhone>5194005895</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2007</Year>
+    <Make>HYUNDAI</Make>
+    <Model>ACCENT</Model>
+    <PurchaseDate>05/11/2012</PurchaseDate>
+  </Leadlist11>
+  <Leadlist12>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>CARYL</FirstName>
+    <LastName>BECKSTED</LastName>
+    <Address>18 ABERFOYLE MILL CRES</Address>
+    <Apartment></Apartment>
+    <City>GUELPH R3</City>
+    <State>ON</State>
+    <Zip>N1H6H9</Zip>
+    <HomePhone>5192652332</HomePhone>
+    <WorkPhone>5195044626</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>05/11/2012</PurchaseDate>
+  </Leadlist12>
+  <Leadlist13>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>JENNIFER</FirstName>
+    <LastName>SCHIPPER</LastName>
+    <Address>110 HIGHLAND RD E, UN2</Address>
+    <Apartment></Apartment>
+    <City>KITCHENER</City>
+    <State>ON</State>
+    <Zip>N2M3S1</Zip>
+    <HomePhone>5195690689</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>05/11/2012</PurchaseDate>
+  </Leadlist13>
+  <Leadlist14>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>FRANCO</FirstName>
+    <LastName>GIAMPIETRO</LastName>
+    <Address>4064 TWINE CR</Address>
+    <Apartment></Apartment>
+    <City>MISSISSAUGA</City>
+    <State>ON</State>
+    <Zip>L4Z1E5</Zip>
+    <HomePhone>9052754951</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>02/16/2012</PurchaseDate>
+  </Leadlist14>
+  <Leadlist15>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>DEBORAH</FirstName>
+    <LastName>LAWRENCE</LastName>
+    <Address>59 BRICK ST</Address>
+    <Apartment></Apartment>
+    <City>KITCHENER</City>
+    <State>ON</State>
+    <Zip>N2H3L2</Zip>
+    <HomePhone>5199542584</HomePhone>
+    <WorkPhone>5195028244</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>03/30/2012</PurchaseDate>
+  </Leadlist15>
+  <Leadlist16>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>JANE</FirstName>
+    <LastName>HUSSON</LastName>
+    <Address>74 SHADYBROOK CRES</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1G3G6</Zip>
+    <HomePhone>5198231689</HomePhone>
+    <WorkPhone>5194003486</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>03/15/2012</PurchaseDate>
+  </Leadlist16>
+  <Leadlist17>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>JENNA-LYNN</FirstName>
+    <LastName>YOUNG</LastName>
+    <Address>145 EGREMONT ST S</Address>
+    <Apartment></Apartment>
+    <City>MOUNT FOREST</City>
+    <State>ON</State>
+    <Zip>N0G2L2</Zip>
+    <HomePhone>5193234818</HomePhone>
+    <WorkPhone>5193131317</WorkPhone>
+    <Year>2006</Year>
+    <Make>CHEVROLET</Make>
+    <Model>COBALT</Model>
+    <PurchaseDate>03/17/2012</PurchaseDate>
+  </Leadlist17>
+  <Leadlist18>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>EVA</FirstName>
+    <LastName>SMALL</LastName>
+    <Address>109 THOMAS BLVD SS3</Address>
+    <Apartment></Apartment>
+    <City>ELORA</City>
+    <State>ON</State>
+    <Zip>N0B1S0</Zip>
+    <HomePhone>5198461253</HomePhone>
+    <WorkPhone>5195707772</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>03/16/2012</PurchaseDate>
+  </Leadlist18>
+  <Leadlist19>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>SHARON</FirstName>
+    <LastName>TANTI</LastName>
+    <Address>566 GRANGE ROAD</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1E7C9</Zip>
+    <HomePhone>5198267665</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>03/21/2012</PurchaseDate>
+  </Leadlist19>
+  <Leadlist20>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>JODI</FirstName>
+    <LastName>ARNOLDI</LastName>
+    <Address>33 BRANT RD N</Address>
+    <Apartment></Apartment>
+    <City>CAMBRIDGE</City>
+    <State>ON</State>
+    <Zip>N1S2W3</Zip>
+    <HomePhone>5196201341</HomePhone>
+    <WorkPhone>5195720649</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>04/02/2012</PurchaseDate>
+  </Leadlist20>
+  <Leadlist21>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>BRYAN</FirstName>
+    <LastName>DIPPINTO</LastName>
+    <Address>46 MCKENZIE ST APT2</Address>
+    <Apartment></Apartment>
+    <City>STRATFORD</City>
+    <State>ON</State>
+    <Zip>N5A2B6</Zip>
+    <HomePhone>5199493790</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2014</Year>
+    <Make>DODGE</Make>
+    <Model>DART</Model>
+    <PurchaseDate>04/04/2014</PurchaseDate>
+  </Leadlist21>
+  <Leadlist22>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>JO-ANNE</FirstName>
+    <LastName>HASENPFLUG</LastName>
+    <Address>101 MAYFIELD AVE</Address>
+    <Apartment></Apartment>
+    <City>WATERLOO</City>
+    <State>ON</State>
+    <Zip>N2J3R9</Zip>
+    <HomePhone>5199546167</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>12/20/2013</PurchaseDate>
+  </Leadlist22>
+  <Leadlist23>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>KAREN</FirstName>
+    <LastName>SEMMA</LastName>
+    <Address>359 STEPHANIE DRIVE</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1K1R2</Zip>
+    <HomePhone>5198213988</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2005</Year>
+    <Make>DODGE</Make>
+    <Model>NEON</Model>
+    <PurchaseDate>04/02/2012</PurchaseDate>
+  </Leadlist23>
+  <Leadlist24>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>DIANE</FirstName>
+    <LastName>AUBE</LastName>
+    <Address>24 FALKLAND RD</Address>
+    <Apartment></Apartment>
+    <City>PARIS</City>
+    <State>ON</State>
+    <Zip>N3L3E3</Zip>
+    <HomePhone>5194422660</HomePhone>
+    <WorkPhone>5195052222</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>04/02/2012</PurchaseDate>
+  </Leadlist24>
+  <Leadlist25>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>CSILLA</FirstName>
+    <LastName>FARKAS</LastName>
+    <Address>4453 SIDEROAD 20 NORTH</Address>
+    <Apartment>RR6 GUELPH</Apartment>
+    <City>GUELPH RR6</City>
+    <State>ON</State>
+    <Zip>N1H6J3</Zip>
+    <HomePhone>5198239010</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>04/02/2012</PurchaseDate>
+  </Leadlist25>
+  <Leadlist26>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>FRANCES</FirstName>
+    <LastName>HINTSA</LastName>
+    <Address>189 KING ST</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1E4R3</Zip>
+    <HomePhone>4165787207</HomePhone>
+    <WorkPhone>5197675357</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>03/10/2012</PurchaseDate>
+  </Leadlist26>
+  <Leadlist27>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>CLAUDIO</FirstName>
+    <LastName>ROSSI</LastName>
+    <Address>452 MOWAT ST E</Address>
+    <Apartment></Apartment>
+    <City>LISTOWEL</City>
+    <State>ON</State>
+    <Zip>N4W0A4</Zip>
+    <HomePhone>5194185716</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2007</Year>
+    <Make>TOYOTA</Make>
+    <Model>YARIS</Model>
+    <PurchaseDate>02/18/2012</PurchaseDate>
+  </Leadlist27>
+  <Leadlist28>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>EVAN</FirstName>
+    <LastName>CHRISTENSEN</LastName>
+    <Address>209 WESTHOLLOW CRT</Address>
+    <Apartment></Apartment>
+    <City>WATERLOO</City>
+    <State>ON</State>
+    <Zip>N2T3A1</Zip>
+    <HomePhone>5199944017</HomePhone>
+    <WorkPhone>5192099317</WorkPhone>
+    <Year>2008</Year>
+    <Make>CHEVROLET</Make>
+    <Model>COBALT</Model>
+    <PurchaseDate>02/24/2012</PurchaseDate>
+  </Leadlist28>
+  <Leadlist29>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>CHRISTOPHER</FirstName>
+    <LastName>BENTHAM</LastName>
+    <Address>204A HESPELER RD AP302</Address>
+    <Apartment></Apartment>
+    <City>CAMBRIDGE</City>
+    <State>ON</State>
+    <Zip>N1R5Z8</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>2267476995</WorkPhone>
+    <Year>2004</Year>
+    <Make>TOYOTA</Make>
+    <Model>ECHO</Model>
+    <PurchaseDate>02/23/2012</PurchaseDate>
+  </Leadlist29>
+  <Leadlist30>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>PAULA</FirstName>
+    <LastName>PATERSON</LastName>
+    <Address>61 KOVAC RD</Address>
+    <Apartment></Apartment>
+    <City>CAMBRIDGE</City>
+    <State>ON</State>
+    <Zip>N1R8K4</Zip>
+    <HomePhone>5196233819</HomePhone>
+    <WorkPhone>5197400678</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>02/29/2012</PurchaseDate>
+  </Leadlist30>
+  <Leadlist31>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>PHILIP</FirstName>
+    <LastName>MCINTYRE</LastName>
+    <Address>53 PARK ST</Address>
+    <Apartment>P.O. BOX 33</Apartment>
+    <City>ST CLEMENTS</City>
+    <State>ON</State>
+    <Zip>N0B2M0</Zip>
+    <HomePhone>5192398000</HomePhone>
+    <WorkPhone>5198228950</WorkPhone>
+    <Year>2014</Year>
+    <Make>DODGE</Make>
+    <Model>DART</Model>
+    <PurchaseDate>12/31/2013</PurchaseDate>
+  </Leadlist31>
+  <Leadlist32>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>HELMUT</FirstName>
+    <LastName>SCHOENBERGER</LastName>
+    <Address>483 NYBERG ST</Address>
+    <Apartment></Apartment>
+    <City>KITCHENER</City>
+    <State>ON</State>
+    <Zip>N2G2Z2</Zip>
+    <HomePhone>5197228834</HomePhone>
+    <WorkPhone>5196537777</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>03/10/2012</PurchaseDate>
+  </Leadlist32>
+  <Leadlist33>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>SUSAN</FirstName>
+    <LastName>FISHER</LastName>
+    <Address>302-30 BRANT AVE</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1E1E7</Zip>
+    <HomePhone>5198034039</HomePhone>
+    <WorkPhone>5198372500</WorkPhone>
+    <Year>2008</Year>
+    <Make>CHEVROLET</Make>
+    <Model>AVEO</Model>
+    <PurchaseDate>03/12/2012</PurchaseDate>
+  </Leadlist33>
+  <Leadlist34>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>FRANCO</FirstName>
+    <LastName>ANGELONE</LastName>
+    <Address>38 CHERRYWOOD DR</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1K1R7</Zip>
+    <HomePhone>5198215015</HomePhone>
+    <WorkPhone>5194000502</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>02/16/2012</PurchaseDate>
+  </Leadlist34>
+  <Leadlist35>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>MICHELLE</FirstName>
+    <LastName>HARRIS</LastName>
+    <Address>10534 FIRST LINE</Address>
+    <Apartment></Apartment>
+    <City>MOFFAT</City>
+    <State>ON</State>
+    <Zip>L0P1J0</Zip>
+    <HomePhone>9058545007</HomePhone>
+    <WorkPhone>6477460530</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>01/13/2012</PurchaseDate>
+  </Leadlist35>
+  <Leadlist36>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>DOUGLAS</FirstName>
+    <LastName>FREURE</LastName>
+    <Address>137 PARK AVE</Address>
+    <Apartment></Apartment>
+    <City>CAMBRIDGE</City>
+    <State>ON</State>
+    <Zip>N1S2S5</Zip>
+    <HomePhone>5196219422</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2004</Year>
+    <Make>FORD</Make>
+    <Model>FOCUS</Model>
+    <PurchaseDate>01/12/2012</PurchaseDate>
+  </Leadlist36>
+  <Leadlist37>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>SANDRA</FirstName>
+    <LastName>GROULX</LastName>
+    <Address>4 HALTER AVE RR1</Address>
+    <Apartment></Apartment>
+    <City>MARYHILL</City>
+    <State>ON</State>
+    <Zip>N0B2B0</Zip>
+    <HomePhone>5196482813</HomePhone>
+    <WorkPhone>5195896154</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>01/31/2012</PurchaseDate>
+  </Leadlist37>
+  <Leadlist38>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>BERNARDINO</FirstName>
+    <LastName>FELIPE</LastName>
+    <Address>12 GLENGARY ST.</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1H6G7</Zip>
+    <HomePhone>5193416492</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>02/07/2012</PurchaseDate>
+  </Leadlist38>
+  <Leadlist39>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>NEIL</FirstName>
+    <LastName>PRITCHARD</LastName>
+    <Address>581202 CNTY ROAD 17</Address>
+    <Apartment></Apartment>
+    <City>DUNDALK RR5</City>
+    <State>ON</State>
+    <Zip>N0C1B0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>5192171857</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>02/14/2012</PurchaseDate>
+  </Leadlist39>
+  <Leadlist40>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>ROBERT</FirstName>
+    <LastName>SHIELDS</LastName>
+    <Address>6410 MCNIVEN RD</Address>
+    <Apartment></Apartment>
+    <City>KILBRIDE</City>
+    <State>ON</State>
+    <Zip>L0P1G0</Zip>
+    <HomePhone>9053355807</HomePhone>
+    <WorkPhone>9058757665</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>01/11/2012</PurchaseDate>
+  </Leadlist40>
+  <Leadlist41>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>OLIVIA</FirstName>
+    <LastName>SKONIECZKA</LastName>
+    <Address>515 LITTLE DOVER CR</Address>
+    <Apartment></Apartment>
+    <City></City>
+    <State>ON</State>
+    <Zip>N2K4B7</Zip>
+    <HomePhone>2269896536</HomePhone>
+    <WorkPhone>5198850777</WorkPhone>
+    <Year>2013</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>08/16/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist41>
+  <Leadlist42>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>LAUREN</FirstName>
+    <LastName>MEINZINGER</LastName>
+    <Address>302-772 STIRLING AVE S</Address>
+    <Apartment></Apartment>
+    <City>KITCHENER</City>
+    <State>ON</State>
+    <Zip>N2M3K3</Zip>
+    <HomePhone>5192087793</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>12/15/2011</PurchaseDate>
+  </Leadlist42>
+  <Leadlist43>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>MATTHEW</FirstName>
+    <LastName>KINNON</LastName>
+    <Address>27 DROHAN DR</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1G5J8</Zip>
+    <HomePhone>5198366608</HomePhone>
+    <WorkPhone>5198370100</WorkPhone>
+    <Year>2014</Year>
+    <Make>DODGE</Make>
+    <Model>DART</Model>
+    <PurchaseDate>12/30/2013</PurchaseDate>
+  </Leadlist43>
+  <Leadlist44>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>ANDREW</FirstName>
+    <LastName>WILLS</LastName>
+    <Address>48 BALMORAL DR</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1E3N6</Zip>
+    <HomePhone>5198293922</HomePhone>
+    <WorkPhone>5195467469</WorkPhone>
+    <Year>2014</Year>
+    <Make>DODGE</Make>
+    <Model>DART</Model>
+    <PurchaseDate>01/06/2014</PurchaseDate>
+  </Leadlist44>
+  <Leadlist45>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>HERMANIA</FirstName>
+    <LastName>GUITE</LastName>
+    <Address>6987 WELLINGTON RD 124</Address>
+    <Apartment>RR7</Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1H6J4</Zip>
+    <HomePhone>5198368413</HomePhone>
+    <WorkPhone>5198228502</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>11/30/2011</PurchaseDate>
+  </Leadlist45>
+  <Leadlist46>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>R-MARK</FirstName>
+    <LastName>ANDERSON</LastName>
+    <Address>355 LUELLA ST</Address>
+    <Apartment></Apartment>
+    <City>KITCHENER</City>
+    <State>ON</State>
+    <Zip>N2H2J3</Zip>
+    <HomePhone>5192084678</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>11/17/2011</PurchaseDate>
+  </Leadlist46>
+  <Leadlist47>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>DARYL</FirstName>
+    <LastName>AKINS</LastName>
+    <Address>17 TROY ST</Address>
+    <Apartment></Apartment>
+    <City>KITCHENER</City>
+    <State>ON</State>
+    <Zip>N2H1L7</Zip>
+    <HomePhone>5194979716</HomePhone>
+    <WorkPhone>5198228971</WorkPhone>
+    <Year>1996</Year>
+    <Make>HONDA</Make>
+    <Model>CIVIC DEL SOL</Model>
+    <PurchaseDate>11/28/2011</PurchaseDate>
+  </Leadlist47>
+  <Leadlist48>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>LORI</FirstName>
+    <LastName>MOORE</LastName>
+    <Address>818 COLUMBIA FOREST CT</Address>
+    <Apartment></Apartment>
+    <City>WATERLOO</City>
+    <State>ON</State>
+    <Zip>N2V2M6</Zip>
+    <HomePhone>5197251830</HomePhone>
+    <WorkPhone>5196358247</WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>12/07/2011</PurchaseDate>
+  </Leadlist48>
+  <Leadlist49>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>SUSAN</FirstName>
+    <LastName>CRANE</LastName>
+    <Address>817 DOVER ST S</Address>
+    <Apartment></Apartment>
+    <City>CAMBRIDGE</City>
+    <State>ON</State>
+    <Zip>N3H5E1</Zip>
+    <HomePhone>5196538284</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>12/15/2011</PurchaseDate>
+  </Leadlist49>
+  <Leadlist50>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>JEORGE</FirstName>
+    <LastName>POLINAR</LastName>
+    <Address>29 CHILLICO DR</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1K1Y8</Zip>
+    <HomePhone>5192399715</HomePhone>
+    <WorkPhone>5197802538</WorkPhone>
+    <Year>2002</Year>
+    <Make>HONDA</Make>
+    <Model>CIVIC</Model>
+    <PurchaseDate>11/08/2011</PurchaseDate>
+  </Leadlist50>
+</data>

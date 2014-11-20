@@ -1,0 +1,43 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Crestview Chrysler (#202)	
+        ANDY	
+        LANGMAN	
+        1135 LINDSEY ST	
+        	
+        REGINA	
+        SK	
+        S4N 3B2	
+        3065268068	
+        	
+        2004	
+        DODGE	
+        DURANGO	
+        08/29/2012	 
+Crestview Chrysler (#202)	
+        COLE	
+        HICKS	
+        210 WESTVIEW DRIVE	
+        	
+        CORONACH	
+        SK	
+        S0H 0Z0	
+        3062677734	
+        	
+        2011	
+        JEEP	
+        COMPASS	
+        07/09/2012	 
+Crestview Chrysler (#202)	
+        CANDACE	
+        KJARSGAARD	
+        217 FOXTAIL ST	
+        	
+        REGINA	
+        SK	
+        S4Y 0B1	
+        3069492901	
+        3067575606	
+        2011	
+        CHEVROLET	
+        MALIBU	
+        09/15/2012	 

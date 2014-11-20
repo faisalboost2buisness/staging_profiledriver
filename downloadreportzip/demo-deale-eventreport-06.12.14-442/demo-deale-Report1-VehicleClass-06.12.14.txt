@@ -1,0 +1,17 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Demo Dealer (#198)	Full-size cars	VehicleClass	12 IRONSHORE CRTNotRequired	NA	ON	L4G 5X9	NotRequired	NotRequired	2010	NotImportant	NotImportant	08/15/2013 12:00:00 AM	 
+Demo Dealer (#198)	mid-size cars	VehicleClass	268 ELIZABETH STREETNotRequired	NA	ON	L1J 6S4	9057202679	NotRequired	2013	NotImportant	NotImportant	09/10/2013 12:00:00 AM	 
+Demo Dealer (#198)	Gas	FuelType	3137 KASHAGAWIGAMOG LK RDNotRequired	NA	ON	K0M 1S0	7054574911	0	2001	NotImportant	NotImportant	07/31/2012 12:00:00 AM	 
+Demo Dealer (#198)	Gas	FuelType	48 BOLSTER LANENotRequired	NA	ONT	L9P 1X8	4169107428	NotRequired	2012	NotImportant	NotImportant	10/31/2012 12:00:00 AM	 
+Demo Dealer (#198)	Diesel	FuelType	38 PINE STNotRequired	NA	ON	L0B 1E0	9059864238	NotRequired	2013	NotImportant	NotImportant	05/08/2013 12:00:00 AM	 
+Demo Dealer (#198)	Diesel	FuelType	213 SECOND STREETNotRequired	NA	ON	L4A 1B9	4165096744	NotRequired	2012	NotImportant	NotImportant	06/20/2013 12:00:00 AM	 
+Demo Dealer (#198)	Other/Unknown	FuelType	227 UNION AVE.NotRequired	NA	ON	L9L 2C7	9059821420	9054310189	2012	NotImportant	NotImportant	12/02/2013 12:00:00 AM	 
+Demo Dealer (#198)	Other/Unknown	FuelType	227 UNION AVE.NotRequired	NA	ON	L9L 2C7	9059821420	9054310189	2013	NotImportant	NotImportant	12/06/2013 12:00:00 AM	 
+Demo Dealer (#198)	City=Edmonton	Local/Out of Town	311 CENTRAL PARK BLVD. SNotRequired	Edmonton	ON	L1H 5W9	NotRequired	NotRequired	2013	NotImportant	NotImportant	09/03/2013 12:00:00 AM	 
+Demo Dealer (#198)	City=Edmonton	Local/Out of Town	12420 DURHAM ROAD 30 RR 3NotRequired	Edmonton	ON	L4A 7X4	9056420964	NotRequired	2013	NotImportant	NotImportant	05/15/2013 12:00:00 AM	 
+Demo Dealer (#198)	City=Fort MCMurray	Local/Out of Town	52 Antioch CourtNotRequired	Fort McMurray	ON	L0C 1H0	7053570002	NotRequired	2013	NotImportant	NotImportant	07/10/2012 12:00:00 AM	 
+Demo Dealer (#198)	City=Fort MCMurray	Local/Out of Town	1005 Darlingford DrNotRequired	Fort McMurray	ON	K0M 1S0	4164401659	NotRequired	2009	NotImportant	NotImportant	12/04/2012 12:00:00 AM	 
+Demo Dealer (#198)	Used	Used vs. New Purchase	15 CHISWICK AVENotRequired	NA	ON	L1M 0C7	9056551979	NotRequired	2011	NotImportant	NotImportant	09/30/2013 12:00:00 AM	 
+Demo Dealer (#198)	Used	Used vs. New Purchase	11295 LAKERIDGE ROADNotRequired	NA	ON	L0C 1H0	9058523684	NotRequired	2012	NotImportant	NotImportant	05/01/2013 12:00:00 AM	 
+Demo Dealer (#198)	New	Used vs. New Purchase	132 WOODFIELD DRIVENotRequired	NA	ON	L0E 1N0	9058528562	NotRequired	2013	NotImportant	NotImportant	06/12/2013 12:00:00 AM	 
+Demo Dealer (#198)	New	Used vs. New Purchase	14 HAYFIELD AVENUENotRequired	NA	ON	L9P 0A2	9058623831	NotRequired	2011	NotImportant	NotImportant	11/20/2013 12:00:00 AM	 

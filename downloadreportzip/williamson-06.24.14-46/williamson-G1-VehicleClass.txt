@@ -1,0 +1,2 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Williamson Chrysler (#122)	Glenn	Wagner	69 Campbell Drive	Uxbridge	ON	L9P 0B3	9058525837		2012	DODGE	CHARGER	N/A	 

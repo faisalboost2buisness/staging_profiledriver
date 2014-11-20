@@ -1,0 +1,3 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Crestview Chrysler (#202)	GARY	DAVIDSON	3623 NOTTINGHAM CRES	REGINA	SK	S4V 2Z9	3065451440		2009	SMART	FORTWO	03/23/2012	 
+Crestview Chrysler (#202)			640 ALBERT ST	REGINA	SK	S4R 2P3	3065437388		2001	SUZUKI	SWIFT	03/02/2012	 

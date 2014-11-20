@@ -1,0 +1,3 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Crestview Chrysler (#202)	DANIEL	LAMARCHE	1736 MONTREAL ST	REGINA	SK	S4P 1K9	3065373755	3065373755	2006	DODGE	SPRINTER	10/07/2012	 
+Crestview Chrysler (#202)			329 MCCARTHY BLVD N	REGINA	SK	S4R 5R3	3067751828		2008	DODGE	SPRINTER	04/01/2013	 

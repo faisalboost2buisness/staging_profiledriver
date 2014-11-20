@@ -1,0 +1,8 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Demo Dealer (#198)	Trucks	VehicleClass	39 Miltrose Cres.NotRequired	NA	ON	L4A 0P8	6479227568	NotRequired	2013	NotImportant	NotImportant	12/18/2012 12:00:00 AM	 
+Demo Dealer (#198)	Gas	FuelType	183 Casimir St.APT 1	NA	ON	L9L 1B7	9059854033	0	2013	NotImportant	NotImportant	07/24/2012 12:00:00 AM	 
+Demo Dealer (#198)	Diesel	FuelType	105 STATION RDNotRequired	NA	ON	K0M 2J0	7053573365	NotRequired	2013	NotImportant	NotImportant	10/10/2013	 
+Demo Dealer (#198)	Other/Unknown	FuelType	581 SLINGERLAND CIRCLENotRequired	NA	ON	L3X 1X9	6473338674	0	2013	NotImportant	NotImportant	10/31/2013 12:00:00 AM	 
+Demo Dealer (#198)	City=Fort MCMurray	Local/Out of Town	13450 Old Scugog RoadNotRequired	Fort McMurray	ON	L0B 1B0	9059869902	NotRequired	2013	NotImportant	NotImportant	12/07/2012 12:00:00 AM	 
+Demo Dealer (#198)	Used	Used vs. New Purchase	36 SPRINGDALE DRIVENotRequired	NA	ON	K9V 0J4	7058789941	NotRequired	2013	NotImportant	NotImportant	10/29/2013 12:00:00 AM	 
+Demo Dealer (#198)	New	Used vs. New Purchase	45 BEECH STREET NNotRequired	NA	ON	L9P 1A8	9058524966	NotRequired	2011	NotImportant	NotImportant	07/09/2013 12:00:00 AM	 

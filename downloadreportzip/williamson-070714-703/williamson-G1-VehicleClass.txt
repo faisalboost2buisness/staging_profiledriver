@@ -1,0 +1,2059 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Williamson Chrysler (#122)	
+        ALEXANDER DOUGALAS	
+        	
+        8 ORCHARD CRT	
+        	
+        Mount Albert	
+        ON	
+        L0G 1M0	
+        (905)473-9159	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        05/12/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        ALEXIS/DARYLL  E THOMPSON	
+        	
+        1658 SCUGOG STREET	
+        	
+        Port Perry	
+        ON	
+        L9L 1E1	
+        (905)982-8862	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        04/15/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        ANDREW R PINGUET	
+        	
+        55 MILL STREET	
+        	
+        Uxbridge	
+        ON	
+        L9P 1H9	
+        (416)684-6762	
+        	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        01/10/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        APRIL L SMITH	
+        	
+        36 SPRINGDALE DRIVE	
+        	
+        Lindsay	
+        ON	
+        K9V 0J4	
+        (705)878-9941	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        05/04/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        ARTHUR M PESTILL	
+        	
+        11 JUSTIN COURT BX 956`	
+        	
+        Sutton West	
+        ON	
+        L0E 1R0	
+        (905)722-5155	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        05/02/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        BARRY WOOD	
+        	
+        21 BRISTOL SAND CRES	
+        	
+        Stouffville	
+        ON	
+        L4A 7X4	
+        (905)640-6441	
+        	
+        2013	
+        RAM	
+        1500	
+        03/08/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        BRADLEY A MARTIN	
+        	
+        1 DAVIDGE DRIVE	
+        	
+        Port Perry	
+        ON	
+        L9L 1B6	
+        	
+        	
+        2013	
+        JEEP	
+        PATRIOT	
+        02/13/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        BRAYDALL INVESTMENTS LTD.	
+        	
+        76 RAEVIEW DRIVE RR3	
+        	
+        Stouffville	
+        ON	
+        L4A 7X4	
+        (905)642-2937	
+        	
+        2013	
+        RAM	
+        3500	
+        06/06/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        BRADLEY J CURZON	
+        	
+        252 ASHWORTH ROAD	
+        	
+        ZEPHYR	
+        ON	
+        L0E 1T0	
+        (416)320-1276	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        03/28/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Brian D Lee	
+        	
+        1265 Scugog Line 12, Box 108	
+        	
+        Greenbank	
+        ON	
+        L0C 1B0	
+        (905)985-2562	
+        	
+        2009	
+        DODGE	
+        JOURNEY	
+        01/28/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        BROOKE G CAIN	
+        	
+        20 VILLAGE GREEN LANE	
+        	
+        Uxbridge	
+        ON	
+        L9P 0A1	
+        	
+        	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        03/04/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        CATHY L ALLISON	
+        	
+        57 SNIDER DRIVE	
+        	
+        Markham	
+        ON	
+        L3P 6L7	
+        (905)294-0980	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        03/10/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        CHARLENE E TRIMM	
+        	
+        3591 PROUTT ROAD	
+        	
+        Nestleton Station	
+        ON	
+        L0B 1L0	
+        (905)986-0805	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        05/04/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        CHERYL A WILTON	
+        	
+        36 DOBLE STREET	
+        	
+        SUNDERLAND	
+        ON	
+        L0C 1H0	
+        (289)800-8958	
+        	
+        2008	
+        KIA	
+        RIO	
+        06/28/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Chris Andrews	
+        	
+        248 VICTORIA ST PO BOX 106	
+        	
+        Beaverton	
+        ON	
+        L0K 1A0	
+        (705)426-3097	
+        	
+        2013	
+        RAM	
+        1500	
+        01/30/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        CHRISTOPHER E COMPTON	
+        	
+        92 MILL ST.	
+        	
+        UXBRIDGE	
+        ONT	
+        L9P 1H4	
+        (905)852-3930	
+        	
+        2013	
+        JEEP	
+        PATRIOT	
+        01/25/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        COMPLETE BLINDS INC.	
+        	
+        393 YONGE STREET	
+        	
+        BARRIE	
+        ON	
+        L4N 4C9	
+        	
+        	
+        2011	
+        FORD	
+        EXPLORER	
+        07/07/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        CONRAD LEPINE	
+        	
+        49 MAIN ST N	
+        	
+        UXBRIDGE	
+        ON	
+        L9P 1J7	
+        	
+        (905)862-0553	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        06/28/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        CORY DIVITARIS	
+        	
+        1210 SCUGOG LINE 12 RR2	
+        	
+        SEAGRAVE	
+        ON	
+        L0C 1G0	
+        (905)982-1810	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        07/07/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        CRAIG M YABSLEY	
+        	
+        530 SCUGOG LINE 9	
+        	
+        Uxbridge	
+        ON	
+        L9P 1R3	
+        (905)852-6782	
+        	
+        2011	
+        RAM	
+        1500	
+        02/13/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        DARLINGTON AUTO CENTRE INC.	
+        	
+        3730 CONCESSION ROAD 8	
+        	
+        ORONO	
+        ON	
+        L0B 1M0	
+        	
+        (905)983-9832	
+        2013	
+        RAM	
+        1500	
+        05/31/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        DAVID A SERSTA	
+        	
+        5116 Thomson Crt	
+        	
+        Pickering	
+        ON	
+        L1Y 0A1	
+        (416)828-2737	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        02/06/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        David A Fisher	
+        	
+        73 Ridgehill Drive	
+        	
+        Brampton	
+        ON	
+        L6Y 2C3	
+        (905)456-2773	
+        (416)375-3759	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        01/09/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        DAVID PRITT	
+        	
+        123 MUNRO CRES	
+        	
+        Uxbridge	
+        ON	
+        L9P 1L6	
+        (905)862-3337	
+        (416)696-2853	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        02/06/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        DEBORAH M AGNEW	
+        	
+        34 FIRST STREET	
+        	
+        Caesarea	
+        ON	
+        L0B 1E0	
+        (905)986-1376	
+        (905)852-1349	
+        2013	
+        JEEP	
+        PATRIOT	
+        03/30/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Donna V Minz	
+        	
+        5661 19th Avenue	
+        	
+        Markham	
+        ON	
+        L3P 3J3	
+        (905)640-5423	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        02/07/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        DONALD L WILLIAMS	
+        	
+        5068 OLD HOMESTEAD ROAD	
+        	
+        Sutton West	
+        ON	
+        L0E 1R0	
+        (905)955-4034	
+        	
+        2008	
+        JEEP	
+        GRAND CHEROKEE	
+        03/11/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        DONNA L CARR	
+        	
+        338 VICTORIA ST	
+        	
+        Pefferlaw	
+        ON	
+        L0E 1N0	
+        (705)228-8754	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        04/08/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        DONALD M CARTER	
+        	
+        129 PEFFERLAW ROAD	
+        	
+        Pefferlaw	
+        ON	
+        L0E 1N0	
+        (705)437-1652	
+        	
+        2013	
+        RAM	
+        1500	
+        05/31/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        DONALD B KENNEDY	
+        	
+        155 KING STREET W	
+        	
+        UXBRIDGE	
+        ON	
+        L9P 1B4	
+        (905)862-2459	
+        	
+        2007	
+        FORD	
+        FREESTAR	
+        07/27/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        DOUGLAS K MORRIS	
+        	
+        12840 ROAD 39 P.O. BOX 108	
+        	
+        ZEPHYR	
+        ON	
+        L0E 1T0	
+        (905)473-2847	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        07/12/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        EDWARD & ROSE HICKS	
+        	
+        28 BESWICK LANE	
+        	
+        UXBRIDGE	
+        ON	
+        L9P 1G4	
+        (905)862-3841	
+        (905)640-0261	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        06/06/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Elizabeth A Aschwanden	
+        	
+        13120 Durham Road 39	
+        	
+        Zephyr	
+        ON	
+        L0E 1T0	
+        	
+        	
+        2011	
+        HONDA	
+        CIVIC	
+        02/03/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        ERIC A MACLEAN	
+        	
+        31 CEDAR STREET	
+        	
+        Beaverton	
+        ON	
+        L0K 1A0	
+        (705)513-0165	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        04/27/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Evelyn M Wright	
+        	
+        4703 Aurora Road	
+        	
+        Stouffville	
+        ON	
+        L4A 7X4	
+        (905)640-3088	
+        	
+        2013	
+        JEEP	
+        GRAND CHEROKEE	
+        02/13/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        EYOB GEBREMICAEL	
+        	
+        32 ELDER CRES.	
+        	
+        Whitby	
+        ON	
+        L1M 2H6	
+        (905)425-1364	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        06/05/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        FRANK BRANDON	
+        	
+        52 MILL RUN GATE RR1	
+        	
+        UXBRIDGE	
+        ON	
+        L9P 1R1	
+        (905)852-4346	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        06/13/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        FRANCESCO PAUL PIZZULO	
+        	
+        4167 BETHESDA ROAD	
+        	
+        STOUFFVILLE	
+        ONTARIO	
+        L4A 7X5	
+        (905)591-0402	
+        (416)729-8401	
+        2013	
+        RAM	
+        1500	
+        07/26/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        GAIL MORSE	
+        	
+        50 ADAMS COURT	
+        	
+        Uxbridge	
+        ON	
+        L9P 1G3	
+        (905)862-4173	
+        (905)852-3525	
+        2008	
+        JEEP	
+        LIBERTY	
+        04/04/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        GARY T HULCOOP	
+        	
+        15 LAKESIDE BEACH RD	
+        	
+        PORT PERRY	
+        ON	
+        L9L 1B4	
+        (905)985-3980	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        05/29/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Gerald Noble	
+        	
+        18951 Durham Rd 23	
+        	
+        Uxbridge	
+        ON	
+        L9P 1R3	
+        (905)852-9859	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        02/01/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        SUZANNE N STORMONT-FRASER	
+        	
+        95 RIDGE DRIVE RR#3	
+        	
+        Kirkfield	
+        ON	
+        K0M 2B0	
+        (705)374-4822	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        05/17/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        703738 ONTARIO INC/HARDING AUTOMOTIVE	
+        	
+        30882 HIGHWAY 48	
+        	
+        PEFFERLAW	
+        ON	
+        L0E 1N0	
+        	
+        (705)437-1696	
+        2013	
+        JEEP	
+        WRANGLER	
+        04/10/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        GREGORY J COOK	
+        	
+        20 PINE STREET	
+        	
+        UXBRIDGE	
+        ON	
+        L9P 1B4	
+        (416)688-7833	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        07/07/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        GREGORY W MARLOW	
+        	
+        76 SHERRINGTON DRIVE	
+        	
+        PORT PERRY	
+        ON	
+        L9L 2E7	
+        (905)982-0634	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        07/12/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        GROUNDSTEC INC.	
+        	
+        5991 GENERAO ROAD	
+        	
+        MISSISSAUGA	
+        ON	
+        	
+        (905)862-3956	
+        (905)925-8528	
+        2013	
+        DODGE	
+        JOURNEY	
+        06/07/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Harold G Millar	
+        	
+        90 Third Ave. S	
+        	
+        Uxbridge	
+        ON	
+        L9P 1K6	
+        (905)852-9509	
+        	
+        2008	
+        FORD	
+        RANGER	
+        05/04/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        HARRY W VALE	
+        	
+        53 COULCLIFF BLVD	
+        	
+        PORT PERRY	
+        ON	
+        L9L 1P8	
+        (905)985-7864	
+        	
+        2013	
+        RAM	
+        1500	
+        01/20/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Harold G Millar	
+        	
+        90 Third Ave. S	
+        	
+        Uxbridge	
+        ON	
+        L9P 1K6	
+        (905)852-9509	
+        	
+        2008	
+        FORD	
+        FOCUS	
+        04/24/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        HEATHER M POWELL	
+        	
+        191 CARRICK AVE.	
+        	
+        Keswick	
+        ON	
+        L4P 3P1	
+        (905)535-1045	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        05/08/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Holly T Boudreault	
+        	
+        40 Valentia Road	
+        	
+        Little Britain	
+        ON	
+        K0M 2C0	
+        (705)786-3937	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        03/03/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        JAMES P WOODS	
+        	
+        261 BLAIR ROAD	
+        	
+        STOUFFVILLE	
+        ON	
+        L4A 5Z6	
+        (905)642-0894	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        06/22/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        JANE M PLEWMAN	
+        	
+        41 CHALK LAKE ROAD	
+        	
+        Port Perry	
+        ON	
+        L9L 2C4	
+        (905)649-5180	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        03/10/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        JANET WORSLEY	
+        	
+        10697 DURHAM ROAD 1	
+        	
+        Uxbridge	
+        ON	
+        L9P 1R2	
+        (905)852-5430	
+        	
+        2011	
+        FORD	
+        EDGE	
+        04/11/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        JANET M VERNON	
+        	
+        10941 DIAMOND SIDE ROAD	
+        	
+        PORT PERRY	
+        ON	
+        L9L 1B3	
+        (905)985-3390	
+        	
+        2013	
+        CHRYSLER	
+        200	
+        08/02/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        JASON M CATHERWOOD	
+        	
+        15B SOUTH BALSAM STREET	
+        	
+        Uxbridge	
+        ON	
+        L9P 1E9	
+        (905)852-3457	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        03/30/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        JEAN E BROWN	
+        	
+        349 PEFFERLAW ROAD	
+        	
+        PEFFERLAW	
+        ON	
+        L0E 1N0	
+        (705)437-3377	
+        (416)930-1899	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        02/01/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        JENNIFER S BREEN	
+        	
+        80 CAMERON ST E	
+        	
+        Cannington	
+        ON	
+        L0E 1E0	
+        (705)432-8694	
+        	
+        2013	
+        JEEP	
+        PATRIOT	
+        03/01/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        JENNIFER L VEENS	
+        	
+        127 MUSCOVEY DRIVE	
+        	
+        Elmira	
+        ON	
+        N3B 3P7	
+        (519)210-0101	
+        	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        04/22/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        JENNIFER D SHABAN	
+        	
+        12 PEPPERTREE LANE	
+        	
+        STOUFFVILLE	
+        ON	
+        L4A 0M8	
+        (416)721-9515	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        07/07/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Jim Pattison Leasing	
+        	
+        500-2700 Mathewson Blvd. East	
+        	
+        Mississauga	
+        ON	
+        L4W 4V9	
+        	
+        (866)616-4448	
+        2013	
+        DODGE	
+        DURANGO	
+        03/29/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Jim Pattison Leasing	
+        	
+        500-2700 Mathewson Blvd. East	
+        	
+        Mississauga	
+        ON	
+        L4W 4V9	
+        	
+        (866)616-4448	
+        2008	
+        DODGE	
+        SPRINTER	
+        04/25/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        JOHN T BASTMEYER	
+        	
+        42 MARIETTA STREET	
+        	
+        Uxbridge	
+        ON	
+        L9P 1J5	
+        (905)862-2754	
+        	
+        2009	
+        CHEVROLET	
+        EQUINOX	
+        01/12/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        JOYCE A HOWSE	
+        	
+        S2390 CONCESSION 2 RR 4	
+        	
+        SUNDERLAND	
+        ON	
+        L0C 1H0	
+        (705)357-3073	
+        (905)985-9803	
+        2013	
+        DODGE	
+        JOURNEY	
+        02/23/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Karl L Rassinger	
+        	
+        91 Castille Cres.	
+        	
+        Keswick	
+        ON	
+        L4P 3L2	
+        (905)476-8086	
+        	
+        2010	
+        CHEVROLET	
+        CAMARO	
+        02/18/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        KATHERINE PAYNE-MERCER	
+        	
+        43 CAWKERS COVE RD	
+        	
+        PORT PERRY	
+        ON	
+        L9L 1P6	
+        (905)985-2412	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        07/13/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        KEITH M LAYCOCK	
+        	
+        94 FERNCROFT DRIVE	
+        	
+        KESWICK	
+        ON	
+        L4P 4G7	
+        (905)476-0255	
+        	
+        2011	
+        CHEVROLET	
+        CAMARO	
+        07/28/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Kera-Lee Phoenix	
+        	
+        2065 Concession 1 RR5	
+        	
+        Sunderland	
+        ON	
+        L0C 1H0	
+        (705)357-1531	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        02/01/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        KEVIN M KINGSTON	
+        	
+        87 EWEN DRIVE	
+        	
+        Uxbridge	
+        ON	
+        L9P 1L7	
+        (905)852-9536	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        04/15/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        KIMBERLEY I MALCOLM	
+        	
+        7 WADDELL ST	
+        	
+        SUNDERLAND	
+        ON	
+        L0C 1H0	
+        (705)357-3295	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        01/28/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Larry I Delaney	
+        	
+        39 Babe's Way	
+        	
+        Stouffville	
+        ON	
+        L4A 0K3	
+        (905)642-8284	
+        	
+        2013	
+        JEEP	
+        GRAND CHEROKEE	
+        03/10/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        LARISA V THIELMANN	
+        	
+        1191 REACH STREET	
+        	
+        PORT PERRY	
+        ON	
+        L9L 1B2	
+        (905)985-7847	
+        	
+        2013	
+        JEEP	
+        COMPASS	
+        04/15/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        LEANNE R BAILEY	
+        	
+        7 LORMIK RD	
+        	
+        Uxbridge	
+        ON	
+        L9P 1R6	
+        (289)803-1393	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        05/15/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Leonard J Wall	
+        	
+        39 Druan Drive RR2	
+        	
+        Seagrave	
+        ON	
+        L0C 1G0	
+        	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        03/07/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        LINDSEY E HOCKLEY	
+        	
+        70 LOWNIE CRT	
+        	
+        Bowmanville	
+        ON	
+        L1C 5E1	
+        	
+        	
+        2010	
+        DODGE	
+        JOURNEY	
+        05/24/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        LINDA J GRAHAM	
+        	
+        8 LEMBITU AVE.	
+        	
+        UDORA	
+        ON	
+        L0C 1L0	
+        (705)228-8484	
+        (416)969-7170	
+        2013	
+        JEEP	
+        COMPASS	
+        07/06/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        LISA WAGG	
+        	
+        14300 CONCESSION 5	
+        	
+        UXBRIDGE	
+        ONTARIO	
+        L9P 1R2	
+        (905)862-0628	
+        (905)852-3315	
+        2013	
+        DODGE	
+        JOURNEY	
+        02/17/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        LISA M MACLEAN	
+        	
+        79 CANADIAN OAKS DRIVE	
+        	
+        Whitby	
+        ON	
+        L1N 6W9	
+        (289)240-6234	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        04/13/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        JAYNE LISA STANTON	
+        	
+        94 CAMPBELL DRIVE	
+        	
+        UXBRIDGE	
+        ON	
+        L9P 0B2	
+        (905)489-0085	
+        	
+        2012	
+        FIAT	
+        500	
+        06/06/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        LISA ROSE MARY KUHNE	
+        	
+        83 TORONTO STREET	
+        	
+        UXBRIDGE	
+        ON	
+        L9P 1H1	
+        (905)852-4954	
+        	
+        2008	
+        VOLKSWAGEN	
+        NEW BEETLE	
+        07/01/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        LORI-ANNE E.J. BACON	
+        	
+        26 JANE STREET	
+        	
+        SUNDERLAND	
+        ON	
+        L0C 1H0	
+        (705)879-0330	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        07/13/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        LOW & LOW LIMITED	
+        	
+        23 MAIN STREET S P.O. BOX 388	
+        	
+        Uxbridge	
+        ON	
+        L9P 1M8	
+        	
+        (905)852-3073	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        05/15/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        LYNDSEY A MACLEAN	
+        	
+        28 TOLL ROAD	
+        	
+        Holland Landing	
+        ON	
+        L9N 1G6	
+        (905)235-1645	
+        	
+        2011	
+        FORD	
+        EDGE	
+        04/24/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        MARY M BEDDOWS	
+        	
+        10-73 ALBERT ST	
+        	
+        Uxbridge	
+        ON	
+        L9P 1E4	
+        (905)862-4088	
+        	
+        2013	
+        JEEP	
+        COMPASS	
+        02/15/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        MARGARET E THOMAS	
+        	
+        10458 COUNTY ROAD 503 PBOX 9	
+        	
+        Gooderham	
+        ON	
+        K0M 1R0	
+        (705)854-3258	
+        (705)447-0129	
+        2008	
+        FORD	
+        RANGER	
+        05/04/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        MARK W BUSSE	
+        	
+        27 SMITH DRIVE	
+        	
+        Sandford	
+        ON	
+        L0C 1E0	
+        (905)649-0293	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        04/11/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        KATHY CHABOT	
+        	
+        12 HILDA AVE.	
+        	
+        UXBRIDGE	
+        ON	
+        L9P 1R2	
+        (905)852-7062	
+        	
+        2013	
+        JEEP	
+        COMPASS	
+        07/14/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Matthew S H Tibbles	
+        	
+        49 Bolster Lane	
+        	
+        Uxbridge	
+        ON	
+        	
+        (905)862-3311	
+        (905)244-5125	
+        2013	
+        DODGE	
+        JOURNEY	
+        02/01/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        MATHEW J GLEN	
+        	
+        7987 CONCESSION 2 RR1	
+        	
+        Stouffville	
+        ON	
+        L4A 7X4	
+        	
+        	
+        2008	
+        JEEP	
+        PATRIOT	
+        05/02/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        MICHELLE P STEELE	
+        	
+        4109 FRONT STREET	
+        	
+        GOODWOOD	
+        ONTARIO	
+        L0C 1A0	
+        (305)642-6860	
+        (905)642-6860	
+        2013	
+        JEEP	
+        WRANGLER	
+        02/23/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        MICHELLE M MACDONALD	
+        	
+        1241 GINA STREET	
+        	
+        Innisfil	
+        ON	
+        L9S 4Z2	
+        (705)294-0799	
+        (905)473-2942	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        04/17/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        MOHAMMAD S WAHAB	
+        	
+        47 LEAH CRES	
+        	
+        AJAX	
+        ON	
+        L1T 3J2	
+        (905)239-3380	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        07/07/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        MURRAY G BACON	
+        	
+        750 CRAGG ROAD	
+        	
+        UXBRIDGE	
+        ON	
+        L9P 1R3	
+        (905)852-5054	
+        	
+        2010	
+        VOLKSWAGEN	
+        JETTA	
+        06/07/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Murray Pipher	
+        	
+        55 Austin Drive P.H. 5	
+        	
+        Unionville	
+        ON	
+        L3R 8H5	
+        (905)475-2055	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        06/28/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        NATHANIEL J FAIR	
+        	
+        117 TRUDEAU DRIVE	
+        	
+        Bowmanville	
+        ON	
+        L1C 5K6	
+        (905)435-7676	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        05/26/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        CARRIE L LEKATIS	
+        	
+        42 Riverside Drive	
+        	
+        Pefferlaw	
+        ON	
+        L0E 1N0	
+        (705)437-4295	
+        (905)852-7123	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        02/23/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        CARRIE L LEKATIS	
+        	
+        42 Riverside Drive	
+        	
+        Pefferlaw	
+        ON	
+        L0E 1N0	
+        (705)437-4295	
+        (905)852-7123	
+        2013	
+        DODGE	
+        JOURNEY	
+        04/05/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        DARREN C MULLIGAN	
+        	
+        4178 MABLES ROAD	
+        	
+        NESTLETON	
+        ON	
+        L0C 1L0	
+        (905)986-5846	
+        	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        07/12/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        NORMAN A RAMIREZ	
+        	
+        500 VICTORIA STREET	
+        	
+        PORT PERRY	
+        ON	
+        L9L 1V2	
+        (905)985-5244	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        05/31/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Pauline Church	
+        	
+        155 King Street	
+        	
+        Mount Albert	
+        ON	
+        L0G 1M0	
+        (905)473-2209	
+        (905)473-7422	
+        2013	
+        CHRYSLER	
+        200	
+        02/18/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        PAUL A GERARD	
+        	
+        31 BEECH ST.NORTH	
+        	
+        UXBRIDGE	
+        ONTARIO	
+        L9P 1A9	
+        (905)852-2347	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        04/27/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        PAUL J JANSEN	
+        	
+        684 ALLANBROOK STREET	
+        	
+        LONDON	
+        ON	
+        N6J 3B4	
+        (519)690-2975	
+        	
+        2007	
+        TOYOTA	
+        FJ CRUISER	
+        05/14/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        PAUL W RITSCHEL	
+        	
+        61 CHAREST PLACE	
+        	
+        BROOKLIN	
+        ON	
+        L1M 1B2	
+        (905)655-8107	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        06/09/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        PAUL K BROOKS	
+        	
+        122 ASHWORTH ROAD	
+        	
+        MOUNT ALBERT	
+        ON	
+        L0G 1M0	
+        (905)473-2324	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        07/13/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        PETER G ROBSON	
+        	
+        11 CAMPBELL DR	
+        	
+        UXBRIDGE	
+        ON	
+        L9P 1R5	
+        (905)852-5440	
+        	
+        2013	
+        JEEP	
+        WRANGLER	
+        07/05/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        JULIE AND PHILIP A JARVIS	
+        	
+        683 RAVENSHOE ROAD	
+        	
+        Uxbridge	
+        ON	
+        L9P 1R2	
+        (705)228-8422	
+        	
+        2012	
+        FIAT	
+        500	
+        03/13/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        PIERRE BORDELEAU	
+        	
+        69 BOLSTER LANE	
+        	
+        UXBRIDGE	
+        ONTARIO	
+        L9P 1X6	
+        (905)852-3405	
+        (905)475-1400	
+        2013	
+        DODGE	
+        JOURNEY	
+        07/07/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        PRECISION ELEVATOR LTD.	
+        	
+        82 CROCKFORD BLVD.	
+        	
+        Scarborough	
+        ON	
+        M1R 3C3	
+        	
+        (416)759-4149	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        04/29/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        RAENA/NICK A DAWKINS	
+        	
+        4 GREENSBORO DRIVE	
+        	
+        BLACKSTOCK	
+        ON	
+        L0B 1B0	
+        (905)986-5199	
+        	
+        2012	
+        DODGE	
+        JOURNEY	
+        07/20/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        RELIABLE PLUMBING & HEATING	
+        	
+        539 ALMA STREET	
+        	
+        Port Perry	
+        ON	
+        L9L 1R5	
+        	
+        (905)985-3734	
+        2008	
+        DODGE	
+        SPRINTER	
+        04/27/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        RICHARD D IRVING	
+        	
+        2 ADAMS COURT	
+        	
+        UXBRIDGE	
+        ON	
+        L9P 1G2	
+        (905)852-9563	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        04/07/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        RICHARD M.A. SCHILKE	
+        	
+        390 MILLWAY AVENUE	
+        	
+        CONCORD	
+        ON	
+        L4K 3V8	
+        (705)355-0080	
+        	
+        2013	
+        DODGE	
+        DURANGO	
+        06/17/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        RICHARD NELSON MARSHALL	
+        	
+        12 ANTIOCH COURT	
+        	
+        SUNDERLAND	
+        ON	
+        L0C 1H0	
+        (705)357-1890	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        08/03/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        RISTO LOZANOVSKI	
+        	
+        44 DEANSCROFT SQ	
+        	
+        SCARBOROUGH	
+        ON	
+        M1E 4W9	
+        (416)282-3800	
+        	
+        2006	
+        DODGE	
+        CARAVAN	
+        06/17/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        RITA DART	
+        	
+        1175 CRAGG ROAD	
+        	
+        Greenbank	
+        ON	
+        L0C 1B0	
+        (905)982-0319	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        01/24/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        ROBERT E LYONS	
+        	
+        	
+        	
+        	
+        	
+        	
+        (416)492-0976	
+        	
+        2011	
+        CHEVROLET	
+        AVALANCHE	
+        01/26/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        ROBERTA C JAMES	
+        	
+        8369 CONNCESSION 2	
+        	
+        MOUNT ALBERT	
+        ON	
+        L0G 1M0	
+        	
+        	
+        2013	
+        JEEP	
+        COMPASS	
+        06/06/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Roden James Rutledge	
+        	
+        67 Riverlea Road	
+        	
+        Cannington	
+        ON	
+        L0E 1E0	
+        (705)432-2552	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        02/28/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        RODERICK H SCHELL	
+        	
+        L18 C12 BROCK	
+        	
+        Cannington	
+        ON	
+        L0E 1E0	
+        (705)432-2111	
+        	
+        2013	
+        JEEP	
+        WRANGLER	
+        04/12/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        ROD HOME GUARD CANADA LTD.	
+        	
+        58 QUAKER VILLAGE DRIVE	
+        	
+        Uxbridge	
+        ON	
+        L9P 1A2	
+        	
+        (905)862-2278	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        06/06/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        RON INCE CONSTRUCTION LTD	
+        	
+        505 ELDON STATION ROAD, RR5	
+        	
+        Woodville	
+        ON	
+        K0M 2T0	
+        	
+        	
+        2012	
+        RAM	
+        3500	
+        01/14/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Ruth L Morrison	
+        	
+        568 Pinder Ave.	
+        	
+        Newmarket	
+        ON	
+        L3X 2A3	
+        (905)898-5365	
+        	
+        2012	
+        DODGE	
+        JOURNEY	
+        01/27/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        NAFISA ARMAN	
+        	
+        51 RUSSELL BARTON LANE	
+        	
+        Uxbridge	
+        ON	
+        L9P 1Z2	
+        (905)852-2081	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        02/15/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        SARAH A CHIGNALL	
+        	
+        197 EAST STREET	
+        	
+        UXBRIDGE	
+        ON	
+        L9P 1L2	
+        (905)852-0225	
+        	
+        2011	
+        FORD	
+        ESCAPE	
+        06/27/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        SASKIA MCCAUL	
+        	
+        322 MAIN ST N	
+        	
+        Uxbridge	
+        ON	
+        L9P 1R6	
+        (905)862-4047	
+        	
+        2011	
+        KIA	
+        FORTE	
+        05/06/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        SEAN R.W. WEEKS	
+        	
+        25 TURNBERRY CRES.	
+        	
+        COURTICE	
+        ON	
+        L1E 1A7	
+        	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        06/15/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Shawn R Lalonde	
+        	
+        20 Breezewood Court	
+        	
+        Whitby	
+        ON	
+        L1M 2L4	
+        	
+        	
+        2010	
+        JEEP	
+        LIBERTY	
+        01/10/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        SHAWN P MORTON	
+        	
+        74 COSMOS AVENUE	
+        	
+        Uxbridge	
+        ON	
+        L9P 1Z1	
+        (905)862-2287	
+        (705)458-0001	
+        2013	
+        JEEP	
+        WRANGLER	
+        04/14/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        SHERI L CRAWFORD	
+        	
+        22 JOSPENINE ST BOX3094	
+        	
+        PRINCE ALBERT	
+        ON	
+        L9L 1C1	
+        (905)982-2641	
+        (905)852-9714	
+        2013	
+        DODGE	
+        JOURNEY	
+        06/06/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        DOUGLAS A SIMON	
+        	
+        10800 5TH CONCESSION	
+        	
+        Uxbridge	
+        ON	
+        L9P 1R1	
+        (905)852-8029	
+        	
+        2013	
+        JEEP	
+        WRANGLER	
+        05/17/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        SOUTHWIRE CANADA COMPANY	
+        	
+        5769 MAIN STREET	
+        	
+        STOUFFVILLE	
+        ON	
+        L4A 2T1	
+        	
+        (905)640-4333	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        07/06/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        STAFFORD C E BURROWES	
+        	
+        1584 BRAMSEY DR	
+        	
+        Mississauga	
+        ON	
+        L5J 2H6	
+        (905)823-8018	
+        (416)646-2811	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        02/01/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        SYDNEY W MCAFEE	
+        	
+        2946 PINE POINT RD	
+        	
+        PORT PERRY	
+        ON	
+        L9L 1B4	
+        (905)985-0407	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        07/03/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        TANIA M WOJNICZ	
+        	
+        6690 MAIN STREET	
+        	
+        Stouffville	
+        ON	
+        L4A 7W5	
+        	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        04/26/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        TARA L BALLINGALL	
+        	
+        74 STEINWAY DR	
+        	
+        PORT PERRY	
+        ON	
+        L9L 1V3	
+        	
+        (416)865-4492	
+        2013	
+        DODGE	
+        JOURNEY	
+        07/17/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        TERRY R HENNIGAR	
+        	
+        9922 RAVENSHOE ROAD	
+        	
+        Udora	
+        ON	
+        L0C 1L0	
+        (705)228-8072	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        04/17/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        TERRY R BECKETT	
+        	
+        23700 LAKERIDGE RD	
+        	
+        SUNDERLAND	
+        ON	
+        L0C 1H0	
+        (905)852-0501	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        06/13/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Tiffany A Tait	
+        	
+        89 Riverview Beach Road	
+        	
+        Pefferlaw	
+        ON	
+        L0E 1N0	
+        (705)437-4061	
+        	
+        2010	
+        DODGE	
+        JOURNEY	
+        03/07/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        TOMMY R KARJALAINEN	
+        	
+        5 BOLSTER LANE	
+        	
+        UXBRIDGE	
+        ON	
+        L9P 2A3	
+        (999)999-9999	
+        	
+        2003	
+        DODGE	
+        CARAVAN	
+        05/29/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        TRANSPORTACTION LEASE SYSTEMS INC.	
+        	
+        51 CONSTELLATION CRT	
+        	
+        ETOBICOKE	
+        ON	
+        M9W 1K4	
+        (416)674-5100	
+        (416)674-5100	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        06/23/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        VIRGINIA R VAN VEGHEL	
+        	
+        126 PILKEY ROAD RR1	
+        	
+        Sunderland	
+        ON	
+        L0C 1H0	
+        (647)268-0640	
+        	
+        2010	
+        DODGE	
+        CALIBER	
+        02/20/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        VIRGINIA L MARSHALL	
+        	
+        817 REID ROAD	
+        	
+        UXBRIDGE	
+        ON	
+        L9P 1R4	
+        (905)862-0950	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        06/27/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        WILLIAM JAMES BELL	
+        	
+        9 CAMPBELL DRIVE	
+        	
+        UXBRIDGE	
+        ON	
+        L9P 1R5	
+        (905)852-9508	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        06/07/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        WRAY E MADILL	
+        	
+        15081 HWY 48	
+        	
+        Stouffville	
+        ON	
+        L4A 7X3	
+        (905)640-3392	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        06/16/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        YIT SANDY LUM	
+        	
+        685 DURHAM ROAD 13 RR1	
+        	
+        Sunderland	
+        ON	
+        L0C 1H0	
+        (705)357-2629	
+        	
+        2013	
+        CHRYSLER	
+        200	
+        05/05/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Zephyr Organic Marketing	
+        	
+        10900 CONCESSION 4	
+        	
+        ZEPHYR	
+        ON	
+        L0E 1T0	
+        	
+        (416)528-3684	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        03/28/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        ZEPHYR ORGANICS FARM SHARE LTD.	
+        	
+        10900 CONCESSION 4	
+        	
+        Zephyr	
+        ON	
+        L0E 1T0	
+        	
+        (416)577-3685	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        06/28/2013 12:00:00 AM	 

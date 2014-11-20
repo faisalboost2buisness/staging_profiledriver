@@ -1,0 +1,43 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Crestview Chrysler (#202)	
+        AMANDA	
+        MONTANINI	
+        99 SALEMKA CRES	
+        	
+        REGINA	
+        SK	
+        S4R 7R9	
+        3065451876	
+        3067909880	
+        2004	
+        VOLKSWAGEN	
+        JETTA SEDAN	
+        06/28/2012	 
+Crestview Chrysler (#202)	
+        TRACY	
+        SKIEHAR	
+        7-87 ANGUS RD	
+        	
+        REGINA	
+        SK	
+        S4R 3L2	
+        3065869778	
+        	
+        2008	
+        DODGE	
+        RAM 2500	
+        07/07/2012	 
+Crestview Chrysler (#202)	
+        	
+        	
+        618 - 48TH STREET EAST	
+        	
+        SASKATOON	
+        SK	
+        S7K 6K4	
+        8006671162	
+        	
+        2008	
+        FORD	
+        SUPER DUTY F-250 SRW	
+        07/12/2012	 

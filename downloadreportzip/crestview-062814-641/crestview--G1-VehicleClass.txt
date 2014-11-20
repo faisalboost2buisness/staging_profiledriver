@@ -1,0 +1,43 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Crestview Chrysler (#202)	
+        GISELLE	
+        FRANK	
+        214 BONLI CRESCENT	
+        	
+        SASKATOON	
+        SK	
+        S7N 4A1	
+        3066498214	
+        	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        07/15/2013	 
+Crestview Chrysler (#202)	
+        CHRIS	
+        RICHARDSON	
+        4 ODIN WALK	
+        	
+        REGINA	
+        SK	
+        S4N 4W8	
+        3065704243	
+        	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        06/28/2013	 
+Crestview Chrysler (#202)	
+        CRAIG	
+        MCKECHNIE	
+        3425 VALLEY GREEN WAY	
+        	
+        REGINA	
+        SK	
+        S4V 1L4	
+        3065229975	
+        5147316841	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        07/14/2013	 

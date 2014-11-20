@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Demo Dealer</DealershipName>
+    <FirstName>Vans</FirstName>
+    <LastName>VehicleClass</LastName>
+    <Address>....NEED NEW ADDRESS....</Address>
+    <Apartment>APT 2006</Apartment>
+    <City>NA</City>
+    <State>NotRequired</State>
+    <Zip>___ ___</Zip>
+    <HomePhone>2893874214</HomePhone>
+    <WorkPhone>0</WorkPhone>
+    <Year>2010</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>08/21/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Demo Dealer</DealershipName>
+    <FirstName>Gas</FirstName>
+    <LastName>FuelType</LastName>
+    <Address>75 Russell Barton Lane</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L9P 1Z2</Zip>
+    <HomePhone>9058623445</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2012</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>09/28/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Demo Dealer</DealershipName>
+    <FirstName>Diesel</FirstName>
+    <LastName>FuelType</LastName>
+    <Address>658 CARTIER AVE</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L1J 2E2</Zip>
+    <HomePhone>NotRequired</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2013</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>12/27/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Demo Dealer</DealershipName>
+    <FirstName>Other/Unknown</FirstName>
+    <LastName>FuelType</LastName>
+    <Address>349 PEFFERLAW ROAD</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L4A 4Z9</Zip>
+    <HomePhone>7054373377</HomePhone>
+    <WorkPhone>4169301899</WorkPhone>
+    <Year>2014</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>02/01/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist4>
+  <Leadlist5>
+    <DealershipName>Demo Dealer</DealershipName>
+    <FirstName>City=Edmonton</FirstName>
+    <LastName>Local/Out of Town</LastName>
+    <Address>410-105 WINLANE DRIVE</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>Edmonton</City>
+    <State>ON</State>
+    <Zip>L4A 1V7</Zip>
+    <HomePhone>9054733003</HomePhone>
+    <WorkPhone>0</WorkPhone>
+    <Year>2012</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>08/29/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist5>
+  <Leadlist6>
+    <DealershipName>Demo Dealer</DealershipName>
+    <FirstName>City=Fort MCMurray</FirstName>
+    <LastName>Local/Out of Town</LastName>
+    <Address>27 SMITH DRIVE</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>Fort McMurray</City>
+    <State>ON</State>
+    <Zip>L0C 1E0</Zip>
+    <HomePhone>9056490293</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2013</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>04/11/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist6>
+  <Leadlist7>
+    <DealershipName>Demo Dealer</DealershipName>
+    <FirstName>Used</FirstName>
+    <LastName>Used vs. New Purchase</LastName>
+    <Address>338 VICTORIA ST</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L0E 1N0</Zip>
+    <HomePhone>7052288754</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2012</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>03/09/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist7>
+  <Leadlist8>
+    <DealershipName>Demo Dealer</DealershipName>
+    <FirstName>New</FirstName>
+    <LastName>Used vs. New Purchase</LastName>
+    <Address>15B SOUTH BALSAM STREET</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L9P 1E9</Zip>
+    <HomePhone>9058523457</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2013</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>03/30/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist8>
+</data>

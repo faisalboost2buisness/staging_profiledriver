@@ -1,0 +1,835 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>ROBERT</FirstName>
+    <LastName>CURRIE</LastName>
+    <Address>1 PORCHLIGHT DRIVE</Address>
+    <Apartment></Apartment>
+    <City>ELMIRA</City>
+    <State>ON</State>
+    <Zip>N3B3M7</Zip>
+    <HomePhone>5194654420</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>RAM</Make>
+    <Model>1500</Model>
+    <PurchaseDate>07/02/2013</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>KATHLEEN</FirstName>
+    <LastName>DALE</LastName>
+    <Address>34 FRANKLIN AVE</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1E4M7</Zip>
+    <HomePhone>5198201295</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2007</Year>
+    <Make>DODGE</Make>
+    <Model>CARAVAN</Model>
+    <PurchaseDate>07/03/2013</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>JONATHAN</FirstName>
+    <LastName>MELANCON</LastName>
+    <Address>13 40 IMPERIAL RD N</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1H8B4</Zip>
+    <HomePhone>5195463385</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>AVENGER</Model>
+    <PurchaseDate>06/06/2013</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>MARIA</FirstName>
+    <LastName>HODGE</LastName>
+    <Address>6-158 WILLOW RD</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1H1W8</Zip>
+    <HomePhone>5198365826</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>05/23/2013</PurchaseDate>
+  </Leadlist4>
+  <Leadlist5>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>ROBERT</FirstName>
+    <LastName>FALCONER</LastName>
+    <Address>41 VALLEYVIEW R DUN 24</Address>
+    <Apartment></Apartment>
+    <City>KITCHENER</City>
+    <State>ON</State>
+    <Zip>N2E3H9</Zip>
+    <HomePhone>2267915367</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>AVENGER</Model>
+    <PurchaseDate>06/07/2013</PurchaseDate>
+  </Leadlist5>
+  <Leadlist6>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>RAYNA</FirstName>
+    <LastName>SANDAJ</LastName>
+    <Address>1196 QUEENSTON RD</Address>
+    <Apartment></Apartment>
+    <City>CAMBRIDGE</City>
+    <State>ON</State>
+    <Zip>N3H3K9</Zip>
+    <HomePhone>5192129984</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>JEEP</Make>
+    <Model>PATRIOT</Model>
+    <PurchaseDate>06/08/2013</PurchaseDate>
+  </Leadlist6>
+  <Leadlist7>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>NATASHA</FirstName>
+    <LastName>BOYD</LastName>
+    <Address>158 RICKSON AVE</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1G4Y3</Zip>
+    <HomePhone>5198416012</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2008</Year>
+    <Make>DODGE</Make>
+    <Model>CALIBER</Model>
+    <PurchaseDate>04/16/2013</PurchaseDate>
+  </Leadlist7>
+  <Leadlist8>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>LAURA</FirstName>
+    <LastName>HANVEY</LastName>
+    <Address>9 APPLETON DRIVE</Address>
+    <Apartment></Apartment>
+    <City>ORANGEVILLE</City>
+    <State>ON</State>
+    <Zip>L9W5C3</Zip>
+    <HomePhone>5199413079</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2008</Year>
+    <Make>PONTIAC</Make>
+    <Model>G5</Model>
+    <PurchaseDate>03/29/2013</PurchaseDate>
+  </Leadlist8>
+  <Leadlist9>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>IRWIN</FirstName>
+    <LastName>CAMPBELL</LastName>
+    <Address>15-539 WILLOW RD</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1H7G3</Zip>
+    <HomePhone>5192655033</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>CHRYSLER</Make>
+    <Model>200</Model>
+    <PurchaseDate>05/03/2013</PurchaseDate>
+  </Leadlist9>
+  <Leadlist10>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>ALEXANDER</FirstName>
+    <LastName>KOSCHER</LastName>
+    <Address>23 KORTRIGHT RD E</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1G4E3</Zip>
+    <HomePhone>5198295250</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>RAM</Make>
+    <Model>1500</Model>
+    <PurchaseDate>05/06/2013</PurchaseDate>
+  </Leadlist10>
+  <Leadlist11>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>MICHELLE</FirstName>
+    <LastName>WARFORD</LastName>
+    <Address>335 SCOTTSDALE DR</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1G2W6</Zip>
+    <HomePhone>5197315695</HomePhone>
+    <WorkPhone>5198228950</WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>AVENGER</Model>
+    <PurchaseDate>05/05/2013</PurchaseDate>
+  </Leadlist11>
+  <Leadlist12>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>AURELIA</FirstName>
+    <LastName>VANGEYTENBEEK</LastName>
+    <Address>3 55 VALLEYVIEW RD</Address>
+    <Apartment></Apartment>
+    <City>KITCHENER</City>
+    <State>ON</State>
+    <Zip>N2E1L5</Zip>
+    <HomePhone>5197297066</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>JEEP</Make>
+    <Model>COMPASS</Model>
+    <PurchaseDate>03/24/2013</PurchaseDate>
+  </Leadlist12>
+  <Leadlist13>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>EMANUEL</FirstName>
+    <LastName>AGUIAR</LastName>
+    <Address>19 LINNWOOD AV</Address>
+    <Apartment></Apartment>
+    <City>CAMBRIDGE</City>
+    <State>ON</State>
+    <Zip>N1R1V2</Zip>
+    <HomePhone>2262188440</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>RAM</Make>
+    <Model>1500</Model>
+    <PurchaseDate>03/27/2013</PurchaseDate>
+  </Leadlist13>
+  <Leadlist14>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>ISLINDA</FirstName>
+    <LastName>MADUT</LastName>
+    <Address>91 OLDFIELD DRIVE</Address>
+    <Apartment></Apartment>
+    <City>KITCHENER</City>
+    <State>ON</State>
+    <Zip>N2A3S1</Zip>
+    <HomePhone>5195710312</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>04/05/2013</PurchaseDate>
+  </Leadlist14>
+  <Leadlist15>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>SIMON</FirstName>
+    <LastName>MARSH</LastName>
+    <Address>103 VICTORIA ST E</Address>
+    <Apartment>BX1584</Apartment>
+    <City>WINGHAM</City>
+    <State>ON</State>
+    <Zip>N0G2W0</Zip>
+    <HomePhone>2262181478</HomePhone>
+    <WorkPhone>5198370888</WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>DART</Model>
+    <PurchaseDate>03/15/2013</PurchaseDate>
+  </Leadlist15>
+  <Leadlist16>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>CARL</FirstName>
+    <LastName>ROGERS</LastName>
+    <Address>8-33 BURNS DRIVE</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1H6V8</Zip>
+    <HomePhone>5198293663</HomePhone>
+    <WorkPhone>5198222901</WorkPhone>
+    <Year>2013</Year>
+    <Make>RAM</Make>
+    <Model>1500</Model>
+    <PurchaseDate>03/11/2013</PurchaseDate>
+  </Leadlist16>
+  <Leadlist17>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>ALLISON</FirstName>
+    <LastName>CUADRA</LastName>
+    <Address>5 374 QUEEN ST N</Address>
+    <Apartment></Apartment>
+    <City>SIMCOE</City>
+    <State>ON</State>
+    <Zip>N3Y3Z2</Zip>
+    <HomePhone>5194284289</HomePhone>
+    <WorkPhone>9058078239</WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>02/16/2013</PurchaseDate>
+  </Leadlist17>
+  <Leadlist18>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>ALEXANDER</FirstName>
+    <LastName>BUTLER</LastName>
+    <Address>121 THE COUNTRY WAY</Address>
+    <Apartment></Apartment>
+    <City>KITCHENER</City>
+    <State>ON</State>
+    <Zip>N2E2K3</Zip>
+    <HomePhone>5194042114</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2006</Year>
+    <Make>FORD</Make>
+    <Model>F-150</Model>
+    <PurchaseDate>02/25/2013</PurchaseDate>
+  </Leadlist18>
+  <Leadlist19>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>CRYSTAL</FirstName>
+    <LastName>EVANS</LastName>
+    <Address>8-353 VICTORIA RD N</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1E5J6</Zip>
+    <HomePhone>5198242379</HomePhone>
+    <WorkPhone>5198363180</WorkPhone>
+    <Year>2008</Year>
+    <Make>DODGE</Make>
+    <Model>CALIBER</Model>
+    <PurchaseDate>02/01/2013</PurchaseDate>
+  </Leadlist19>
+  <Leadlist20>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>CHRISTOPHER</FirstName>
+    <LastName>DE COUTO</LastName>
+    <Address>252 CHRISTIE ST RR1</Address>
+    <Apartment></Apartment>
+    <City>ROCKWOOD</City>
+    <State>ON</State>
+    <Zip>N0B2K0</Zip>
+    <HomePhone>5196050464</HomePhone>
+    <WorkPhone>9058251288</WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>02/18/2013</PurchaseDate>
+  </Leadlist20>
+  <Leadlist21>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>BENJAMIN</FirstName>
+    <LastName>DARROCH</LastName>
+    <Address>1045 HOWICK ST</Address>
+    <Apartment></Apartment>
+    <City>WROXETER</City>
+    <State>ON</State>
+    <Zip>N0G2X0</Zip>
+    <HomePhone>5192921089</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2010</Year>
+    <Make>DODGE</Make>
+    <Model>CALIBER</Model>
+    <PurchaseDate>03/04/2013</PurchaseDate>
+  </Leadlist21>
+  <Leadlist22>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>WAYNE</FirstName>
+    <LastName>CAMPBELL</LastName>
+    <Address>5995 WELL RD 7</Address>
+    <Apartment>RR#1</Apartment>
+    <City>ELORA</City>
+    <State>ON</State>
+    <Zip>N0B1S0</Zip>
+    <HomePhone>5198462404</HomePhone>
+    <WorkPhone>5198220020</WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>JOURNEY</Model>
+    <PurchaseDate>03/15/2013</PurchaseDate>
+  </Leadlist22>
+  <Leadlist23>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>MICHAEL</FirstName>
+    <LastName>CLAER</LastName>
+    <Address>62-201 SILVERCREEK PKWY N</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1H3T4</Zip>
+    <HomePhone>5198231565</HomePhone>
+    <WorkPhone>5192775133</WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>01/17/2013</PurchaseDate>
+  </Leadlist23>
+  <Leadlist24>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>CALVIN</FirstName>
+    <LastName>WARREN</LastName>
+    <Address>9B CHURCH ST W</Address>
+    <Apartment></Apartment>
+    <City>ELMIRA</City>
+    <State>ON</State>
+    <Zip>N3B1M2</Zip>
+    <HomePhone>2267500059</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>CHRYSLER</Make>
+    <Model>200</Model>
+    <PurchaseDate>11/28/2012</PurchaseDate>
+  </Leadlist24>
+  <Leadlist25>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>LINDA</FirstName>
+    <LastName>BLANDFORD</LastName>
+    <Address>47 40 IMPERIAL RD N</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1H8B4</Zip>
+    <HomePhone>5198247482</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2010</Year>
+    <Make>FORD</Make>
+    <Model>EDGE</Model>
+    <PurchaseDate>12/19/2012</PurchaseDate>
+  </Leadlist25>
+  <Leadlist26>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>MICHAEL</FirstName>
+    <LastName>GAZZOLA</LastName>
+    <Address>211-316 KATHLEEN ST</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1H4Y9</Zip>
+    <HomePhone>2265002269</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2007</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>12/03/2012</PurchaseDate>
+  </Leadlist26>
+  <Leadlist27>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>CINDIE</FirstName>
+    <LastName>OBRIEN</LastName>
+    <Address>86 MCARTHUR DR</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1L1S4</Zip>
+    <HomePhone>5197801216</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>01/02/2013</PurchaseDate>
+  </Leadlist27>
+  <Leadlist28>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>WANDA</FirstName>
+    <LastName>EVANS</LastName>
+    <Address>79 BAILEY AVE</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1H1H1</Zip>
+    <HomePhone>5198362745</HomePhone>
+    <WorkPhone>5198300194</WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>JOURNEY</Model>
+    <PurchaseDate>12/15/2012</PurchaseDate>
+  </Leadlist28>
+  <Leadlist29>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>BRADLEY</FirstName>
+    <LastName>HANNA</LastName>
+    <Address>456 JANEFIELD AVE UN 110</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1L1R8</Zip>
+    <HomePhone>4164342099</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>JEEP</Make>
+    <Model>WRANGLER</Model>
+    <PurchaseDate>11/18/2012</PurchaseDate>
+  </Leadlist29>
+  <Leadlist30>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>CARRYN</FirstName>
+    <LastName>HUBBERT</LastName>
+    <Address>224 WELLINGTON ST</Address>
+    <Apartment></Apartment>
+    <City>BRANTFORD</City>
+    <State>ON</State>
+    <Zip>N3S3Z4</Zip>
+    <HomePhone>5197541517</HomePhone>
+    <WorkPhone>9056283344</WorkPhone>
+    <Year>2009</Year>
+    <Make>TOYOTA</Make>
+    <Model>VENZA</Model>
+    <PurchaseDate>11/26/2012</PurchaseDate>
+  </Leadlist30>
+  <Leadlist31>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>JOHN</FirstName>
+    <LastName>RITTWAGE</LastName>
+    <Address>20 ROBERTSON ST</Address>
+    <Apartment></Apartment>
+    <City>FERGUS</City>
+    <State>ON</State>
+    <Zip>N1M3P8</Zip>
+    <HomePhone>5197871088</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>11/07/2012</PurchaseDate>
+  </Leadlist31>
+  <Leadlist32>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>LEVI</FirstName>
+    <LastName>WHITLEY</LastName>
+    <Address>48 CEDARVALE AVE</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1E6Y3</Zip>
+    <HomePhone>5194003811</HomePhone>
+    <WorkPhone>5197637775</WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>AVENGER</Model>
+    <PurchaseDate>11/25/2012</PurchaseDate>
+  </Leadlist32>
+  <Leadlist33>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>SABRINA</FirstName>
+    <LastName>BAUER</LastName>
+    <Address>424-224 JANEFIELD AVE</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1G2L6</Zip>
+    <HomePhone>5198372594</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>12/02/2012</PurchaseDate>
+  </Leadlist33>
+  <Leadlist34>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>SERGE</FirstName>
+    <LastName>PANNETON</LastName>
+    <Address>1506-80 MOOREGATE CRES</Address>
+    <Apartment></Apartment>
+    <City>KITCHENER</City>
+    <State>ON</State>
+    <Zip>N2M5G1</Zip>
+    <HomePhone>5196031325</HomePhone>
+    <WorkPhone>2266001649</WorkPhone>
+    <Year>2007</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>12/05/2012</PurchaseDate>
+  </Leadlist34>
+  <Leadlist35>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>MICHAEL</FirstName>
+    <LastName>LOWES</LastName>
+    <Address>46 PEACHBLOSSOM CRESCENT</Address>
+    <Apartment></Apartment>
+    <City>KITCHENER</City>
+    <State>ON</State>
+    <Zip>N2E3Z7</Zip>
+    <HomePhone>5195787113</HomePhone>
+    <WorkPhone>5198861073</WorkPhone>
+    <Year>2005</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>10/24/2012</PurchaseDate>
+  </Leadlist35>
+  <Leadlist36>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>PHILIP</FirstName>
+    <LastName>POWELL</LastName>
+    <Address>8 LIVINGSTONE CRES</Address>
+    <Apartment></Apartment>
+    <City>CAMBRIDGE</City>
+    <State>ON</State>
+    <Zip>N3H5S7</Zip>
+    <HomePhone>5196505796</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>CHRYSLER</Make>
+    <Model>SEBRING</Model>
+    <PurchaseDate>10/19/2012</PurchaseDate>
+  </Leadlist36>
+  <Leadlist37>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>ROBERT</FirstName>
+    <LastName>STEPHENS</LastName>
+    <Address>302 ERAMOSA RD</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1E2M8</Zip>
+    <HomePhone>5198037680</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>DODGE</Make>
+    <Model>CALIBER</Model>
+    <PurchaseDate>10/28/2012</PurchaseDate>
+  </Leadlist37>
+  <Leadlist38>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>KRISTOHER</FirstName>
+    <LastName>PHIPPEN</LastName>
+    <Address>787 STIRLING AVE S</Address>
+    <Apartment></Apartment>
+    <City>KITCHENER</City>
+    <State>ON</State>
+    <Zip>N2M3K4</Zip>
+    <HomePhone>5196167514</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>10/28/2012</PurchaseDate>
+  </Leadlist38>
+  <Leadlist39>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>NORMAN</FirstName>
+    <LastName>LOCKLYN</LastName>
+    <Address>APT 512 90 SILVERCREEK PRKWY</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1H7H6</Zip>
+    <HomePhone>2262034486</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>11/09/2012</PurchaseDate>
+  </Leadlist39>
+  <Leadlist40>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>AMANDA</FirstName>
+    <LastName>BIENIA</LastName>
+    <Address>6 DOUGLAS CRES</Address>
+    <Apartment></Apartment>
+    <City>HILLSBURGH</City>
+    <State>ON</State>
+    <Zip>N0B1Z0</Zip>
+    <HomePhone>5198290223</HomePhone>
+    <WorkPhone>5198290223</WorkPhone>
+    <Year>2010</Year>
+    <Make>TOYOTA</Make>
+    <Model>COROLLA</Model>
+    <PurchaseDate>11/09/2012</PurchaseDate>
+  </Leadlist40>
+  <Leadlist41>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>TERESA</FirstName>
+    <LastName>GRAD</LastName>
+    <Address>30 SCOTTSDALE DR</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1G2K8</Zip>
+    <HomePhone>5192655561</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2008</Year>
+    <Make>JEEP</Make>
+    <Model>COMPASS</Model>
+    <PurchaseDate>09/17/2012</PurchaseDate>
+  </Leadlist41>
+  <Leadlist42>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>LORENA</FirstName>
+    <LastName>ZORYCHTA</LastName>
+    <Address>20 50 VALLEYVIEW RD</Address>
+    <Apartment></Apartment>
+    <City>KITCHENER</City>
+    <State></State>
+    <Zip>N2E1L6</Zip>
+    <HomePhone>2269881884</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2008</Year>
+    <Make>CHEVROLET</Make>
+    <Model>COBALT</Model>
+    <PurchaseDate>09/22/2012</PurchaseDate>
+  </Leadlist42>
+  <Leadlist43>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>MIGUEL</FirstName>
+    <LastName>CONTRERAS ALVAREZ</LastName>
+    <Address>447 AUDEN RD</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1E6V7</Zip>
+    <HomePhone>5198031943</HomePhone>
+    <WorkPhone>5197672244</WorkPhone>
+    <Year>2007</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>09/27/2012</PurchaseDate>
+  </Leadlist43>
+  <Leadlist44>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>DAVID</FirstName>
+    <LastName>REINHART</LastName>
+    <Address>5570 TOWNSHIP RD 3</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1H6J4</Zip>
+    <HomePhone>5198365092</HomePhone>
+    <WorkPhone>5192428726</WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>JOURNEY</Model>
+    <PurchaseDate>10/06/2012</PurchaseDate>
+  </Leadlist44>
+  <Leadlist45>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>LAURIE</FirstName>
+    <LastName>LAUZON</LastName>
+    <Address>7 DELAWARE AVE UN 4</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1E3V3</Zip>
+    <HomePhone>5192655190</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>TOYOTA</Make>
+    <Model>COROLLA</Model>
+    <PurchaseDate>10/06/2012</PurchaseDate>
+  </Leadlist45>
+  <Leadlist46>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>TAWANA</FirstName>
+    <LastName>H</LastName>
+    <Address>304 33 INVERNESS DR</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1E3M1</Zip>
+    <HomePhone>5192650116</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2007</Year>
+    <Make>KIA</Make>
+    <Model>SPECTRA</Model>
+    <PurchaseDate>08/17/2012</PurchaseDate>
+  </Leadlist46>
+  <Leadlist47>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>CATHERINE</FirstName>
+    <LastName>HILLIARD</LastName>
+    <Address>APT 2 51 JOHN ST</Address>
+    <Apartment></Apartment>
+    <City>ORANGEVILLE</City>
+    <State>ON</State>
+    <Zip>L9W2P6</Zip>
+    <HomePhone>5192174067</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2008</Year>
+    <Make>JEEP</Make>
+    <Model>WRANGLER</Model>
+    <PurchaseDate>08/27/2012</PurchaseDate>
+  </Leadlist47>
+  <Leadlist48>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>KIMBERLEY</FirstName>
+    <LastName>GLENDENNING</LastName>
+    <Address>124 SILK DR</Address>
+    <Apartment></Apartment>
+    <City>SHELBURNE</City>
+    <State>ON</State>
+    <Zip>L0N1S1</Zip>
+    <HomePhone>5192175799</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2007</Year>
+    <Make>PONTIAC</Make>
+    <Model>G5</Model>
+    <PurchaseDate>09/04/2012</PurchaseDate>
+  </Leadlist48>
+  <Leadlist49>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>JEANETTE</FirstName>
+    <LastName>GOMORI-COLE</LastName>
+    <Address>324 MAIN ST</Address>
+    <Apartment></Apartment>
+    <City>DELHI</City>
+    <State>ON</State>
+    <Zip>N4V2M7</Zip>
+    <HomePhone>5192394192</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2007</Year>
+    <Make>JEEP</Make>
+    <Model>LIBERTY</Model>
+    <PurchaseDate>09/03/2012</PurchaseDate>
+  </Leadlist49>
+  <Leadlist50>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>ADAM</FirstName>
+    <LastName>GOOYERS</LastName>
+    <Address>256 WATER ST</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1G1B7</Zip>
+    <HomePhone>5192654349</HomePhone>
+    <WorkPhone>5198317191</WorkPhone>
+    <Year>2007</Year>
+    <Make>DODGE</Make>
+    <Model>CARAVAN</Model>
+    <PurchaseDate>08/12/2012</PurchaseDate>
+  </Leadlist50>
+  <Leadlist51>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>MICHELLE</FirstName>
+    <LastName>LEWIS</LastName>
+    <Address>57 941 GORDON ST</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1G4R9</Zip>
+    <HomePhone>5198211732</HomePhone>
+    <WorkPhone>5195467270</WorkPhone>
+    <Year>2009</Year>
+    <Make>CHRYSLER</Make>
+    <Model>SEBRING</Model>
+    <PurchaseDate>07/08/2012</PurchaseDate>
+  </Leadlist51>
+  <Leadlist52>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>COLLIN</FirstName>
+    <LastName>ROEHR</LastName>
+    <Address>7 15 SNYDER AVE N</Address>
+    <Apartment></Apartment>
+    <City>ELMIRA</City>
+    <State>ON</State>
+    <Zip>N3B1X5</Zip>
+    <HomePhone>5194969893</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2008</Year>
+    <Make>DODGE</Make>
+    <Model>AVENGER</Model>
+    <PurchaseDate>08/01/2012</PurchaseDate>
+  </Leadlist52>
+</data>

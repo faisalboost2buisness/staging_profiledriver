@@ -1,0 +1,43 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Wellington Motors (#170)	
+        JACOB	
+        JENDE	
+        6-33 CONROY CRES	
+        	
+        GUELPH	
+        ON	
+        N1G2V5	
+        6479659245	
+        	
+        2013	
+        RAM	
+        1500	
+        06/14/2013	 
+Wellington Motors (#170)	
+        DAVID	
+        HAMMOND	
+        11 HAWTHORNE DR	
+        	
+        CAMBRIDGE	
+        ON	
+        N1S3J8	
+        5196244213	
+        5197875530	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        06/10/2013	 
+Wellington Motors (#170)	
+        PAUL	
+        VASEY	
+        67 KNIGHTSWOOD BLVD	
+        	
+        GUELPH	
+        ON	
+        N1E3W6	
+        5197669929	
+        	
+        2012	
+        CHRYSLER	
+        300	
+        06/17/2013	 

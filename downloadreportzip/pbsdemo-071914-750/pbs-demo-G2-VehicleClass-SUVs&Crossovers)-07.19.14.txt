@@ -1,0 +1,3277 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+PBS Demo (#198)	
+        Kenneth Lopez	
+        	
+        218 Hazy Nook	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196226589	
+        2035684557	
+        2014	
+        NISSAN	
+        ROGUE	
+        07/02/2014	 
+PBS Demo (#198)	
+        Phillip Bell	
+        	
+        442 Fallen Turnabout	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5194654420	
+        2839848606	
+        2013	
+        BUICK	
+        ENCLAVE	
+        07/06/2014	 
+PBS Demo (#198)	
+        Clarence Phillips	
+        	
+        2335 Emerald Front	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198304018	
+        6706027178	
+        2009	
+        CHEVROLET	
+        EQUINOX	
+        07/07/2014	 
+PBS Demo (#198)	
+        Terry Campbell	
+        	
+        3438 Velvet Nectar Bay	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198569125	
+        4799532318	
+        2011	
+        CHEVROLET	
+        EQUINOX	
+        07/08/2014	 
+PBS Demo (#198)	
+        Ronald Smith	
+        	
+        2091 Indian Canyon	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        8476993941	
+        5805473186	
+        2014	
+        DODGE	
+        DURANGO	
+        07/09/2014	 
+PBS Demo (#198)	
+        Justin Coleman	
+        	
+        6763 Wishing View Road	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        4166745100	
+        3151262647	
+        2013	
+        DODGE	
+        DURANGO	
+        07/10/2014	 
+PBS Demo (#198)	
+        Frances Flores	
+        	
+        6060 Lost Pines	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192352035	
+        6695015874	
+        2012	
+        DODGE	
+        DURANGO	
+        07/11/2014	 
+PBS Demo (#198)	
+        Kathryn Martinez	
+        	
+        7011 Hidden Oak Cape	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        9057035366	
+        7565828149	
+        2013	
+        DODGE	
+        JOURNEY	
+        07/12/2014	 
+PBS Demo (#198)	
+        John Thomas	
+        	
+        4928 Stony River Glade	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197423110	
+        4845105516	
+        2012	
+        DODGE	
+        JOURNEY	
+        07/01/2014	 
+PBS Demo (#198)	
+        Evelyn Thompson	
+        	
+        1724 Dewy Lake Hollow	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        2267915193	
+        1087443898	
+        2014	
+        DODGE	
+        JOURNEY	
+        07/02/2014	 
+PBS Demo (#198)	
+        Earl Miller	
+        	
+        1993 Little Island	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5197431524	
+        8884070741	
+        2013	
+        FORD	
+        EDGE	
+        07/03/2014	 
+PBS Demo (#198)	
+        Bobby Hall	
+        	
+        7526 Misty Willow Place	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198560853	
+        4463218633	
+        2014	
+        JEEP	
+        CHEROKEE	
+        07/02/2014	 
+PBS Demo (#198)	
+        Donna Scott	
+        	
+        8456 Old Prairie Lane	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197669929	
+        3893904182	
+        2012	
+        JEEP	
+        COMPASS	
+        07/03/2014	 
+PBS Demo (#198)	
+        Jonathan Baker	
+        	
+        2790 Indian Highway	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198201295	
+        6918310095	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        07/04/2014	 
+PBS Demo (#198)	
+        William Turner	
+        	
+        5753 Clear Butterfly End	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198031904	
+        9525430611	
+        2011	
+        JEEP	
+        LIBERTY	
+        07/05/2014	 
+PBS Demo (#198)	
+        Heather Washington	
+        	
+        6917 Quaking Dell	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197630045	
+        5302253841	
+        2013	
+        JEEP	
+        PATRIOT	
+        07/06/2014	 
+PBS Demo (#198)	
+        Jane Patterson	
+        	
+        275 Rocky Road	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5193414969	
+        2543298010	
+        2013	
+        JEEP	
+        WRANGLER	
+        07/07/2014	 
+PBS Demo (#198)	
+        Matthew Roberts	
+        	
+        9572 Thunder Cider Hill	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196382153	
+        8082769114	
+        2014	
+        NISSAN	
+        ROGUE	
+        07/03/2014	 
+PBS Demo (#198)	
+        Lucy Robertson	
+        	
+        4187 Fallen Treasure Via	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5196691006	
+        2267506295	
+        2013	
+        BUICK	
+        ENCLAVE	
+        03/02/2011	 
+PBS Demo (#198)	
+        Miriam Frazier	
+        	
+        3138 Old Bluff Vale	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198219739	
+        5197660901	
+        2009	
+        CHEVROLET	
+        EQUINOX	
+        03/01/2012	 
+PBS Demo (#198)	
+        Velma Mcgee	
+        	
+        9909 Silver Barn Wood	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198415804	
+        	
+        2011	
+        CHEVROLET	
+        EQUINOX	
+        03/02/2013	 
+PBS Demo (#198)	
+        Sonia Welch	
+        	
+        9946 Broad Heath	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198531676	
+        9056029270	
+        2014	
+        DODGE	
+        DURANGO	
+        03/02/2014	 
+PBS Demo (#198)	
+        Marsha Cole	
+        	
+        4644 Tawny Landing	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5199934632	
+        5198247742	
+        2013	
+        DODGE	
+        DURANGO	
+        03/30/2009	 
+PBS Demo (#198)	
+        Sonja Summers	
+        	
+        153 Wishing Arbor	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197314423	
+        5197638473	
+        2012	
+        DODGE	
+        DURANGO	
+        03/30/2008	 
+PBS Demo (#198)	
+        Terrance Sharp	
+        	
+        1804 Lazy Front	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5196511832	
+        2264564549	
+        2013	
+        DODGE	
+        JOURNEY	
+        03/30/2010	 
+PBS Demo (#198)	
+        Louise Ingram	
+        	
+        7664 Honey Willow Isle	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198562496	
+        	
+        2012	
+        DODGE	
+        JOURNEY	
+        03/30/2011	 
+PBS Demo (#198)	
+        Lynda Arnold	
+        	
+        646 Jagged Nectar Diversion	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198886565	
+        	
+        2014	
+        DODGE	
+        JOURNEY	
+        03/30/2012	 
+PBS Demo (#198)	
+        Becky Sparks	
+        	
+        5052 Cotton Vista	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198216979	
+        5198038792	
+        2013	
+        FORD	
+        EDGE	
+        03/30/2013	 
+PBS Demo (#198)	
+        Delbert Rhodes	
+        	
+        7520 Shady Leaf Promenade	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5195700085	
+        5196642252	
+        2014	
+        JEEP	
+        CHEROKEE	
+        03/30/2014	 
+PBS Demo (#198)	
+        Kelly Barrett	
+        	
+        4835 Harvest Prairie Beach	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197669963	
+        5197376961	
+        2012	
+        JEEP	
+        COMPASS	
+        04/30/2009	 
+PBS Demo (#198)	
+        Dan Abbott	
+        	
+        1840 Emerald Ramp	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5192655427	
+        5192655427	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        04/30/2008	 
+PBS Demo (#198)	
+        Santiago Patrick	
+        	
+        6179 Indian Pony Drive	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198363775	
+        5198350771	
+        2011	
+        JEEP	
+        LIBERTY	
+        04/30/2010	 
+PBS Demo (#198)	
+        Traci Wilson	
+        	
+        7920 Cinder Bank	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198468311	
+        	
+        2013	
+        JEEP	
+        PATRIOT	
+        04/30/2011	 
+PBS Demo (#198)	
+        Lonnie Todd	
+        	
+        9714 Noble Pointe	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198468311	
+        5198244120	
+        2013	
+        JEEP	
+        WRANGLER	
+        04/30/2012	 
+PBS Demo (#198)	
+        Matthew Sims	
+        	
+        1915 Velvet Subdivision	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198248008	
+        5198247470	
+        2014	
+        NISSAN	
+        ROGUE	
+        08/30/2013	 
+PBS Demo (#198)	
+        Nathaniel Ruiz	
+        	
+        7394 Green Autumn Wynd	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198221729	
+        	
+        2013	
+        BUICK	
+        ENCLAVE	
+        06/30/2010	 
+PBS Demo (#198)	
+        Esther Hogan	
+        	
+        4307 Jagged Common	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198260638	
+        5198374691	
+        2009	
+        CHEVROLET	
+        EQUINOX	
+        06/30/2011	 
+PBS Demo (#198)	
+        Matt Green	
+        	
+        7275 Amber Deer Heath	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198222681	
+        	
+        2011	
+        CHEVROLET	
+        EQUINOX	
+        06/30/2012	 
+PBS Demo (#198)	
+        Ana Quinn	
+        	
+        9697 Burning Run	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5195019615	
+        5197259305	
+        2014	
+        DODGE	
+        DURANGO	
+        06/30/2013	 
+PBS Demo (#198)	
+        Jackie Lambert	
+        	
+        9701 Grand Autoroute	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192653399	
+        5192150427	
+        2013	
+        DODGE	
+        DURANGO	
+        06/30/2014	 
+PBS Demo (#198)	
+        Darrell Mclaughlin	
+        	
+        1590 Noble Spring Mews	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198223846	
+        	
+        2012	
+        DODGE	
+        DURANGO	
+        01/30/2009	 
+PBS Demo (#198)	
+        Wilson Clark	
+        	
+        4549 Wishing Forest Wharf	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5196214008	
+        5196215211	
+        2013	
+        DODGE	
+        JOURNEY	
+        01/30/2008	 
+PBS Demo (#198)	
+        Cody Holt	
+        	
+        3954 Heather Blossom Pines	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        2267915367	
+        	
+        2012	
+        DODGE	
+        JOURNEY	
+        01/30/2010	 
+PBS Demo (#198)	
+        Wayne Berry	
+        	
+        7383 Quiet Island Bay	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196210642	
+        	
+        2014	
+        DODGE	
+        JOURNEY	
+        01/30/2011	 
+PBS Demo (#198)	
+        Philip Ray	
+        	
+        3865 Umber Gate Plaza	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5198308046	
+        	
+        2013	
+        FORD	
+        EDGE	
+        01/30/2012	 
+PBS Demo (#198)	
+        Natalie Vaughn	
+        	
+        9429 Sunny Private	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198202309	
+        5198223441	
+        2014	
+        JEEP	
+        CHEROKEE	
+        01/30/2013	 
+PBS Demo (#198)	
+        Yvette Aguilar	
+        	
+        7969 Hidden Glade	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192129984	
+        	
+        2012	
+        JEEP	
+        COMPASS	
+        01/30/2014	 
+PBS Demo (#198)	
+        Vicki Guzman	
+        	
+        4849 Iron Rabbit Moor	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5197536511	
+        	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        03/02/2009	 
+PBS Demo (#198)	
+        Laurence Kelly	
+        	
+        82 Indian Zephyr Carrefour	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196561030	
+        5197402405	
+        2011	
+        JEEP	
+        LIBERTY	
+        03/01/2008	 
+PBS Demo (#198)	
+        Domingo Pittman	
+        	
+        9238 Rocky Pond Bend	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5199944254	
+        5199944258	
+        2013	
+        JEEP	
+        PATRIOT	
+        03/02/2010	 
+PBS Demo (#198)	
+        Marilyn Mcguire	
+        	
+        4444 Stony Panda Edge	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5199944254	
+        9054699996	
+        2013	
+        JEEP	
+        WRANGLER	
+        03/02/2011	 
+PBS Demo (#198)	
+        Todd Hernandez	
+        	
+        858 Little River Way	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198244192	
+        	
+        2014	
+        NISSAN	
+        ROGUE	
+        05/30/2012	 
+PBS Demo (#198)	
+        Kenneth Russell	
+        	
+        2745 Wishing River Range	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5199930434	
+        5198433000	
+        2013	
+        BUICK	
+        ENCLAVE	
+        11/30/2008	 
+PBS Demo (#198)	
+        Kimberly Price	
+        	
+        980 Round Rise Towers	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198279240	
+        5198293231	
+        2009	
+        CHEVROLET	
+        EQUINOX	
+        11/30/2010	 
+PBS Demo (#198)	
+        Jerry Butler	
+        	
+        918 Jagged Quay	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192657702	
+        2269798594	
+        2011	
+        CHEVROLET	
+        EQUINOX	
+        11/30/2011	 
+PBS Demo (#198)	
+        Beverly Young	
+        	
+        3449 Hidden Panda Turnabout	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198235380	
+        5198370920	
+        2014	
+        DODGE	
+        DURANGO	
+        11/30/2012	 
+PBS Demo (#198)	
+        Ryan Harris	
+        	
+        5054 Dewy Grove Via	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198365862	
+        	
+        2013	
+        DODGE	
+        DURANGO	
+        11/30/2013	 
+PBS Demo (#198)	
+        Harry Gonzalez	
+        	
+        8276 High Cloud Pathway	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2012	
+        DODGE	
+        DURANGO	
+        11/30/2014	 
+PBS Demo (#198)	
+        Steve Perez	
+        	
+        2962 Heather Pond Nook	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2013	
+        DODGE	
+        JOURNEY	
+        12/30/2009	 
+PBS Demo (#198)	
+        Sean Cox	
+        	
+        100 Little Range	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        2267477757	
+        5195700300	
+        2012	
+        DODGE	
+        JOURNEY	
+        12/30/2008	 
+PBS Demo (#198)	
+        Douglas Morris	
+        	
+        7194 Hazy View Mountain	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2014	
+        DODGE	
+        JOURNEY	
+        12/30/2010	 
+PBS Demo (#198)	
+        Doris Richardson	
+        	
+        4924 Jagged Route	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2013	
+        FORD	
+        EDGE	
+        12/30/2011	 
+PBS Demo (#198)	
+        Dennis Sanchez	
+        	
+        7359 Honey Elk Byway	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2014	
+        JEEP	
+        CHEROKEE	
+        12/30/2012	 
+PBS Demo (#198)	
+        Lillian Gray	
+        	
+        7362 Shady Mount	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2012	
+        JEEP	
+        COMPASS	
+        12/30/2013	 
+PBS Demo (#198)	
+        Russell Garcia	
+        	
+        5206 Easy Street	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        12/30/2014	 
+PBS Demo (#198)	
+        Jimmy Diaz	
+        	
+        386 Quiet Mews	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2011	
+        JEEP	
+        LIBERTY	
+        06/30/2009	 
+PBS Demo (#198)	
+        Bobby Jones	
+        	
+        326 Bright Village	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2013	
+        JEEP	
+        PATRIOT	
+        06/30/2008	 
+PBS Demo (#198)	
+        Brandon Morgan	
+        	
+        3084 Grand Blossom Green	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2013	
+        JEEP	
+        WRANGLER	
+        06/30/2010	 
+PBS Demo (#198)	
+        Jack Parker	
+        	
+        7596 Lazy Beach	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        8228738	
+        5198228950	
+        2010	
+        NISSAN	
+        ROGUE	
+        03/30/2011	 
+PBS Demo (#198)	
+        Bruce Alexander	
+        	
+        1093 Amber Rise	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5199932020	
+        8002680878	
+        2010	
+        BUICK	
+        ENCLAVE	
+        09/30/2009	 
+PBS Demo (#198)	
+        Frank Walker	
+        	
+        3740 Tawny Mountain Crossing	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        	
+        5198248520	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        09/30/2008	 
+PBS Demo (#198)	
+        Denise Baker	
+        	
+        4642 Merry Pioneer Extension	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        2269710139	
+        5198244120	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        09/30/2010	 
+PBS Demo (#198)	
+        Arthur Hernandez	
+        	
+        3589 Old Butterfly Crescent	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2010	
+        DODGE	
+        JOURNEY	
+        09/30/2014	 
+PBS Demo (#198)	
+        Paula Nelson	
+        	
+        7392 Umber Key	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2010	
+        DODGE	
+        JOURNEY	
+        10/30/2009	 
+PBS Demo (#198)	
+        Laura Clark	
+        	
+        4867 Grand Glade	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2010	
+        DODGE	
+        JOURNEY	
+        10/30/2008	 
+PBS Demo (#198)	
+        Jesse Ross	
+        	
+        5580 Little Willow Street	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2010	
+        FORD	
+        EDGE	
+        10/30/2010	 
+PBS Demo (#198)	
+        Jack Baker	
+        	
+        9235 Silver Prairie Diversion	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2010	
+        JEEP	
+        COMPASS	
+        10/30/2012	 
+PBS Demo (#198)	
+        Ralph Turner	
+        	
+        9803 Fallen Horse Farm	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2010	
+        JEEP	
+        GRAND CHEROKEE	
+        10/30/2013	 
+PBS Demo (#198)	
+        Emily Washington	
+        	
+        1033 Honey Corners	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2010	
+        JEEP	
+        LIBERTY	
+        10/30/2014	 
+PBS Demo (#198)	
+        Emily Patterson	
+        	
+        3300 Silent Deer Landing	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        	
+        5198372030	
+        2010	
+        JEEP	
+        PATRIOT	
+        11/30/2009	 
+PBS Demo (#198)	
+        Jessica Mitchell	
+        	
+        4002 Cotton Village	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5193415224	
+        5198290336	
+        2010	
+        JEEP	
+        WRANGLER	
+        11/30/2008	 
+PBS Demo (#198)	
+        Kayla L	
+        	
+        9942 Honey Corners	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        9056919562	
+        	
+        2010	
+        NISSAN	
+        ROGUE	
+        01/30/2010	 
+PBS Demo (#198)	
+        Lauren Edwards	
+        	
+        1651 Velvet Lane	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5198212124	
+        5198318181	
+        2010	
+        BUICK	
+        ENCLAVE	
+        05/30/2014	 
+PBS Demo (#198)	
+        Amber Stewart	
+        	
+        675 Indian Brook Hill	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198235006	
+        	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        07/30/2009	 
+PBS Demo (#198)	
+        Bianca Flores	
+        	
+        6134 Cozy Butterfly Passage	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198226338	
+        2269790828	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        07/30/2008	 
+PBS Demo (#198)	
+        Marie-Eve Rivera	
+        	
+        7979 Heather Chase	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5195710312	
+        	
+        2010	
+        DODGE	
+        JOURNEY	
+        07/30/2013	 
+PBS Demo (#198)	
+        Jasmine Cook	
+        	
+        1488 Silver Parade	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        2262181478	
+        5198370888	
+        2010	
+        DODGE	
+        JOURNEY	
+        07/30/2014	 
+PBS Demo (#198)	
+        Vicky Rogers	
+        	
+        811 Silent Fox Plaza	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196335306	
+        5198514100	
+        2010	
+        DODGE	
+        JOURNEY	
+        08/30/2009	 
+PBS Demo (#198)	
+        Marianne Morgan	
+        	
+        1532 Little Beacon Walk	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198843580	
+        	
+        2010	
+        FORD	
+        EDGE	
+        08/30/2008	 
+PBS Demo (#198)	
+        No	
+        	
+        6799 Golden Mountain Extension	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198293663	
+        5198222901	
+        2010	
+        JEEP	
+        COMPASS	
+        08/30/2011	 
+PBS Demo (#198)	
+        Emy Reed	
+        	
+        157 Green Expressway	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5197676574	
+        5198663017	
+        2010	
+        JEEP	
+        GRAND CHEROKEE	
+        08/30/2012	 
+PBS Demo (#198)	
+        Marie-Pier Bailey	
+        	
+        5675 Rustic Spring Falls	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198371338	
+        9054582000	
+        2010	
+        JEEP	
+        LIBERTY	
+        08/30/2013	 
+PBS Demo (#198)	
+        Charlotte Bell	
+        	
+        2183 Gentle End	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198938822	
+        5198228950	
+        2010	
+        JEEP	
+        PATRIOT	
+        08/30/2014	 
+PBS Demo (#198)	
+        Florence G	
+        	
+        3780 Rocky Apple Farm	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5199985632	
+        5197489773	
+        2010	
+        JEEP	
+        WRANGLER	
+        09/30/2009	 
+PBS Demo (#198)	
+        Kate Morales	
+        	
+        8268 Honey Anchor Corners	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        	
+        4167440123	
+        2010	
+        NISSAN	
+        ROGUE	
+        12/30/2008	 
+PBS Demo (#198)	
+        James Allen	
+        	
+        7175 Rocky Impasse	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5197671269	
+        5198245410	
+        2010	
+        BUICK	
+        ENCLAVE	
+        03/30/2013	 
+PBS Demo (#198)	
+        Adam Wilson	
+        	
+        1733 Wishing River Dale	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192650390	
+        	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        03/30/2014	 
+PBS Demo (#198)	
+        Ben Sanchez	
+        	
+        4903 Quaking Square	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196580085	
+        5198966750	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        04/30/2009	 
+PBS Demo (#198)	
+        John Garcia	
+        	
+        7530 Colonial Meadow	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5194042114	
+        	
+        2010	
+        DODGE	
+        JOURNEY	
+        04/30/2012	 
+PBS Demo (#198)	
+        Jacob Bell	
+        	
+        676 Cinder Fawn Glade	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        7054318329	
+        5198373222	
+        2010	
+        DODGE	
+        JOURNEY	
+        04/30/2013	 
+PBS Demo (#198)	
+        Owen Phillips	
+        	
+        716 Merry Autumn Way	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198247359	
+        5199935158	
+        2010	
+        DODGE	
+        JOURNEY	
+        04/30/2014	 
+PBS Demo (#198)	
+        Maxime Campbell	
+        	
+        2921 Honey Pony Private	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5198330745	
+        5198339396	
+        2010	
+        FORD	
+        EDGE	
+        05/30/2009	 
+PBS Demo (#198)	
+        Ethan Coleman	
+        	
+        6136 Noble Prairie Vale	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196642357	
+        	
+        2010	
+        JEEP	
+        COMPASS	
+        05/30/2010	 
+PBS Demo (#198)	
+        Luke Flores	
+        	
+        1897 Hidden Hill	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5192657510	
+        	
+        2010	
+        JEEP	
+        GRAND CHEROKEE	
+        05/30/2011	 
+PBS Demo (#198)	
+        Julien Martinez	
+        	
+        8925 Indian Treasure Maze	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198242379	
+        5198363180	
+        2010	
+        JEEP	
+        LIBERTY	
+        05/30/2012	 
+PBS Demo (#198)	
+        Liam Thomas	
+        	
+        6348 Broad Blossom Gate	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196050464	
+        9058251288	
+        2010	
+        JEEP	
+        PATRIOT	
+        05/30/2013	 
+PBS Demo (#198)	
+        Austin Thompson	
+        	
+        2219 Rustic Grove	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5194183422	
+        5199983422	
+        2010	
+        JEEP	
+        WRANGLER	
+        05/30/2014	 
+PBS Demo (#198)	
+        Jason Brooks	
+        	
+        3697 Middle Creek Crossing	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198532239	
+        9058756778	
+        2010	
+        NISSAN	
+        ROGUE	
+        10/30/2009	 
+PBS Demo (#198)	
+        Bryce Clark	
+        	
+        4900 Tawny Corner	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5198361895	
+        4162584479	
+        2010	
+        BUICK	
+        ENCLAVE	
+        01/30/2012	 
+PBS Demo (#198)	
+        Sonny Martin	
+        	
+        8227 Gentle Harbour	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198834044	
+        	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        01/30/2013	 
+PBS Demo (#198)	
+        Mark Stewart	
+        	
+        4051 Bright Gate Parkway	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198378805	
+        5194004269	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        01/30/2014	 
+PBS Demo (#198)	
+        Christine Reed	
+        	
+        8577 Little Promenade	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5198375833	
+        5198379400	
+        2010	
+        DODGE	
+        JOURNEY	
+        03/02/2011	 
+PBS Demo (#198)	
+        Anthony Robertson	
+        	
+        8878 Crystal Alley	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198375833	
+        5198379400	
+        2010	
+        DODGE	
+        JOURNEY	
+        03/01/2012	 
+PBS Demo (#198)	
+        Roy Frazier	
+        	
+        22 Thunder Island Round	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192403903	
+        	
+        2010	
+        DODGE	
+        JOURNEY	
+        03/02/2013	 
+PBS Demo (#198)	
+        Teresa Mcgee	
+        	
+        8698 Velvet Farms	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198462404	
+        5198220020	
+        2010	
+        FORD	
+        EDGE	
+        03/02/2014	 
+PBS Demo (#198)	
+        Jose Cole	
+        	
+        2129 Grand Highlands	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198375833	
+        5198379400	
+        2010	
+        JEEP	
+        COMPASS	
+        03/30/2008	 
+PBS Demo (#198)	
+        Laura Summers	
+        	
+        810 Indian Trace	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5198375833	
+        5198379400	
+        2010	
+        JEEP	
+        GRAND CHEROKEE	
+        03/30/2010	 
+PBS Demo (#198)	
+        Alice Sharp	
+        	
+        2261 Noble Gate	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198375833	
+        5198379400	
+        2010	
+        JEEP	
+        LIBERTY	
+        03/30/2011	 
+PBS Demo (#198)	
+        Cynthia Ingram	
+        	
+        8213 Silver Mall	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198375833	
+        5198379400	
+        2010	
+        JEEP	
+        PATRIOT	
+        03/30/2012	 
+PBS Demo (#198)	
+        James Arnold	
+        	
+        7690 Dewy Row	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198375833	
+        5198379400	
+        2010	
+        JEEP	
+        WRANGLER	
+        03/30/2010	 
+PBS Demo (#198)	
+        Gregory Martinez	
+        	
+        6518 Foggy Embers Private	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198231565	
+        5192775133	
+        2010	
+        NISSAN	
+        ROGUE	
+        07/30/2014	 
+PBS Demo (#198)	
+        Marlene Johnson	
+        	
+        5274 Indian Forest	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198886843	
+        	
+        2010	
+        BUICK	
+        ENCLAVE	
+        12/30/2011	 
+PBS Demo (#198)	
+        Marcos Martin	
+        	
+        689 Hidden Leaf Square	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198217793	
+        5198213670	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        12/30/2012	 
+PBS Demo (#198)	
+        Joey Maxwell	
+        	
+        5447 Cinder Island	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        7055676882	
+        	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        12/30/2013	 
+PBS Demo (#198)	
+        Roxanne Mills	
+        	
+        3389 Foggy Towers	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198363330	
+        5198363330	
+        2010	
+        DODGE	
+        JOURNEY	
+        06/30/2010	 
+PBS Demo (#198)	
+        Lance Ruiz	
+        	
+        7976 Misty Hills Private	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192810291	
+        5192810291	
+        2010	
+        DODGE	
+        JOURNEY	
+        06/30/2011	 
+PBS Demo (#198)	
+        Toni Hogan	
+        	
+        5762 Iron Falls	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        6134339118	
+        6136396309	
+        2010	
+        DODGE	
+        JOURNEY	
+        06/30/2012	 
+PBS Demo (#198)	
+        Jay Green	
+        	
+        1280 Gentle Vale	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5198938822	
+        	
+        2010	
+        FORD	
+        EDGE	
+        06/30/2013	 
+PBS Demo (#198)	
+        Rickey Lambert	
+        	
+        6517 Silent Grove Terrace	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        8228738	
+        5198228950	
+        2010	
+        JEEP	
+        COMPASS	
+        01/30/2009	 
+PBS Demo (#198)	
+        Christopher Mclaughlin	
+        	
+        2798 Lazy Woods	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        8228738	
+        5198228950	
+        2010	
+        JEEP	
+        GRAND CHEROKEE	
+        01/30/2008	 
+PBS Demo (#198)	
+        Roger Clark	
+        	
+        9002 Quaking Beacon Range	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        8228738	
+        5198228950	
+        2010	
+        JEEP	
+        LIBERTY	
+        01/30/2010	 
+PBS Demo (#198)	
+        Olga Holt	
+        	
+        3378 Quiet Stead	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        8228738	
+        5198228950	
+        2010	
+        JEEP	
+        PATRIOT	
+        01/30/2011	 
+PBS Demo (#198)	
+        Thelma Berry	
+        	
+        1649 Honey Lookout	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        8228738	
+        5198228950	
+        2010	
+        JEEP	
+        WRANGLER	
+        01/30/2012	 
+PBS Demo (#198)	
+        Patsy Perry	
+        	
+        8165 Thunder Anchor End	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192081163	
+        5198883465	
+        2010	
+        NISSAN	
+        ROGUE	
+        04/30/2013	 
+PBS Demo (#198)	
+        Olive Carter	
+        	
+        2419 Silent Promenade	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5194250879	
+        5193620507	
+        2010	
+        BUICK	
+        ENCLAVE	
+        10/30/2010	 
+PBS Demo (#198)	
+        Seth Powell	
+        	
+        5607 Iron Berry Jetty	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198307541	
+        	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        10/30/2011	 
+PBS Demo (#198)	
+        Judy Green	
+        	
+        2400 Crystal View	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5195012005	
+        5198863990	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        10/30/2012	 
+PBS Demo (#198)	
+        Mindy Roberts	
+        	
+        4375 Cotton Nectar Court	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        2148963308	
+        8002682916	
+        2010	
+        DODGE	
+        JOURNEY	
+        11/30/2008	 
+PBS Demo (#198)	
+        Terence Russell	
+        	
+        3552 Easy Hickory Quay	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197461556	
+        	
+        2010	
+        DODGE	
+        JOURNEY	
+        11/30/2010	 
+PBS Demo (#198)	
+        Danny Price	
+        	
+        7497 Fallen Deer Isle	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        	
+        9056600016	
+        2010	
+        DODGE	
+        JOURNEY	
+        11/30/2011	 
+PBS Demo (#198)	
+        Preston Butler	
+        	
+        4275 Dusty Nook	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5192490525	
+        5197408325	
+        2010	
+        FORD	
+        EDGE	
+        11/30/2012	 
+PBS Demo (#198)	
+        Geraldine Harris	
+        	
+        4859 Grand Creek Farm	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197676574	
+        5198663017	
+        2010	
+        JEEP	
+        COMPASS	
+        11/30/2014	 
+PBS Demo (#198)	
+        Verna Gonzalez	
+        	
+        8204 Middle Grove Ledge	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5197801216	
+        	
+        2010	
+        JEEP	
+        GRAND CHEROKEE	
+        12/30/2009	 
+PBS Demo (#198)	
+        Brian Perez	
+        	
+        2378 Burning Pony Terrace	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5195038933	
+        5198228950	
+        2010	
+        JEEP	
+        LIBERTY	
+        12/30/2008	 
+PBS Demo (#198)	
+        Ashley Cox	
+        	
+        2890 Jagged Common	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196201440	
+        	
+        2010	
+        JEEP	
+        PATRIOT	
+        12/30/2010	 
+PBS Demo (#198)	
+        Alice Morris	
+        	
+        4035 Red Dell	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5193629689	
+        	
+        2010	
+        JEEP	
+        WRANGLER	
+        12/30/2011	 
+PBS Demo (#198)	
+        Ann Ramirez	
+        	
+        4645 High Dale Subdivision	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196211701	
+        	
+        2010	
+        NISSAN	
+        ROGUE	
+        03/01/2012	 
+PBS Demo (#198)	
+        Carolyn Jimenez	
+        	
+        989 Hidden Valley	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5199931195	
+        5198368800	
+        2010	
+        BUICK	
+        ENCLAVE	
+        08/30/2008	 
+PBS Demo (#198)	
+        Linda Austin	
+        	
+        9576 Wishing Island Park	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5195463443	
+        	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        08/30/2010	 
+PBS Demo (#198)	
+        Amanda Lawson	
+        	
+        2912 Tawny Lane	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198269045	
+        	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        08/30/2011	 
+PBS Demo (#198)	
+        Rebecca Perry	
+        	
+        5582 Emerald Harbour	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        7053315947	
+        	
+        2010	
+        DODGE	
+        JOURNEY	
+        09/30/2009	 
+PBS Demo (#198)	
+        Mildred Alexander	
+        	
+        8674 Silent Rise	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192653387	
+        	
+        2010	
+        DODGE	
+        JOURNEY	
+        09/30/2008	 
+PBS Demo (#198)	
+        Gregory Walker	
+        	
+        9725 Rustic Nook	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198216661	
+        5198216661	
+        2010	
+        DODGE	
+        JOURNEY	
+        09/30/2010	 
+PBS Demo (#198)	
+        Katherine Baker	
+        	
+        8804 Misty Road	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5197464754	
+        5195027576	
+        2010	
+        FORD	
+        EDGE	
+        09/30/2011	 
+PBS Demo (#198)	
+        Jerry Brown	
+        	
+        6186 Dewy Green	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196642606	
+        	
+        2010	
+        JEEP	
+        COMPASS	
+        09/30/2013	 
+PBS Demo (#198)	
+        Brenda Bennett	
+        	
+        9241 Blue Barn Crossing	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        8476993941	
+        18004772211	
+        2010	
+        JEEP	
+        GRAND CHEROKEE	
+        09/30/2014	 
+PBS Demo (#198)	
+        Judy Hernandez	
+        	
+        3606 Cozy View Street	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198948823	
+        5196249760	
+        2010	
+        JEEP	
+        LIBERTY	
+        10/30/2009	 
+PBS Demo (#198)	
+        Virginia Nelson	
+        	
+        6202 Fallen Oak Cove	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197466968	
+        2262206903	
+        2010	
+        JEEP	
+        PATRIOT	
+        10/30/2008	 
+PBS Demo (#198)	
+        Bruce Clark	
+        	
+        8193 Thunder Circle	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5197541517	
+        9056283344	
+        2010	
+        JEEP	
+        WRANGLER	
+        10/30/2010	 
+PBS Demo (#198)	
+        Santiago Torres	
+        	
+        7909 Iron River Front	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        	
+        4167440123	
+        2010	
+        NISSAN	
+        ROGUE	
+        06/30/2011	 
+PBS Demo (#198)	
+        James Morris	
+        	
+        5193 Shady Hills Knoll	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5198210635	
+        5198307399	
+        2010	
+        BUICK	
+        ENCLAVE	
+        05/30/2009	 
+PBS Demo (#198)	
+        Vicky Morgan	
+        	
+        1924 Indian Estates	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198375434	
+        5198222241	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        05/30/2008	 
+PBS Demo (#198)	
+        Yolanda Reed	
+        	
+        7117 Blue Close	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198294110	
+        5198226870	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        05/30/2010	 
+PBS Demo (#198)	
+        Angie Brooks	
+        	
+        9783 Stony Fox Place	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5198366656	
+        	
+        2010	
+        DODGE	
+        JOURNEY	
+        05/30/2014	 
+PBS Demo (#198)	
+        Evan Perez	
+        	
+        9917 Honey Orchard	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196513075	
+        4166717517	
+        2010	
+        DODGE	
+        JOURNEY	
+        07/30/2009	 
+PBS Demo (#198)	
+        Patsy Lee	
+        	
+        6718 Cozy Pond Centre	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        2263386303	
+        	
+        2010	
+        DODGE	
+        JOURNEY	
+        07/30/2008	 
+PBS Demo (#198)	
+        Alan Davis	
+        	
+        3344 Velvet Crescent	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        9052827626	
+        5198294396	
+        2010	
+        FORD	
+        EDGE	
+        07/30/2010	 
+PBS Demo (#198)	
+        Sheila Rodriguez	
+        	
+        7616 Bright Fawn Edge	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197315695	
+        5198228950	
+        2010	
+        JEEP	
+        COMPASS	
+        07/30/2012	 
+PBS Demo (#198)	
+        Pete Walker	
+        	
+        6586 Heather Bank	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5197315695	
+        5198228950	
+        2010	
+        JEEP	
+        GRAND CHEROKEE	
+        07/30/2013	 
+PBS Demo (#198)	
+        Mamie Roberts	
+        	
+        3332 Hidden Common	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198531087	
+        9052994440	
+        2010	
+        JEEP	
+        LIBERTY	
+        07/30/2014	 
+PBS Demo (#198)	
+        Merle James	
+        	
+        8740 Wishing Crossing	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197470803	
+        5198360500	
+        2010	
+        JEEP	
+        PATRIOT	
+        08/30/2009	 
+PBS Demo (#198)	
+        Chelsea Wright	
+        	
+        2384 Easy Landing	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198371338	
+        9054582000	
+        2010	
+        JEEP	
+        WRANGLER	
+        08/30/2008	 
+PBS Demo (#198)	
+        Laurence Brown	
+        	
+        9255 Misty Mews	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5195755455	
+        	
+        2010	
+        NISSAN	
+        ROGUE	
+        11/30/2010	 
+PBS Demo (#198)	
+        Benjamin Walters	
+        	
+        7231 Green Willow Walk	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198560868	
+        5198560868	
+        2010	
+        BUICK	
+        ENCLAVE	
+        03/02/2014	 
+PBS Demo (#198)	
+        Patricia Gomez	
+        	
+        2573 Silver Estates	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5199988354	
+        5196535719	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        03/30/2009	 
+PBS Demo (#198)	
+        Earl Kelley	
+        	
+        5379 Round Lake Boulevard	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5199547924	
+        5198241212	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        03/30/2008	 
+PBS Demo (#198)	
+        Janice Martinez	
+        	
+        8286 Hazy Byway	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198214533	
+        	
+        2010	
+        DODGE	
+        JOURNEY	
+        03/30/2013	 
+PBS Demo (#198)	
+        Jessica Hampton	
+        	
+        6052 Honey Green	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198300294	
+        	
+        2010	
+        DODGE	
+        JOURNEY	
+        03/30/2014	 
+PBS Demo (#198)	
+        Ann Adams	
+        	
+        1810 Clear Drive	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5194003441	
+        	
+        2010	
+        DODGE	
+        JOURNEY	
+        04/30/2009	 
+PBS Demo (#198)	
+        Anthony Franklin	
+        	
+        9252 Dusty Dale Plaza	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5197633254	
+        5198244400	
+        2010	
+        FORD	
+        EDGE	
+        04/30/2008	 
+PBS Demo (#198)	
+        Edward Freeman	
+        	
+        4722 Crystal Fox Parkway	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198241365	
+        5198241365	
+        2010	
+        JEEP	
+        COMPASS	
+        04/30/2011	 
+PBS Demo (#198)	
+        Lois Potter	
+        	
+        7706 Shady Branch Loop	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198269713	
+        5198269713	
+        2010	
+        JEEP	
+        GRAND CHEROKEE	
+        04/30/2012	 
+PBS Demo (#198)	
+        Anne Sims	
+        	
+        7579 Blue Pony Forest	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198245464	
+        5198248099	
+        2010	
+        JEEP	
+        LIBERTY	
+        04/30/2013	 
+PBS Demo (#198)	
+        Roger Chandler	
+        	
+        5471 Quaking Moor	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197630109	
+        5198206905	
+        2010	
+        JEEP	
+        PATRIOT	
+        04/30/2014	 
+PBS Demo (#198)	
+        Judith Floyd	
+        	
+        9402 Amber Wharf	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        2262086303	
+        	
+        2010	
+        JEEP	
+        WRANGLER	
+        05/30/2009	 
+PBS Demo (#198)	
+        Juan Bryan	
+        	
+        5446 Blue Creek Bank	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197876623	
+        5198231150	
+        2010	
+        NISSAN	
+        ROGUE	
+        09/30/2008	 
+PBS Demo (#198)	
+        Jean Jimenez	
+        	
+        8394 Emerald Grove Route	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5197936240	
+        5192708595	
+        2010	
+        BUICK	
+        ENCLAVE	
+        06/30/2013	 
+PBS Demo (#198)	
+        Sarah Austin	
+        	
+        7960 Hidden Mall	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197631801	
+        5198378522	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        06/30/2014	 
+PBS Demo (#198)	
+        Louis Lawson	
+        	
+        5545 Thunder Gate Terrace	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        2269245024	
+        5196531111	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        01/30/2009	 
+PBS Demo (#198)	
+        Christopher Perry	
+        	
+        2201 Sunny Spring Pointe	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5198221062	
+        5198235200	
+        2010	
+        DODGE	
+        JOURNEY	
+        01/30/2012	 
+PBS Demo (#198)	
+        Henry Alexander	
+        	
+        2056 Clear Drive	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198569455	
+        5198531330	
+        2010	
+        DODGE	
+        JOURNEY	
+        01/30/2013	 
+PBS Demo (#198)	
+        Emily Walker	
+        	
+        8946 Little Pony Link	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197872542	
+        5197871539	
+        2010	
+        DODGE	
+        JOURNEY	
+        01/30/2014	 
+PBS Demo (#198)	
+        Marie Baker	
+        	
+        8839 Hidden Mountain	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5192005996	
+        5198363470	
+        2010	
+        FORD	
+        EDGE	
+        03/02/2009	 
+PBS Demo (#198)	
+        Nicholas Brown	
+        	
+        9025 Quiet Dell	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198436283	
+        5196214800	
+        2010	
+        JEEP	
+        COMPASS	
+        03/02/2010	 
+PBS Demo (#198)	
+        Angela Bennett	
+        	
+        3530 Merry Autoroute	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5193626425	
+        	
+        2010	
+        JEEP	
+        GRAND CHEROKEE	
+        03/02/2011	 
+PBS Demo (#198)	
+        Rachel Hernandez	
+        	
+        4583 Burning Lane	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5193954412	
+        	
+        2010	
+        JEEP	
+        LIBERTY	
+        03/01/2012	 
+PBS Demo (#198)	
+        Steven Nelson	
+        	
+        6981 Golden Boulevard	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5195778244	
+        	
+        2010	
+        JEEP	
+        PATRIOT	
+        03/02/2013	 
+PBS Demo (#198)	
+        Phillip Clark	
+        	
+        5605 Cozy Line	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198202332	
+        8002658600	
+        2010	
+        JEEP	
+        WRANGLER	
+        03/02/2014	 
+PBS Demo (#198)	
+        Danielle Lopez	
+        	
+        6819 Lost Log Villas	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197801395	
+        5198234402	
+        2010	
+        NISSAN	
+        ROGUE	
+        07/30/2009	 
+PBS Demo (#198)	
+        Kendra Allen	
+        	
+        3219 Wishing Quail Towers	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198366608	
+        4079529449	
+        2010	
+        BUICK	
+        ENCLAVE	
+        11/30/2012	 
+PBS Demo (#198)	
+        Cassie Thomas	
+        	
+        9358 Pleasant Lagoon Hill	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196154963	
+        	
+        2010	
+        CHEVROLET	
+        EQUINOX	
+        11/30/2013	 
+PBS Demo (#198)	
+        Carla Ramirez	
+        	
+        4187 Fallen Treasure Via	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5196691006	
+        2267506295	
+        2013	
+        BUICK	
+        ENCLAVE	
+        03/02/2011	 
+PBS Demo (#198)	
+        Colorado Livingston	
+        	
+        3138 Old Bluff Vale	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198219739	
+        5197660901	
+        2009	
+        CHEVROLET	
+        EQUINOX	
+        03/01/2012	 
+PBS Demo (#198)	
+        Hunter Fuentes	
+        	
+        9909 Silver Barn Wood	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198415804	
+        3087028225	
+        2011	
+        CHEVROLET	
+        EQUINOX	
+        03/02/2013	 
+PBS Demo (#198)	
+        Damon Serrano	
+        	
+        9946 Broad Heath	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198531676	
+        9056029270	
+        2014	
+        DODGE	
+        DURANGO	
+        03/02/2014	 
+PBS Demo (#198)	
+        Kelsey Anderson	
+        	
+        4644 Tawny Landing	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5199934632	
+        5198247742	
+        2013	
+        DODGE	
+        DURANGO	
+        03/30/2009	 
+PBS Demo (#198)	
+        Steel Riddle	
+        	
+        153 Wishing Arbor	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197314423	
+        5197638473	
+        2012	
+        DODGE	
+        DURANGO	
+        03/30/2008	 
+PBS Demo (#198)	
+        Ralph Morris	
+        	
+        1804 Lazy Front	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5196511832	
+        2264564549	
+        2013	
+        DODGE	
+        JOURNEY	
+        03/30/2010	 
+PBS Demo (#198)	
+        Belle Griffin	
+        	
+        7664 Honey Willow Isle	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198562496	
+        5424745298	
+        2012	
+        DODGE	
+        JOURNEY	
+        03/30/2011	 
+PBS Demo (#198)	
+        Xandra Ford	
+        	
+        646 Jagged Nectar Diversion	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198886565	
+        9166336776	
+        2014	
+        DODGE	
+        JOURNEY	
+        03/30/2012	 
+PBS Demo (#198)	
+        Henry Harris	
+        	
+        5052 Cotton Vista	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198216979	
+        7801003561	
+        2013	
+        FORD	
+        EDGE	
+        03/30/2013	 
+PBS Demo (#198)	
+        Paul Rogers	
+        	
+        7520 Shady Leaf Promenade	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5195700085	
+        7097532499	
+        2014	
+        JEEP	
+        CHEROKEE	
+        03/30/2014	 
+PBS Demo (#198)	
+        Nolan Clay	
+        	
+        4835 Harvest Prairie Beach	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197669963	
+        4743893991	
+        2012	
+        JEEP	
+        COMPASS	
+        04/30/2009	 
+PBS Demo (#198)	
+        Ferris Franco	
+        	
+        1840 Emerald Ramp	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5192655427	
+        4749464122	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        04/30/2008	 
+PBS Demo (#198)	
+        Carol Navarro	
+        	
+        6179 Indian Pony Drive	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198363775	
+        1608676330	
+        2011	
+        JEEP	
+        LIBERTY	
+        04/30/2010	 
+PBS Demo (#198)	
+        Juliet Mcknight	
+        	
+        7920 Cinder Bank	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198468311	
+        1976223942	
+        2013	
+        JEEP	
+        PATRIOT	
+        04/30/2011	 
+PBS Demo (#198)	
+        Xena Ray	
+        	
+        9714 Noble Pointe	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198468311	
+        8598400624	
+        2013	
+        JEEP	
+        WRANGLER	
+        04/30/2012	 
+PBS Demo (#198)	
+        Anika Fox	
+        	
+        1915 Velvet Subdivision	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198248008	
+        7166848670	
+        2014	
+        NISSAN	
+        ROGUE	
+        08/30/2013	 
+PBS Demo (#198)	
+        Dawn Adkins	
+        	
+        7394 Green Autumn Wynd	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198221729	
+        7689951082	
+        2013	
+        BUICK	
+        ENCLAVE	
+        06/30/2010	 
+PBS Demo (#198)	
+        Blossom Bowman	
+        	
+        4307 Jagged Common	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198260638	
+        9579346484	
+        2009	
+        CHEVROLET	
+        EQUINOX	
+        06/30/2011	 
+PBS Demo (#198)	
+        Zeus Wheeler	
+        	
+        7275 Amber Deer Heath	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198222681	
+        4654891045	
+        2011	
+        CHEVROLET	
+        EQUINOX	
+        06/30/2012	 
+PBS Demo (#198)	
+        Griffith Donovan	
+        	
+        9697 Burning Run	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5195019615	
+        3402759522	
+        2014	
+        DODGE	
+        DURANGO	
+        06/30/2013	 
+PBS Demo (#198)	
+        Felicia Holden	
+        	
+        9701 Grand Autoroute	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192653399	
+        4974401463	
+        2013	
+        DODGE	
+        DURANGO	
+        06/30/2014	 
+PBS Demo (#198)	
+        Isabella Vang	
+        	
+        1590 Noble Spring Mews	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198223846	
+        2617965758	
+        2012	
+        DODGE	
+        DURANGO	
+        01/30/2009	 
+PBS Demo (#198)	
+        Jameson Hull	
+        	
+        4549 Wishing Forest Wharf	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5196214008	
+        9999935030	
+        2013	
+        DODGE	
+        JOURNEY	
+        01/30/2008	 
+PBS Demo (#198)	
+        Ainsley Richardson	
+        	
+        3954 Heather Blossom Pines	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        2267915367	
+        9651166048	
+        2012	
+        DODGE	
+        JOURNEY	
+        01/30/2010	 
+PBS Demo (#198)	
+        Gannon Hernandez	
+        	
+        7383 Quiet Island Bay	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196210642	
+        6126521291	
+        2014	
+        DODGE	
+        JOURNEY	
+        01/30/2011	 
+PBS Demo (#198)	
+        Cora Pena	
+        	
+        3865 Umber Gate Plaza	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5198308046	
+        5696486861	
+        2013	
+        FORD	
+        EDGE	
+        01/30/2012	 
+PBS Demo (#198)	
+        Piper Blackburn	
+        	
+        9429 Sunny Private	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198202309	
+        1029249163	
+        2014	
+        JEEP	
+        CHEROKEE	
+        01/30/2013	 
+PBS Demo (#198)	
+        Colton Fowler	
+        	
+        7969 Hidden Glade	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192129984	
+        3946662693	
+        2012	
+        JEEP	
+        COMPASS	
+        01/30/2014	 
+PBS Demo (#198)	
+        Hu Hill	
+        	
+        4849 Iron Rabbit Moor	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5197536511	
+        3156084667	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        03/02/2009	 
+PBS Demo (#198)	
+        Francis Ray	
+        	
+        82 Indian Zephyr Carrefour	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196561030	
+        5201755659	
+        2011	
+        JEEP	
+        LIBERTY	
+        03/01/2008	 
+PBS Demo (#198)	
+        Arthur Decker	
+        	
+        9238 Rocky Pond Bend	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5199944254	
+        3742122243	
+        2013	
+        JEEP	
+        PATRIOT	
+        03/02/2010	 
+PBS Demo (#198)	
+        Dahlia Talley	
+        	
+        4444 Stony Panda Edge	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5199944254	
+        8449879854	
+        2013	
+        JEEP	
+        WRANGLER	
+        03/02/2011	 

@@ -1,0 +1,1555 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Wellington Motors (#170)	
+        ROBERT	
+        CURRIE	
+        1 PORCHLIGHT DRIVE	
+        	
+        ELMIRA	
+        ON	
+        N3B3M7	
+        5194654420	
+        	
+        2013	
+        RAM	
+        1500	
+        07/02/2013	 
+Wellington Motors (#170)	
+        JONATHAN	
+        MELANCON	
+        13 40 IMPERIAL RD N	
+        	
+        GUELPH	
+        ON	
+        N1H8B4	
+        5195463385	
+        	
+        2013	
+        DODGE	
+        AVENGER	
+        06/06/2013	 
+Wellington Motors (#170)	
+        ROBERT	
+        FALCONER	
+        41 VALLEYVIEW R DUN 24	
+        	
+        KITCHENER	
+        ON	
+        N2E3H9	
+        2267915367	
+        	
+        2013	
+        DODGE	
+        AVENGER	
+        06/07/2013	 
+Wellington Motors (#170)	
+        NATASHA	
+        BOYD	
+        158 RICKSON AVE	
+        	
+        GUELPH	
+        ON	
+        N1G4Y3	
+        5198416012	
+        	
+        2008	
+        DODGE	
+        CALIBER	
+        04/16/2013	 
+Wellington Motors (#170)	
+        LAURA	
+        HANVEY	
+        9 APPLETON DRIVE	
+        	
+        ORANGEVILLE	
+        ON	
+        L9W5C3	
+        5199413079	
+        	
+        2008	
+        PONTIAC	
+        G5	
+        03/29/2013	 
+Wellington Motors (#170)	
+        IRWIN	
+        CAMPBELL	
+        15-539 WILLOW RD	
+        	
+        GUELPH	
+        ON	
+        N1H7G3	
+        5192655033	
+        	
+        2013	
+        CHRYSLER	
+        200	
+        05/03/2013	 
+Wellington Motors (#170)	
+        ALEXANDER	
+        KOSCHER	
+        23 KORTRIGHT RD E	
+        	
+        GUELPH	
+        ON	
+        N1G4E3	
+        5198295250	
+        	
+        2013	
+        RAM	
+        1500	
+        05/06/2013	 
+Wellington Motors (#170)	
+        MICHELLE	
+        WARFORD	
+        335 SCOTTSDALE DR	
+        	
+        GUELPH	
+        ON	
+        N1G2W6	
+        5197315695	
+        5198228950	
+        2013	
+        DODGE	
+        AVENGER	
+        05/05/2013	 
+Wellington Motors (#170)	
+        EMANUEL	
+        AGUIAR	
+        19 LINNWOOD AV	
+        	
+        CAMBRIDGE	
+        ON	
+        N1R1V2	
+        2262188440	
+        	
+        2013	
+        RAM	
+        1500	
+        03/27/2013	 
+Wellington Motors (#170)	
+        ISLINDA	
+        MADUT	
+        91 OLDFIELD DRIVE	
+        	
+        KITCHENER	
+        ON	
+        N2A3S1	
+        5195710312	
+        	
+        2011	
+        DODGE	
+        CHARGER	
+        04/05/2013	 
+Wellington Motors (#170)	
+        SIMON	
+        MARSH	
+        103 VICTORIA ST E	
+        BX1584	
+        WINGHAM	
+        ON	
+        N0G2W0	
+        2262181478	
+        5198370888	
+        2013	
+        DODGE	
+        DART	
+        03/15/2013	 
+Wellington Motors (#170)	
+        CARL	
+        ROGERS	
+        8-33 BURNS DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1H6V8	
+        5198293663	
+        5198222901	
+        2013	
+        RAM	
+        1500	
+        03/11/2013	 
+Wellington Motors (#170)	
+        ALEXANDER	
+        BUTLER	
+        121 THE COUNTRY WAY	
+        	
+        KITCHENER	
+        ON	
+        N2E2K3	
+        5194042114	
+        	
+        2006	
+        FORD	
+        F-150	
+        02/25/2013	 
+Wellington Motors (#170)	
+        CRYSTAL	
+        EVANS	
+        8-353 VICTORIA RD N	
+        	
+        GUELPH	
+        ON	
+        N1E5J6	
+        5198242379	
+        5198363180	
+        2008	
+        DODGE	
+        CALIBER	
+        02/01/2013	 
+Wellington Motors (#170)	
+        BENJAMIN	
+        DARROCH	
+        1045 HOWICK ST	
+        	
+        WROXETER	
+        ON	
+        N0G2X0	
+        5192921089	
+        	
+        2010	
+        DODGE	
+        CALIBER	
+        03/04/2013	 
+Wellington Motors (#170)	
+        CALVIN	
+        WARREN	
+        9B CHURCH ST W	
+        	
+        ELMIRA	
+        ON	
+        N3B1M2	
+        2267500059	
+        	
+        2011	
+        CHRYSLER	
+        200	
+        11/28/2012	 
+Wellington Motors (#170)	
+        MICHAEL	
+        GAZZOLA	
+        211-316 KATHLEEN ST	
+        	
+        GUELPH	
+        ON	
+        N1H4Y9	
+        2265002269	
+        	
+        2007	
+        DODGE	
+        CHARGER	
+        12/03/2012	 
+Wellington Motors (#170)	
+        CARRYN	
+        HUBBERT	
+        224 WELLINGTON ST	
+        	
+        BRANTFORD	
+        ON	
+        N3S3Z4	
+        5197541517	
+        9056283344	
+        2009	
+        TOYOTA	
+        VENZA	
+        11/26/2012	 
+Wellington Motors (#170)	
+        LEVI	
+        WHITLEY	
+        48 CEDARVALE AVE	
+        	
+        GUELPH	
+        ON	
+        N1E6Y3	
+        5194003811	
+        5197637775	
+        2012	
+        DODGE	
+        AVENGER	
+        11/25/2012	 
+Wellington Motors (#170)	
+        SERGE	
+        PANNETON	
+        1506-80 MOOREGATE CRES	
+        	
+        KITCHENER	
+        ON	
+        N2M5G1	
+        5196031325	
+        2266001649	
+        2007	
+        DODGE	
+        CHARGER	
+        12/05/2012	 
+Wellington Motors (#170)	
+        MICHAEL	
+        LOWES	
+        46 PEACHBLOSSOM CRESCENT	
+        	
+        KITCHENER	
+        ON	
+        N2E3Z7	
+        5195787113	
+        5198861073	
+        2005	
+        CHRYSLER	
+        300	
+        10/24/2012	 
+Wellington Motors (#170)	
+        PHILIP	
+        POWELL	
+        8 LIVINGSTONE CRES	
+        	
+        CAMBRIDGE	
+        ON	
+        N3H5S7	
+        5196505796	
+        	
+        2009	
+        CHRYSLER	
+        SEBRING	
+        10/19/2012	 
+Wellington Motors (#170)	
+        ROBERT	
+        STEPHENS	
+        302 ERAMOSA RD	
+        	
+        GUELPH	
+        ON	
+        N1E2M8	
+        5198037680	
+        	
+        2009	
+        DODGE	
+        CALIBER	
+        10/28/2012	 
+Wellington Motors (#170)	
+        KRISTOHER	
+        PHIPPEN	
+        787 STIRLING AVE S	
+        	
+        KITCHENER	
+        ON	
+        N2M3K4	
+        5196167514	
+        	
+        2009	
+        CHRYSLER	
+        300	
+        10/28/2012	 
+Wellington Motors (#170)	
+        NORMAN	
+        LOCKLYN	
+        APT 512 90 SILVERCREEK PRKWY	
+        	
+        GUELPH	
+        ON	
+        N1H7H6	
+        2262034486	
+        	
+        2012	
+        CHRYSLER	
+        300	
+        11/09/2012	 
+Wellington Motors (#170)	
+        AMANDA	
+        BIENIA	
+        6 DOUGLAS CRES	
+        	
+        HILLSBURGH	
+        ON	
+        N0B1Z0	
+        5198290223	
+        5198290223	
+        2010	
+        TOYOTA	
+        COROLLA	
+        11/09/2012	 
+Wellington Motors (#170)	
+        LORENA	
+        ZORYCHTA	
+        20 50 VALLEYVIEW RD	
+        	
+        KITCHENER	
+        	
+        N2E1L6	
+        2269881884	
+        	
+        2008	
+        CHEVROLET	
+        COBALT	
+        09/22/2012	 
+Wellington Motors (#170)	
+        LAURIE	
+        LAUZON	
+        7 DELAWARE AVE UN 4	
+        	
+        GUELPH	
+        ON	
+        N1E3V3	
+        5192655190	
+        	
+        2009	
+        TOYOTA	
+        COROLLA	
+        10/06/2012	 
+Wellington Motors (#170)	
+        TAWANA	
+        H	
+        304 33 INVERNESS DR	
+        	
+        GUELPH	
+        ON	
+        N1E3M1	
+        5192650116	
+        	
+        2007	
+        KIA	
+        SPECTRA	
+        08/17/2012	 
+Wellington Motors (#170)	
+        KIMBERLEY	
+        GLENDENNING	
+        124 SILK DR	
+        	
+        SHELBURNE	
+        ON	
+        L0N1S1	
+        5192175799	
+        	
+        2007	
+        PONTIAC	
+        G5	
+        09/04/2012	 
+Wellington Motors (#170)	
+        MICHELLE	
+        LEWIS	
+        57 941 GORDON ST	
+        	
+        GUELPH	
+        ON	
+        N1G4R9	
+        5198211732	
+        5195467270	
+        2009	
+        CHRYSLER	
+        SEBRING	
+        07/08/2012	 
+Wellington Motors (#170)	
+        LARRY	
+        WILSON	
+        1103 53 SPEEDVALE AVE W	
+        	
+        GUELPH	
+        ON	
+        N1H1J6	
+        5192652914	
+        	
+        2011	
+        DODGE	
+        CALIBER	
+        05/20/2012	 
+Wellington Motors (#170)	
+        DALE	
+        WATSON	
+        119 COUNTRY HILL DR	
+        	
+        KITCHENER	
+        ON	
+        N2E1S6	
+        5197421618	
+        5195018258	
+        2012	
+        RAM	
+        1500	
+        05/16/2012	 
+Wellington Motors (#170)	
+        LENROY	
+        HENRY	
+        131 WYNDHAM ST UNIT 306	
+        	
+        GUELPH	
+        ON	
+        N1H4E9	
+        5194005895	
+        	
+        2007	
+        HYUNDAI	
+        ACCENT	
+        06/11/2012	 
+Wellington Motors (#170)	
+        BRANDIE	
+        FORTIER	
+        39 KEARNEY AVE	
+        	
+        GUELPH	
+        ON	
+        N1E7B9	
+        5192656944	
+        5192174563	
+        2010	
+        DODGE	
+        CHARGER	
+        03/29/2012	 
+Wellington Motors (#170)	
+        JUSTIN	
+        COLLIER	
+        201 38 DAWSON RD	
+        	
+        GUELPH	
+        ON	
+        N1H5V1	
+        5192655269	
+        5198211429	
+        2010	
+        DODGE	
+        AVENGER	
+        04/04/2012	 
+Wellington Motors (#170)	
+        MELANIE	
+        ZANUTTIG	
+        19D 240 WESTWOOD RD	
+        	
+        GUELPH	
+        ON	
+        N1H7W9	
+        5193628461	
+        	
+        2011	
+        DODGE	
+        CALIBER	
+        04/09/2012	 
+Wellington Motors (#170)	
+        PETER	
+        REID	
+        1434 PINEVIEW CRT	
+        	
+        CAMBRIDGE	
+        ON	
+        N3H4X1	
+        4168866576	
+        	
+        2012	
+        RAM	
+        1500	
+        04/30/2012	 
+Wellington Motors (#170)	
+        EVAN	
+        CHRISTENSEN	
+        209 WESTHOLLOW CRT	
+        	
+        WATERLOO	
+        ON	
+        N2T3A1	
+        5199944017	
+        5192099317	
+        2008	
+        CHEVROLET	
+        COBALT	
+        03/25/2012	 
+Wellington Motors (#170)	
+        COLLIN	
+        ROEHR	
+        7 15 SNYDER AVE N	
+        	
+        ELMIRA	
+        ON	
+        N3B1X5	
+        5194969893	
+        	
+        2008	
+        DODGE	
+        AVENGER	
+        08/01/2012	 
+Wellington Motors (#170)	
+        DOUGLAS	
+        FREURE	
+        137 PARK AVE	
+        	
+        CAMBRIDGE	
+        ON	
+        N1S2S5	
+        5196219422	
+        	
+        2004	
+        FORD	
+        FOCUS	
+        02/12/2012	 
+Wellington Motors (#170)	
+        CHRISTOPHER	
+        CARR	
+        B-112 PINNACLE CRES	
+        	
+        GUELPH	
+        ON	
+        N1K1L8	
+        9055418757	
+        	
+        2011	
+        DODGE	
+        CHARGER	
+        01/25/2012	 
+Wellington Motors (#170)	
+        MARK	
+        MARTIN	
+        707-8 CHRISTOPHER CRT	
+        	
+        GUELPH	
+        ON	
+        N1G4N7	
+        5192656967	
+        	
+        2012	
+        RAM	
+        1500	
+        12/30/2011	 
+Wellington Motors (#170)	
+        LIAM	
+        STRONGMAN	
+        54 MONTANA RD	
+        	
+        GUELPH	
+        ON	
+        N1E3M2	
+        5192650843	
+        5198417870	
+        2012	
+        RAM	
+        1500	
+        12/06/2011	 
+Wellington Motors (#170)	
+        DAVID	
+        COOPER	
+        48 WHITE PINE WAY	
+        	
+        GUELPH	
+        ON	
+        N1G4X7	
+        5197669455	
+        5198350377	
+        2011	
+        RAM	
+        1500	
+        12/26/2011	 
+Wellington Motors (#170)	
+        RICHARD	
+        MASTERSON	
+        9 REGENT ST	
+        	
+        GUELPH	
+        ON	
+        N1E4W3	
+        5198232346	
+        5198244030	
+        2008	
+        FORD	
+        RANGER	
+        11/04/2011	 
+Wellington Motors (#170)	
+        ROBERT	
+        WOOD	
+        19 BURTON RD	
+        	
+        GUELPH	
+        ON	
+        N1H8A6	
+        5198229858	
+        5197667840	
+        2005	
+        MAZDA	
+        MAZDA3	
+        10/26/2011	 
+Wellington Motors (#170)	
+        KYLE	
+        DODD	
+        136 PARKEDGE ST	
+        	
+        ROCKWOOD	
+        ON	
+        N0B2K0	
+        5198564127	
+        5198379724	
+        2005	
+        DODGE	
+        MAGNUM	
+        08/31/2011	 
+Wellington Motors (#170)	
+        RYAN	
+        DWYER	
+        B-4 HOME STREET	
+        	
+        GUELPH	
+        ON	
+        N1H2E4	
+        5199934866	
+        5198235360	
+        2011	
+        RAM	
+        1500	
+        09/22/2011	 
+Wellington Motors (#170)	
+        DEREK	
+        COUTO	
+        32 WATT ST	
+        	
+        GUELPH	
+        ON	
+        N1E6W7	
+        5195888497	
+        5196643301	
+        2008	
+        MAZDA	
+        B-SERIES TRUCK	
+        08/20/2011	 
+Wellington Motors (#170)	
+        NICOLE	
+        DEVISON	
+        52 BRISTOL ST	
+        	
+        GUELPH	
+        ON	
+        N1H3L6	
+        5197675437	
+        5197637786	
+        2010	
+        DODGE	
+        CHARGER	
+        06/16/2011	 
+Wellington Motors (#170)	
+        JAMES	
+        	
+        802-102 SILVERCREEK PKWY N	
+        	
+        GUELPH	
+        ON	
+        N1H7J4	
+        5198353585	
+        8002633597	
+        2010	
+        DODGE	
+        CHALLENGER	
+        06/27/2011	 
+Wellington Motors (#170)	
+        ANITA	
+        KLINE	
+        81 EMMA ST AP #9	
+        	
+        GUELPH	
+        ON	
+        N1E1T9	
+        5192654540	
+        6477470014	
+        2010	
+        DODGE	
+        CHARGER	
+        05/20/2011	 
+Wellington Motors (#170)	
+        SEAN	
+        BOYLE	
+        68 RAVINE DR	
+        	
+        CAMBRIDGE	
+        ON	
+        N2R1W7	
+        5199982908	
+        8002652432	
+        2010	
+        DODGE	
+        CHALLENGER	
+        04/07/2011	 
+Wellington Motors (#170)	
+        ANTHONY	
+        BENOIT	
+        24 RALGREEN CRES	
+        	
+        KITCHENER	
+        ON	
+        N2M1T9	
+        7096425596	
+        5195044955	
+        2010	
+        DODGE	
+        CALIBER	
+        03/14/2011	 
+Wellington Motors (#170)	
+        MICHAEL	
+        MEAGHER	
+        34 NAMAO DR	
+        	
+        TRENTON	
+        ON	
+        K8V1C4	
+        6133921182	
+        6133928211	
+        2010	
+        DODGE	
+        CHALLENGER	
+        10/11/2010	 
+Wellington Motors (#170)	
+        JAMES	
+        ROBINSON	
+        311-255 BELSYDE AVENUE EAST	
+        	
+        FERGUS	
+        ON	
+        N1M2Y2	
+        5198431412	
+        5197663033	
+        2005	
+        CHRYSLER	
+        300	
+        07/22/2010	 
+Wellington Motors (#170)	
+        JODI	
+        CORMIER	
+        44 GOLFVIEW RD	
+        	
+        GUELPH	
+        ON	
+        N1E1A6	
+        5197638643	
+        5197802743	
+        2008	
+        DODGE	
+        CHARGER	
+        06/17/2010	 
+Wellington Motors (#170)	
+        DIANNE	
+        WILSON	
+        LOT-14 CONC-1	
+        APT 2	
+        GUELPH	
+        ON	
+        N1H6J1	
+        5198213731	
+        5198037774	
+        2009	
+        DODGE	
+        AVENGER	
+        07/03/2010	 
+Wellington Motors (#170)	
+        LAWRENCE	
+        SPENCE	
+        22-74 JANEFIELD AVE	
+        	
+        GUELPH	
+        ON	
+        N1G2L6	
+        5197664621	
+        5193627132	
+        2009	
+        CHRYSLER	
+        SEBRING	
+        07/11/2010	 
+Wellington Motors (#170)	
+        KAREN	
+        SHANKS	
+        44 MAPLE ST	
+        	
+        DRAYTON	
+        ON	
+        N0G1P0	
+        5196383525	
+        5198074676	
+        2009	
+        DODGE	
+        CHARGER	
+        01/22/2010	 
+Wellington Motors (#170)	
+        DAVE	
+        DONNELLY	
+        3 CATHCART ST.	
+        	
+        GUELPH	
+        ON	
+        N1E1J8	
+        5198378288	
+        	
+        2007	
+        CHRYSLER	
+        PT CRUISER	
+        02/13/2010	 
+Wellington Motors (#170)	
+        GLEN	
+        SPARK	
+        72 LONGWOOD DR	
+        	
+        WATERLOO	
+        ON	
+        N2L4B7	
+        5197467435	
+        2262202066	
+        2006	
+        CHRYSLER	
+        300	
+        11/15/2009	 
+Wellington Motors (#170)	
+        CHRISTINE	
+        NELSON	
+        272 CLYDE RD UNIT 9	
+        	
+        CAMBRIDGE	
+        ON	
+        N1R1L1	
+        5196221662	
+        	
+        2007	
+        DODGE	
+        CALIBER	
+        11/05/2009	 
+Wellington Motors (#170)	
+        SANDRA	
+        LEMURE	
+        5154 THIRD LINE ERAMOSA TD	
+        ERAMOSA	
+        ROCKWOOD	
+        ON	
+        N0B2K0	
+        5194008254	
+        5197675550	
+        2006	
+        CHRYSLER	
+        300	
+        08/21/2009	 
+Wellington Motors (#170)	
+        MICHAEL	
+        LEWIS	
+        340 LYNDEN DRIVE UNIT214	
+        	
+        CAMBRIDGE	
+        ON	
+        N3H5L4	
+        5192191969	
+        2262200245	
+        2009	
+        DODGE	
+        CALIBER	
+        08/12/2009	 
+Wellington Motors (#170)	
+        MICHAEL	
+        
+JANSEN	
+        RR4	
+        6&10 HIGHWAY	
+        OWEN SOUND	
+        ON	
+        N4K5N6	
+        5194004500	
+        9055649190	
+        2010	
+        DODGE	
+        RAM 1500	
+        04/28/2013	 
+Wellington Motors (#170)	
+        NICOLE	
+        
+HILLIKER	
+        3 55 VALLEYVIEW RD	
+        	
+        KITCHENER	
+        ON	
+        N2E1L5	
+        5197224772	
+        	
+        2013	
+        JEEP	
+        WRANGLER	
+        03/24/2013	 
+Wellington Motors (#170)	
+        WAYNE	
+        
+CAMPBELL	
+        5995 WELL RD 7	
+        RR#1	
+        ELORA	
+        ON	
+        N0B1S0	
+        5198462404	
+        5198220020	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        03/15/2013	 
+Wellington Motors (#170)	
+        PAUL	
+        
+TARRANT	
+        208-24 BRYBECK CRES	
+        	
+        KITCHENER	
+        ON	
+        N2M2C7	
+        5195919787	
+        	
+        2006	
+        DODGE	
+        RAM 1500	
+        11/10/2012	 
+Wellington Motors (#170)	
+        JAMES	
+        
+LILLIE	
+        524 HYANNIS CRT	
+        	
+        CAMBRIDGE	
+        ON	
+        N3H5M6	
+        5198412777	
+        	
+        2008	
+        CHRYSLER	
+        TOWN & COUNTRY	
+        08/31/2012	 
+Wellington Motors (#170)	
+        DARRYL	
+        
+VIEIRA	
+        66 MULLIN DR	
+        	
+        GUELPH	
+        ON	
+        N1E7M4	
+        5197638600	
+        	
+        2012	
+        DODGE	
+        JOURNEY	
+        07/25/2012	 
+Wellington Motors (#170)	
+        DAVID	
+        
+CEPPI	
+        60 WATT STREET	
+        	
+        GUELPH	
+        ON	
+        N1E6W6	
+        5198230896	
+        5198413197	
+        2006	
+        CHEVROLET	
+        EXPRESS CARGO VAN	
+        08/10/2012	 
+Wellington Motors (#170)	
+        AURELIA	
+        
+VANGEYTENBEEK	
+        3 55 VALLEYVIEW RD	
+        	
+        KITCHENER	
+        ON	
+        N2E1L5	
+        5197297066	
+        	
+        2012	
+        FIAT	
+        500	
+        06/17/2012	 
+Wellington Motors (#170)	
+        ROBERT	
+        
+PILON	
+        381 SMITH ST	
+        	
+        ARTHUR	
+        ON	
+        N0G1A0	
+        5198485348	
+        	
+        2008	
+        DODGE	
+        RAM 1500	
+        07/03/2012	 
+Wellington Motors (#170)	
+        DEAN	
+        
+GEISEL	
+        60 BRENTWOOD DR	
+        	
+        GUELPH	
+        ON	
+        N1H5M7	
+        5197660163	
+        5198353758	
+        2006	
+        DODGE	
+        RAM 1500	
+        07/05/2012	 
+Wellington Motors (#170)	
+        GORDON	
+        
+ATKINSON	
+        320 ALMA ST	
+        UNIT 9 RR3	
+        ROCKWOOD	
+        ON	
+        N0B2K0	
+        5198562933	
+        	
+        2006	
+        CHRYSLER	
+        SEBRING CONV	
+        05/26/2012	 
+Wellington Motors (#170)	
+        ROBERT	
+        
+FALCONER	
+        5 135 WEBER ST W	
+        	
+        KITCHENER	
+        ON	
+        N2H4A1	
+        5195917408	
+        	
+        2008	
+        HONDA	
+        CIVIC CPE	
+        06/11/2012	 
+Wellington Motors (#170)	
+        KENNETH	
+        
+LIVINGSTONE	
+        3451 PINE PASS MLA BOX 131	
+        	
+        FERGUS RR4	
+        ON	
+        N1M2W5	
+        2606670362	
+        	
+        2007	
+        DODGE	
+        CHARGER	
+        04/16/2012	 
+Wellington Motors (#170)	
+        KYLE	
+        
+BREESE	
+        9 WOODBOROUGH ROAD	
+        	
+        GUELPH	
+        ON	
+        N1G3L7	
+        5195462805	
+        	
+        2008	
+        JEEP	
+        PATRIOT	
+        02/09/2012	 
+Wellington Motors (#170)	
+        ISLINDA	
+        
+MADUT	
+        91 OLDFIELD DRIVE	
+        	
+        KITCHENER	
+        ON	
+        N2A3S1	
+        5195710312	
+        	
+        2008	
+        DODGE	
+        CHARGER	
+        01/06/2012	 
+Wellington Motors (#170)	
+        BENJAMIN	
+        
+MOTT	
+        16 CINDY AVENUE	
+        	
+        CAMBRIDGE	
+        ON	
+        N3C3J2	
+        5197163910	
+        5198944422	
+        2012	
+        FIAT	
+        500	
+        01/01/2012	 
+Wellington Motors (#170)	
+        DEBORAH	
+        
+WARREN	
+        707-8 CHRISTOPHER CRT	
+        	
+        GUELPH	
+        ON	
+        N1G4N7	
+        5192656967	
+        2267553232	
+        2010	
+        DODGE	
+        DAKOTA	
+        11/25/2011	 
+Wellington Motors (#170)	
+        TINA	
+        
+PEDRO	
+        75 FLAHERTY DR, UNIT 27	
+        	
+        GUELPH	
+        ON	
+        N1H8J8	
+        5198224365	
+        5197164365	
+        2003	
+        DODGE	
+        CARAVAN	
+        10/27/2011	 
+Wellington Motors (#170)	
+        TREVOR	
+        
+JEFFERSON	
+        23 MCKENZIE ST PO BOX 447	
+        	
+        BURKS FALLS	
+        ON	
+        P0A1C0	
+        5198303041	
+        18006062526	
+        2010	
+        DODGE	
+        CHALLENGER	
+        09/03/2011	 
+Wellington Motors (#170)	
+        TRACY	
+        
+AMOS	
+        421 OLD NEWBURY LANE	
+        	
+        CAMBRIDGE	
+        ON	
+        N3H5N9	
+        5196503167	
+        	
+        2004	
+        DODGE	
+        RAM 1500	
+        09/03/2011	 
+Wellington Motors (#170)	
+        WILLIAM	
+        
+GERRIOR	
+        1412 DUKE ST	
+        	
+        CAMBRIDGE	
+        ON	
+        N3H5M9	
+        5196502032	
+        5195736306	
+        2005	
+        DODGE	
+        RAM 2500	
+        08/10/2011	 
+Wellington Motors (#170)	
+        JANICE	
+        
+JENKINS	
+        B-604 YORK RD	
+        	
+        GUELPH	
+        ON	
+        N1E6A2	
+        5195467688	
+        9024038842	
+        2007	
+        DODGE	
+        RAM 1500	
+        06/17/2011	 
+Wellington Motors (#170)	
+        WAYNE	
+        
+CAMPBELL	
+        5995 WELL RD 7	
+        RR#1	
+        ELORA	
+        ON	
+        N0B1S0	
+        5198462404	
+        5198220020	
+        2010	
+        MAZDA	
+        MAZDA3	
+        04/09/2011	 
+Wellington Motors (#170)	
+        SHAWN	
+        
+KLAGES	
+        056404 C12 TP CHATS	
+        	
+        DESBORO R2	
+        ON	
+        N0H1K0	
+        5193636367	
+        5193762228	
+        2009	
+        DODGE	
+        GRAND CARAVAN	
+        N/A	 
+Wellington Motors (#170)	
+        STEWART	
+        
+JOTHAM	
+        80 BALMORAL DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1E3N6	
+        5198241344	
+        5198241344	
+        2007	
+        DODGE	
+        RAM 1500	
+        N/A	 
+Wellington Motors (#170)	
+        ROBERT	
+        
+WEBSTER	
+        3912 SIDE ROAD 25 SOUTH	
+        	
+        PUSLINCH RR2	
+        ON	
+        N0B2J0	
+        5196229653	
+        4166780328	
+        2008	
+        DODGE	
+        RAM 1500	
+        N/A	 
+Wellington Motors (#170)	
+        CHRISTINA	
+        
+DEGRUNT	
+        1320 BUNNELL DR	
+        	
+        BURLINGTON	
+        ON	
+        L7P2E1	
+        9053314406	
+        9053205070	
+        2008	
+        DODGE	
+        RAM 1500	
+        N/A	 
+Wellington Motors (#170)	
+        CARLA	
+        
+DEGALAN	
+        488 VINE STREET	
+        	
+        ST CATHARINES	
+        ON	
+        L2M3T4	
+        9059385616	
+        8005581184	
+        2008	
+        DODGE	
+        RAM 1500	
+        08/04/2010	 
+Wellington Motors (#170)	
+        PAULINE	
+        
+ROGERS	
+        8-33 BURNS DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1H6V8	
+        5192657217	
+        5198222901	
+        2006	
+        DODGE	
+        DAKOTA	
+        07/12/2010	 
+Wellington Motors (#170)	
+        PAULINE	
+        
+ROGERS	
+        8-33 BURNS DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1H6V8	
+        5192657217	
+        5198222901	
+        2007	
+        DODGE	
+        RAM 1500	
+        04/28/2011	 
+Wellington Motors (#170)	
+        TRACEY	
+        
+MACKIE	
+        136 SILURIAN DR	
+        	
+        GUELPH	
+        ON	
+        N1E1E7	
+        5198353856	
+        5198216661	
+        2008	
+        DODGE	
+        CALIBER	
+        02/13/2010	 
+Wellington Motors (#170)	
+        TRACEY	
+        
+MACKIE	
+        136 SILURIAN DR	
+        	
+        GUELPH	
+        ON	
+        N1E1E7	
+        5198353856	
+        5198216661	
+        2007	
+        DODGE	
+        CALIBER	
+        01/18/2010	 
+Wellington Motors (#170)	
+        BRIAN	
+        
+SLIPP	
+        630 WILLOW RD	
+        	
+        GUELPH	
+        ON	
+        N1H7M5	
+        5198239872	
+        	
+        2005	
+        DODGE	
+        CARAVAN	
+        12/12/2009	 
+Wellington Motors (#170)	
+        GERALDINE	
+        
+HEWITT	
+        5-263 SPEEDVALE AVE E	
+        	
+        GUELPH	
+        ON	
+        N1E1M8	
+        5197635397	
+        	
+        2007	
+        JEEP	
+        LIBERTY	
+        06/18/2009	 
+Wellington Motors (#170)	
+        SHAWN	
+        
+MAYOTTE	
+        199 SAGINAW PKWY UN 40	
+        	
+        CAMBRIDGE	
+        ON	
+        N1T1T1	
+        5196244295	
+        	
+        2008	
+        DODGE	
+        NITRO	
+        05/12/2009	 
+Wellington Motors (#170)	
+        IRENE	
+        
+TRICK	
+        563 WOODLAWN RD E	
+        	
+        GUELPH	
+        ON	
+        N1E1C3	
+        5198260889	
+        5198225350	
+        2013	
+        DODGE	
+        JOURNEY	
+        07/12/2013	 
+Wellington Motors (#170)	
+        WILLIAM	
+        
+CRIPPS	
+        619 WILLOW RD	
+        	
+        GUELPH	
+        ON	
+        N1H7J8	
+        5192658998	
+        	
+        2009	
+        CHRYSLER	
+        TOWN & COUNTRY	
+        07/11/2013	 
+Wellington Motors (#170)	
+        MARINA	
+        
+ZABIELSKI	
+        105 VICTORIA RD N	
+        	
+        GUELPH	
+        ON	
+        N1E5H4	
+        5198300461	
+        5197635478	
+        2010	
+        DODGE	
+        JOURNEY	
+        07/12/2013	 
+Wellington Motors (#170)	
+        TYLER	
+        
+MCMULLEN	
+        165 FERGUSON STREET	
+        	
+        GUELPH	
+        ON	
+        N1E2Z1	
+        5199946398	
+        	
+        2013	
+        DODGE	
+        DART	
+        07/18/2013	 
+Wellington Motors (#170)	
+        JAMES	
+        
+VALSAMOS	
+        12 COMPTON PL	
+        	
+        LONDON	
+        ON	
+        N6C4G4	
+        5196363321	
+        	
+        2013	
+        RAM	
+        1500	
+        07/28/2013	 
+Wellington Motors (#170)	
+        JONATHAN	
+        
+EBY	
+        2 46 WATERLOO ST	
+        	
+        KITCHENER	
+        ON	
+        N2H3T9	
+        5195752715	
+        	
+        2013	
+        FIAT	
+        500	
+        06/28/2013	 
+Wellington Motors (#170)	
+        ADAM	
+        
+GOOYERS	
+        33 HUNTERS LANE	
+        	
+        GUELPH	
+        ON	
+        N1C1B2	
+        5198204427	
+        5198317191	
+        2010	
+        DODGE	
+        GRAND CARAVAN	
+        06/22/2013	 

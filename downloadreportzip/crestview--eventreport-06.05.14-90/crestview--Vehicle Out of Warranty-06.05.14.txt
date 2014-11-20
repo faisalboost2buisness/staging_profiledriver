@@ -1,0 +1,2 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Williamson Chrysler			7259 O'NEIL ROAD RR3	UXBRIDGE	ON	L9P 1R3		9058525070	2013	DODGE	JOURNEY	10/15/2013 12:00:00 AM	 

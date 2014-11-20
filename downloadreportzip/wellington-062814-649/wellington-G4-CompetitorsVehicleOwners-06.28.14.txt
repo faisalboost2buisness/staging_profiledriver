@@ -1,0 +1,2320 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Wellington Motors (#170)	
+        CARRYN	
+        HUBBERT	
+        224 WELLINGTON ST	
+        	
+        BRANTFORD	
+        ON	
+        N3S3Z4	
+        5197541517	
+        9056283344	
+        2009	
+        TOYOTA	
+        VENZA	
+        10/26/2012	 
+Wellington Motors (#170)	
+        TOM	
+        DOERNER	
+        32 HUNTINGDALE PLACE	
+        	
+        KITCHENER	
+        ON	
+        N2A3K6	
+        5198938822	
+        	
+        2009	
+        MERCEDES-BENZ	
+        CLS-CLASS	
+        11/01/2012	 
+Wellington Motors (#170)	
+        ADAM	
+        WOODS	
+        539 2ND AVE E	
+        	
+        OWEN SOUND	
+        ON	
+        N4K2G5	
+        5193764119	
+        	
+        2011	
+        CHEVROLET	
+        CAMARO	
+        11/10/2012	 
+Wellington Motors (#170)	
+        MICHAEL	
+        HRYN	
+        6 PROSPECT AVE	
+        	
+        GUELPH	
+        ON	
+        N1E4W6	
+        5198309852	
+        5198272918	
+        2012	
+        AUDI	
+        A4	
+        01/30/2014	 
+Wellington Motors (#170)	
+        MICHELLE	
+        BOONSTRA	
+        97 PEPPERWOOD CRES	
+        	
+        KITCHENER	
+        ON	
+        N2A2R4	
+        5197480018	
+        5197805899	
+        2004	
+        SUBARU	
+        OUTBACK	
+        09/18/2012	 
+Wellington Motors (#170)	
+        JOSHUA	
+        FLETCHER	
+        79 MARR DRIVE	
+        	
+        ELORA	
+        ON	
+        N0B1S0	
+        5198461861	
+        	
+        2009	
+        NISSAN	
+        ALTIMA	
+        07/19/2012	 
+Wellington Motors (#170)	
+        CARMEN	
+        BOGDAN	
+        4 FALCON CIRCLE	
+        	
+        GUELPH	
+        ON	
+        N1L1H4	
+        	
+        	
+        2012	
+        SUBARU	
+        LEGACY	
+        07/17/2012	 
+Wellington Motors (#170)	
+        BRIAN	
+        FAVERO	
+        43 SHERWOOD DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1E6E6	
+        5197636131	
+        5194650271	
+        2007	
+        LEXUS	
+        ES 350	
+        07/27/2012	 
+Wellington Motors (#170)	
+        KERRY LEE	
+        HUNT-ALCANTARA	
+        3 LISA LANE	
+        	
+        GUELPH	
+        ON	
+        N1H7H7	
+        5197605938	
+        	
+        2011	
+        FORD	
+        FUSION	
+        02/04/2014	 
+Wellington Motors (#170)	
+        BAHAAULDEEN	
+        ABBAS	
+        108-2111 ROCHE CRT	
+        	
+        MISSISSAUGA	
+        ON	
+        L5K1T4	
+        5195850975	
+        	
+        2004	
+        NISSAN	
+        QUEST	
+        12/18/2012	 
+Wellington Motors (#170)	
+        JOHN	
+        KOENJER	
+        811 KENNEDY RD	
+        	
+        KEMPTVILLE R3	
+        ON	
+        K0G1J0	
+        6138807500	
+        	
+        2008	
+        FORD	
+        MUSTANG	
+        04/18/2012	 
+Wellington Motors (#170)	
+        JEFFERY	
+        ZELL	
+        9720 WELLINGTON ROAD #22	
+        	
+        ERIN	
+        ON	
+        N0B1T0	
+        5198559565	
+        5193625780	
+        2011	
+        HYUNDAI	
+        SONATA	
+        06/29/2012	 
+Wellington Motors (#170)	
+        THI LE HONG NHUNG	
+        BUI	
+        8-539 WILLOW RD	
+        	
+        GUELPH	
+        ON	
+        N1H7G3	
+        5192651329	
+        	
+        2007	
+        TOYOTA	
+        CAMRY	
+        05/10/2012	 
+Wellington Motors (#170)	
+        GREGORY	
+        GREEN	
+        37-414 STONE RD	
+        	
+        GUELPH	
+        ON	
+        N1G3E1	
+        	
+        	
+        2000	
+        PONTIAC	
+        GRAND PRIX	
+        03/14/2012	 
+Wellington Motors (#170)	
+        ANGEL	
+        CASTANEDA	
+        49 RHONDA RD UNIT 112	
+        	
+        GUELPH	
+        ON	
+        N1H7A4	
+        5198241567	
+        9058459430	
+        2008	
+        CHEVROLET	
+        MALIBU	
+        03/21/2012	 
+Wellington Motors (#170)	
+        PEER	
+        SEMMA	
+        9125 WELLLINGTON RD 50	
+        	
+        RR #2 ACTON	
+        ON	
+        L7J2L8	
+        5198535270	
+        	
+        1997	
+        PLYMOUTH	
+        BREEZE	
+        01/24/2012	 
+Wellington Motors (#170)	
+        SIMON	
+        DIETZ	
+        60 ABSALOM ST E	
+        	
+        MILDMAY	
+        ON	
+        N0G2J0	
+        5193672417	
+        5198891916	
+        2003	
+        TOYOTA	
+        CAMRY	
+        09/22/2011	 
+Wellington Motors (#170)	
+        STEVEN	
+        METZGER	
+        160 HENRY STREET	
+        	
+        PALMERSTON	
+        ON	
+        N0G2P0	
+        5192910761	
+        5198379690	
+        2008	
+        PONTIAC	
+        G6	
+        09/02/2011	 
+Wellington Motors (#170)	
+        WENDY	
+        JOHNSON	
+        5011 WELLINGTON RD 16	
+        	
+        BELWOOD	
+        ON	
+        N0B1J0	
+        5198435909	
+        6479214243	
+        2008	
+        PONTIAC	
+        G6	
+        08/22/2011	 
+Wellington Motors (#170)	
+        WILLIAM	
+        MACTAGGART	
+        25 MARY STREET	
+        	
+        GUELPH	
+        ON	
+        N1G2A6	
+        5198292860	
+        5198364633	
+        2011	
+        AUDI	
+        A5	
+        08/20/2011	 
+Wellington Motors (#170)	
+        CHRISTINA	
+        SIDER	
+        57-414 STONE RD W	
+        	
+        GUELPH	
+        ON	
+        N1G3E1	
+        5192650085	
+        5199934561	
+        2003	
+        PONTIAC	
+        GRAND AM	
+        08/30/2011	 
+Wellington Motors (#170)	
+        SHERRI-LEE	
+        PRIEBE	
+        68 LEACOCK AVENUE	
+        	
+        GUELPH	
+        ON	
+        N1E6R1	
+        5197800252	
+        	
+        2001	
+        TOYOTA	
+        CAMRY SOLARA	
+        09/12/2011	 
+Wellington Motors (#170)	
+        MARIE	
+        DOWNEY	
+        111 SHERIDAN ST	
+        	
+        GUELPH	
+        ON	
+        N1E3T9	
+        5198247792	
+        	
+        2005	
+        NISSAN	
+        MAXIMA	
+        07/05/2011	 
+Wellington Motors (#170)	
+        PATRICIA	
+        ELLIOTT	
+        5 ST CHARLES ST WEST	
+        	
+        MARYHILL	
+        ON	
+        N0B2B0	
+        5196489798	
+        	
+        2006	
+        FORD	
+        MUSTANG	
+        07/08/2011	 
+Wellington Motors (#170)	
+        PAUL	
+        MARTIN	
+        620 WISSLER RD	
+        	
+        WATERLOO	
+        ON	
+        N2K3Z2	
+        5198859856	
+        5195817900	
+        2006	
+        FORD	
+        MUSTANG	
+        06/11/2011	 
+Wellington Motors (#170)	
+        EGIDE	
+        MAZIMPAKA	
+        310-550 STRASBURG RD	
+        	
+        KITCHENER	
+        ON	
+        N2E2G9	
+        5196160435	
+        	
+        2005	
+        TOYOTA	
+        SIENNA	
+        12/04/2013	 
+Wellington Motors (#170)	
+        DALE	
+        LAGASSIE	
+        119 KEATING DRIVE	
+        	
+        ELORA	
+        ON	
+        N0B1S0	
+        5198468032	
+        5198363180	
+        2006	
+        TOYOTA	
+        SIENNA	
+        08/18/2010	 
+Wellington Motors (#170)	
+        GRANT	
+        SCHOLES	
+        40 FERMAN DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1H7E1	
+        5192651712	
+        	
+        2006	
+        FORD	
+        FREESTAR	
+        07/13/2010	 
+Wellington Motors (#170)	
+        MARGARET	
+        YOUNG	
+        52 SAMUELSON STREET	
+        	
+        CAMBRIDGE	
+        ON	
+        N1R1J8	
+        5196230757	
+        	
+        2003	
+        CHEVROLET	
+        MALIBU	
+        03/25/2010	 
+Wellington Motors (#170)	
+        EVADNE	
+        LEUTHARD	
+        15 WINDERMERE COURT	
+        	
+        GUELPH	
+        ON	
+        N1E3L3	
+        5197632787	
+        	
+        1998	
+        PLYMOUTH	
+        BREEZE	
+        03/10/2010	 
+Wellington Motors (#170)	
+        JENNIFER	
+        CLAYDON	
+        29 A CHURCH ST E	
+        	
+        ELMIRA	
+        ON	
+        N3B2L2	
+        5195023310	
+        5194986043	
+        1996	
+        PLYMOUTH	
+        VOYAGER	
+        01/05/2010	 
+Wellington Motors (#170)	
+        MICHAEL	
+        SUMMERS	
+        117 BRADSON DR	
+        	
+        GUELPH	
+        ON	
+        N1E7B7	
+        5198362491	
+        	
+        2003	
+        CHEVROLET	
+        MALIBU	
+        11/16/2009	 
+Wellington Motors (#170)	
+        THOMAS	
+        ALLEN	
+        2188 BEACH ROAD R4	
+        MLA BOX 269	
+        FERGUS	
+        ON	
+        N1M2W5	
+        5198435680	
+        	
+        2003	
+        OLDSMOBILE	
+        SILHOUETTE	
+        09/01/2009	 
+Wellington Motors (#170)	
+        HAROLD	
+        LAMBERT	
+        490 KING ST E	
+        	
+        MOUNT FOREST	
+        ON	
+        N0G2L0	
+        5195091416	
+        	
+        2002	
+        HONDA	
+        ODYSSEY	
+        09/14/2009	 
+Wellington Motors (#170)	
+        TONY	
+        MANTELL	
+        18 HALTER AV	
+        	
+        MARYHILL	
+        ON	
+        N0B2B0	
+        5196482990	
+        	
+        1999	
+        CHEVROLET	
+        LUMINA	
+        06/22/2009	 
+Wellington Motors (#170)	
+        STEVEN	
+        PRUDNIKOWICZ	
+        80 DEERPARK CRES	
+        	
+        KITCHENER	
+        ON	
+        N2M4R2	
+        	
+        5198228950	
+        2001	
+        PONTIAC	
+        MONTANA	
+        06/23/2009	 
+Wellington Motors (#170)	
+        	
+        
+PICKEN	
+        152 FIFE RD	
+        	
+        GUELPH	
+        ON	
+        N1H6Y3	
+        5193414969	
+        	
+        2011	
+        FORD	
+        FOCUS	
+        06/06/2013	 
+Wellington Motors (#170)	
+        BETTY	
+        
+HALLIBURTON	
+        14 CASSINO AVE	
+        	
+        GUELPH	
+        ON	
+        N1E2H8	
+        5198244877	
+        	
+        2007	
+        HONDA	
+        CIVIC SDN	
+        04/27/2013	 
+Wellington Motors (#170)	
+        VANESSA	
+        
+BAMSEY	
+        11 MARKSHAM	
+        	
+        GUELPH	
+        ON	
+        N1H1X3	
+        5198221729	
+        	
+        2005	
+        HONDA	
+        CIVIC CPE	
+        05/09/2013	 
+Wellington Motors (#170)	
+        KIEU	
+        
+NGUYEN	
+        30 PINETREE DR	
+        	
+        GUELPH	
+        ON	
+        N1K1P1	
+        5198365862	
+        	
+        2008	
+        HONDA	
+        ACCORD SDN	
+        04/04/2013	 
+Wellington Motors (#170)	
+        LUIGINA	
+        
+SLACK	
+        408 WEST ACRES DR	
+        	
+        GUELPH	
+        ON	
+        N1H7C2	
+        5198372664	
+        	
+        2012	
+        HONDA	
+        CIVIC SDN	
+        02/23/2013	 
+Wellington Motors (#170)	
+        DANIEL	
+        
+HAGARTY	
+        399 ST ANDREW ST E	
+        	
+        FERGUS	
+        ON	
+        N1M1R3	
+        2264445963	
+        5192733720	
+        2005	
+        MINI	
+        COOPER HARDTOP	
+        02/11/2013	 
+Wellington Motors (#170)	
+        CHRISTOPHER	
+        
+FOURNIER	
+        145 CARTER AV	
+        	
+        KIRKLAND LAKE	
+        ON	
+        P2N2A1	
+        7055676882	
+        	
+        2008	
+        HONDA	
+        ACCORD SDN	
+        01/04/2013	 
+Wellington Motors (#170)	
+        	
+        
+SUBTRACTUS INC DBA AMPERSAND PRINTG	
+        999 YORK RD	
+        	
+        GUELPH	
+        ON	
+        N1E6Y9	
+        7632421	
+        5197632421	
+        2010	
+        CHEVROLET	
+        EXPRESS CARGO VAN	
+        10/24/2012	 
+Wellington Motors (#170)	
+        NANCY	
+        
+DESERO	
+        4861 WELLINGTON ROAD #29	
+        RR#2	
+        GUELPH RR2	
+        ON	
+        N1H6H8	
+        5198275130	
+        	
+        2006	
+        PONTIAC	
+        G5 PURSUIT	
+        12/05/2012	 
+Wellington Motors (#170)	
+        RONALD	
+        
+ROBERTSON	
+        92 SIXTH AVE	
+        	
+        KITCHENER	
+        ON	
+        N2C1R1	
+        5198274389	
+        	
+        2010	
+        FORD	
+        SUPER DUTY F-250 SRW	
+        12/05/2012	 
+Wellington Motors (#170)	
+        SHAWN	
+        
+KLAGES	
+        056404 C12 TP CHATS	
+        	
+        DESBORO R2	
+        ON	
+        N0H1K0	
+        5193636367	
+        5193762228	
+        2009	
+        SUBARU	
+        FORESTER (NATL)	
+        01/17/2014	 
+Wellington Motors (#170)	
+        DEAN	
+        
+RICHARDS	
+        22 TROY STREET	
+        	
+        KITCHENER	
+        ON	
+        N2H1L8	
+        5195038933	
+        5198228950	
+        2000	
+        HONDA	
+        ACCORD CPE	
+        11/06/2013	 
+Wellington Motors (#170)	
+        TROY	
+        
+WARFORD	
+        335 SCOTTSDALE DR	
+        	
+        GUELPH	
+        ON	
+        N1G2W6	
+        5197315695	
+        5198228950	
+        2001	
+        CHEVROLET	
+        MALIBU	
+        10/03/2012	 
+Wellington Motors (#170)	
+        TROY	
+        
+WARFORD	
+        335 SCOTTSDALE DR	
+        	
+        GUELPH	
+        ON	
+        N1G2W6	
+        5197315695	
+        5198228950	
+        1998	
+        TOYOTA	
+        CAMRY	
+        10/03/2012	 
+Wellington Motors (#170)	
+        WILLIAM	
+        
+HARAS	
+        28 METER DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1E4H2	
+        5198241365	
+        5198241365	
+        2006	
+        BUICK	
+        ALLURE	
+        09/25/2012	 
+Wellington Motors (#170)	
+        JAMES	
+        
+COCHRANE	
+        62 NITH RD RR2	
+        	
+        PARIS	
+        ON	
+        N3L3E2	
+        2262086303	
+        	
+        2010	
+        FORD	
+        SUPER DUTY F-250 SRW	
+        10/01/2012	 
+Wellington Motors (#170)	
+        ALISON	
+        
+PLECKE	
+        145A ARTHUR ST N	
+        	
+        GUELPH	
+        ON	
+        N1E4V4	
+        5198032890	
+        5198032890	
+        2009	
+        NISSAN	
+        CUBE	
+        02/22/2013	 
+Wellington Motors (#170)	
+        MORGAN	
+        
+BLACK	
+        19 MANNINGTON COURT	
+        	
+        NEPEAN	
+        ON	
+        K2J4A1	
+        	
+        	
+        2006	
+        SUBARU	
+        IMPREZA WAGON	
+        07/12/2012	 
+Wellington Motors (#170)	
+        NANCY	
+        
+ALBERTON	
+        28 HILLTOP RD	
+        	
+        GUELPH	
+        ON	
+        N1E7L4	
+        5197632983	
+        	
+        1998	
+        TOYOTA	
+        PASEO	
+        07/13/2012	 
+Wellington Motors (#170)	
+        UMIT	
+        
+FATAH	
+        10 THE COUNTRY WAY UN 64	
+        	
+        KITCHENER	
+        ON	
+        N2E2T8	
+        5195850975	
+        	
+        2004	
+        NISSAN	
+        QUEST	
+        07/21/2012	 
+Wellington Motors (#170)	
+        CHRISTOPHER	
+        
+DE JONG	
+        B6-6 UPPER MERCER ST	
+        	
+        KITCHENER	
+        ON	
+        N2A0E4	
+        2269291913	
+        5193936579	
+        2010	
+        TOYOTA	
+        TUNDRA 4WD TRUCK	
+        07/31/2012	 
+Wellington Motors (#170)	
+        TRAVIS	
+        
+WILLIAMS	
+        7 QUEENSDALE CRES	
+        	
+        GUELPH	
+        ON	
+        N1H6W4	
+        5198235113	
+        5198368011	
+        2009	
+        FORD	
+        SUPER DUTY F-250 SRW	
+        08/01/2012	 
+Wellington Motors (#170)	
+        AKEEL	
+        
+JABAR	
+        6-175 SIEBERT AVE	
+        	
+        KITCHENER	
+        ON	
+        N2C2M1	
+        	
+        	
+        2000	
+        VOLKSWAGEN	
+        JETTA	
+        07/31/2012	 
+Wellington Motors (#170)	
+        UMIT	
+        
+FATAH	
+        10 THE COUNTRY WAY UN 64	
+        	
+        KITCHENER	
+        ON	
+        N2E2T8	
+        5195850975	
+        	
+        2001	
+        TOYOTA	
+        COROLLA	
+        09/12/2012	 
+Wellington Motors (#170)	
+        DAVID	
+        
+CEPPI	
+        60 WATT STREET	
+        	
+        GUELPH	
+        ON	
+        N1E6W6	
+        5198230896	
+        5198413197	
+        2006	
+        CHEVROLET	
+        EXPRESS CARGO VAN	
+        07/09/2012	 
+Wellington Motors (#170)	
+        STEPHEN	
+        
+FRANCIS	
+        88 WILLIAM STREET	
+        	
+        SALEM	
+        ON	
+        N0B1S0	
+        5198462140	
+        5194007828	
+        2011	
+        VOLKSWAGEN	
+        JETTA SEDAN	
+        07/09/2012	 
+Wellington Motors (#170)	
+        JAMIE	
+        
+MARTIN	
+        3-32 CENTRE ST	
+        	
+        ELMIRA	
+        ON	
+        N3B2V2	
+        5195054844	
+        5196642226	
+        2006	
+        MAZDA	
+        B-SERIES 2WD TRUCK	
+        06/12/2012	 
+Wellington Motors (#170)	
+        ADAM	
+        
+PASSMORE	
+        55 STILLWATER STREET	
+        	
+        ELMIRA	
+        ON	
+        N3B3M1	
+        5192100255	
+        	
+        2008	
+        HONDA	
+        CIVIC SDN	
+        05/18/2012	 
+Wellington Motors (#170)	
+        KAYLEIGH	
+        
+JOHNSON	
+        292 PINE ST	
+        	
+        LIVELY	
+        ON	
+        P3Y1N1	
+        7055612915	
+        8887174447	
+        2007	
+        VOLKSWAGEN	
+        JETTA SEDAN	
+        06/02/2012	 
+Wellington Motors (#170)	
+        UMIT	
+        
+FATAH	
+        10 THE COUNTRY WAY UN 64	
+        	
+        KITCHENER	
+        ON	
+        N2E2T8	
+        5195850975	
+        	
+        2004	
+        PONTIAC	
+        SUNFIRE	
+        05/30/2012	 
+Wellington Motors (#170)	
+        UMIT	
+        
+FATAH	
+        10 THE COUNTRY WAY UN 64	
+        	
+        KITCHENER	
+        ON	
+        N2E2T8	
+        5195850975	
+        	
+        2003	
+        CHEVROLET	
+        CAVALIER	
+        05/30/2012	 
+Wellington Motors (#170)	
+        UMIT	
+        
+FATAH	
+        10 THE COUNTRY WAY UN 64	
+        	
+        KITCHENER	
+        ON	
+        N2E2T8	
+        5195850975	
+        	
+        2000	
+        TOYOTA	
+        ECHO	
+        05/07/2012	 
+Wellington Motors (#170)	
+        STEWART	
+        
+GILES	
+        30 YORK ST	
+        	
+        ELORA	
+        ON	
+        N0B1S0	
+        5198465592	
+        5198366177	
+        2005	
+        NISSAN	
+        SENTRA	
+        05/07/2012	 
+Wellington Motors (#170)	
+        ROBERT	
+        
+FALCONER	
+        5 135 WEBER ST W	
+        	
+        KITCHENER	
+        ON	
+        N2H4A1	
+        5195917408	
+        	
+        2008	
+        HONDA	
+        CIVIC CPE	
+        05/11/2012	 
+Wellington Motors (#170)	
+        MATHEW	
+        
+NELSON	
+        85 FLEMING ROAD	
+        	
+        GUELPH	
+        ON	
+        N1E6X5	
+        5198358563	
+        5195469067	
+        2008	
+        INFINITI	
+        G35 SEDAN	
+        03/10/2012	 
+Wellington Motors (#170)	
+        TERRY	
+        
+HENDERSON	
+        23 ELMHURST CRES	
+        	
+        GUELPH	
+        ON	
+        N1H6C8	
+        5197100079	
+        5198221260	
+        2007	
+        VOLKSWAGEN	
+        GOLF CITY	
+        01/25/2012	 
+Wellington Motors (#170)	
+        NEIL	
+        
+GILES	
+        6303 FIFTH LINE	
+        6303 5TH LINE	
+        FERGUS RR4	
+        ON	
+        N1M2W5	
+        	
+        	
+        2010	
+        SKI-DOO	
+        RENEGADE	
+        10/05/2011	 
+Wellington Motors (#170)	
+        ALEXANDER	
+        
+ARCHDEKIN	
+        82 MAIN ST S	
+        	
+        BRAMPTON	
+        ON	
+        L6W2C6	
+        	
+        	
+        2007	
+        YAMAHA	
+        APEX	
+        10/05/2011	 
+Wellington Motors (#170)	
+        PAVLOS	
+        
+PARALOVOS	
+        123 NORMA CRES	
+        	
+        GUELPH	
+        ON	
+        N1E7M4	
+        5198235065	
+        2269799461	
+        2007	
+        MAZDA	
+        MAZDA3	
+        10/18/2011	 
+Wellington Motors (#170)	
+        JOEL	
+        
+WEARRING	
+        8438 FALCONBRIDGE DR	
+        	
+        MT.BRYDGES	
+        ON	
+        N0L1W0	
+        	
+        	
+        2009	
+        YAMAHA	
+        SKI DOO	
+        10/19/2011	 
+Wellington Motors (#170)	
+        	
+        
+DOUG KENNY & SON PLUMBING & HEATING	
+        21 MALCOLM RD	
+        #1	
+        GUELPH	
+        ON	
+        N1K1A7	
+        5197631801	
+        5198378522	
+        2011	
+        FORD	
+        EXPLORER	
+        11/08/2011	 
+Wellington Motors (#170)	
+        JAMES	
+        
+UGULINI	
+        58 WAKIL DR	
+        	
+        ST. CATHARINES	
+        ON	
+        L2T3J1	
+        9056843845	
+        9057089320	
+        2011	
+        VOLKSWAGEN	
+        JETTA SEDAN	
+        11/05/2011	 
+Wellington Motors (#170)	
+        JANET	
+        
+KENNY	
+        37 PACIFICA PLACE	
+        APT 904	
+        GUELPH	
+        ON	
+        N1G4R5	
+        5198371773	
+        	
+        2007	
+        MERCEDES-BENZ	
+        B-CLASS	
+        08/30/2011	 
+Wellington Motors (#170)	
+        CAROL	
+        
+HEYDEN	
+        16 PARKER PLACE	
+        	
+        GUELPH	
+        ON	
+        N1E7A7	
+        5198367239	
+        	
+        2010	
+        CHEVROLET	
+        SILVERADO 1500	
+        08/23/2011	 
+Wellington Motors (#170)	
+        DANIEL	
+        
+MCMAHON	
+        131252 SIDEROAD 13	
+        	
+        SOUTHGATE RR2	
+        ON	
+        N0G1N0	
+        5193239066	
+        	
+        2004	
+        HONDA	
+        ACCORD SDN	
+        08/27/2011	 
+Wellington Motors (#170)	
+        ROBERT	
+        
+KELLY	
+        736 FOREST HILL CRT	
+        	
+        SARNIA	
+        ON	
+        N7S0A4	
+        5195412999	
+        	
+        2005	
+        FORD	
+        SUPER DUTY F-250	
+        08/02/2011	 
+Wellington Motors (#170)	
+        DAMIAN	
+        
+MCDONALD	
+        211-308 WATSON PKY N	
+        	
+        GUELPH	
+        ON	
+        N1E0G7	
+        5199931195	
+        5198368800	
+        2010	
+        CHEVROLET	
+        EXPRESS CARGO VAN	
+        06/22/2011	 
+Wellington Motors (#170)	
+        JAMES	
+        
+NAGY	
+        1 KILKENNY PLACE	
+        	
+        GUELPH	
+        ON	
+        N1L1H1	
+        5198238434	
+        5198371300	
+        2005	
+        CHEVROLET	
+        CORVETTE	
+        06/27/2011	 
+Wellington Motors (#170)	
+        JANET	
+        
+KENNY	
+        37 PACIFICA PLACE	
+        APT 904	
+        GUELPH	
+        ON	
+        N1G4R5	
+        5198371773	
+        	
+        2009	
+        CADILLAC	
+        SRX	
+        05/24/2011	 
+Wellington Motors (#170)	
+        	
+        
+ACE SERVICES/ DARREN HASTINGS	
+        530 GOVERNORS ROAD	
+        	
+        GUELPH	
+        ON	
+        N1K1E3	
+        	
+        5198210710	
+        2005	
+        FORD	
+        SUPER DUTY F-550 DRW	
+        05/28/2011	 
+Wellington Motors (#170)	
+        LESS	
+        
+BERNARD	
+        43043 SAWMILL RD	
+        	
+        SEAFORTH	
+        ON	
+        N0K1W0	
+        5195271939	
+        	
+        2006	
+        VOLKSWAGEN	
+        JETTA SEDAN	
+        06/01/2011	 
+Wellington Motors (#170)	
+        GRAHAM	
+        
+HASTIE	
+        678 SADDLER ST E BOX 836	
+        	
+        DURHAM	
+        ON	
+        N0G1R0	
+        5193695930	
+        	
+        2007	
+        HONDA	
+        CIVIC SDN	
+        04/20/2011	 
+Wellington Motors (#170)	
+        MIRCEA	
+        
+BOGDAN	
+        4 FALCON CIRCLE	
+        	
+        GUELPH	
+        ON	
+        N1L1H4	
+        5198370528	
+        5198364440	
+        2008	
+        INFINITI	
+        G35 SEDAN	
+        04/29/2011	 
+Wellington Motors (#170)	
+        AHMED	
+        
+AL-NUAIMI	
+        313-266 KINGS WOOD DR	
+        	
+        KITCHENER	
+        ON	
+        N2E2K2	
+        2269290975	
+        	
+        2005	
+        TOYOTA	
+        SIENNA	
+        04/26/2011	 
+Wellington Motors (#170)	
+        MARK	
+        
+MITCHELL	
+        55 BALMORAL DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1E3N7	
+        5197630275	
+        5198243232	
+        2006	
+        VOLKSWAGEN	
+        PASSAT SEDAN	
+        05/06/2011	 
+Wellington Motors (#170)	
+        AMY	
+        
+BARBER	
+        4114 SIDEROAD #20 SOUTH	
+        	
+        PUSLINCH	
+        ON	
+        N0B2J0	
+        5198223724	
+        5197639330	
+        2007	
+        MITSUBISHI	
+        ECLIPSE	
+        04/11/2011	 
+Wellington Motors (#170)	
+        DEAN	
+        
+RICHARDS	
+        22 TROY ST	
+        	
+        KITCHENER	
+        ON	
+        N2H1L8	
+        	
+        	
+        1998	
+        CHEVROLET	
+        C/K 1500	
+        04/15/2011	 
+Wellington Motors (#170)	
+        STEWART	
+        
+GILES	
+        30 YORK ST	
+        	
+        ELORA	
+        ON	
+        N0B1S0	
+        5198465592	
+        5198366177	
+        1999	
+        HONDA	
+        CIVIC	
+        03/15/2011	 
+Wellington Motors (#170)	
+        WAYNE	
+        
+CAMPBELL	
+        5995 WELL RD 7	
+        RR#1	
+        ELORA	
+        ON	
+        N0B1S0	
+        5198462404	
+        5198220020	
+        2010	
+        MAZDA	
+        MAZDA3	
+        03/10/2011	 
+Wellington Motors (#170)	
+        	
+        
+DOUG KENNY & SON PLUMBING	
+        21 MALCOLM ROAD	
+        	
+        GUELPH	
+        ON	
+        N1K1A7	
+        5197631801	
+        5198378522	
+        2008	
+        LAND ROVER	
+        RANGE ROVER SPORT	
+        01/27/2011	 
+Wellington Motors (#170)	
+        MICHELLE	
+        
+TURNER	
+        6303 5TH LINE	
+        	
+        FERGUS	
+        ON	
+        N1M2W5	
+        5198468928	
+        5198244772	
+        2009	
+        YAMAHA	
+        	
+        09/13/2010	 
+Wellington Motors (#170)	
+        JOHN	
+        
+MARKLE	
+        314 DEIV L12 ARTHUR TP BX1085	
+        	
+        MOUNT FOREST	
+        ON	
+        N0G2L0	
+        5193234317	
+        	
+        2007	
+        CHEVROLET	
+        SILVERADO 1500	
+        07/19/2010	 
+Wellington Motors (#170)	
+        GABRIELLE	
+        
+MENARY	
+        30 ANNA ST	
+        	
+        ELMIRA	
+        ON	
+        N3B2C5	
+        5195038041	
+        	
+        2008	
+        HONDA	
+        CIVIC SDN	
+        10/29/2013	 
+Wellington Motors (#170)	
+        SATWINDERPAL	
+        
+THIND	
+        38 RAY CRESCENT	
+        	
+        GUELPH	
+        ON	
+        N1L0B6	
+        5192651315	
+        	
+        2003	
+        HONDA	
+        CIVIC	
+        06/17/2010	 
+Wellington Motors (#170)	
+        DARREN	
+        
+HASTINGS	
+        530 GOVERNORS RD	
+        	
+        GUELPH	
+        ON	
+        N1K1E3	
+        5196548140	
+        5198210710	
+        2012	
+        FORD	
+        SUPER DUTY F-250 SRW	
+        10/31/2013	 
+Wellington Motors (#170)	
+        TIM	
+        
+CIZEJ	
+        6358 CROWSFOOT RD	
+        	
+        BRESLAU R1	
+        ON	
+        N0B1M0	
+        5196482072	
+        	
+        2008	
+        VOLKSWAGEN	
+        CITY GOLF	
+        06/28/2010	 
+Wellington Motors (#170)	
+        BRIAN	
+        
+SNYDER	
+        20 BRANT PLACE	
+        	
+        CAMBRIDGE	
+        ON	
+        N1S2V8	
+        5197409521	
+        	
+        2008	
+        VOLKSWAGEN	
+        NEW BEETLE CONVERTIBLE	
+        05/25/2010	 
+Wellington Motors (#170)	
+        ENEZ	
+        
+ARIF	
+        10 THE COUNTRY WAY UN 64	
+        	
+        KITCHENER	
+        ON	
+        N2E2T8	
+        5195057116	
+        	
+        2003	
+        HONDA	
+        CIVIC	
+        11/15/2013	 
+Wellington Motors (#170)	
+        SUSAN	
+        
+HUTCHISON	
+        490 EASTBRIDGE BLVD	
+        	
+        WATERLOO	
+        ON	
+        N2K3Z8	
+        5198849116	
+        	
+        2009	
+        CADILLAC	
+        CTS	
+        03/05/2010	 
+Wellington Motors (#170)	
+        KRISTA	
+        
+HARPER	
+        21 SUNNYLEA CR	
+        	
+        GUELPH	
+        ON	
+        N1E1W3	
+        5198360004	
+        	
+        2007	
+        SKIDOO	
+        	
+        12/22/2009	 
+Wellington Motors (#170)	
+        PATRICK	
+        
+BYERS	
+        2381 JERSEYVILLE RD W	
+        	
+        ANCASTER	
+        ON	
+        L0R1R0	
+        9056481020	
+        	
+        1988	
+        CHEVROLET	
+        1/2 TON PICKUPS	
+        01/04/2010	 
+Wellington Motors (#170)	
+        GLEN	
+        
+SPARK	
+        72 LONGWOOD DR	
+        	
+        WATERLOO	
+        ON	
+        N2L4B7	
+        5197467435	
+        2262202066	
+        2006	
+        PONTIAC	
+        MONTANA SV6	
+        10/16/2009	 
+Wellington Motors (#170)	
+        BRIAN	
+        
+TAYLOR	
+        5185 SIDELINE 4	
+        	
+        ASHBURN RR1	
+        ON	
+        L0B1A0	
+        9056495947	
+        	
+        1984	
+        PORSCHE	
+        930	
+        10/28/2009	 
+Wellington Motors (#170)	
+        KENNETH	
+        
+MARTIN	
+        133-49 RHONDA ROAD	
+        	
+        GUELPH	
+        ON	
+        N1H7A4	
+        8376990	
+        5198212570	
+        2007	
+        HONDA	
+        CIVIC CPE	
+        09/27/2013	 
+Wellington Motors (#170)	
+        PAIGE	
+        
+ISLEY	
+        138 MILLIGAN ST	
+        	
+        FERGUS	
+        ON	
+        N1M3S4	
+        5197871719	
+        	
+        2003	
+        HONDA	
+        ACCORD CPE	
+        08/15/2009	 
+Wellington Motors (#170)	
+        LAURIE	
+        
+MONTGOMERY	
+        31 ATTO DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1E0E2	
+        5198235006	
+        	
+        2004	
+        FORD	
+        MUSTANG	
+        07/20/2009	 
+Wellington Motors (#170)	
+        JOHN	
+        
+SCHNEIDER	
+        92 GENERAL DR	
+        	
+        KITCHENER	
+        ON	
+        	
+        5195711182	
+        	
+        1994	
+        HONDA	
+        ACCORD	
+        06/10/2009	 
+Wellington Motors (#170)	
+        DAVID	
+        
+SOARES	
+        46 MELROSE PLACE	
+        	
+        GUELPH	
+        ON	
+        N1K1W4	
+        8219815	
+        	
+        2005	
+        MAZDA	
+        MAZDA3	
+        06/22/2009	 
+Wellington Motors (#170)	
+        ANTONELLA	
+        
+KING	
+        49 KEFFER STREET	
+        	
+        CAMBRIDGE	
+        ON	
+        N3C1N6	
+        5196549482	
+        5198210900	
+        2006	
+        NISSAN	
+        X-TRAIL	
+        06/29/2009	 
+Wellington Motors (#170)	
+        ALEXANDER	
+        
+KRUZIC	
+        7 VISTA DRIVE	
+        LOT 99	
+        BRADFORD	
+        ON	
+        L3Z0B6	
+        9055511004	
+        4165746824	
+        2003	
+        FORD	
+        MUSTANG	
+        05/23/2009	 
+Wellington Motors (#170)	
+        MARC	
+        
+SEGUIN	
+        213 GRANGE STREET	
+        	
+        GUELPH	
+        ON	
+        N1E2W2	
+        5199934632	
+        	
+        2001	
+        GMC	
+        SAFARI PASSENGER	
+        05/28/2009	 
+Wellington Motors (#170)	
+        TREVOR	
+        
+BLACK	
+        203 NORWICH ST	
+        	
+        BRESLAU	
+        ON	
+        N0B1M0	
+        5197876698	
+        	
+        1999	
+        CHEVROLET	
+        CAVALIER	
+        05/29/2009	 
+Wellington Motors (#170)	
+        DANIEL	
+        
+MARTINS	
+        43 MADILL DR	
+        	
+        ORANGEVILLE	
+        ON	
+        L9W2Z1	
+        5199389193	
+        	
+        2006	
+        HONDA	
+        CIVIC CPE	
+        06/13/2009	 
+Wellington Motors (#170)	
+        	
+        
+TRI CITY EQUIPMENT	
+        91 MONARCH ROAD	
+        	
+        GUELPH	
+        ON	
+        N1K1S4	
+        	
+        5197679628	
+        2004	
+        CHEVROLET	
+        VENTURE	
+        09/11/2013	 
+Wellington Motors (#170)	
+        TRACY-ANNE	
+        
+TUGHAN	
+        52 GRAYWOOD CRT	
+        	
+        KITCHENER	
+        ON	
+        N2E1W3	
+        5195899742	
+        5195761038	
+        2004	
+        PONTIAC	
+        GRAND AM	
+        04/25/2009	 
+Wellington Motors (#170)	
+        MATTHEW	
+        
+DICKSON	
+        16 STONEFIELD DRIVE	
+        	
+        WEST MONTROSE	
+        ON	
+        N0B2V0	
+        5196693198	
+        5197466300	
+        2008	
+        FORD	
+        EDGE	
+        04/29/2009	 
+Wellington Motors (#170)	
+        JOANNA	
+        
+DITTMER	
+        503 DOON SOUTH DR	
+        	
+        KITCHENER	
+        ON	
+        	
+        	
+        	
+        1998	
+        PLYMOUTH	
+        NEON	
+        05/07/2009	 
+Wellington Motors (#170)	
+        BRENT	
+        
+JOHNSON	
+        31 DAKOTA ST	
+        	
+        GUELPH	
+        ON	
+        N1E5J4	
+        5198358950	
+        5198228950	
+        2008	
+        MERCEDES-BENZ	
+        C-CLASS	
+        07/22/2012	 
+Wellington Motors (#170)	
+        MORRIS	
+        
+TWIST	
+        102 KATHLEEN STREET	
+        	
+        GUELPH	
+        ON	
+        N1H4Y3	
+        5198235144	
+        	
+        2007	
+        SAAB	
+        9-3	
+        10/17/2013	 
+Wellington Motors (#170)	
+        ICARO	
+        
+ALMEIDA	
+        546 OLD HIGHWAY 24 PO BOX 1065	
+        	
+        WATERFORD	
+        ON	
+        N0E1Y0	
+        5194982306	
+        	
+        2010	
+        MAZDA	
+        MAZDA3	
+        08/26/2013	 
+Wellington Motors (#170)	
+        JOHN	
+        
+KONONIUK	
+        96 GOLFDALE CRES	
+        	
+        LONDON	
+        ON	
+        N6C5P5	
+        5196708657	
+        	
+        2004	
+        FORD	
+        MUSTANG	
+        08/24/2013	 
+Wellington Motors (#170)	
+        RICHARD	
+        
+GEISTER	
+        194 DARTMOOR CRES	
+        	
+        WATERLOO	
+        ON	
+        N2K3S8	
+        5197434433	
+        2268681039	
+        2008	
+        HUMMER	
+        H3	
+        08/23/2013	 
+Wellington Motors (#170)	
+        MACKENZIE	
+        
+SAMUELS	
+        80-129 VICTORIA ROAD N	
+        	
+        GUELPH	
+        ON	
+        N1E6V4	
+        5192656265	
+        	
+        2009	
+        PONTIAC	
+        G8	
+        08/23/2013	 
+Wellington Motors (#170)	
+        	
+        
+NEWTON GROUP LTD.	
+        41 MASSEY ROAD	
+        	
+        GUELPH	
+        ON	
+        N1H7M6	
+        5198225281	
+        	
+        2010	
+        CHEVROLET	
+        SILVERADO 1500	
+        08/27/2013	 
+Wellington Motors (#170)	
+        ERIK	
+        
+PETTERSSON	
+        3-21 DORMIE LANE	
+        	
+        GUELPH	
+        ON	
+        N1G1G7	
+        5198303512	
+        9054755351	
+        2009	
+        CHEVROLET	
+        SILVERADO 1500	
+        03/20/2014	 
+Wellington Motors (#170)	
+        JESSICA	
+        
+INGHAM	
+        170 OAKWOOD AVE	
+        	
+        CAMBRIDGE	
+        ON	
+        N3H4J2	
+        5192218810	
+        5196249050	
+        2011	
+        SCION	
+        XD	
+        09/09/2013	 
+Wellington Motors (#170)	
+        ROBERT	
+        
+WILLIAMSON	
+        360 ST PATRICK ST W	
+        	
+        FERGUS	
+        ON	
+        N1M1L9	
+        5198030515	
+        2269713888	
+        2007	
+        CHEVROLET	
+        SILVERADO 1500 CLASSIC	
+        09/06/2013	 
+Wellington Motors (#170)	
+        WILMA	
+        
+MACFARLANE	
+        11 KIMBERLEY DR	
+        	
+        GUELPH	
+        ON	
+        N1H1L1	
+        5198216942	
+        	
+        2007	
+        FORD	
+        EDGE	
+        08/30/2013	 
+Wellington Motors (#170)	
+        IRENE	
+        
+FLEMING	
+        23 PEACHTREE CRES	
+        	
+        GUELPH	
+        ON	
+        N1H8K5	
+        5197670470	
+        	
+        2011	
+        KIA	
+        RIO	
+        09/05/2013	 
+Wellington Motors (#170)	
+        ROBERT	
+        
+BRITTON	
+        5 RASPBERRY LANE	
+        	
+        GUELPH	
+        ON	
+        N1E7H6	
+        5198247416	
+        5198221811	
+        2008	
+        HYUNDAI	
+        ACCENT	
+        09/11/2013	 
+Wellington Motors (#170)	
+        	
+        
+D & H SALES AND SERVICE	
+        RR4 HARRISTON	
+        	
+        HARRISTON	
+        ON	
+        N0G1Z0	
+        5193236223	
+        	
+        2006	
+        FORD	
+        FUSION	
+        09/13/2013	 
+Wellington Motors (#170)	
+        PER	
+        
+TRAULSEN	
+        604-316 KATHLEEN ST	
+        	
+        GUELPH	
+        ON	
+        N1H4Y9	
+        5192652376	
+        	
+        2011	
+        VOLKSWAGEN	
+        JETTA SEDAN	
+        08/16/2013	 
+Wellington Motors (#170)	
+        AHMED	
+        
+AL-NUAIMI	
+        313-266 KINGS WOOD DR	
+        	
+        KITCHENER	
+        ON	
+        N2E2K2	
+        	
+        	
+        2005	
+        MAZDA	
+        MAZDA6	
+        07/31/2013	 
+Wellington Motors (#170)	
+        GREG	
+        
+BIRKHOLZ	
+        RR#4 8573	
+        	
+        ROCKWOOD	
+        ON	
+        N0B2K0	
+        5198562496	
+        	
+        2003	
+        VOLKSWAGEN	
+        JETTA SEDAN	
+        08/01/2013	 
+Wellington Motors (#170)	
+        REGAN	
+        
+STOCCO	
+        7210 WELLINGTON RD 51	
+        	
+        ARISS	
+        ON	
+        N0B1B0	
+        5198299154	
+        5198243232	
+        2006	
+        HONDA	
+        ACCORD SDN	
+        07/26/2013	 
+Wellington Motors (#170)	
+        JAMES	
+        
+MCLEAR	
+        138 DOVERCLIFFE RD	
+        	
+        GUELPH	
+        ON	
+        N1G3A6	
+        5198267604	
+        4167273914	
+        2004	
+        FORD	
+        MUSTANG	
+        07/22/2013	 
+Wellington Motors (#170)	
+        MATTHEW	
+        
+GRAZZIOTTO	
+        27 BOREHAM DRIVE	
+        	
+        ARKELL	
+        ON	
+        N0B1C0	
+        5198361686	
+        	
+        1995	
+        FORD	
+        MUSTANG	
+        07/25/2013	 
+Wellington Motors (#170)	
+        GIUSEPPE	
+        
+GALLETTA	
+        101 BAGOT STREET	
+        	
+        GUELPH	
+        ON	
+        N1H5T7	
+        5192426719	
+        	
+        2001	
+        LEXUS	
+        IS 300	
+        07/27/2013	 
+Wellington Motors (#170)	
+        STEVEN	
+        
+REINER	
+        239 BENESFORT CRES	
+        	
+        KITCHENER	
+        ON	
+        N2N3B5	
+        5197437455	
+        5197464908	
+        2010	
+        FORD	
+        RANGER	
+        07/31/2013	 
+Wellington Motors (#170)	
+        THOMAS	
+        
+YOUNG	
+        67 SHERIDAN ST	
+        	
+        GUELPH	
+        ON	
+        N1E3T9	
+        5197634621	
+        	
+        2008	
+        PONTIAC	
+        MONTANA SV6	
+        08/10/2013	 
+Wellington Motors (#170)	
+        LILLIAN	
+        
+LEWIS	
+        425 WILSON AVE UN 1517	
+        	
+        KITCHENER	
+        ON	
+        N2C2R8	
+        5198941925	
+        5195734713	
+        2010	
+        TOYOTA	
+        COROLLA	
+        08/14/2013	 
+Wellington Motors (#170)	
+        KURT	
+        
+FELKER	
+        90 CAMBRIDGE STREET	
+        	
+        GUELPH	
+        ON	
+        N1H2V4	
+        8217288	
+        	
+        2010	
+        CADILLAC	
+        SRX	
+        06/22/2013	 
+Wellington Motors (#170)	
+        SCOTT	
+        
+GRAHAM	
+        17 CLINTON ST	
+        	
+        GUELPH	
+        ON	
+        N1H5G3	
+        5198229337	
+        	
+        2008	
+        BUICK	
+        ALLURE	
+        06/20/2013	 
+Wellington Motors (#170)	
+        ERIC	
+        
+EDWARDS	
+        18 RIDGEWAY CR	
+        	
+        KITCHENER	
+        ON	
+        N2E3M3	
+        5197452442	
+        5195751074	
+        2007	
+        CHEVROLET	
+        UPLANDER	
+        03/28/2014	 
+Wellington Motors (#170)	
+        JENNIFER	
+        
+BROWN	
+        182 MCBAY RD	
+        	
+        BRANTFORD	
+        ON	
+        N3T5L4	
+        2262284457	
+        	
+        2009	
+        HONDA	
+        CIVIC SDN	
+        07/02/2013	 
+Wellington Motors (#170)	
+        RAEBURN	
+        
+ALMOND	
+        59 PAUL AV	
+        	
+        GUELPH	
+        ON	
+        N1E1S3	
+        5196482161	
+        	
+        2006	
+        NISSAN	
+        SENTRA	
+        07/04/2013	 
+Wellington Motors (#170)	
+        FULLPREET	
+        
+PANDHER	
+        892 MASSIMO CRES	
+        	
+        WINDSOR	
+        ON	
+        N9G3C6	
+        5199667339	
+        5195674981	
+        2008	
+        CADILLAC	
+        ESCALADE	
+        07/13/2013	 
+Wellington Motors (#170)	
+        	
+        
+ARI FINANCIAL SERVICES INC	
+        1270 CENTRAL PKWY W SUITE 600	
+        	
+        MISSISSAUGA	
+        ON	
+        L5C4P4	
+        	
+        9058038000	
+        2012	
+        FORD	
+        ECONOLINE WAGON	
+        05/07/2013	 
+Wellington Motors (#170)	
+        	
+        
+ARI FINANCIAL SERVICES INC	
+        1270 CENTRAL PKWY W SUITE 600	
+        	
+        MISSISSAUGA	
+        ON	
+        L5C4P4	
+        	
+        9058038000	
+        2012	
+        FORD	
+        ECONOLINE WAGON	
+        05/07/2013	 
+Wellington Motors (#170)	
+        JESSICA	
+        
+VAUGHAN	
+        108 SRIEFELMEYER CRES	
+        	
+        BADEN	
+        ON	
+        N3A4K6	
+        5198075787	
+        	
+        2007	
+        TOYOTA	
+        YARIS	
+        05/17/2013	 
+Wellington Motors (#170)	
+        JACQUELINE	
+        
+MCLARNON	
+        19 PONDVIEW CR	
+        	
+        GUELPH	
+        ON	
+        N1E3K2	
+        5198366628	
+        8245150	
+        2008	
+        HONDA	
+        CIVIC CPE	
+        05/24/2013	 

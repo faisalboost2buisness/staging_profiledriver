@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>Trucks</FirstName>
+    <LastName>VehicleClass</LastName>
+    <Address>39 Miltrose Cres.</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L4A 0P8</Zip>
+    <HomePhone>6479227568</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2013</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>12/18/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>Gas</FirstName>
+    <LastName>FuelType</LastName>
+    <Address>183 Casimir St.</Address>
+    <Apartment>APT 1</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L9L 1B7</Zip>
+    <HomePhone>9059854033</HomePhone>
+    <WorkPhone>0</WorkPhone>
+    <Year>2013</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>07/24/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>Diesel</FirstName>
+    <LastName>FuelType</LastName>
+    <Address>105 STATION RD</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>K0M 2J0</Zip>
+    <HomePhone>7053573365</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2013</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>10/10/2013</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>Other/Unknown</FirstName>
+    <LastName>FuelType</LastName>
+    <Address>581 SLINGERLAND CIRCLE</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L3X 1X9</Zip>
+    <HomePhone>6473338674</HomePhone>
+    <WorkPhone>0</WorkPhone>
+    <Year>2013</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>10/31/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist4>
+  <Leadlist5>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>City=Fort MCMurray</FirstName>
+    <LastName>Local/Out of Town</LastName>
+    <Address>13450 Old Scugog Road</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>Fort McMurray</City>
+    <State>ON</State>
+    <Zip>L0B 1B0</Zip>
+    <HomePhone>9059869902</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2013</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>12/07/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist5>
+  <Leadlist6>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>Used</FirstName>
+    <LastName>Used vs. New Purchase</LastName>
+    <Address>36 SPRINGDALE DRIVE</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>K9V 0J4</Zip>
+    <HomePhone>7058789941</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2013</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>10/29/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist6>
+  <Leadlist7>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>New</FirstName>
+    <LastName>Used vs. New Purchase</LastName>
+    <Address>45 BEECH STREET N</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L9P 1A8</Zip>
+    <HomePhone>9058524966</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2011</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>07/09/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist7>
+</data>

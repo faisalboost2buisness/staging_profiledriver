@@ -1,0 +1,561 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Richmond Chrysler (#247)	
+        CIPRIANO PROTACIO	
+        TIONGSON	
+        115-6075 WILSON AVE	
+        	
+        BURNABY	
+        BC	
+        	
+        	
+        6044364530	
+        2013	
+        CHRYSLER	
+        300	
+        05/28/2014	 
+Richmond Chrysler (#247)	
+        RALF ENEMARK	
+        HALLUM	
+        322-9151 NO5 RD	
+        	
+        RICHMOND	
+        BC	
+        	
+        6046195175	
+        	
+        2010	
+        CHRYSLER	
+        300	
+        06/04/2014	 
+Richmond Chrysler (#247)	
+        AMARDEEP	
+        BHANGRE	
+        8165 15TH AVE	
+        	
+        BURNABY	
+        BC	
+        	
+        6047288455	
+        	
+        2013	
+        DODGE	
+        CHARGER	
+        06/08/2014	 
+Richmond Chrysler (#247)	
+        	
+        PFAFF MOTORS INC	
+        1711 2ND AVE W	
+        	
+        VANCOUVER	
+        BC	
+        	
+        6047319332	
+        	
+        2014	
+        DODGE	
+        CHARGER	
+        06/12/2014	 
+Richmond Chrysler (#247)	
+        LORRAINE	
+        FRASER	
+        1721 248 ST	
+        	
+        ALDERGROVE	
+        BC	
+        	
+        6046260337	
+        6042789751	
+        2013	
+        DODGE	
+        CHARGER	
+        06/14/2014	 
+Richmond Chrysler (#247)	
+        GEORGE	
+        SPYTHOURAKIS	
+        11926 92A AVE	
+        	
+        DELTA	
+        BC	
+        	
+        6043497487	
+        	
+        2007	
+        CHRYSLER	
+        300	
+        06/22/2014	 
+Richmond Chrysler (#247)	
+        LAKHVINDER	
+        SANDHU	
+        8068 135A ST	
+        	
+        SURREY	
+        BC	
+        	
+        6048979200	
+        	
+        2011	
+        CHRYSLER	
+        300	
+        06/29/2014	 
+Richmond Chrysler (#247)	
+        MARK	
+        YUN	
+        1703-2088 MADISON AVE	
+        	
+        BURNABY	
+        BC	
+        	
+        7788701461	
+        	
+        2012	
+        CHRYSLER	
+        300	
+        09/29/2013	 
+Richmond Chrysler (#247)	
+        SUKHDEEP SINGH	
+        BAINS	
+        6906 148ST	
+        	
+        SURREY	
+        BC	
+        	
+        	
+        	
+        2013	
+        CHRYSLER	
+        300	
+        06/29/2014	 
+Richmond Chrysler (#247)	
+        	
+        PFAFF AUTO LEASING	
+        1711 WEST 2ND AVE	
+        	
+        VANCOUVER	
+        BC	
+        	
+        6047319332	
+        	
+        2010	
+        CHRYSLER	
+        300	
+        07/05/2014	 
+Richmond Chrysler (#247)	
+        BRUCE	
+        SHEPPARD	
+        612 ENGLISH BLUFF	
+        	
+        DELTA	
+        BC	
+        	
+        6049481570	
+        	
+        2013	
+        CHRYSLER	
+        300	
+        07/17/2014	 
+Richmond Chrysler (#247)	
+        MICHAEL	
+        DOBUD	
+        1055 CORNELL AVE	
+        	
+        COQUITLAM	
+        BC	
+        	
+        7789961501	
+        	
+        2013	
+        DODGE	
+        CHARGER	
+        07/19/2014	 
+Richmond Chrysler (#247)	
+        HAI-YAN	
+        HOU	
+        203-1468 73RD AVE W	
+        	
+        VANCOUVER	
+        BC	
+        	
+        6042548388	
+        	
+        2013	
+        CHRYSLER	
+        300	
+        07/20/2014	 
+Richmond Chrysler (#247)	
+        JORDAN	
+        ATKINSON	
+        302-4926 48TH AVE	
+        	
+        DELTA	
+        BC	
+        	
+        7788463182	
+        6043264650	
+        2013	
+        DODGE	
+        CHARGER	
+        07/25/2014	 
+Richmond Chrysler (#247)	
+        STEPHEN	
+        TULL	
+        5285 WELLBURN DR	
+        	
+        DELTA	
+        BC	
+        	
+        6049461764	
+        6047881473	
+        2012	
+        CHRYSLER	
+        300	
+        10/02/2013	 
+Richmond Chrysler (#247)	
+        JAGJIT	
+        KAILEY	
+        12198 75 AVE	
+        	
+        SURREY	
+        BC	
+        	
+        6042903630	
+        	
+        2013	
+        CHRYSLER	
+        300	
+        08/24/2014	 
+Richmond Chrysler (#247)	
+        MICHAEL	
+        GIGNAC	
+        2201 1033 MARINASIDE CR.	
+        	
+        VANCOUVER	
+        BC	
+        	
+        7788820050	
+        	
+        2012	
+        DODGE	
+        CHARGER	
+        07/20/2012	 
+Richmond Chrysler (#247)	
+        PAUL	
+        THOMAS	
+        1425 54TH ST	
+        	
+        DELTA	
+        BC	
+        	
+        6049434059	
+        6049084757	
+        2011	
+        CHRYSLER	
+        300	
+        09/09/2012	 
+Richmond Chrysler (#247)	
+        JAMES	
+        CARSLAKE	
+        18117 68A AVENUE	
+        	
+        SURREY	
+        BC	
+        	
+        6042401151	
+        	
+        2011	
+        CHRYSLER	
+        300	
+        09/16/2012	 
+Richmond Chrysler (#247)	
+        SELENA	
+        POLONI	
+        4854 CEDAR CR	
+        	
+        DELTA	
+        BC	
+        	
+        6048385245	
+        	
+        2008	
+        DODGE	
+        CHARGER	
+        10/06/2013	 
+Richmond Chrysler (#247)	
+        MERTON	
+        WALES	
+        4625 55A ST	
+        	
+        DELTA	
+        BC	
+        	
+        6049464502	
+        6048059343	
+        2011	
+        DODGE	
+        CHARGER	
+        09/21/2012	 
+Richmond Chrysler (#247)	
+        MERTON	
+        WALES	
+        4625 55A ST	
+        	
+        DELTA	
+        BC	
+        	
+        6049464502	
+        6048059343	
+        2012	
+        DODGE	
+        CHARGER	
+        09/23/2012	 
+Richmond Chrysler (#247)	
+        YANN	
+        CAYLA	
+        6187 PEARL AVE	
+        	
+        BURNABY	
+        BC	
+        	
+        7788661471	
+        	
+        2011	
+        DODGE	
+        CHARGER	
+        09/29/2012	 
+Richmond Chrysler (#247)	
+        BO CHEN	
+        YANG	
+        11511 STEVSON HWY UNIT 21	
+        	
+        RICHMOND	
+        BC	
+        	
+        7785587665	
+        	
+        2011	
+        CHRYSLER	
+        300	
+        10/04/2012	 
+Richmond Chrysler (#247)	
+        RONALD	
+        DAVID	
+        2612 DUKE ST	
+        	
+        VANCOUVER	
+        BC	
+        	
+        6044514390	
+        6046856011	
+        2009	
+        DODGE	
+        CHARGER	
+        10/19/2012	 
+Richmond Chrysler (#247)	
+        JOHN	
+        MCCOLLUM	
+        11250 PROSPECT DR	
+        	
+        DELTA	
+        BC	
+        	
+        6045962171	
+        	
+        2012	
+        CHRYSLER	
+        300	
+        10/21/2012	 
+Richmond Chrysler (#247)	
+        SHABNAM	
+        KHAN	
+        2 7867 120 ST	
+        	
+        DELTA	
+        BC	
+        	
+        6045018005	
+        6046853555	
+        2012	
+        DODGE	
+        CHARGER	
+        12/05/2012	 
+Richmond Chrysler (#247)	
+        	
+        SCRAPPY DOO'S	
+        	
+        	
+        RICHMOND	
+        BC	
+        	
+        7785526359	
+        	
+        1990	
+        CHRYSLER	
+        IMPERIAL	
+        11/05/2012	 
+Richmond Chrysler (#247)	
+        CHANG	
+        LIU	
+        D19 1373 SUMMIT DR	
+        	
+        KAMLOOPS	
+        BC	
+        	
+        2505743887	
+        	
+        2013	
+        DODGE	
+        CHARGER	
+        01/30/2013	 
+Richmond Chrysler (#247)	
+        WILLIAM	
+        MACKIE	
+        3288 EAST 27TH AVE	
+        	
+        VANCOUVER	
+        BC	
+        	
+        7789883682	
+        6044326845	
+        2009	
+        DODGE	
+        CHARGER	
+        11/19/2012	 
+Richmond Chrysler (#247)	
+        KANWALDEEP	
+        SANDHU	
+        12473 69 AVE	
+        	
+        SURREY	
+        BC	
+        	
+        7782314443	
+        6045950888	
+        2011	
+        DODGE	
+        CHARGER	
+        11/26/2012	 
+Richmond Chrysler (#247)	
+        CHAO	
+        JIANG	
+        2601 128 WEST CORDOVA	
+        	
+        VANCOUVER	
+        BC	
+        	
+        7789983040	
+        7789983040	
+        2012	
+        CHRYSLER	
+        300	
+        12/09/2012	 
+Richmond Chrysler (#247)	
+        TYLER	
+        WICKS	
+        1518 HUNTER STREET	
+        	
+        NORTH VANCOUVER	
+        BC	
+        	
+        6047651698	
+        	
+        2005	
+        CHRYSLER	
+        300	
+        10/13/2013	 
+Richmond Chrysler (#247)	
+        CHARLOTTE	
+        BALLISAGER	
+        5727 171 ST	
+        	
+        SURRY	
+        BC	
+        	
+        7788745208	
+        	
+        2012	
+        DODGE	
+        CHARGER	
+        12/02/2012	 
+Richmond Chrysler (#247)	
+        RICKY	
+        JENNINGS	
+        440 FAIRWAY ST	
+        	
+        COQUITLAM	
+        BC	
+        	
+        6043091036	
+        	
+        2010	
+        CHRYSLER	
+        300	
+        12/02/2012	 
+Richmond Chrysler (#247)	
+        	
+        PARKSVILLE CHRYSLER LTD.	
+        230 SHELLY ROAD	
+        	
+        PARKSVILLE	
+        BC	
+        	
+        2502482086	
+        2502483281	
+        2011	
+        CHRYSLER	
+        300	
+        12/12/2012	 
+Richmond Chrysler (#247)	
+        JEREMY	
+        BACHMAN	
+        1 2295 WEST 40TH AVE	
+        	
+        VANCOUVER	
+        BC	
+        	
+        6043550308	
+        6042764585	
+        2010	
+        DODGE	
+        CHARGER	
+        12/09/2012	 
+Richmond Chrysler (#247)	
+        TONI	
+        KALAVESIS	
+        809 SEYMOUR BLVD	
+        	
+        NORTH VAN	
+        BC	
+        	
+        6046144041	
+        	
+        2011	
+        DODGE	
+        CHARGER	
+        12/12/2012	 
+Richmond Chrysler (#247)	
+        TEJINDER	
+        JAWANDHA	
+        530 CARSON AVE	
+        	
+        QUESNEL	
+        BC	
+        	
+        2509923563	
+        2509839798	
+        1999	
+        CADILLAC	
+        DEVILLE	
+        12/16/2012	 
+Richmond Chrysler (#247)	
+        JOSEPHINE	
+        CRAWFORD	
+        10 102 FRASER ST	
+        	
+        PORT MOODY	
+        BC	
+        	
+        6046572719	
+        6044614252	
+        2007	
+        MERCEDES-BENZ	
+        CLS-CLASS	
+        01/14/2013	 

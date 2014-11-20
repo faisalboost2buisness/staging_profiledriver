@@ -1,0 +1,2 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Bill Howich Chrysler	GORDON	BOYCE	585 GRAYSON ROAD	CAMPBELL RIVER	BC	V9W 6K3	2509232461		2009	DODGE	CHALLENGER	06/03/2010 12:00:00 AM	 

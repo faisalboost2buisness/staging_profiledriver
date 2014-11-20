@@ -1,0 +1,1541 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Twin Motors (#204)	
+        	
+        	
+        BOX 111O	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        JOE	
+        BEAR/MKH	
+        BOX 287	
+        	
+        PUKATAWAGAN	
+        MB	
+        R0B 1G0	
+        2046233449	
+        	
+        2010	
+        JEEP	
+        COMPASS	
+        N/A	 
+Twin Motors (#204)	
+        TAMARA	
+        BALLANTYNE	
+        313 1ST AVE BOX 234	
+        	
+        CREIGHTON	
+        SK	
+        S0P 0A0	
+        3066883376	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        SKYHLAR	
+        EVERSON	
+        BOX 626	
+        	
+        THE PAS	
+        MB	
+        R9A 1K7	
+        2046245406	
+        	
+        2011	
+        JEEP	
+        COMPASS	
+        N/A	 
+Twin Motors (#204)	
+        JASON	
+        RUTH	
+        LOT 4484 HWY#10 BOX 144	
+        	
+        WANLESS	
+        MB	
+        R0B 1T0	
+        2046827069	
+        	
+        2013	
+        JEEP	
+        WRANGLER	
+        N/A	 
+Twin Motors (#204)	
+        MURRAY	
+        HARVEY	
+        LOT 358 RALLS ISLAND RD. BOX 2872	
+        	
+        THE PAS	
+        MB	
+        R9A 1M6	
+        2046235503	
+        	
+        2013	
+        JEEP	
+        PATRIOT	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        BOX 111O	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH VENTURES INC.	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH VENTURES INC.	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH VENTURES INC.	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH VENTURES INC.	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        CAROLYN	
+        HALCROW	
+        23 GREYWOLF BAY	
+        	
+        THOMPSON	
+        MB	
+        R8N 1H5	
+        2047788495	
+        	
+        2010	
+        JEEP	
+        COMPASS	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        	
+        mkh	
+        BOX 111O	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH VENTURES INC	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        JYOTI	
+        MANSUKHANI	
+        41 CENTENNIAL STREET BOX 3457	
+        	
+        THE PAS	
+        MB	
+        R9A 1M6	
+        2046233723	
+        	
+        2013	
+        JEEP	
+        COMPASS	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        DODGE	
+        DURANGO	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        DODGE	
+        DURANGO	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        DODGE	
+        DURANGO	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        DODGE	
+        DURANGO	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        DODGE	
+        DURANGO	
+        N/A	 
+Twin Motors (#204)	
+        DARCY	
+        MORDEN	
+        64 PATRICK AVE	
+        	
+        THE PAS	
+        MB	
+        R9A 1R2	
+        	
+        	
+        2004	
+        JEEP	
+        LIBERTY	
+        N/A	 
+Twin Motors (#204)	
+        KIMBERLY	
+        FENNER	
+        12 BIGNELL CRES BOX 304	
+        	
+        THE PAS	
+        MB	
+        R9A 1K4	
+        2046232764	
+        	
+        2006	
+        JEEP	
+        LIBERTY	
+        N/A	 
+Twin Motors (#204)	
+        HOLLY	
+        BERTHOLET	
+        53 ERVEN ROAD BOX 2414	
+        	
+        THE PAS	
+        MB	
+        R9A 1M2	
+        2046234733	
+        	
+        2011	
+        FORD	
+        ESCAPE	
+        N/A	 
+Twin Motors (#204)	
+        ROBERT	
+        LANDELS	
+        620 #283 HWY BOX 972	
+        	
+        THE PAS	
+        MB	
+        R9A 1K9	
+        2046235756	
+        	
+        2009	
+        JEEP	
+        COMPASS	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        DODGE	
+        DURANGO	
+        N/A	 
+Twin Motors (#204)	
+        KANDICE	
+        BERING	
+        239 MCINTOSH AVE	
+        	
+        WINNIPEG	
+        MB	
+        R2L 0K9	
+        	
+        	
+        2010	
+        JEEP	
+        LIBERTY	
+        N/A	 
+Twin Motors (#204)	
+        COLE	
+        MOLYNEAUX	
+        6 KERR PLACE	
+        	
+        THE PAS	
+        MB	
+        R9A 1T4	
+        2046232077	
+        	
+        2009	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        SCOTT	
+        KOSOLOWSKI	
+        7 WILLOW CRESENT	
+        	
+        FLIN FLON	
+        MB	
+        R8A 1T5	
+        2048986982	
+        	
+        2013	
+        JEEP	
+        COMPASS	
+        N/A	 
+Twin Motors (#204)	
+        KAREN	
+        ROY	
+        49 BOAMST	
+        	
+        FLIN FLON	
+        MB	
+        R8A 1B6	
+        2046874304	
+        	
+        2008	
+        HYUNDAI	
+        TUCSON	
+        N/A	 
+Twin Motors (#204)	
+        SAMANTHA	
+        CONSTANT	
+        705 CONSTANT AVENUE BOX 1598	
+        	
+        THE PAS	
+        MB	
+        R9A 1L4	
+        2049780529	
+        	
+        2012	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        DENISE	
+        OUELLET	
+        110 RIVER ROAD BOX 238	
+        	
+        GRAND RAPIDS	
+        BC	
+        R0C 1E0	
+        7809917509	
+        	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        LESLIE	
+        ZALES-FIOLEK	
+        122 NORTHSTAR ROAD BOX 2498	
+        	
+        THE PAS	
+        MB	
+        R9A 1M3	
+        2046245174	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        JOYCE	
+        MCLEAN	
+        BOX 4052 275 BYNG	
+        	
+        THE PAS	
+        MB	
+        R9A 1S6	
+        2046237071	
+        	
+        2011	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        ARYN	
+        KELLINGTON	
+        298 RALLS ISLAND ROAD BOX 4158	
+        	
+        THE PAS	
+        MB	
+        R9A 1S6	
+        2046236728	
+        	
+        2012	
+        JEEP	
+        COMPASS	
+        N/A	 
+Twin Motors (#204)	
+        TERRY	
+        CRYDERMAN	
+        637 CARROT VALLEY ROAD BOX 4129	
+        	
+        THE PAS	
+        MB	
+        R9A 1S6	
+        2046234755	
+        	
+        2011	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        CHERYL	
+        SCOTT	
+        BOX 4222	
+        	
+        THE PAS	
+        MB	
+        R9A 1R2	
+        2046245021	
+        	
+        2012	
+        DODGE	
+        DURANGO	
+        N/A	 
+Twin Motors (#204)	
+        TWILA	
+        KEITH	
+        437 CENTINEL DRIVE BOX 1077	
+        	
+        SWAN RIVER	
+        MB	
+        R0L 1Z0	
+        2047343694	
+        	
+        2007	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        LEE	
+        MESSETT	
+        5 LAPOINTE ROAD BOX 2996	
+        	
+        THE PAS	
+        MB	
+        R9A 1R7	
+        2046233345	
+        	
+        2009	
+        JEEP	
+        PATRIOT	
+        N/A	 
+Twin Motors (#204)	
+        ALICE	
+        MCIVOR	
+        BOX 903 22 BATES ROAD	
+        	
+        THE PAS	
+        MB	
+        R9A 1K9	
+        2046231986	
+        	
+        2013	
+        DODGE	
+        DURANGO	
+        N/A	 
+Twin Motors (#204)	
+        JENNA	
+        LIBBRECHT	
+        410 CHARLES AVE	
+        	
+        ASQUITH	
+        SK	
+        S0K 0J0	
+        3063292310	
+        	
+        2010	
+        JEEP	
+        LIBERTY	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        DODGE	
+        DURANGO	
+        N/A	 
+Twin Motors (#204)	
+        DEAN	
+        BARTLEY	
+        148 batchelar road	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046232235	
+        	
+        2007	
+        CHRYSLER	
+        ASPEN	
+        N/A	 
+Twin Motors (#204)	
+        IAN	
+        LENARTOWICH	
+        6 ALLARD PLACE	
+        	
+        THE PAS	
+        MB	
+        R9A 1T3	
+        2046234447	
+        	
+        2012	
+        DODGE	
+        DURANGO	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        DODGE	
+        DURANGO	
+        N/A	 
+Twin Motors (#204)	
+        ROSALIE	
+        CARRIERE	
+        156 PATRICK AVENUE	
+        	
+        THE PAS	
+        MB	
+        R9A 1L4	
+        2046236093	
+        	
+        2012	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        GRANT	
+        REINFORT	
+        418 RALLS ISLAND ROAD BOX 1536	
+        	
+        THE PAS	
+        MB	
+        R9A 1L4	
+        2046236015	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        DANIEL	
+        WASYLUK	
+        67 NORTH AVE	
+        	
+        FLIN FLON	
+        MB	
+        R8A 0T4	
+        2049230374	
+        	
+        2011	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        MARY	
+        DICK	
+        1 MESSETT ST	
+        	
+        THE PAS	
+        MB	
+        R9A 1T5	
+        2046234049	
+        	
+        2012	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        JACLYN	
+        SCHUR	
+        1326 GORDON AVENUE BOX 1318	
+        	
+        THE PAS	
+        MB	
+        R9A 1L2	
+        2046233431	
+        	
+        2012	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        BRENDA	
+        FORSTER	
+        58 BAGSHAW CRES	
+        	
+        THE PAS	
+        MB	
+        R9A 1S8	
+        2046232654	
+        	
+        2005	
+        GMC	
+        ENVOY XL	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH VENTURES INC.	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        JEEP	
+        COMPASS	
+        N/A	 
+Twin Motors (#204)	
+        MARY	
+        DICK	
+        1 MESSETT ST	
+        	
+        THE PAS	
+        MB	
+        R9A 1T5	
+        2046234049	
+        	
+        2012	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        SUZANNE	
+        KRYS	
+        172 STOCKCAR ROAD	
+        	
+        THE PAS	
+        MB	
+        R9A 1S5	
+        2046237555	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        JEEP	
+        COMPASS	
+        N/A	 
+Twin Motors (#204)	
+        BREA	
+        ANDERSON	
+        23 CEMETARY ROAD BOX 3188	
+        	
+        THE PAS	
+        MB	
+        R9A 1K4	
+        	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        KEVIN	
+        ALLEN	
+        BOX 252	
+        	
+        DENARE BEACH	
+        SK	
+        S0P 0B0	
+        3063622312	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        JEFFREY	
+        WOODS	
+        47 HUDSON ST	
+        	
+        FLIN FLON	
+        MB	
+        R8A 1C3	
+        2046872984	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        AYNSLEY	
+        DEROO	
+        106 PELICAN POINT BOX 3062	
+        	
+        THE PAS	
+        MB	
+        R9A 1R7	
+        2046245076	
+        	
+        2007	
+        JEEP	
+        PATRIOT	
+        N/A	 
+Twin Motors (#204)	
+        JODI	
+        HUCULAK	
+        77 7TH STREET BOX 3725	
+        	
+        THE PAS	
+        MB	
+        R9A 1S3	
+        	
+        	
+        2009	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        TIFFANY	
+        BEAUREGARD	
+        2 HILL PLACE BOX 4312	
+        	
+        THE PAS	
+        MB	
+        R9A 1T7	
+        2046202659	
+        	
+        2006	
+        PONTIAC	
+        TORRENT	
+        N/A	 
+Twin Motors (#204)	
+        SUSAN	
+        LAMBERT	
+        BOX 2391	
+        	
+        THE PAS	
+        MB	
+        R9A 1M2	
+        2046233824	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        JEEP	
+        PATRIOT	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        JEEP	
+        PATRIOT	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH VENTURES INC.	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH VENTURES INC	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH VENTURES INC	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236401	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        JEEP	
+        COMPASS	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        JEEP	
+        COMPASS	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        JEEP	
+        PATRIOT	
+        N/A	 
+Twin Motors (#204)	
+        EVELYN	
+        LANDSBOROUGH	
+        BOX 1057	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        6245715	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        LAVONNE	
+        HERMAN	
+        LOT 61 CARROT VALLEY	
+        	
+        THE PAS	
+        MB	
+        R9A 1K3	
+        2046235512	
+        	
+        2013	
+        DODGE	
+        DURANGO	
+        N/A	 
+Twin Motors (#204)	
+        ATKINS	
+        NEIL	
+        BOX 1380	
+        	
+        THE PAS	
+        MB	
+        R9A 1L3	
+        2046233493	
+        	
+        2013	
+        DODGE	
+        DURANGO	
+        N/A	 
+Twin Motors (#204)	
+        DENISE	
+        BARKER	
+        BOX 3000	
+        	
+        THE PAS	
+        MB	
+        R9A 1M7	
+        	
+        	
+        2013	
+        DODGE	
+        DURANGO	
+        N/A	 
+Twin Motors (#204)	
+        FRANK	
+        BOGUSKI	
+        BOX 55 807 HOGAN AVE	
+        	
+        THE PAS	
+        MB	
+        R9A 1K3	
+        2046237750	
+        	
+        2012	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        CALGARY	
+        ADESA	
+        	
+        	
+        CALGARY	
+        AB	
+        S7K 6K4	
+        	
+        	
+        2005	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        BRIANNA	
+        PILLIPOW	
+        863 CATHEDRAL AVE	
+        	
+        THE PAS	
+        MB	
+        R9A 1K3	
+        2046236952	
+        	
+        2012	
+        JEEP	
+        COMPASS	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        GENERAL DELIVERY	
+        	
+        WANLESS	
+        MB	
+        R0B 1T0	
+        	
+        	
+        2002	
+        CHEVROLET	
+        TRACKER	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        GENERAL DELIVERY	
+        	
+        WANLESS	
+        MB	
+        R0B 1T0	
+        	
+        	
+        2003	
+        FORD	
+        ESCAPE	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        GENERAL DELIVERY	
+        	
+        WANLESS	
+        MB	
+        R0B 1T0	
+        	
+        	
+        2008	
+        FORD	
+        EXPEDITION	
+        N/A	 
+Twin Motors (#204)	
+        BRETT	
+        HAUKAAS	
+        PO BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046245674	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        BERT	
+        PARSONS	
+        BOX 3822	
+        	
+        THE PAS	
+        MB	
+        R9A 1S1	
+        2046236466	
+        	
+        2006	
+        KIA	
+        SPORTAGE	
+        N/A	 
+Twin Motors (#204)	
+        DEBORAH	
+        BERCIER	
+        BOX 3031	
+        	
+        THE PAS	
+        MB	
+        R9A 1R7	
+        2046233156	
+        	
+        2003	
+        FORD	
+        EXPLORER	
+        N/A	 
+Twin Motors (#204)	
+        CALGARY	
+        ADESA	
+        	
+        	
+        CALGARY	
+        AB	
+        S7K 6K4	
+        	
+        	
+        2005	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        CALGARY	
+        ADESA	
+        	
+        	
+        CALGARY	
+        AB	
+        S7K 6K4	
+        	
+        	
+        2003	
+        LAND ROVER	
+        DISCOVERY	
+        N/A	 
+Twin Motors (#204)	
+        CALGARY	
+        ADESA	
+        	
+        	
+        CALGARY	
+        AB	
+        S7K 6K4	
+        	
+        	
+        2008	
+        BUICK	
+        ENCLAVE	
+        N/A	 
+Twin Motors (#204)	
+        CARL	
+        TRAVERSE	
+        863 TREMAUDEN AVE BOX 1776	
+        	
+        THE PAS	
+        MB	
+        R9A 1L5	
+        2046236732	
+        	
+        2004	
+        CHEVROLET	
+        TRAILBLAZER	
+        N/A	 
+Twin Motors (#204)	
+        JENNA	
+        BASSON	
+        320 ROSS AVE BOX 2695	
+        	
+        THE PAS	
+        MB	
+        R9A 1R7	
+        2046201888	
+        	
+        2010	
+        DODGE	
+        NITRO	
+        N/A	 
+Twin Motors (#204)	
+        ALLAN	
+        BARR	
+        1809-32nd AVE SW	
+        	
+        CALGARY	
+        AB	
+        T2T 1W3	
+        4034431018	
+        	
+        2007	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        GENERAL DELIVERY	
+        	
+        WANLESS	
+        MB	
+        R0B 1T0	
+        	
+        	
+        2003	
+        SATURN	
+        VUE	
+        N/A	 
+Twin Motors (#204)	
+        RANDALL	
+        MANYCH	
+        BOX 4141 23 WILLIAMS STREET	
+        	
+        THE PAS	
+        MB	
+        R9A 1S6	
+        2046231490	
+        	
+        2001	
+        DODGE	
+        DURANGO	
+        N/A	 
+Twin Motors (#204)	
+        CALGARY	
+        ADESA	
+        	
+        	
+        CALGARY	
+        AB	
+        S7K 6K4	
+        	
+        	
+        2005	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        WHITECLOUD	
+        LATHLIN	
+        244 BATCHELAR ROAD BOX 1647	
+        	
+        THE PAS	
+        MB	
+        R9A 1L4	
+        2046231605	
+        	
+        2011	
+        DODGE	
+        DURANGO	
+        N/A	 
+Twin Motors (#204)	
+        GORDON	
+        KELLY	
+        BOX 3675	
+        	
+        THE PAS	
+        MB	
+        R9A 1S3	
+        2046232670	
+        	
+        2009	
+        TOYOTA	
+        RAV4	
+        N/A	 
+Twin Motors (#204)	
+        CALGARY	
+        ADESA	
+        	
+        	
+        CALGARY	
+        AB	
+        S7K 6K4	
+        	
+        	
+        2008	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        JENNIFER	
+        BERG	
+        BOX 4344	
+        	
+        THE PAS	
+        MB	
+        R9A 1R2	
+        2046245543	
+        	
+        2013	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        JENNIFER	
+        ROOKS	
+        BOX 773	
+        	
+        THE PAS	
+        MB	
+        R9A 1K8	
+        2046233695	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        BOX 111O	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        N/A	 
+Twin Motors (#204)	
+        ALFRED	
+        SHLACHETKA	
+        102 MANITOBA CRES BOX 127	
+        	
+        CORMORANT	
+        MB	
+        R0B 0G0	
+        2043572027	
+        	
+        2010	
+        JEEP	
+        COMPASS	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        1212 MAIN ST S	
+        	
+        DAUPHIN	
+        MB	
+        R7N 1M8	
+        	
+        	
+        2012	
+        JEEP	
+        COMPASS	
+        N/A	 
+Twin Motors (#204)	
+        JIM	
+        SCOTT	
+        BOX 4373	
+        	
+        THE PAS	
+        MB	
+        R9A 1R2	
+        2046201777	
+        	
+        2012	
+        JEEP	
+        LIBERTY	
+        N/A	 
+Twin Motors (#204)	
+        RICHARD	
+        PARTRIDGE	
+        809 KICHEMASKANOW BOX 10601	
+        	
+        THE PAS	
+        MB	
+        R0B 2J0	
+        	
+        	
+        2003	
+        DODGE	
+        DURANGO	
+        N/A	 
+Twin Motors (#204)	
+        MARY	
+        FOSSENEUVE	
+        212 1ST STREET S	
+        	
+        CRANBERRY	
+        MB	
+        R0B 0H0	
+        2044723953	
+        	
+        2011	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        BRADY	
+        LIBBRECHT	
+        58 BODNAR ROAD BOX 4224	
+        	
+        	
+        MB	
+        R9A 1R2	
+        2046233841	
+        	
+        2005	
+        CHEVROLET	
+        EQUINOX	
+        N/A	 
+Twin Motors (#204)	
+        LLOYD	
+        LAVALLEE	
+        BOX 557	
+        	
+        GILLIAM	
+        MB	
+        R0B 0L0	
+        2046526321	
+        	
+        2009	
+        DODGE	
+        JOURNEY	
+        N/A	 
+Twin Motors (#204)	
+        MARCIA	
+        NOVO	
+        BOX 3691	
+        	
+        THE PAS	
+        MB	
+        R9A 1S3	
+        2046232166	
+        	
+        2011	
+        DODGE	
+        DURANGO	
+        N/A	 

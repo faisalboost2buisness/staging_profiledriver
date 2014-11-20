@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>705 HENDERSON DR</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4N 7L2</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>3067212666</WorkPhone>
+    <Year>2013</Year>
+    <Make>JEEP</Make>
+    <Model>WRANGLER</Model>
+    <PurchaseDate>01/19/2013</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName>MARLON</FirstName>
+    <LastName>GONZALES</LastName>
+    <Address>202 BLONDEAU AVE N</Address>
+    <Apartment></Apartment>
+    <City>FORT QU'APPELLE</City>
+    <State>SK</State>
+    <Zip>S0G 1S0</Zip>
+    <HomePhone>3063323379</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>JOURNEY</Model>
+    <PurchaseDate>01/17/2013</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName>MARTIN</FirstName>
+    <LastName>LEMIEUX</LastName>
+    <Address>874 ERB BAY</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4N 7B2</Zip>
+    <HomePhone>3065294564</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>01/17/2013</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName>STEVEN</FirstName>
+    <LastName>ROSLINSKI</LastName>
+    <Address>3210 BARTON PLACE</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4N 7C7</Zip>
+    <HomePhone>3067611611</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>RAM</Make>
+    <Model>1500</Model>
+    <PurchaseDate>01/18/2013</PurchaseDate>
+  </Leadlist4>
+  <Leadlist5>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName>BILL</FirstName>
+    <LastName>HUBBLE</LastName>
+    <Address>170 PETERSMEYER ST</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 8J3</Zip>
+    <HomePhone>3065458920</HomePhone>
+    <WorkPhone>3065356565</WorkPhone>
+    <Year>2012</Year>
+    <Make>JEEP</Make>
+    <Model>GRAND CHEROKEE</Model>
+    <PurchaseDate>01/19/2013</PurchaseDate>
+  </Leadlist5>
+</data>

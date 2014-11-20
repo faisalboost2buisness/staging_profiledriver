@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>CAROL</FirstName>
+    <LastName>BONNEY</LastName>
+    <Address>288 CEDAR CR</Address>
+    <Apartment></Apartment>
+    <City>CAMBRIDGE</City>
+    <State>ON</State>
+    <Zip>N1S1X1</Zip>
+    <HomePhone>5196226589</HomePhone>
+    <WorkPhone>2263380296</WorkPhone>
+    <Year>2014</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>03/31/2014</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>LISA</FirstName>
+    <LastName>MORETTI</LastName>
+    <Address>2-24 LOWES RD E</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1L0J5</Zip>
+    <HomePhone>5198212291</HomePhone>
+    <WorkPhone>5198350856</WorkPhone>
+    <Year>2014</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>02/28/2014</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>ROBERT</FirstName>
+    <LastName>ROY</LastName>
+    <Address>42 AVERY CRES</Address>
+    <Apartment></Apartment>
+    <City>BRESLAU</City>
+    <State>ON</State>
+    <Zip>N0B1M0</Zip>
+    <HomePhone>5192130091</HomePhone>
+    <WorkPhone>5198300798</WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>05/28/2013</PurchaseDate>
+  </Leadlist3>
+</data>

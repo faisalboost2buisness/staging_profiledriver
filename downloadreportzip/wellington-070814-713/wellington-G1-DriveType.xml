@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>JACOB</FirstName>
+    <LastName>JENDE</LastName>
+    <Address>6-33 CONROY CRES</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1G2V5</Zip>
+    <HomePhone>6479659245</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>RAM</Make>
+    <Model>1500</Model>
+    <PurchaseDate>06/14/2013</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>DAVID</FirstName>
+    <LastName>HAMMOND</LastName>
+    <Address>11 HAWTHORNE DR</Address>
+    <Apartment></Apartment>
+    <City>CAMBRIDGE</City>
+    <State>ON</State>
+    <Zip>N1S3J8</Zip>
+    <HomePhone>5196244213</HomePhone>
+    <WorkPhone>5197875530</WorkPhone>
+    <Year>2014</Year>
+    <Make>JEEP</Make>
+    <Model>GRAND CHEROKEE</Model>
+    <PurchaseDate>06/10/2013</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>PAUL</FirstName>
+    <LastName>VASEY</LastName>
+    <Address>67 KNIGHTSWOOD BLVD</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1E3W6</Zip>
+    <HomePhone>5197669929</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>06/17/2013</PurchaseDate>
+  </Leadlist3>
+</data>

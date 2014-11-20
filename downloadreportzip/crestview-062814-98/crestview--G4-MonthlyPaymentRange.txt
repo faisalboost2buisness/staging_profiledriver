@@ -1,0 +1,71 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Crestview Chrysler (#202)	
+        	
+        	
+        705 HENDERSON DR	
+        	
+        REGINA	
+        SK	
+        S4N 7L2	
+        	
+        3067212666	
+        2013	
+        JEEP	
+        WRANGLER	
+        01/19/2013	 
+Crestview Chrysler (#202)	
+        MARLON	
+        GONZALES	
+        202 BLONDEAU AVE N	
+        	
+        FORT QU'APPELLE	
+        SK	
+        S0G 1S0	
+        3063323379	
+        	
+        2012	
+        DODGE	
+        JOURNEY	
+        01/17/2013	 
+Crestview Chrysler (#202)	
+        MARTIN	
+        LEMIEUX	
+        874 ERB BAY	
+        	
+        REGINA	
+        SK	
+        S4N 7B2	
+        3065294564	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        01/17/2013	 
+Crestview Chrysler (#202)	
+        STEVEN	
+        ROSLINSKI	
+        3210 BARTON PLACE	
+        	
+        REGINA	
+        SK	
+        S4N 7C7	
+        3067611611	
+        	
+        2011	
+        RAM	
+        1500	
+        01/18/2013	 
+Crestview Chrysler (#202)	
+        BILL	
+        HUBBLE	
+        170 PETERSMEYER ST	
+        	
+        REGINA	
+        SK	
+        S4R 8J3	
+        3065458920	
+        3065356565	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        01/19/2013	 

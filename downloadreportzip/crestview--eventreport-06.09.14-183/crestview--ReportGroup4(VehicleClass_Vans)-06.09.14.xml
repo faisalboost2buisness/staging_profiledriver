@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>GREGORY</FirstName>
+    <LastName>STOPANSKI</LastName>
+    <Address>2918 ST ANDREWS ROAD</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4V 2Z8</Zip>
+    <HomePhone>3065848769</HomePhone>
+    <WorkPhone>3065692350</WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>02/28/2012</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1420 SOUTH SERVICE ROAD E</Address>
+    <Apartment></Apartment>
+    <City>SWIFT CURRENT</City>
+    <State>SK</State>
+    <Zip>S9H 0B5</Zip>
+    <HomePhone>3067739301</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>JOURNEY</Model>
+    <PurchaseDate>04/23/2012</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>ELIZABETH</FirstName>
+    <LastName>RICH</LastName>
+    <Address>2178 Embury St</Address>
+    <Apartment></Apartment>
+    <City>Regina</City>
+    <State>SK</State>
+    <Zip>S4N 2L7</Zip>
+    <HomePhone>3067573069</HomePhone>
+    <WorkPhone>3065854050</WorkPhone>
+    <Year>2014</Year>
+    <Make>RAM</Make>
+    <Model>1500</Model>
+    <PurchaseDate>03/30/2014</PurchaseDate>
+  </Leadlist3>
+</data>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName>GISELLE</FirstName>
+    <LastName>FRANK</LastName>
+    <Address>214 BONLI CRESCENT</Address>
+    <Apartment></Apartment>
+    <City>SASKATOON</City>
+    <State>SK</State>
+    <Zip>S7N 4A1</Zip>
+    <HomePhone>3066498214</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2014</Year>
+    <Make>JEEP</Make>
+    <Model>GRAND CHEROKEE</Model>
+    <PurchaseDate>07/15/2013</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName>CHRIS</FirstName>
+    <LastName>RICHARDSON</LastName>
+    <Address>4 ODIN WALK</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4N 4W8</Zip>
+    <HomePhone>3065704243</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2014</Year>
+    <Make>JEEP</Make>
+    <Model>GRAND CHEROKEE</Model>
+    <PurchaseDate>06/28/2013</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName>CRAIG</FirstName>
+    <LastName>MCKECHNIE</LastName>
+    <Address>3425 VALLEY GREEN WAY</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4V 1L4</Zip>
+    <HomePhone>3065229975</HomePhone>
+    <WorkPhone>5147316841</WorkPhone>
+    <Year>2014</Year>
+    <Make>JEEP</Make>
+    <Model>GRAND CHEROKEE</Model>
+    <PurchaseDate>07/14/2013</PurchaseDate>
+  </Leadlist3>
+</data>

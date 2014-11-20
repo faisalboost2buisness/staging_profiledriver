@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName>WALTER</FirstName>
+    <LastName>CHESTER</LastName>
+    <Address>1120C BLACKWOOD STREET NORTH</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4X 3E5</Zip>
+    <HomePhone>3065437147</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>DODGE</Make>
+    <Model>CALIBER</Model>
+    <PurchaseDate>12/29/2011</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName>SUZANNE</FirstName>
+    <LastName>PELZER</LastName>
+    <Address>RR2</Address>
+    <Apartment></Apartment>
+    <City>CRAVEN</City>
+    <State>SK</State>
+    <Zip>S0G 0W0</Zip>
+    <HomePhone>3065373849</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>DURANGO</Model>
+    <PurchaseDate>10/08/2011</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName>CAL</FirstName>
+    <LastName>HANIAK</LastName>
+    <Address>230 BROADWAY AVE</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4N 1B3</Zip>
+    <HomePhone>3065307726</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1994</Year>
+    <Make>FORD</Make>
+    <Model>TAURUS</Model>
+    <PurchaseDate>01/24/2012</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName>BETTY</FirstName>
+    <LastName>PAUL</LastName>
+    <Address>BOX 559/423 OAK BAY</Address>
+    <Apartment></Apartment>
+    <City>BALGONIE</City>
+    <State>SK</State>
+    <Zip>S0G 0E0</Zip>
+    <HomePhone>3067714399</HomePhone>
+    <WorkPhone>3067773929</WorkPhone>
+    <Year>2011</Year>
+    <Make>RAM</Make>
+    <Model>1500</Model>
+    <PurchaseDate>03/19/2012</PurchaseDate>
+  </Leadlist4>
+</data>

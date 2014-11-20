@@ -1,0 +1,9 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Demo Dealer (#198)	Vans	VehicleClass	....NEED NEW ADDRESS....APT 2006	NA	NotRequired	___ ___	2893874214	0	2010	NotImportant	NotImportant	08/21/2012 12:00:00 AM	 
+Demo Dealer (#198)	Gas	FuelType	75 Russell Barton LaneNotRequired	NA	ON	L9P 1Z2	9058623445	NotRequired	2012	NotImportant	NotImportant	09/28/2012 12:00:00 AM	 
+Demo Dealer (#198)	Diesel	FuelType	658 CARTIER AVENotRequired	NA	ON	L1J 2E2	NotRequired	NotRequired	2013	NotImportant	NotImportant	12/27/2013 12:00:00 AM	 
+Demo Dealer (#198)	Other/Unknown	FuelType	349 PEFFERLAW ROADNotRequired	NA	ON	L4A 4Z9	7054373377	4169301899	2014	NotImportant	NotImportant	02/01/2013 12:00:00 AM	 
+Demo Dealer (#198)	City=Edmonton	Local/Out of Town	410-105 WINLANE DRIVENotRequired	Edmonton	ON	L4A 1V7	9054733003	0	2012	NotImportant	NotImportant	08/29/2013 12:00:00 AM	 
+Demo Dealer (#198)	City=Fort MCMurray	Local/Out of Town	27 SMITH DRIVENotRequired	Fort McMurray	ON	L0C 1E0	9056490293	NotRequired	2013	NotImportant	NotImportant	04/11/2013 12:00:00 AM	 
+Demo Dealer (#198)	Used	Used vs. New Purchase	338 VICTORIA STNotRequired	NA	ON	L0E 1N0	7052288754	NotRequired	2012	NotImportant	NotImportant	03/09/2013 12:00:00 AM	 
+Demo Dealer (#198)	New	Used vs. New Purchase	15B SOUTH BALSAM STREETNotRequired	NA	ON	L9P 1E9	9058523457	NotRequired	2013	NotImportant	NotImportant	03/30/2013 12:00:00 AM	 

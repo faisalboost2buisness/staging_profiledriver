@@ -1,0 +1,43 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Twin Motors (#204)	
+        LINDSAY	
+        STENBERG	
+        257 LAROSE AVE	
+        	
+        THE PAS	
+        MB	
+        R3P 2G1	
+        2046236674	
+        	
+        2014	
+        DODGE	
+        CHALLENGER	
+        01/01/1970	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2014	
+        DODGE	
+        CHARGER	
+        01/01/1970	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2014	
+        DODGE	
+        CHARGER	
+        01/01/1970	 

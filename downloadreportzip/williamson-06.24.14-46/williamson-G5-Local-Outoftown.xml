@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Bernice</FirstName>
+    <LastName>Connell</LastName>
+    <Address></Address>
+    <Apartment></Apartment>
+    <City></City>
+    <State>ON</State>
+    <Zip></Zip>
+    <HomePhone>5196526186</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>07/16/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Garry</FirstName>
+    <LastName>Popdyn</LastName>
+    <Address>14 Park Drive</Address>
+    <Apartment></Apartment>
+    <City>Bowmanville</City>
+    <State>ON</State>
+    <Zip>L1C 1B4</Zip>
+    <HomePhone>9054405169</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>RAM</Make>
+    <Model>1500</Model>
+    <PurchaseDate>07/14/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Gordon</FirstName>
+    <LastName>Dolphin</LastName>
+    <Address>3-200 MEMORIAL AVENUE RD SUITE</Address>
+    <Apartment></Apartment>
+    <City>ORILLA</City>
+    <State>ON</State>
+    <Zip>L3P 5X6</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>07/20/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Janet</FirstName>
+    <LastName>Green</LastName>
+    <Address>47 IANSON DRIVE</Address>
+    <Apartment></Apartment>
+    <City>Greenbank</City>
+    <State>ON</State>
+    <Zip>L0C 1B0</Zip>
+    <HomePhone>9059855553</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>RAM</Make>
+    <Model>1500</Model>
+    <PurchaseDate>07/22/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist4>
+  <Leadlist5>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>JEFFREY</FirstName>
+    <LastName>BEAUDOIN</LastName>
+    <Address>1775 CAMERON STREET W</Address>
+    <Apartment></Apartment>
+    <City>Cannington</City>
+    <State>ON</State>
+    <Zip>L0E 1E0</Zip>
+    <HomePhone>7054322119</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>07/12/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist5>
+  <Leadlist6>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>MARK</FirstName>
+    <LastName>SABOURIN</LastName>
+    <Address>S12 The Pines Lane</Address>
+    <Apartment></Apartment>
+    <City>SUNDERLAND</City>
+    <State>ON</State>
+    <Zip>L0C 1H0</Zip>
+    <HomePhone>7053572116</HomePhone>
+    <WorkPhone>4162977887</WorkPhone>
+    <Year>2008</Year>
+    <Make>DODGE</Make>
+    <Model>DAKOTA</Model>
+    <PurchaseDate>07/08/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist6>
+  <Leadlist7>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Mary</FirstName>
+    <LastName>Cosburn</LastName>
+    <Address>60 Brook Cres.</Address>
+    <Apartment></Apartment>
+    <City>Pefferlaw</City>
+    <State>ON</State>
+    <Zip>L0E 1N0</Zip>
+    <HomePhone>7054373555</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>02/11/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist7>
+  <Leadlist8>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Ryan</FirstName>
+    <LastName>Graham</LastName>
+    <Address>8 Lembitu Ave</Address>
+    <Apartment></Apartment>
+    <City>Udora</City>
+    <State>ON</State>
+    <Zip>L0C 1L0</Zip>
+    <HomePhone>7052288484</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>JEEP</Make>
+    <Model>WRANGLER</Model>
+    <PurchaseDate>07/12/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist8>
+  <Leadlist9>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>SALLY</FirstName>
+    <LastName>MORGAN</LastName>
+    <Address>17 KESTER LANE</Address>
+    <Apartment></Apartment>
+    <City>ZEPHYR</City>
+    <State>ON</State>
+    <Zip>L0E 1T0</Zip>
+    <HomePhone>9054731649</HomePhone>
+    <WorkPhone>9058680905</WorkPhone>
+    <Year>2011</Year>
+    <Make>JEEP</Make>
+    <Model>COMPASS</Model>
+    <PurchaseDate>07/16/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist9>
+</data>

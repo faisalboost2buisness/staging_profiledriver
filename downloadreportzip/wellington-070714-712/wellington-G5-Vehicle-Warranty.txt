@@ -1,0 +1,15 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Wellington Motors (#170)	
+        	
+        PHH VEHICLE MANAGEMENT SERVICES	
+        2233 ARGENTIAN RD SUITE 400	
+        STATION A	
+        MISSISSAUGA	
+        ON	
+        L5N2X7	
+        2148963308	
+        8002682916	
+        2014	
+        JEEP	
+        PATRIOT	
+        06/29/2013	 

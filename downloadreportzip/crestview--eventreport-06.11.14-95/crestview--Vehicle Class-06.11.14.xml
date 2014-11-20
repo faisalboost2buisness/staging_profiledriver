@@ -1,0 +1,915 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1420 SOUTH SERVICE ROAD E</Address>
+    <Apartment></Apartment>
+    <City>SWIFT CURRENT</City>
+    <State>SK</State>
+    <Zip>S9H 0B5</Zip>
+    <HomePhone>3067739301</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>JOURNEY</Model>
+    <PurchaseDate>05/02/2012</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1061 YATES STREET</Address>
+    <Apartment></Apartment>
+    <City>VICTORIA, BC</City>
+    <State>BC</State>
+    <Zip>V8V 3M5</Zip>
+    <HomePhone>8883862411</HomePhone>
+    <WorkPhone>2503817444</WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>01/06/2012</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>500 MCLEOD STREET</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4N 4Y1</Zip>
+    <HomePhone>3067872040</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>01/06/2012</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>601 ALBERT STREET</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4L 5B1</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>3065255411</WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>01/06/2012</PurchaseDate>
+  </Leadlist4>
+  <Leadlist5>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>CAL</FirstName>
+    <LastName>HANIAK</LastName>
+    <Address>230 BROADWAY AVE</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4N 1B3</Zip>
+    <HomePhone>3065307726</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2003</Year>
+    <Make>HYUNDAI</Make>
+    <Model>ACCENT</Model>
+    <PurchaseDate>01/26/2012</PurchaseDate>
+  </Leadlist5>
+  <Leadlist6>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>618 - 48TH STREET EAST</Address>
+    <Apartment></Apartment>
+    <City>SASKATOON</City>
+    <State>SK</State>
+    <Zip>S7K 6K4</Zip>
+    <HomePhone>8006671162</HomePhone>
+    <WorkPhone>3062428771</WorkPhone>
+    <Year>2004</Year>
+    <Make>CHRYSLER</Make>
+    <Model>PT CRUISER</Model>
+    <PurchaseDate>11/08/2012</PurchaseDate>
+  </Leadlist6>
+  <Leadlist7>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1621 VETERANS BLVD NE</Address>
+    <Apartment></Apartment>
+    <City>AIRDRIE</City>
+    <State>AB</State>
+    <Zip>T4A 2G6</Zip>
+    <HomePhone>4039124400</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>08/27/2013</PurchaseDate>
+  </Leadlist7>
+  <Leadlist8>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>3023 REVES RD</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4V 2C7</Zip>
+    <HomePhone>3067893434</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2008</Year>
+    <Make>CHEVROLET</Make>
+    <Model>IMPALA</Model>
+    <PurchaseDate>04/09/2013</PurchaseDate>
+  </Leadlist8>
+  <Leadlist9>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address></Address>
+    <Apartment></Apartment>
+    <City>COCHRANE</City>
+    <State>AB</State>
+    <Zip></Zip>
+    <HomePhone>4039324072</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>CHALLENGER</Model>
+    <PurchaseDate>11/24/2011</PurchaseDate>
+  </Leadlist9>
+  <Leadlist10>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>601 ALBERT ST</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 2P4</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>10/13/2011</PurchaseDate>
+  </Leadlist10>
+  <Leadlist11>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>THAYNE</FirstName>
+    <LastName>BULYCH</LastName>
+    <Address>116 ELMVIEW RD</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4S 0B3</Zip>
+    <HomePhone>3065334918</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1997</Year>
+    <Make>ACURA</Make>
+    <Model>INTEGRA</Model>
+    <PurchaseDate>11/29/2012</PurchaseDate>
+  </Leadlist11>
+  <Leadlist12>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>618 48TH ST E</Address>
+    <Apartment></Apartment>
+    <City>SASKATOON</City>
+    <State>SK</State>
+    <Zip>S7K 6K4</Zip>
+    <HomePhone>8006671162</HomePhone>
+    <WorkPhone>3062428771</WorkPhone>
+    <Year>2008</Year>
+    <Make>BUICK</Make>
+    <Model>ENCLAVE</Model>
+    <PurchaseDate>07/23/2013</PurchaseDate>
+  </Leadlist12>
+  <Leadlist13>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1380 WAVERLEY ST</Address>
+    <Apartment></Apartment>
+    <City>WINNIPEG</City>
+    <State>MB</State>
+    <Zip>R3T 0P5</Zip>
+    <HomePhone>2054787800</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>JEEP</Make>
+    <Model>COMPASS</Model>
+    <PurchaseDate>03/06/2013</PurchaseDate>
+  </Leadlist13>
+  <Leadlist14>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1270 CENTRAL PARKWAY WEST 600 CUST#527201</Address>
+    <Apartment></Apartment>
+    <City>MISSISSAUGA</City>
+    <State>ON</State>
+    <Zip>L5C 4P4</Zip>
+    <HomePhone>9058038000</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>JOURNEY</Model>
+    <PurchaseDate>06/11/2013</PurchaseDate>
+  </Leadlist14>
+  <Leadlist15>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>8089 STRUTHERS CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4Y 1J2</Zip>
+    <HomePhone>3065307901</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2004</Year>
+    <Make>PONTIAC</Make>
+    <Model>GRAND AM</Model>
+    <PurchaseDate>09/13/2013</PurchaseDate>
+  </Leadlist15>
+  <Leadlist16>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>525 BROAD ST</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4T 7A1</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2005</Year>
+    <Make>HYUNDAI</Make>
+    <Model>TUCSON</Model>
+    <PurchaseDate>01/04/2014</PurchaseDate>
+  </Leadlist16>
+  <Leadlist17>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>CUST 38115-2300 MEADOWVALE BLVD</Address>
+    <Apartment></Apartment>
+    <City>MISSISSAUGA</City>
+    <State>ON</State>
+    <Zip>L5N 5P9</Zip>
+    <HomePhone>8004118500</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>JEEP</Make>
+    <Model>PATRIOT</Model>
+    <PurchaseDate>01/25/2013</PurchaseDate>
+  </Leadlist17>
+  <Leadlist18>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>RON</FirstName>
+    <LastName>GEROCK</LastName>
+    <Address>BOX 116</Address>
+    <Apartment></Apartment>
+    <City>SOUTHEY</City>
+    <State>SK</State>
+    <Zip>S0G 4P0</Zip>
+    <HomePhone>3067264343</HomePhone>
+    <WorkPhone>3065396463</WorkPhone>
+    <Year>2004</Year>
+    <Make>CHRYSLER</Make>
+    <Model>SEBRING</Model>
+    <PurchaseDate>07/05/2013</PurchaseDate>
+  </Leadlist18>
+  <Leadlist19>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1001 WINNIPEG STREET</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 1J3</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>3069242050</WorkPhone>
+    <Year>2003</Year>
+    <Make>CHRYSLER</Make>
+    <Model>SEBRING</Model>
+    <PurchaseDate>10/05/2011</PurchaseDate>
+  </Leadlist19>
+  <Leadlist20>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1101 WINNIPEG ST</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 1J5</Zip>
+    <HomePhone>3067893252</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2002</Year>
+    <Make>JEEP</Make>
+    <Model>GRAND CHEROKEE</Model>
+    <PurchaseDate>04/20/2012</PurchaseDate>
+  </Leadlist20>
+  <Leadlist21>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>MARK</FirstName>
+    <LastName>BENNETT</LastName>
+    <Address>1311 WINNIPEG ST</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 1K2</Zip>
+    <HomePhone>3067579934</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2007</Year>
+    <Make>CHEVROLET</Make>
+    <Model>IMPALA</Model>
+    <PurchaseDate>11/14/2012</PurchaseDate>
+  </Leadlist21>
+  <Leadlist22>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1850 INLAND DRIVE</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 2P3</Zip>
+    <HomePhone>3065437388</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>FORD</Make>
+    <Model>FUSION</Model>
+    <PurchaseDate>07/18/2013</PurchaseDate>
+  </Leadlist22>
+  <Leadlist23>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1850 INLAND DR</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 0T7</Zip>
+    <HomePhone>3065437386</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1990</Year>
+    <Make>CHEVROLET</Make>
+    <Model>LUMINA</Model>
+    <PurchaseDate>12/08/2011</PurchaseDate>
+  </Leadlist23>
+  <Leadlist24>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>CUST 11679-2300 MEADOWVALE BLVD</Address>
+    <Apartment></Apartment>
+    <City>MISSISSAUGA</City>
+    <State>ON</State>
+    <Zip>L5N 5P9</Zip>
+    <HomePhone>8005678975</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2014</Year>
+    <Make>DODGE</Make>
+    <Model>JOURNEY</Model>
+    <PurchaseDate>02/07/2014</PurchaseDate>
+  </Leadlist24>
+  <Leadlist25>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>GARRY</FirstName>
+    <LastName>HINDERKS</LastName>
+    <Address>PO BOX 702</Address>
+    <Apartment></Apartment>
+    <City>Balgonie</City>
+    <State>SK</State>
+    <Zip>S0G 0E0</Zip>
+    <HomePhone>3067714911</HomePhone>
+    <WorkPhone>3067812828</WorkPhone>
+    <Year>2014</Year>
+    <Make>DODGE</Make>
+    <Model>CHALLENGER</Model>
+    <PurchaseDate>09/23/2013</PurchaseDate>
+  </Leadlist25>
+  <Leadlist26>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>JEFF</FirstName>
+    <LastName>ZEHNER</LastName>
+    <Address>426 Rodenbush Dr</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 7L8</Zip>
+    <HomePhone>3065963383</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2000</Year>
+    <Make>NISSAN</Make>
+    <Model>PATHFINDER</Model>
+    <PurchaseDate>01/15/2014</PurchaseDate>
+  </Leadlist26>
+  <Leadlist27>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>BOX</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4N 1T5</Zip>
+    <HomePhone>3065963383</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2001</Year>
+    <Make>JEEP</Make>
+    <Model>GRAND CHEROKEE</Model>
+    <PurchaseDate>05/03/2014</PurchaseDate>
+  </Leadlist27>
+  <Leadlist28>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>2413 1ST AVE N</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4T 7A1</Zip>
+    <HomePhone>5363383</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2004</Year>
+    <Make>DODGE</Make>
+    <Model>DURANGO</Model>
+    <PurchaseDate>05/16/2014</PurchaseDate>
+  </Leadlist28>
+  <Leadlist29>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>JEFF</FirstName>
+    <LastName>ZEHNER</LastName>
+    <Address>426 rodenbush drS4R7L8</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 7L8</Zip>
+    <HomePhone>3065963383</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2005</Year>
+    <Make>DODGE</Make>
+    <Model>DURANGO</Model>
+    <PurchaseDate>11/13/2013</PurchaseDate>
+  </Leadlist29>
+  <Leadlist30>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>SCOTT</FirstName>
+    <LastName>SINGLETON</LastName>
+    <Address>39 TRIFUNOV CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 7C6</Zip>
+    <HomePhone>3065916710</HomePhone>
+    <WorkPhone>3068352427</WorkPhone>
+    <Year>2004</Year>
+    <Make>DODGE</Make>
+    <Model>DURANGO</Model>
+    <PurchaseDate>12/05/2013</PurchaseDate>
+  </Leadlist30>
+  <Leadlist31>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>MELBA</FirstName>
+    <LastName>COLLOPY</LastName>
+    <Address>BOX 265</Address>
+    <Apartment></Apartment>
+    <City>FROBISHER</City>
+    <State>SK</State>
+    <Zip>S0C 0Y0</Zip>
+    <HomePhone>3064864846</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2014</Year>
+    <Make>JEEP</Make>
+    <Model>GRAND CHEROKEE</Model>
+    <PurchaseDate>12/04/2013</PurchaseDate>
+  </Leadlist31>
+  <Leadlist32>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>CODY</FirstName>
+    <LastName>GOHLISCH</LastName>
+    <Address>1409 ELPHINSTONE ST</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4T 3M7</Zip>
+    <HomePhone>3063470105</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>PONTIAC</Make>
+    <Model>G6</Model>
+    <PurchaseDate>08/01/2012</PurchaseDate>
+  </Leadlist32>
+  <Leadlist33>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1778 MAIN ST N</Address>
+    <Apartment></Apartment>
+    <City>MOOSE JAW</City>
+    <State>SK</State>
+    <Zip>S6J 1L4</Zip>
+    <HomePhone>3066921808</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>JEEP</Make>
+    <Model>WRANGLER</Model>
+    <PurchaseDate>06/26/2012</PurchaseDate>
+  </Leadlist33>
+  <Leadlist34>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>554 PEMBINA HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>554 PEMBINA HIGHWAY</City>
+    <State>MB</State>
+    <Zip>R3T 0P5</Zip>
+    <HomePhone>3524222</HomePhone>
+    <WorkPhone>2044530400</WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>CALIBER</Model>
+    <PurchaseDate>10/20/2011</PurchaseDate>
+  </Leadlist34>
+  <Leadlist35>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>640 ALBERT ST</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 2P3</Zip>
+    <HomePhone>3065437388</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1997</Year>
+    <Make>CHEVROLET</Make>
+    <Model>CAVALIER</Model>
+    <PurchaseDate>06/21/2012</PurchaseDate>
+  </Leadlist35>
+  <Leadlist36>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>2233 ARGENTIA RD SUITE 400</Address>
+    <Apartment></Apartment>
+    <City>MISSISSAUGA</City>
+    <State>ON</State>
+    <Zip>L5N 2X7</Zip>
+    <HomePhone>3067895410</HomePhone>
+    <WorkPhone>9052682915</WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>DURANGO</Model>
+    <PurchaseDate>02/22/2012</PurchaseDate>
+  </Leadlist36>
+  <Leadlist37>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>CINDY</FirstName>
+    <LastName>ILLINGWORTH</LastName>
+    <Address>1171 FERGUSON CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4N 6V6</Zip>
+    <HomePhone>3065014875</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>AVENGER</Model>
+    <PurchaseDate>07/14/2012</PurchaseDate>
+  </Leadlist37>
+  <Leadlist38>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>2200 - 8TH STREET EAST</Address>
+    <Apartment></Apartment>
+    <City>SASKATOON, SK</City>
+    <State>SK</State>
+    <Zip>S7H 0V3</Zip>
+    <HomePhone>3063742262</HomePhone>
+    <WorkPhone>3063731862</WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>JOURNEY</Model>
+    <PurchaseDate>09/01/2012</PurchaseDate>
+  </Leadlist38>
+  <Leadlist39>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>2300 MEADOWVALE BLVD</Address>
+    <Apartment></Apartment>
+    <City>MIISISSAUGA</City>
+    <State>ON</State>
+    <Zip>L5N 5P9</Zip>
+    <HomePhone>8004118500</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>JEEP</Make>
+    <Model>PATRIOT</Model>
+    <PurchaseDate>12/06/2011</PurchaseDate>
+  </Leadlist39>
+  <Leadlist40>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>BELINDA</FirstName>
+    <LastName>FERGUSON</LastName>
+    <Address>39 GREENWOOD CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4X 1G5</Zip>
+    <HomePhone>3065691575</HomePhone>
+    <WorkPhone>3067312306</WorkPhone>
+    <Year>2011</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>08/11/2012</PurchaseDate>
+  </Leadlist40>
+  <Leadlist41>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>LOREE</FirstName>
+    <LastName>MACPHERSON</LastName>
+    <Address>45 ELM BAY</Address>
+    <Apartment></Apartment>
+    <City>LUMSDEN</City>
+    <State>SK</State>
+    <Zip>S0G 3C0</Zip>
+    <HomePhone>3067313594</HomePhone>
+    <WorkPhone>3065404158</WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>CHALLENGER</Model>
+    <PurchaseDate>06/14/2012</PurchaseDate>
+  </Leadlist41>
+  <Leadlist42>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>ADAM</FirstName>
+    <LastName>KISS</LastName>
+    <Address>210 TRIFUNOV BAY</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 7H8</Zip>
+    <HomePhone>3065437584</HomePhone>
+    <WorkPhone>3067191450</WorkPhone>
+    <Year>2011</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>05/09/2013</PurchaseDate>
+  </Leadlist42>
+  <Leadlist43>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>SANDRA</FirstName>
+    <LastName>GELOWITZ</LastName>
+    <Address>63 HALLERAN CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 3Z3</Zip>
+    <HomePhone>3069494576</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1994</Year>
+    <Make>FORD</Make>
+    <Model>EXPLORER</Model>
+    <PurchaseDate>12/08/2012</PurchaseDate>
+  </Leadlist43>
+  <Leadlist44>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>BAYLEY</FirstName>
+    <LastName>BLACKWELL</LastName>
+    <Address>BOX 244</Address>
+    <Apartment></Apartment>
+    <City>DINSMORE</City>
+    <State>SK</State>
+    <Zip>S0L 0T0</Zip>
+    <HomePhone>3068464408</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>CHEVROLET</Make>
+    <Model>CRUZE</Model>
+    <PurchaseDate>10/09/2012</PurchaseDate>
+  </Leadlist44>
+  <Leadlist45>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>208 CHEADLE ST W</Address>
+    <Apartment></Apartment>
+    <City>SWIFT CURRENT</City>
+    <State>SK</State>
+    <Zip>S9H 0B5</Zip>
+    <HomePhone>3067739301</HomePhone>
+    <WorkPhone>8884608933</WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>04/10/2013</PurchaseDate>
+  </Leadlist45>
+  <Leadlist46>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>TODD   ANDREA</FirstName>
+    <LastName>OSTAPOVITCH</LastName>
+    <Address>BOX 239</Address>
+    <Apartment></Apartment>
+    <City>THEODORE</City>
+    <State>SK</State>
+    <Zip>S0A 4C0</Zip>
+    <HomePhone>3066219097</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>10/11/2013</PurchaseDate>
+  </Leadlist46>
+  <Leadlist47>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>660 PEMBINA HWY</Address>
+    <Apartment></Apartment>
+    <City>WINNIPEG</City>
+    <State>MB</State>
+    <Zip>R3M 2M5</Zip>
+    <HomePhone>2042847520</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2010</Year>
+    <Make>PORSCHE</Make>
+    <Model>CAYENNE</Model>
+    <PurchaseDate>05/17/2013</PurchaseDate>
+  </Leadlist47>
+  <Leadlist48>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>161 RIDDELL CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4S 5T3</Zip>
+    <HomePhone>3065300043</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2003</Year>
+    <Make>CHEVROLET</Make>
+    <Model>TRACKER</Model>
+    <PurchaseDate>06/26/2013</PurchaseDate>
+  </Leadlist48>
+  <Leadlist49>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>AUTO HAUS</FirstName>
+    <LastName>VOLKSWAGEN</LastName>
+    <Address>660 PEMBINA HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>WINNIPEG</City>
+    <State>MB</State>
+    <Zip>R3M 2M5</Zip>
+    <HomePhone>2042847520</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>PORSCHE</Make>
+    <Model>BOXSTER</Model>
+    <PurchaseDate>08/09/2013</PurchaseDate>
+  </Leadlist49>
+  <Leadlist50>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>KIER</FirstName>
+    <LastName>ISTACE</LastName>
+    <Address>BOX 413</Address>
+    <Apartment></Apartment>
+    <City>Pilot Butte</City>
+    <State>SK</State>
+    <Zip>S0G 3Z0</Zip>
+    <HomePhone>3065849770</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>CHALLENGER</Model>
+    <PurchaseDate>01/11/2014</PurchaseDate>
+  </Leadlist50>
+  <Leadlist51>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1655 MCARA STREET</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State></State>
+    <Zip>S4N 6H4</Zip>
+    <HomePhone>3065253716</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1996</Year>
+    <Make>MERCURY</Make>
+    <Model>GRAND MARQUIS</Model>
+    <PurchaseDate>04/23/2012</PurchaseDate>
+  </Leadlist51>
+  <Leadlist52>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>DAVE</FirstName>
+    <LastName>REDWOOD</LastName>
+    <Address>BOX 401</Address>
+    <Apartment></Apartment>
+    <City>COWESSESS</City>
+    <State>SK</State>
+    <Zip>S0C 5L0</Zip>
+    <HomePhone>3066963377</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>CHALLENGER</Model>
+    <PurchaseDate>04/17/2012</PurchaseDate>
+  </Leadlist52>
+  <Leadlist53>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>BOX 785 409 KENSINGTON AVENUE</Address>
+    <Apartment></Apartment>
+    <City>P.O. BOX 785</City>
+    <State>SK</State>
+    <Zip>S4A 2A6</Zip>
+    <HomePhone>3066343644</HomePhone>
+    <WorkPhone>6349827</WorkPhone>
+    <Year>2012</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>03/13/2012</PurchaseDate>
+  </Leadlist53>
+  <Leadlist54>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>160 - 38TH STREET EAST</Address>
+    <Apartment></Apartment>
+    <City>PRINCE ALBERT, SK</City>
+    <State>SK</State>
+    <Zip>S6W 1A6</Zip>
+    <HomePhone>3067644217</HomePhone>
+    <WorkPhone>3067644141</WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>JOURNEY</Model>
+    <PurchaseDate>12/07/2011</PurchaseDate>
+  </Leadlist54>
+  <Leadlist55>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>JASON</FirstName>
+    <LastName>SPEILER</LastName>
+    <Address>295 TREMAINE AVE</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 6T9</Zip>
+    <HomePhone>3065025833</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2002</Year>
+    <Make>FORD</Make>
+    <Model>EXPLORER</Model>
+    <PurchaseDate>11/14/2011</PurchaseDate>
+  </Leadlist55>
+  <Leadlist56>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>331 CIRCLE DRIVE WEST</Address>
+    <Apartment></Apartment>
+    <City>SASKATOON, SK</City>
+    <State>SK</State>
+    <Zip>S7L 5S8</Zip>
+    <HomePhone>8007722094</HomePhone>
+    <WorkPhone>2442855</WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>JOURNEY</Model>
+    <PurchaseDate>03/19/2012</PurchaseDate>
+  </Leadlist56>
+  <Leadlist57>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>3333 6TH AVE EAST</Address>
+    <Apartment></Apartment>
+    <City>PRINCE ALBERT</City>
+    <State>SK</State>
+    <Zip>S6V 8C8</Zip>
+    <HomePhone>3067653000</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>JOURNEY</Model>
+    <PurchaseDate>02/04/2012</PurchaseDate>
+  </Leadlist57>
+</data>

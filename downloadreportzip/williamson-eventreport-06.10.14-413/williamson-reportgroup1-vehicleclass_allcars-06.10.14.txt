@@ -1,0 +1,4 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Williamson Chrysler			8-10 Snidercroft Rd	Concord	ON	L4K 2X3	7053573452	9056601475	2013	JEEP	WRANGLER UNLIM	12/28/2012 12:00:00 AM	 
+Williamson Chrysler	Adam	Peacock	30 Alsop Place	Uxbridge	ON	L9P 1X1	9058522514		2012	RAM	1500	06/27/2012 12:00:00 AM	 
+Williamson Chrysler			30 Wertheim Court Unit 13	Richmond Hill	ON	L4B 1B9		4163685437	2008	CHEVROLET	UPLANDER	09/10/2012 12:00:00 AM	 

@@ -1,0 +1,3 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Bill Howich Chrysler	ROBERT	HODKINSON	BOX 732, 1133 MAQUINNA AVENUE	PORT ALICE	B.C.	V0N 2N0	2502840028	2502847785	2010	WILDWOOD	T22FSLE	10/06/2011 12:00:00 AM	 
+Crestview Chrysler	DONNY	ALBERT	335	MUSKOWEKWAN	SK	S0A 2G0	3065255411		2013	DODGE	DART	03/01/2013	 

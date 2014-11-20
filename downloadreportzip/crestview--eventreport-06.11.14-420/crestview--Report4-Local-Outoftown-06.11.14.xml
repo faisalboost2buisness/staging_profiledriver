@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName>HC CONTRACTING</LastName>
+    <Address>5787 GRANDVIEW ROAD</Address>
+    <Apartment></Apartment>
+    <City>PORT ALBERNI</City>
+    <State>BC</State>
+    <Zip>V9Y 8V9</Zip>
+    <HomePhone>2507236547</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1972</Year>
+    <Make>KENWORTH</Make>
+    <Model>848</Model>
+    <PurchaseDate>04/06/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName>HC CONTRACTING</LastName>
+    <Address>5787 GRANDVIEW ROAD</Address>
+    <Apartment></Apartment>
+    <City>PORT ALBERNI</City>
+    <State>BC</State>
+    <Zip>V9Y 8V9</Zip>
+    <HomePhone>2507236547</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1992</Year>
+    <Make>TRAVELAIRE</Make>
+    <Model>5TH WHEEL</Model>
+    <PurchaseDate>05/25/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>PHILIP</FirstName>
+    <LastName>HAWKINS</LastName>
+    <Address>BOX 749, 920 HARBOURBROOK ROAD</Address>
+    <Apartment></Apartment>
+    <City>QUATHIASKI COVE</City>
+    <State>BC</State>
+    <Zip>V0P 1N0</Zip>
+    <HomePhone>2502852398</HomePhone>
+    <WorkPhone>2506375331</WorkPhone>
+    <Year>2014</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>01/22/2014 12:00:00 AM</PurchaseDate>
+  </Leadlist3>
+</data>

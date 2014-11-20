@@ -1,0 +1,51 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Demo Dealer	Full-size cars	VehicleClass	12 IRONSHORE CRTNotRequired	NA	ON	L4G 5X9	NotRequired	NotRequired	2010	NotImportant	NotImportant	08/15/2013 12:00:00 AM	 
+Demo Dealer	mid-size cars	VehicleClass	268 ELIZABETH STREETNotRequired	NA	ON	L1J 6S4	9057202679	NotRequired	2013	NotImportant	NotImportant	09/10/2013 12:00:00 AM	 
+Demo Dealer	small cars	VehicleClass	74 EWEN DRIVENotRequired	NA	ON	L9P 1L5	9058521302	NotRequired	2013	NotImportant	NotImportant	01/24/2014 12:00:00 AM	 
+Demo Dealer	SUVS	VehicleClass	34 FIRST STREETNotRequired	NA	ON	L0B 1E0	9059861376	NotRequired	2014	NotImportant	NotImportant	02/28/2013 12:00:00 AM	 
+Demo Dealer	Crossovers	VehicleClass	68 HEATH CRNotRequired	NA	ON	L9L 1K9	9059852847	NotRequired	2013	NotImportant	NotImportant	07/29/2013 12:00:00 AM	 
+Demo Dealer	Trucks	VehicleClass	39 Miltrose Cres.NotRequired	NA	ON	L4A 0P8	6479227568	NotRequired	2013	NotImportant	NotImportant	12/18/2012 12:00:00 AM	 
+Demo Dealer	Vans	VehicleClass	....NEED NEW ADDRESS....APT 2006	NA	NotRequired	___ ___	2893874214	0	2010	NotImportant	NotImportant	08/21/2012 12:00:00 AM	 
+Demo Dealer	Green Cars	VehicleClass	26 BAINHART CRES.NotRequired	NA	ON	M1H 2R3	NotRequired	NotRequired	2012	NotImportant	NotImportant	01/30/2014 12:00:00 AM	 
+Demo Dealer	Other	VehicleClass	14703 Ninth LineNotRequired	NA	ON	L4A 7X3	6475315108	NotRequired	2013	NotImportant	NotImportant	09/18/2012 12:00:00 AM	 
+Demo Dealer	FWD	DriveType	959 Black School RoadNotRequired	NA	ON	K0M 2T0	7053745622	9058529892	2011	NotImportant	NotImportant	01/11/2013 12:00:00 AM	 
+Demo Dealer	AWD	DriveType	12 Claireville CresNotRequired	NA	ON	M2J 2C1	NotRequired	NotRequired	2013	NotImportant	NotImportant	07/14/2012 12:00:00 AM	 
+Demo Dealer	RWD	DriveType	7 RACHEL LEE COURTNotRequired	NA	ON	L9P 1W5	9058521884	NotRequired	2012	NotImportant	NotImportant	09/17/2012 12:00:00 AM	 
+Demo Dealer	4X4	DriveType	22 SPARROW COURTNotRequired	NA	ON	K0M 2C0	7057867473	NotRequired	2011	NotImportant	NotImportant	09/11/2012 12:00:00 AM	 
+Demo Dealer	OTHER	DriveType	2 HURT STREET BOX 3001NotRequired	NA	ON	L9L 1C1	9059854798	NotRequired	2013	NotImportant	NotImportant	04/15/2013 12:00:00 AM	 
+Demo Dealer	4	FuelEconomy (average l/100km)	57 SNIDER DRIVENotRequired	NA	ON	L3P 6L7	9052940980	NotRequired	2013	NotImportant	NotImportant	02/08/2013 12:00:00 AM	 
+Demo Dealer	6	FuelEconomy (average l/100km)	29 BOLSTER LANENotRequired	NA	ON	L9P 1X8	9058623387	NotRequired	2013	NotImportant	NotImportant	07/08/2013 12:00:00 AM	 
+Demo Dealer	8	FuelEconomy (average l/100km)	122 BROCK ST. ENotRequired	NA	ONT	L9P 1K5	9058623653	4168468835	2012	NotImportant	NotImportant	07/29/2013 12:00:00 AM	 
+Demo Dealer	10	FuelEconomy (average l/100km)	431 WATSON DrNotRequired	NA	ON	L4A 6L1	6472988516	NotRequired	2013	NotImportant	NotImportant	07/16/2013 12:00:00 AM	 
+Demo Dealer	12	FuelEconomy (average l/100km)	29 BEASLEY DRIVENotRequired	NA	ON	L4C 7Z6	9057708543	NotRequired	2013	NotImportant	NotImportant	07/31/2012 12:00:00 AM	 
+Demo Dealer	14	FuelEconomy (average l/100km)	1215 BLUE MOUNTAIN ROADNotRequired	NA	ON	L0C 1B0	9059850789	NotRequired	2012	NotImportant	NotImportant	04/08/2013 12:00:00 AM	 
+Demo Dealer	16	FuelEconomy (average l/100km)	3 TURNER DRIVENotRequired	NA	ON	L9P 1V4	9058527220	4163645959	2013	NotImportant	NotImportant	11/20/2013 12:00:00 AM	 
+Demo Dealer	18	FuelEconomy (average l/100km)	248 VICTORIA ST PO BOX 106NotRequired	NA	ON	L0K 1A0	7054263097	NotRequired	2013	NotImportant	NotImportant	12/31/2012 12:00:00 AM	 
+Demo Dealer	20	FuelEconomy (average l/100km)	7 STANFORD  CRES.NotRequired	NA	ON	L1B 1G1	9059875601	NotRequired	2013	NotImportant	NotImportant	10/29/2013 12:00:00 AM	 
+Demo Dealer	1000	TradeInValue	27 OXTOBY LANENotRequired	NA	ONTARIO	L0C 1C0	9058526427	9057505306	2014	NotImportant	NotImportant	12/18/2013 12:00:00 AM	 
+Demo Dealer	3000	TradeInValue	126 Manitoba StreetNotRequired	NA	ON	L4A 4X1	NotRequired	NotRequired	2008	NotImportant	NotImportant	11/28/2013 12:00:00 AM	 
+Demo Dealer	7000	TradeInValue	51 RUSSELL BARTON LANENotRequired	NA	ON	L9P 1Z2	9058522081	NotRequired	2009	NotImportant	NotImportant	02/15/2013 12:00:00 AM	 
+Demo Dealer	9000	TradeInValue	120 HOMEWOOD AVE, SUITE 414NotRequired	NA	ON	M4Y 2J3	9054736731	NotRequired	2013	NotImportant	NotImportant	11/02/2013 12:00:00 AM	 
+Demo Dealer	11000	TradeInValue	13120 Durham Road 39NotRequired	NA	ON	L0E 1T0	NotRequired	NotRequired	2013	NotImportant	NotImportant	01/04/2013 12:00:00 AM	 
+Demo Dealer	13000	TradeInValue	7 MURRAY TABB STREETNotRequired	NA	ON	L1C 0M5	9054191626	NotRequired	2011	NotImportant	NotImportant	12/17/2013 12:00:00 AM	 
+Demo Dealer	15000	TradeInValue	71 EDGEWOOD CRES.NotRequired	NA	ON	L9L 1B6	NotRequired	NotRequired	2014	NotImportant	NotImportant	10/10/2013 12:00:00 AM	 
+Demo Dealer	17000	TradeInValue	750 CRAGG ROADNotRequired	NA	ON	L9P 1R3	9058525054	NotRequired	2013	NotImportant	NotImportant	12/30/1899 12:00:00 AM	 
+Demo Dealer	19000	TradeInValue	610 CRAGG ROADNotRequired	NA	ON	L9P 1R3	4165765702	NotRequired	2014	NotImportant	NotImportant	09/03/2013 12:00:00 AM	 
+Demo Dealer	21000	TradeInValue	26 JANE STREETNotRequired	NA	ON	L0C 1H0	7058790330	NotRequired	2013	NotImportant	NotImportant	06/13/2013 12:00:00 AM	 
+Demo Dealer	Comprehensive Remaining (>6 months) Acura	VehicleWarranty	4400 CONCESSION 2NotRequired	NA	ON	L4A 7X4	9056426641	NotRequired	2013	Acura	NotImportant	02/28/2013 12:00:00 AM	 
+Demo Dealer	Comprehensive Remaining (>6 months) Chrysler	VehicleWarranty	1320 ANDOVER DRIVENotRequired	NA	ON	L1K 2M7	9055767617	9055710949	2012	Chrysler	NotImportant	12/30/1899 12:00:00 AM	 
+Demo Dealer	Comprehensive Remaining (>6 months) Hyundai	VehicleWarranty	7 Maple AveNotRequired	NA	ON	L0G 1A0	9057292958	NotRequired	2014	Hyundai	NotImportant	07/16/2012 12:00:00 AM	 
+Demo Dealer	Comprehensive Remaining (<6 months) Acura	VehicleWarranty	7 Maple Ave EastNotRequired	NA	ON	L0G 1A0	NotRequired	NotRequired	2012	Acura	NotImportant	08/07/2012 12:00:00 AM	 
+Demo Dealer	Comprehensive Remaining (<6 months) Chrysler	VehicleWarranty	7 LORMIK RDNotRequired	NA	ON	L9P 1R6	2898031393	NotRequired	2013	Chrysler	NotImportant	04/15/2013 12:00:00 AM	 
+Demo Dealer	Comprehensive Remaining (<6 months) Hyundai	VehicleWarranty	1 MILLBURY ROADNotRequired	NA	ON	L9P 0A2	9058623409	NotRequired	2013	Hyundai	NotImportant	07/24/2013 12:00:00 AM	 
+Demo Dealer	Powertrain (>6 months remaining) Acura	VehicleWarranty	132 PLANKS LANENotRequired	NA	ON	L9P 1K6	NotRequired	9058523571	2013	Acura	NotImportant	08/01/2013 12:00:00 AM	 
+Demo Dealer	Powertrain (>6 months remaining) Chrysler	VehicleWarranty	69 BLACKWATER RDNotRequired	NA	ON	L0C 1H0	NotRequired	9054243422	2013	Chrysler	NotImportant	07/19/2013 12:00:00 AM	 
+Demo Dealer	Powertrain (>6 months remaining) Hyundai	VehicleWarranty	28 ALBERT STREET NNotRequired	NA	ON	L0C 1H0	7059285311	NotRequired	2013	Hyundai	NotImportant	09/11/2013 12:00:00 AM	 
+Demo Dealer	Powertrain (<6 months remaining) Acura	VehicleWarranty	28 ALBERT STREET NORTHNotRequired	NA	ON	L0C 1H0	7053572249	7058765118	2013	Acura	NotImportant	10/23/2013 12:00:00 AM	 
+Demo Dealer	Powertrain (<6 months remaining) Chrysler	VehicleWarranty	74 STEINWAY DRNotRequired	NA	ON	L9L 1V3	NotRequired	4168654492	2014	Chrysler	NotImportant	06/17/2013 12:00:00 AM	 
+Demo Dealer	Powertrain (<6 months remaining) Hyundai	VehicleWarranty	13 Marsh Creek RdNotRequired	NA	ON	K0M 2C0	7057861740	NotRequired	2013	Hyundai	NotImportant	08/31/2012 12:00:00 AM	 
+Demo Dealer	no warranty remaining Acura	VehicleWarranty	75 ALLAYDEN DRIVENotRequired	NA	ON	L1P 1L5	9054092497	NotRequired	2012	Acura	NotImportant	07/26/2013 12:00:00 AM	 
+Demo Dealer	no warranty remaining Chrysler	VehicleWarranty	23 TOYNBEE TRAILNotRequired	NA	ON	M1E 1E8	4162644527	NotRequired	2011	Chrysler	NotImportant	12/10/2013 12:00:00 AM	 
+Demo Dealer	no warranty remaining Hyundai	VehicleWarranty	2 FOXBURY RDNotRequired	NA	ON	L9P 1Z9	9058529271	9054751217	2014	Hyundai	NotImportant	04/02/2013 12:00:00 AM	 
+Demo Dealer	0	FinanceRate	104 BOLTON DRIVENotRequired	NA	ON	L9P 1W9	9058620411	NotRequired	2013	NotImportant	NotImportant	05/01/2013 12:00:00 AM	 
+Demo Dealer	1	FinanceRate	329 CLARK STREETNotRequired	NA	ON	L9L 1J6	9059859448	NotRequired	2013	NotImportant	NotImportant	04/25/2013 12:00:00 AM	 

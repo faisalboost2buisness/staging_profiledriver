@@ -1,0 +1,3 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Williamson Chrysler	MICHAEL	MACHIKA	3350 THOMAS STREETAPT 16	Mississauga	ON	L5M 0R2	6475374667		2013	RAM	1500 CREW CAB	03/27/2013 12:00:00 AM	 
+Williamson Chrysler	KAYLEIGH	KRAEMER	695 WAGG ROAD	UXBRIDGE	ON	L9P 1R4			2014	JEEP	COMPASS	03/27/2013 12:00:00 AM	 

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>DONNY</FirstName>
+    <LastName>ALBERT</LastName>
+    <Address>335</Address>
+    <Apartment></Apartment>
+    <City>MUSKOWEKWAN</City>
+    <State>SK</State>
+    <Zip>S0A 2G0</Zip>
+    <HomePhone>3065255411</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>DART</Model>
+    <PurchaseDate>03/01/2013</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>ROBERT</FirstName>
+    <LastName>HODKINSON</LastName>
+    <Address>BOX 732, 1133 MAQUINNA AVENUE</Address>
+    <Apartment></Apartment>
+    <City>PORT ALICE</City>
+    <State>B.C.</State>
+    <Zip>V0N 2N0</Zip>
+    <HomePhone>2502840028</HomePhone>
+    <WorkPhone>2502847785</WorkPhone>
+    <Year>2010</Year>
+    <Make>WILDWOOD</Make>
+    <Model>T22FSLE</Model>
+    <PurchaseDate>10/06/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist2>
+</data>

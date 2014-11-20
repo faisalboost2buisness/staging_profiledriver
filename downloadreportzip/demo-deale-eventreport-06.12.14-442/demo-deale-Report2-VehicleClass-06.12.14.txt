@@ -1,0 +1,17 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Demo Dealer (#198)	small cars	VehicleClass	74 EWEN DRIVENotRequired	NA	ON	L9P 1L5	9058521302	NotRequired	2013	NotImportant	NotImportant	01/24/2014 12:00:00 AM	 
+Demo Dealer (#198)	Green Cars	VehicleClass	26 BAINHART CRES.NotRequired	NA	ON	M1H 2R3	NotRequired	NotRequired	2012	NotImportant	NotImportant	01/30/2014 12:00:00 AM	 
+Demo Dealer (#198)	Gas	FuelType	69 BOLSTER LANENotRequired	NA	ONTARIO	L9P 1X6	9058523405	9054751400	2012	NotImportant	NotImportant	06/07/2013 12:00:00 AM	 
+Demo Dealer (#198)	Gas	FuelType	20 NICHOLSON DRIVENotRequired	NA	ON	L9P 1R2	7052288793	NotRequired	2012	NotImportant	NotImportant	07/26/2013 12:00:00 AM	 
+Demo Dealer (#198)	Diesel	FuelType	17 DEERHURST LANENotRequired	NA	ON	L0E 1N0	0	0	2013	NotImportant	NotImportant	07/24/2013 12:00:00 AM	 
+Demo Dealer (#198)	Diesel	FuelType	80 CAMERON ST ENotRequired	NA	ON	L0E 1E0	7054328694	NotRequired	2013	NotImportant	NotImportant	01/30/2013 12:00:00 AM	 
+Demo Dealer (#198)	Other/Unknown	FuelType	140 Shrewsbury DriveNotRequired	NA	ON	L1M 0E3	9054254113	9054254113	2014	NotImportant	NotImportant	11/30/2012 12:00:00 AM	 
+Demo Dealer (#198)	Other/Unknown	FuelType	9 HIGHWAY 7NotRequired	NA	ON	K0M 2J0	9054739135	NotRequired	2013	NotImportant	NotImportant	07/04/2013 12:00:00 AM	 
+Demo Dealer (#198)	City=Edmonton	Local/Out of Town	43 SOUTH BEECHNotRequired	Edmonton	ON	L9P 1G1	9058522412	0	2013	NotImportant	NotImportant	07/16/2013 12:00:00 AM	 
+Demo Dealer (#198)	City=Edmonton	Local/Out of Town	9 Testa RdNotRequired	Edmonton	ON	L9P 1M1	9058520652	NotRequired	2013	NotImportant	NotImportant	06/13/2013 12:00:00 AM	 
+Demo Dealer (#198)	City=Fort MCMurray	Local/Out of Town	1584 BRAMSEY DRNotRequired	Fort McMurray	ON	L5J 2H6	9058238018	4166462811	2012	NotImportant	NotImportant	01/02/2013 12:00:00 AM	 
+Demo Dealer (#198)	City=Fort MCMurray	Local/Out of Town	63 MUNRO CRES.NotRequired	Fort McMurray	ONTARIO	L9P 1L8	9058522436	4162995900	2013	NotImportant	NotImportant	06/16/2012 12:00:00 AM	 
+Demo Dealer (#198)	Used	Used vs. New Purchase	7 COLBY ROADNotRequired	NA	ON	L9P 1R7	9058522288	NotRequired	2013	NotImportant	NotImportant	06/06/2012 12:00:00 AM	 
+Demo Dealer (#198)	Used	Used vs. New Purchase	2050 7th concession RR4NotRequired	NA	ON	L9P 1R4	9056493324	NotRequired	2013	NotImportant	NotImportant	12/08/2012 12:00:00 AM	 
+Demo Dealer (#198)	New	Used vs. New Purchase	160 BROCK CONCESSION 4NotRequired	NA	ON	L0C 1H0	NotRequired	NotRequired	2014	NotImportant	NotImportant	12/24/2013 12:00:00 AM	 
+Demo Dealer (#198)	New	Used vs. New Purchase	440 LAKESHORE DRIVENotRequired	NA	ON	L9L 1N7	9059853018	NotRequired	2013	NotImportant	NotImportant	12/06/2013 12:00:00 AM	 

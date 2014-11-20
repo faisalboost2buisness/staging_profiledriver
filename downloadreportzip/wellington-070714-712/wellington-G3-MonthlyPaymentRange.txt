@@ -1,0 +1,4664 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Wellington Motors (#170)	
+        	
+        MASON	
+        71 HARPER CRES	
+        	
+        FERGUS	
+        ON	
+        N1M3W1	
+        5197871251	
+        5196699454	
+        2013	
+        FIAT	
+        500	
+        07/01/2013	 
+Wellington Motors (#170)	
+        SHELLEY	
+        ELKERTON	
+        14 PAUL AVENUE	
+        	
+        GUELPH	
+        ON	
+        N1E1S2	
+        5197670632	
+        5193415996	
+        2013	
+        FIAT	
+        500	
+        06/14/2013	 
+Wellington Motors (#170)	
+        NICOLE	
+        ORLANDO	
+        16 DARBY ROAD	
+        	
+        GUELPH	
+        ON	
+        N1K1R4	
+        5198304018	
+        	
+        2013	
+        CHRYSLER	
+        200	
+        06/14/2013	 
+Wellington Motors (#170)	
+        STANLEY	
+        SIDERIUS	
+        5347 3RD LINE	
+        	
+        ROCKWOOD RR3	
+        ON	
+        N0B2K0	
+        5198569125	
+        	
+        2013	
+        CHRYSLER	
+        200	
+        07/08/2013	 
+Wellington Motors (#170)	
+        JESSICA	
+        SIMON	
+        137 LANCASTER ST W	
+        	
+        KITCHENER	
+        ON	
+        N2H4T5	
+        5197423110	
+        5196505449	
+        2013	
+        FIAT	
+        500	
+        06/14/2013	 
+Wellington Motors (#170)	
+        ELIZABETH	
+        DOUGHTY	
+        5773 5TH LINE GUELPH/ERAM	
+        	
+        ROCKWOOD	
+        ON	
+        N0B2K0	
+        5198560853	
+        	
+        2013	
+        FIAT	
+        500	
+        07/03/2013	 
+Wellington Motors (#170)	
+        	
+        HASENKRUG	
+        17 DAVENRICH WAY	
+        	
+        NEW HAMBURG	
+        ON	
+        N3A0A3	
+        5193903710	
+        	
+        2013	
+        FIAT	
+        500	
+        07/07/2013	 
+Wellington Motors (#170)	
+        JANJIC	
+        LACOMBE	
+        56 CHEDOKE AVE	
+        	
+        HAMILTON	
+        ON	
+        L8P4N9	
+        9059120901	
+        	
+        2012	
+        FIAT	
+        500	
+        07/07/2013	 
+Wellington Motors (#170)	
+        	
+        PETTI	
+        239 FRONT ST	
+        	
+        STRATFORD	
+        ON	
+        N5A4H8	
+        5192753505	
+        5192753505	
+        2012	
+        FIAT	
+        500	
+        07/12/2013	 
+Wellington Motors (#170)	
+        EMIL	
+        PESCHKE	
+        112 BRIAR KNOLL DR	
+        	
+        KITCHENER	
+        ON	
+        N2E1Y2	
+        5195795876	
+        	
+        2012	
+        FIAT	
+        500	
+        07/13/2013	 
+Wellington Motors (#170)	
+        VITTORIA	
+        AIMOLA-VERI	
+        23 WALNUT DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1E4B4	
+        4167316633	
+        	
+        2013	
+        FIAT	
+        500	
+        05/19/2013	 
+Wellington Motors (#170)	
+        MICHAEL	
+        ZONGOR	
+        288 COLONIAL DR	
+        	
+        GUELPH	
+        ON	
+        N1L0G4	
+        5198415804	
+        	
+        2012	
+        FIAT	
+        500	
+        05/16/2013	 
+Wellington Motors (#170)	
+        JENNIFER	
+        RANDALL	
+        469 GEDDES ST	
+        	
+        ELORA	
+        ON	
+        N0B1S0	
+        5198468311	
+        5198244120	
+        2013	
+        FIAT	
+        500	
+        05/16/2013	 
+Wellington Motors (#170)	
+        ERZEBET	
+        APRO	
+        8 BURKE CRES	
+        	
+        GUELPH	
+        ON	
+        N1L1J2	
+        5197669376	
+        	
+        2013	
+        CHRYSLER	
+        200	
+        05/24/2013	 
+Wellington Motors (#170)	
+        WAYNE	
+        MOORE	
+        419 IMPERIAL RD S	
+        APT 202	
+        GUELPH	
+        ON	
+        N1K1J9	
+        5198368930	
+        	
+        2013	
+        CHRYSLER	
+        200	
+        05/29/2013	 
+Wellington Motors (#170)	
+        DALE	
+        WILLIS	
+        606-55 YARMOUTH ST	
+        	
+        GUELPH	
+        ON	
+        N1H7R4	
+        5192656443	
+        	
+        2013	
+        FIAT	
+        500	
+        06/10/2013	 
+Wellington Motors (#170)	
+        RAYMOND	
+        PERRY	
+        4 SHARPE STREET	
+        	
+        PARIS	
+        ON	
+        N3L4C6	
+        5194429272	
+        5194635339	
+        2013	
+        FIAT	
+        500	
+        05/30/2013	 
+Wellington Motors (#170)	
+        RACHEL	
+        DEJONGE	
+        7501 WELLINGTON RD 36	
+        	
+        MORRISTON	
+        ON	
+        N0B2C0	
+        5198360908	
+        5199930618	
+        2013	
+        FIAT	
+        500	
+        05/30/2013	 
+Wellington Motors (#170)	
+        DOROTHY	
+        MCLAREN	
+        370 IRONWOOD RD.	
+        	
+        GUELPH	
+        ON	
+        N1G3N8	
+        5198247528	
+        5198353317	
+        2008	
+        DODGE	
+        CALIBER	
+        06/09/2013	 
+Wellington Motors (#170)	
+        DAVID	
+        WOODCOCK	
+        65 MONT ST	
+        	
+        GUELPH	
+        ON	
+        N1H2A5	
+        	
+        4168826520	
+        2007	
+        MITSUBISHI	
+        ECLIPSE	
+        06/04/2013	 
+Wellington Motors (#170)	
+        SHELLEY	
+        DREW	
+        19 COUNTRY SPRING WALK	
+        	
+        CONESTOGO	
+        ON	
+        N0B1N0	
+        5196641871	
+        	
+        2013	
+        FIAT	
+        500	
+        06/07/2013	 
+Wellington Motors (#170)	
+        KIMBERLEY	
+        PAHL	
+        49 DIETZ AV S	
+        APT 106	
+        WATERLOO	
+        ON	
+        N2L1J8	
+        5192123639	
+        	
+        2013	
+        FIAT	
+        500	
+        05/16/2013	 
+Wellington Motors (#170)	
+        SANDRA	
+        WILKE	
+        284 12TH ST	
+        	
+        HANOVER	
+        ON	
+        N4N1V3	
+        5195066200	
+        5193647606	
+        2013	
+        FIAT	
+        500	
+        05/22/2013	 
+Wellington Motors (#170)	
+        ILONA	
+        EMILJANOWICZ	
+        55 THE GREENWAY	
+        	
+        CAMBRIDGE	
+        ON	
+        N1R6L6	
+        5196214008	
+        5196215211	
+        2013	
+        FIAT	
+        500	
+        05/20/2013	 
+Wellington Motors (#170)	
+        HARRY	
+        MEADS	
+        23-110 BEASLEY CRES	
+        	
+        CAMBRIDGE	
+        ON	
+        N1T1T5	
+        5196210642	
+        	
+        2012	
+        FIAT	
+        500	
+        06/09/2013	 
+Wellington Motors (#170)	
+        JASON	
+        BENT	
+        34 PAUL AVENUE	
+        	
+        GUELPH	
+        ON	
+        N1E1S4	
+        5198231492	
+        5198218883	
+        2013	
+        CHRYSLER	
+        200	
+        06/10/2013	 
+Wellington Motors (#170)	
+        STEPHEN	
+        CHAPPLE	
+        128 DEKAY ST	
+        	
+        KITCHENER	
+        ON	
+        N2H3T6	
+        5194920485	
+        5192919900	
+        2013	
+        FIAT	
+        500	
+        05/24/2013	 
+Wellington Motors (#170)	
+        NICHOLAS	
+        MITCHELL	
+        463 ELIZABETH STREET	
+        	
+        SALEM	
+        ON	
+        N0B1S0	
+        5199932276	
+        18005753381	
+        2013	
+        FIAT	
+        500	
+        03/22/2013	 
+Wellington Motors (#170)	
+        NATASHA	
+        BOYD	
+        158 RICKSON AVE	
+        	
+        GUELPH	
+        ON	
+        N1G4Y3	
+        5198416012	
+        	
+        2008	
+        DODGE	
+        CALIBER	
+        04/16/2013	 
+Wellington Motors (#170)	
+        LAURA	
+        HANVEY	
+        9 APPLETON DRIVE	
+        	
+        ORANGEVILLE	
+        ON	
+        L9W5C3	
+        5199413079	
+        	
+        2008	
+        PONTIAC	
+        G5	
+        03/29/2013	 
+Wellington Motors (#170)	
+        RACHEAL	
+        MATLASHEWSKI	
+        102 MAY ST	
+        	
+        ROCKWOOD	
+        ON	
+        N0B2K0	
+        	
+        	
+        2010	
+        MAZDA	
+        MAZDA3	
+        04/18/2013	 
+Wellington Motors (#170)	
+        IRWIN	
+        CAMPBELL	
+        15-539 WILLOW RD	
+        	
+        GUELPH	
+        ON	
+        N1H7G3	
+        5192655033	
+        	
+        2013	
+        CHRYSLER	
+        200	
+        05/03/2013	 
+Wellington Motors (#170)	
+        MICHAEL	
+        LIETO	
+        1363 THORMAN DR	
+        UNIT # 12	
+        CAMBRIDGE	
+        ON	
+        N3H1A1	
+        5195012024	
+        5196481212	
+        2013	
+        CHRYSLER	
+        200	
+        04/17/2013	 
+Wellington Motors (#170)	
+        STACY	
+        BARCLAY	
+        29 WESTGATE DR	
+        	
+        GUELPH	
+        ON	
+        N1H5N6	
+        2262030384	
+        5197635888	
+        2013	
+        CHRYSLER	
+        200	
+        04/18/2013	 
+Wellington Motors (#170)	
+        KRISTIN	
+        MCGILLIVRAY	
+        16 HARTFIELD DR	
+        	
+        GUELPH	
+        ON	
+        N1H6J2	
+        5198228390	
+        5198370744	
+        2012	
+        FIAT	
+        500	
+        04/14/2013	 
+Wellington Motors (#170)	
+        CHRISTIE	
+        LEWIS	
+        5 DOUGLAS STREET	
+        	
+        STRATFORD	
+        ON	
+        N5A5P3	
+        5195882447	
+        	
+        2012	
+        FIAT	
+        500	
+        04/04/2013	 
+Wellington Motors (#170)	
+        JUDITH	
+        CURRIE	
+        7652 MALTBY ROAD E	
+        	
+        PUSLINCH R1	
+        ON	
+        N0B2J0	
+        5198232078	
+        	
+        2013	
+        CHRYSLER	
+        200	
+        03/18/2013	 
+Wellington Motors (#170)	
+        SUSANE	
+        CASE	
+        4 LANZA CRT	
+        	
+        HAMILTON	
+        ON	
+        L8T5A8	
+        9053189681	
+        9055212100	
+        2013	
+        CHRYSLER	
+        200	
+        04/08/2013	 
+Wellington Motors (#170)	
+        KURT	
+        KRUGER	
+        691 ST ANDREW ST W	
+        	
+        FERGUS	
+        ON	
+        N1M1P7	
+        5198438841	
+        5197493156	
+        2013	
+        CHRYSLER	
+        200	
+        03/15/2013	 
+Wellington Motors (#170)	
+        LORRAINE	
+        RUTHERFORD	
+        559 BRANT WATERLOO ROAD	
+        RR#3	
+        AYR	
+        ON	
+        N0B1E0	
+        	
+        	
+        2013	
+        FIAT	
+        500	
+        03/09/2013	 
+Wellington Motors (#170)	
+        IRENE	
+        SZABO	
+        20 SHACKLETON DR. UNIT 20	
+        	
+        GUELPH	
+        ON	
+        N1E0C5	
+        5198213444	
+        	
+        2012	
+        FIAT	
+        500	
+        03/16/2013	 
+Wellington Motors (#170)	
+        RALF	
+        LETZ	
+        57 FREEMAN AVE.	
+        	
+        GUELPH	
+        ON	
+        N1H4S9	
+        5198228801	
+        	
+        2013	
+        CHRYSLER	
+        200	
+        03/18/2013	 
+Wellington Motors (#170)	
+        DALE	
+        MCRAE	
+        11 MORRIS ST	
+        	
+        GUELPH	
+        ON	
+        N1E5M1	
+        5197639567	
+        5196698883	
+        2012	
+        FIAT	
+        500	
+        03/19/2013	 
+Wellington Motors (#170)	
+        ANNE	
+        HANNA	
+        733 WOODHILL DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1M3M8	
+        5198434309	
+        	
+        2008	
+        TOYOTA	
+        COROLLA	
+        04/05/2013	 
+Wellington Motors (#170)	
+        ANTONIO	
+        ALAIMO	
+        21 DEVONGLEN DR	
+        	
+        KITCHENER	
+        ON	
+        N2E1Z6	
+        5195766319	
+        	
+        2013	
+        FIAT	
+        500	
+        03/20/2013	 
+Wellington Motors (#170)	
+        JUDITH	
+        BECKER	
+        135 DYER CRT	
+        	
+        CAMBRIDGE	
+        ON	
+        N3C4B9	
+        5196580085	
+        5198966750	
+        2011	
+        DODGE	
+        CALIBER	
+        02/08/2013	 
+Wellington Motors (#170)	
+        CRYSTAL	
+        EVANS	
+        8-353 VICTORIA RD N	
+        	
+        GUELPH	
+        ON	
+        N1E5J6	
+        5198242379	
+        5198363180	
+        2008	
+        DODGE	
+        CALIBER	
+        02/01/2013	 
+Wellington Motors (#170)	
+        RICHARD	
+        BOLGER	
+        349 METCALFE ST	
+        	
+        GUELPH	
+        ON	
+        N1E4Z5	
+        5192391354	
+        5198363811	
+        2012	
+        FIAT	
+        500	
+        02/08/2013	 
+Wellington Motors (#170)	
+        LAURA	
+        BRODRECHT	
+        529 APPLEROCK COURT	
+        	
+        KITCHENER	
+        ON	
+        N2A4M5	
+        5198967950	
+        5197633563	
+        2013	
+        CHRYSLER	
+        200	
+        03/01/2013	 
+Wellington Motors (#170)	
+        BENJAMIN	
+        DARROCH	
+        1045 HOWICK ST	
+        	
+        WROXETER	
+        ON	
+        N0G2X0	
+        5192921089	
+        	
+        2010	
+        DODGE	
+        CALIBER	
+        03/04/2013	 
+Wellington Motors (#170)	
+        PENNY	
+        RYAN	
+        120 BURGESS DR RR3	
+        	
+        PERTH	
+        ON	
+        K7H3C5	
+        6132679705	
+        	
+        2001	
+        CHRYSLER	
+        SEBRING	
+        03/02/2013	 
+Wellington Motors (#170)	
+        AMY-SUSAN	
+        HOLMES	
+        37 MARKLANE ST EAST PO BX 966	
+        	
+        HARRISTON	
+        ON	
+        N0G1Z0	
+        5193210780	
+        9058785571	
+        2013	
+        CHRYSLER	
+        200	
+        03/01/2013	 
+Wellington Motors (#170)	
+        AKEEL	
+        JABAR	
+        6-175 SIEBERT AVE	
+        	
+        KITCHENER	
+        ON	
+        N2C2M1	
+        	
+        	
+        2004	
+        MAZDA	
+        MAZDA3	
+        01/28/2013	 
+Wellington Motors (#170)	
+        JACOB	
+        PRONK	
+        801-55 YARMOUTH ST	
+        	
+        GUELPH	
+        ON	
+        N1H7R4	
+        5198249664	
+        	
+        2006	
+        SATURN	
+        ION	
+        01/18/2013	 
+Wellington Motors (#170)	
+        STEVEN	
+        GADBOIS	
+        37 MC DOUGALL RD	
+        	
+        WATERLOO	
+        ON	
+        N2L2W4	
+        	
+        5195737095	
+        2013	
+        FIAT	
+        500	
+        01/11/2013	 
+Wellington Motors (#170)	
+        BRIAN	
+        CLARKE	
+        131 DOON RD	
+        	
+        KITCHENER	
+        ON	
+        N2G3E1	
+        9053464958	
+        	
+        2013	
+        FIAT	
+        500	
+        01/01/2013	 
+Wellington Motors (#170)	
+        ARAN	
+        MATIER	
+        311-5 FATHER DAVID BAUER DR	
+        	
+        WATERLOO	
+        ON	
+        N2L6M2	
+        5192081163	
+        5198883465	
+        2013	
+        FIAT	
+        500	
+        12/28/2012	 
+Wellington Motors (#170)	
+        	
+        ESM FARM EQUIPMENT LTD.	
+        P.O. BOX 43 7293 LINE 86	
+        	
+        WALLENSTEIN	
+        ON	
+        N0B2S0	
+        5196698861	
+        5196695176	
+        2013	
+        FIAT	
+        500	
+        01/11/2013	 
+Wellington Motors (#170)	
+        PETER	
+        THURLEY	
+        102-31 FLAMINGO DR	
+        UNIT 607	
+        ELMIRA	
+        ON	
+        N3B3A7	
+        5195910000	
+        5198269551	
+        2011	
+        DODGE	
+        CALIBER	
+        11/27/2012	 
+Wellington Motors (#170)	
+        KATHERINE	
+        CERAR	
+        273 MARENGO CRT	
+        	
+        WATERLOO	
+        ON	
+        N2K3X2	
+        5199540148	
+        2264761578	
+        2013	
+        FIAT	
+        500	
+        12/16/2012	 
+Wellington Motors (#170)	
+        MICHELE	
+        GOLLINGER	
+        125 ADELAIDE ST	
+        	
+        KITCHENER	
+        ON	
+        N2M2B5	
+        5192089054	
+        	
+        2013	
+        CHRYSLER	
+        200	
+        01/11/2013	 
+Wellington Motors (#170)	
+        REGINALD	
+        LACROIX	
+        15 BALSAM DR	
+        	
+        GUELPH	
+        ON	
+        N1E1R1	
+        	
+        5198227102	
+        2013	
+        CHRYSLER	
+        200	
+        01/02/2013	 
+Wellington Motors (#170)	
+        CHRISTIANA	
+        GIMBY	
+        26 SHADYRIDGE PLACE	
+        	
+        KITCHENER	
+        ON	
+        N2N3J1	
+        5195012005	
+        5198863990	
+        2013	
+        FIAT	
+        500	
+        12/12/2012	 
+Wellington Motors (#170)	
+        CHERYL	
+        THORNTON	
+        202-364 WATERLOO AVE	
+        APT 202	
+        GUELPH	
+        ON	
+        N1H3K2	
+        5192650310	
+        	
+        2013	
+        CHRYSLER	
+        200	
+        01/02/2013	 
+Wellington Motors (#170)	
+        APOLONIA	
+        WITKO	
+        305 CONCORDIA CR	
+        	
+        WATERLOO	
+        ON	
+        N2K2M2	
+        5197461556	
+        	
+        2013	
+        FIAT	
+        500	
+        01/02/2013	 
+Wellington Motors (#170)	
+        DEAN	
+        RICHARDS	
+        22 TROY STREET	
+        	
+        KITCHENER	
+        ON	
+        N2H1L8	
+        5195038933	
+        5198228950	
+        2000	
+        HONDA	
+        CIVIC	
+        12/28/2012	 
+Wellington Motors (#170)	
+        KRISTINA	
+        COI	
+        11 ALICE CRES	
+        BX 154	
+        PETERSBURG	
+        ON	
+        N0B2H0	
+        5196349240	
+        5195933259	
+        2013	
+        FIAT	
+        500	
+        12/20/2012	 
+Wellington Motors (#170)	
+        DIMITRIOS	
+        DIVARIS	
+        334 THORNCREST DR	
+        	
+        WATERLOO	
+        ON	
+        N2L5R7	
+        5197472981	
+        5195912981	
+        2013	
+        FIAT	
+        500	
+        01/07/2013	 
+Wellington Motors (#170)	
+        KIMBERLY	
+        MADILL	
+        22 EDWARDS ST	
+        	
+        GUELPH	
+        ON	
+        N1E0B2	
+        5195464277	
+        	
+        2013	
+        FIAT	
+        500	
+        12/06/2012	 
+Wellington Motors (#170)	
+        SARAH	
+        PUTNAM	
+        2003-44 CHARLES STREET WEST	
+        AP2003	
+        TORONTO	
+        ON	
+        M4Y1R7	
+        	
+        4168091150	
+        2012	
+        FIAT	
+        500	
+        12/09/2012	 
+Wellington Motors (#170)	
+        ADAM	
+        WOODS	
+        539 2ND AVE E	
+        	
+        OWEN SOUND	
+        ON	
+        N4K2G5	
+        5193764119	
+        	
+        2011	
+        CHEVROLET	
+        CAMARO	
+        12/10/2012	 
+Wellington Motors (#170)	
+        JAMIE	
+        ROJAS	
+        8 TATRA CRES	
+        	
+        BRAMPTON	
+        ON	
+        L6Y0K5	
+        9054519972	
+        9056945238	
+        2013	
+        CHRYSLER	
+        200	
+        12/08/2012	 
+Wellington Motors (#170)	
+        BONNIE	
+        KENNY	
+        48 AMBERDALE WAY	
+        	
+        NEW HAMBURG	
+        ON	
+        N3A0C1	
+        5193903197	
+        5193900194	
+        2012	
+        FIAT	
+        500	
+        12/07/2012	 
+Wellington Motors (#170)	
+        TANIA	
+        CANNON	
+        127 BRIDGE ST WEST	
+        	
+        WATERLOO	
+        ON	
+        N2K1K8	
+        5198850163	
+        	
+        2012	
+        FIAT	
+        500	
+        10/21/2012	 
+Wellington Motors (#170)	
+        A.P	
+        GRECO	
+        120 HARWOOD RD	
+        	
+        CAMBRIDGE	
+        ON	
+        N1S4S7	
+        9055158578	
+        	
+        2012	
+        FIAT	
+        500	
+        10/21/2012	 
+Wellington Motors (#170)	
+        HEATHER	
+        LUELO	
+        9 76 WOOLWICH ST	
+        APT 509	
+        KITCHENER	
+        ON	
+        N2K1S3	
+        4169376780	
+        	
+        2012	
+        FIAT	
+        500	
+        10/14/2012	 
+Wellington Motors (#170)	
+        ALISON	
+        PLECKE	
+        145A ARTHUR ST N	
+        	
+        GUELPH	
+        ON	
+        N1E4V4	
+        5198032890	
+        5198032890	
+        2009	
+        NISSAN	
+        CUBE	
+        10/20/2012	 
+Wellington Motors (#170)	
+        MARK	
+        MILLER	
+        12 PARKSIDE DR	
+        RPO MANULIFE	
+        GUELPH	
+        ON	
+        N1G4X7	
+        5192652058	
+        	
+        2012	
+        FIAT	
+        500	
+        10/17/2012	 
+Wellington Motors (#170)	
+        ROBERT	
+        STEPHENS	
+        302 ERAMOSA RD	
+        	
+        GUELPH	
+        ON	
+        N1E2M8	
+        5198037680	
+        	
+        2009	
+        DODGE	
+        CALIBER	
+        10/28/2012	 
+Wellington Motors (#170)	
+        HEATHER	
+        BOETTCHER	
+        28 DUNEDIN CRT	
+        	
+        KITCHENER	
+        ON	
+        N2E3M9	
+        5199988354	
+        5196535719	
+        2012	
+        FIAT	
+        500	
+        10/25/2012	 
+Wellington Motors (#170)	
+        GILLIAN	
+        BURTENSHAW	
+        193 LIVINGSTON BLVD	
+        	
+        BADEN	
+        ON	
+        N3A4K9	
+        5192140255	
+        	
+        2012	
+        FIAT	
+        500	
+        10/15/2012	 
+Wellington Motors (#170)	
+        SLOBODANKA	
+        JERINIC	
+        47 BONFAIR CT	
+        	
+        KITCHENER	
+        ON	
+        N2M4P6	
+        5197454826	
+        5195008699	
+        2012	
+        FIAT	
+        500	
+        10/16/2012	 
+Wellington Motors (#170)	
+        MARION	
+        METCALFE	
+        26-125 SEKURA CR	
+        	
+        CAMBRIDGE	
+        ON	
+        N1R8B4	
+        5198410722	
+        5198936320	
+        2013	
+        FIAT	
+        500	
+        10/19/2012	 
+Wellington Motors (#170)	
+        ANGELA	
+        MUNCH	
+        327 EDENWOOD PL	
+        	
+        WATERLOO	
+        ON	
+        N2T2S2	
+        5197479799	
+        	
+        2012	
+        FIAT	
+        500	
+        11/04/2012	 
+Wellington Motors (#170)	
+        AMANDA	
+        BIENIA	
+        6 DOUGLAS CRES	
+        	
+        HILLSBURGH	
+        ON	
+        N0B1Z0	
+        5198290223	
+        5198290223	
+        2010	
+        TOYOTA	
+        COROLLA	
+        11/09/2012	 
+Wellington Motors (#170)	
+        JULIA	
+        TYNDALE-BISCOE	
+        159 ST ANDREW ST E	
+        	
+        FERGUS	
+        ON	
+        N1M1R2	
+        5197872542	
+        5197871539	
+        2012	
+        FIAT	
+        500	
+        09/04/2012	 
+Wellington Motors (#170)	
+        	
+        1325266 ONTARIO LIMITED	
+        43 KORTRIGHT RD	
+        	
+        GUELPH	
+        ON	
+        N1G4M6	
+        5195778244	
+        	
+        2012	
+        FIAT	
+        500	
+        10/02/2012	 
+Wellington Motors (#170)	
+        KEVIN	
+        BURKHOLDER	
+        18-14 WILLIAMSBURG RD	
+        	
+        KITCHENER	
+        ON	
+        N2E1W1	
+        5197441693	
+        5196589001	
+        2012	
+        FIAT	
+        500	
+        09/07/2012	 
+Wellington Motors (#170)	
+        KRISTEN	
+        FORD	
+        181 EDWARD STREET BOX 131	
+        	
+        ARTHUR	
+        ON	
+        N0G1A0	
+        2893830629	
+        5192922050	
+        2012	
+        FIAT	
+        500	
+        09/04/2012	 
+Wellington Motors (#170)	
+        LORENA	
+        ZORYCHTA	
+        20 50 VALLEYVIEW RD	
+        	
+        KITCHENER	
+        	
+        N2E1L6	
+        2269881884	
+        	
+        2008	
+        CHEVROLET	
+        COBALT	
+        09/22/2012	 
+Wellington Motors (#170)	
+        A-DEAN	
+        PERRY	
+        1008 EAST BAY RD	
+        	
+        TORRANCE	
+        ON	
+        P0C1M0	
+        7057622788	
+        7056467589	
+        2012	
+        FIAT	
+        500	
+        09/25/2012	 
+Wellington Motors (#170)	
+        CATHERINE	
+        FORMICA	
+        231 MAIN ST	
+        	
+        AYR	
+        ON	
+        N0B1E0	
+        5195899327	
+        	
+        2012	
+        FIAT	
+        500	
+        09/28/2012	 
+Wellington Motors (#170)	
+        DENNIS	
+        KUPFERSCHMIDT	
+        2 FIRST STR BX462	
+        	
+        MILDMAY	
+        ON	
+        N0G2J0	
+        5192929799	
+        	
+        2012	
+        FIAT	
+        500	
+        10/01/2012	 
+Wellington Motors (#170)	
+        ANGELA	
+        CLAYFIELD	
+        10B-26 FISCHER HALLMAN RD	
+        	
+        WATERLOO	
+        ON	
+        N2L6R3	
+        5192779391	
+        	
+        2012	
+        FIAT	
+        500	
+        10/01/2012	 
+Wellington Motors (#170)	
+        KAYLA	
+        KRELLER	
+        25 REID COURT	
+        	
+        GUELPH	
+        ON	
+        N1G3R6	
+        5198249781	
+        5197676760	
+        2012	
+        FIAT	
+        500	
+        09/11/2012	 
+Wellington Motors (#170)	
+        PATRICK	
+        NOLAN	
+        22 MEMORIAL CRES	
+        	
+        GUELPH	
+        	
+        N1H6B9	
+        5198375497	
+        4166785274	
+        2012	
+        FIAT	
+        500	
+        09/19/2012	 
+Wellington Motors (#170)	
+        RAYMOND	
+        BENDLE	
+        10 ELIZABETH CRES	
+        	
+        ORTON	
+        ON	
+        L0N1N0	
+        5198559737	
+        	
+        2012	
+        FIAT	
+        500	
+        10/05/2012	 
+Wellington Motors (#170)	
+        LAURIE	
+        LAUZON	
+        7 DELAWARE AVE UN 4	
+        	
+        GUELPH	
+        ON	
+        N1E3V3	
+        5192655190	
+        	
+        2009	
+        TOYOTA	
+        COROLLA	
+        10/06/2012	 
+Wellington Motors (#170)	
+        TINA	
+        JARAMILLO	
+        78 SHALLOW CREEK BLVD	
+        	
+        BRESLAU	
+        ON	
+        N0B1M0	
+        5196489794	
+        	
+        2010	
+        DODGE	
+        CALIBER	
+        10/10/2012	 
+Wellington Motors (#170)	
+        NEIL	
+        GILES	
+        6303 FIFTH LINE	
+        6303 5TH LINE	
+        FERGUS RR4	
+        ON	
+        N1M2W5	
+        	
+        	
+        2000	
+        VOLKSWAGEN	
+        JETTA	
+        10/13/2012	 
+Wellington Motors (#170)	
+        JEREMY	
+        PYNENBROUCK	
+        19 KING ST S BX872	
+        	
+        RIDGETOWN	
+        ON	
+        N0P2C0	
+        5196593846	
+        5194363810	
+        2012	
+        FIAT	
+        500	
+        08/22/2012	 
+Wellington Motors (#170)	
+        STEVEN	
+        KULIKOWSKY	
+        60A EASTVIEW RD	
+        	
+        GUELPH	
+        ON	
+        N1E1Z6	
+        5198218982	
+        5194004777	
+        2012	
+        FIAT	
+        500	
+        09/05/2012	 
+Wellington Motors (#170)	
+        MATTHEW	
+        ROBINSON	
+        5822 FOURTH LINE	
+        	
+        HILLSBURGH	
+        ON	
+        N0B1Z0	
+        2268205555	
+        	
+        2012	
+        FIAT	
+        500	
+        09/01/2012	 
+Wellington Motors (#170)	
+        JOHN	
+        FRENCH	
+        36 HASTINGS COURT	
+        	
+        BADEN	
+        ON	
+        N3A2T1	
+        2267911155	
+        2267911155	
+        2012	
+        FIAT	
+        500	
+        08/16/2012	 
+Wellington Motors (#170)	
+        THEA	
+        PALOMEQUE	
+        44 WERSTINE TERR	
+        	
+        CAMBRIDGE	
+        ON	
+        N3C4G8	
+        5196580554	
+        5195702281	
+        2012	
+        FIAT	
+        500	
+        08/08/2012	 
+Wellington Motors (#170)	
+        ANTHONY	
+        RIOLO	
+        1190 WOODMONT CRES	
+        	
+        LASALLE	
+        ON	
+        N9J3H9	
+        15198161752	
+        15199795250	
+        2012	
+        FIAT	
+        500	
+        09/07/2012	 
+Wellington Motors (#170)	
+        RONALD	
+        CROFT	
+        24 PINNACLE CRESCENT	
+        	
+        GUELPH	
+        ON	
+        N1K1P4	
+        5198292481	
+        9058983400	
+        2012	
+        FIAT	
+        500	
+        08/13/2012	 
+Wellington Motors (#170)	
+        SUFYAN	
+        AL-NUAIMI	
+        313-266 KINGSWOOD DR	
+        	
+        KITCHENER	
+        ON	
+        N2E2K2	
+        2269290975	
+        	
+        2002	
+        HONDA	
+        CIVIC	
+        08/20/2012	 
+Wellington Motors (#170)	
+        KIMBERLEY	
+        GLENDENNING	
+        124 SILK DR	
+        	
+        SHELBURNE	
+        ON	
+        L0N1S1	
+        5192175799	
+        	
+        2007	
+        PONTIAC	
+        G5	
+        09/04/2012	 
+Wellington Motors (#170)	
+        CHRISTIAN	
+        GALLETTA	
+        38 BURTON RD	
+        	
+        GUELPH	
+        ON	
+        N1H7Z4	
+        5198241647	
+        	
+        2012	
+        FIAT	
+        500	
+        09/03/2012	 
+Wellington Motors (#170)	
+        AHMED	
+        OMUR	
+        14 HUGO CRES	
+        	
+        KITCHENER	
+        ON	
+        N2M3Z2	
+        5197495617	
+        5197211357	
+        2000	
+        MAZDA	
+        PROTEGE	
+        09/01/2012	 
+Wellington Motors (#170)	
+        WILLIAM	
+        WEBSTER	
+        6224 FIFTH LINE	
+        	
+        FERGUS	
+        ON	
+        N1M2W5	
+        5197871774	
+        9058911870	
+        2012	
+        FIAT	
+        500	
+        08/24/2012	 
+Wellington Motors (#170)	
+        WILLIAM	
+        LAKING	
+        786 WATSON ROAD SOUTH	
+        	
+        ARKELL RR1	
+        ON	
+        N0B1C0	
+        5198246079	
+        	
+        2011	
+        DODGE	
+        CALIBER	
+        09/14/2012	 
+Wellington Motors (#170)	
+        JOHN	
+        KOENJER	
+        811 KENNEDY RD	
+        	
+        KEMPTVILLE R3	
+        ON	
+        K0G1J0	
+        6138807500	
+        	
+        2008	
+        FORD	
+        MUSTANG	
+        05/18/2012	 
+Wellington Motors (#170)	
+        PAOLO	
+        MANZI	
+        112 DOWNEY RD	
+        	
+        GUELPH	
+        ON	
+        N1C1A2	
+        	
+        4168951675	
+        2012	
+        FIAT	
+        500	
+        07/02/2012	 
+Wellington Motors (#170)	
+        IAN	
+        RUMBLES	
+        665 HALL ROAD	
+        RR2	
+        BINBROOK RR2	
+        ON	
+        L0R1C0	
+        5198358112	
+        5198242320	
+        2012	
+        FIAT	
+        500	
+        07/02/2012	 
+Wellington Motors (#170)	
+        EVAN	
+        JARED	
+        65 SOUTHCREEK TRAIL	
+        	
+        GUELPH	
+        ON	
+        N1G4Y9	
+        5197664554	
+        	
+        2007	
+        DODGE	
+        CALIBER	
+        07/18/2012	 
+Wellington Motors (#170)	
+        MICHAL	
+        PASTRIK	
+        99 WATER ST S	
+        	
+        KITCHENER	
+        ON	
+        N2G1Z4	
+        2263388296	
+        5196349322	
+        2012	
+        FIAT	
+        500	
+        07/10/2012	 
+Wellington Motors (#170)	
+        ROB	
+        LABBE	
+        725 REID CRES	
+        	
+        LISTOWEL	
+        ON	
+        N4W0A2	
+        5194189066	
+        	
+        2012	
+        FIAT	
+        500	
+        07/05/2012	 
+Wellington Motors (#170)	
+        RENE	
+        MESHAKE	
+        27 TIFFANY ST E	
+        	
+        GUELPH	
+        ON	
+        N1H1X6	
+        5198248519	
+        	
+        2011	
+        DODGE	
+        CALIBER	
+        08/02/2012	 
+Wellington Motors (#170)	
+        SAMANTHA	
+        HAID	
+        2865 HERRGOTT RD	
+        	
+        ST CLEMENTS	
+        ON	
+        N0B2M0	
+        5196995935	
+        5195885721	
+        2012	
+        FIAT	
+        500	
+        07/27/2012	 
+Wellington Motors (#170)	
+        TOMAS	
+        MARTE APULINARIO	
+        116 MEIGHEN WAY	
+        	
+        MILTON	
+        ON	
+        L9T6V6	
+        	
+        	
+        2008	
+        BMW	
+        3 SERIES	
+        08/01/2012	 
+Wellington Motors (#170)	
+        FRANCIS	
+        VALERIOTE	
+        19 WOODYCREST DR UN-E	
+        	
+        GUELPH	
+        ON	
+        N1E3A8	
+        8370079	
+        8372100	
+        2011	
+        AUDI	
+        A3	
+        08/07/2012	 
+Wellington Motors (#170)	
+        BARRY	
+        UTTLEY	
+        144 WATER ST S	
+        	
+        KITCHENER	
+        ON	
+        N2G1Z5	
+        5192425425	
+        5192425425	
+        2012	
+        FIAT	
+        500	
+        07/19/2012	 
+Wellington Motors (#170)	
+        JOSEPH	
+        DEU-NGOC	
+        70 ST.CHARLES ST E	
+        	
+        MARYHILL	
+        ON	
+        N0B2B0	
+        5196482228	
+        5195893806	
+        2012	
+        FIAT	
+        500	
+        07/12/2012	 
+Wellington Motors (#170)	
+        CHRISTA	
+        BUSCH	
+        1 QUEEN ST	
+        	
+        BRANCHTON	
+        ON	
+        N0B1L0	
+        5197401440	
+        	
+        2012	
+        FIAT	
+        500	
+        07/10/2012	 
+Wellington Motors (#170)	
+        MEGAN	
+        HAINES	
+        26 ONTARIO ST UN304	
+        	
+        GUELPH	
+        ON	
+        N1E7K1	
+        4164523775	
+        	
+        2012	
+        FIAT	
+        500	
+        07/09/2012	 
+Wellington Motors (#170)	
+        WEI-YAO	
+        HUANG	
+        88 CANDLE CRESCENT	
+        	
+        KITCHENER	
+        ON	
+        N2P2K8	
+        5195892448	
+        	
+        2012	
+        FIAT	
+        500	
+        07/15/2012	 
+Wellington Motors (#170)	
+        BRADLEY	
+        CORBETT	
+        7 BENN DRIVE	
+        	
+        CAMBRIDGE	
+        ON	
+        N1T1G4	
+        5196229129	
+        	
+        2012	
+        FIAT	
+        500	
+        06/15/2012	 
+Wellington Motors (#170)	
+        SAMANTHA	
+        ANHORN	
+        14 REGAL DR	
+        	
+        TILBURY	
+        ON	
+        N0P2L0	
+        5197813528	
+        5197845220	
+        2012	
+        FIAT	
+        500	
+        06/04/2012	 
+Wellington Motors (#170)	
+        KELLY	
+        BREARD	
+        3339 KINGS MASTING CRES	
+        	
+        MISSISSAUGA	
+        ON	
+        L5L1G5	
+        9056071333	
+        9056088100	
+        2012	
+        FIAT	
+        500	
+        06/11/2012	 
+Wellington Motors (#170)	
+        PARVIZ	
+        SHAHZADEN	
+        30 ROBERTSON CRES	
+        	
+        KITCHENER	
+        ON	
+        N2R1E3	
+        5198969144	
+        	
+        2003	
+        HYUNDAI	
+        ELANTRA	
+        07/07/2012	 
+Wellington Motors (#170)	
+        DEBORAH	
+        L'HEUREUX	
+        165 MAIN ST	
+        	
+        CAMBRIDGE	
+        ON	
+        N1R1W5	
+        2262182535	
+        2263770470	
+        2012	
+        FIAT	
+        500	
+        07/11/2012	 
+Wellington Motors (#170)	
+        LINDSAY	
+        PINK	
+        41-211 GOODWIN DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1E0E7	
+        5193623248	
+        5198379690	
+        2012	
+        FIAT	
+        500	
+        06/24/2012	 
+Wellington Motors (#170)	
+        STEVEN	
+        WALL	
+        164 GENERAL DRIVE	
+        	
+        KITCHENER	
+        ON	
+        N2K3S6	
+        5195787042	
+        	
+        2005	
+        VOLKSWAGEN	
+        GOLF	
+        06/28/2012	 
+Wellington Motors (#170)	
+        STEWART	
+        GARDNER	
+        370 JELLY ST S	
+        	
+        SHELBOURNE	
+        ON	
+        L0N1S4	
+        5199254334	
+        5198935863	
+        2012	
+        FIAT	
+        500	
+        06/15/2012	 
+Wellington Motors (#170)	
+        SHELLY	
+        PRICE	
+        231569 C2 NORM TP	
+        	
+        AYTON RR3	
+        ON	
+        N0G1C0	
+        5193230137	
+        5192610592	
+        2012	
+        FIAT	
+        500	
+        07/02/2012	 
+Wellington Motors (#170)	
+        LAWRENCE	
+        WRIGHT	
+        78 FOREST EDGE TRAIL	
+        	
+        KITCHENER	
+        ON	
+        N2P2L9	
+        5198941803	
+        5194526187	
+        2012	
+        FIAT	
+        500	
+        07/01/2012	 
+Wellington Motors (#170)	
+        CYNTHIA	
+        GOOD	
+        115 DUMBARTON STREET	
+        	
+        GUELPH	
+        ON	
+        N1E3T5	
+        5198238393	
+        	
+        2011	
+        DODGE	
+        CALIBER	
+        07/07/2012	 
+Wellington Motors (#170)	
+        DAVID	
+        HEIL	
+        115 BRIARMEADOW PLACE	
+        	
+        KITCHENER	
+        ON	
+        N2A4C6	
+        5198942558	
+        5198933831	
+        2012	
+        FIAT	
+        500	
+        07/02/2012	 
+Wellington Motors (#170)	
+        KIMBERLY	
+        KENNEDY	
+        135 ELIZABETH ST	
+        	
+        BADEN	
+        ON	
+        N3A2L6	
+        5196348426	
+        5195729425	
+        2012	
+        FIAT	
+        500	
+        05/14/2012	 
+Wellington Motors (#170)	
+        LINDA	
+        LUCCHESE	
+        88 MCTAGUE DR	
+        	
+        CAMBRIDGE	
+        ON	
+        N1T1L7	
+        5196211279	
+        5198246000	
+        2012	
+        FIAT	
+        500	
+        05/25/2012	 
+Wellington Motors (#170)	
+        	
+        1690428 ONT INC	
+        141 BLANDFORD ST	
+        	
+        P.O.BOX 398 INNERK	
+        ON	
+        N0J1M0	
+        5198796928	
+        5194699361	
+        2006	
+        AUDI	
+        A4	
+        05/12/2012	 
+Wellington Motors (#170)	
+        	
+        LEE	
+        222 CENTENNIAL FOREST DR	
+        	
+        MILTON	
+        ON	
+        L9T5W9	
+        9058761037	
+        	
+        2003	
+        TOYOTA	
+        ECHO	
+        05/17/2012	 
+Wellington Motors (#170)	
+        MADELINE	
+        MILLER	
+        11 ELGIN STREET	
+        	
+        CONESTOGO	
+        ON	
+        N0B1N0	
+        5199989561	
+        	
+        2012	
+        FIAT	
+        500	
+        05/02/2012	 
+Wellington Motors (#170)	
+        JENNIFER	
+        KENNARD	
+        3175 GREENFIELD RD	
+        RR 1	
+        RR #1 AYR	
+        ON	
+        N0B1E0	
+        5195901523	
+        5198948502	
+        2012	
+        FIAT	
+        500	
+        05/02/2012	 
+Wellington Motors (#170)	
+        LARRY	
+        WILSON	
+        1103 53 SPEEDVALE AVE W	
+        	
+        GUELPH	
+        ON	
+        N1H1J6	
+        5192652914	
+        	
+        2011	
+        DODGE	
+        CALIBER	
+        05/20/2012	 
+Wellington Motors (#170)	
+        HOLLY	
+        STEELE	
+        266 GRAND RIDGE DR	
+        	
+        CAMBRIDGE	
+        ON	
+        N1S4W8	
+        5196219052	
+        9058075867	
+        2012	
+        FIAT	
+        500	
+        05/24/2012	 
+Wellington Motors (#170)	
+        LILLIAN	
+        YOUNG	
+        2920 HEADON FOREST DR UN6	
+        	
+        BURLINGTON	
+        ON	
+        L7M4H1	
+        9055929381	
+        9057193440	
+        2012	
+        FIAT	
+        500	
+        05/09/2012	 
+Wellington Motors (#170)	
+        MONTGOMERY	
+        WARD	
+        282 STANDLEY DR	
+        	
+        WATERLOO	
+        ON	
+        N2L1J2	
+        5197426818	
+        	
+        2012	
+        FIAT	
+        500	
+        06/10/2012	 
+Wellington Motors (#170)	
+        LENROY	
+        HENRY	
+        131 WYNDHAM ST UNIT 306	
+        	
+        GUELPH	
+        ON	
+        N1H4E9	
+        5194005895	
+        	
+        2007	
+        HYUNDAI	
+        ACCENT	
+        06/11/2012	 
+Wellington Motors (#170)	
+        CARYL	
+        BECKSTED	
+        18 ABERFOYLE MILL CRES	
+        	
+        GUELPH R3	
+        ON	
+        N1H6H9	
+        5192652332	
+        5195044626	
+        2012	
+        FIAT	
+        500	
+        05/25/2012	 
+Wellington Motors (#170)	
+        JENNIFER	
+        SCHIPPER	
+        110 HIGHLAND RD E, UN2	
+        	
+        KITCHENER	
+        ON	
+        N2M3S1	
+        5195690689	
+        	
+        2012	
+        FIAT	
+        500	
+        05/25/2012	 
+Wellington Motors (#170)	
+        FRANCO	
+        GIAMPIETRO	
+        4064 TWINE CR	
+        	
+        MISSISSAUGA	
+        ON	
+        L4Z1E5	
+        9052754951	
+        	
+        2012	
+        FIAT	
+        500	
+        03/18/2012	 
+Wellington Motors (#170)	
+        DEBORAH	
+        LAWRENCE	
+        59 BRICK ST	
+        	
+        KITCHENER	
+        ON	
+        N2H3L2	
+        5199542584	
+        5195028244	
+        2012	
+        FIAT	
+        500	
+        04/30/2012	 
+Wellington Motors (#170)	
+        JANE	
+        HUSSON	
+        74 SHADYBROOK CRES	
+        	
+        GUELPH	
+        ON	
+        N1G3G6	
+        5198231689	
+        5194003486	
+        2012	
+        FIAT	
+        500	
+        04/15/2012	 
+Wellington Motors (#170)	
+        JENNA-LYNN	
+        YOUNG	
+        145 EGREMONT ST S	
+        	
+        MOUNT FOREST	
+        ON	
+        N0G2L2	
+        5193234818	
+        5193131317	
+        2006	
+        CHEVROLET	
+        COBALT	
+        04/17/2012	 
+Wellington Motors (#170)	
+        EVA	
+        SMALL	
+        109 THOMAS BLVD SS3	
+        	
+        ELORA	
+        ON	
+        N0B1S0	
+        5198461253	
+        5195707772	
+        2012	
+        FIAT	
+        500	
+        04/16/2012	 
+Wellington Motors (#170)	
+        SHARON	
+        TANTI	
+        566 GRANGE ROAD	
+        	
+        GUELPH	
+        ON	
+        N1E7C9	
+        5198267665	
+        	
+        2012	
+        FIAT	
+        500	
+        04/21/2012	 
+Wellington Motors (#170)	
+        JODI	
+        ARNOLDI	
+        33 BRANT RD N	
+        	
+        CAMBRIDGE	
+        ON	
+        N1S2W3	
+        5196201341	
+        5195720649	
+        2012	
+        FIAT	
+        500	
+        05/03/2012	 
+Wellington Motors (#170)	
+        JOHN	
+        BYRNE	
+        26 KENDRICK AVE	
+        	
+        GUELPH	
+        ON	
+        N1G2P7	
+        8379555	
+        8228738	
+        2001	
+        CHRYSLER	
+        SEBRING	
+        04/21/2012	 
+Wellington Motors (#170)	
+        MELANIE	
+        ZANUTTIG	
+        19D 240 WESTWOOD RD	
+        	
+        GUELPH	
+        ON	
+        N1H7W9	
+        5193628461	
+        	
+        2011	
+        DODGE	
+        CALIBER	
+        04/09/2012	 
+Wellington Motors (#170)	
+        KAREN	
+        SEMMA	
+        359 STEPHANIE DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1K1R2	
+        5198213988	
+        	
+        2005	
+        DODGE	
+        NEON	
+        05/03/2012	 
+Wellington Motors (#170)	
+        DIANE	
+        AUBE	
+        24 FALKLAND RD	
+        	
+        PARIS	
+        ON	
+        N3L3E3	
+        5194422660	
+        5195052222	
+        2012	
+        FIAT	
+        500	
+        05/03/2012	 
+Wellington Motors (#170)	
+        CSILLA	
+        FARKAS	
+        4453 SIDEROAD 20 NORTH	
+        RR6 GUELPH	
+        GUELPH RR6	
+        ON	
+        N1H6J3	
+        5198239010	
+        	
+        2012	
+        FIAT	
+        500	
+        04/16/2012	 
+Wellington Motors (#170)	
+        BRADIN	
+        EASTERBROOK	
+        505A-24 MIDLAND DRIVE	
+        	
+        KITCHENER	
+        ON	
+        N2A2A8	
+        	
+        	
+        1995	
+        BMW	
+        3 SERIES	
+        05/12/2013	 
+Wellington Motors (#170)	
+        FRANCES	
+        HINTSA	
+        189 KING ST	
+        	
+        GUELPH	
+        ON	
+        N1E4R3	
+        4165787207	
+        5197675357	
+        2012	
+        FIAT	
+        500	
+        04/10/2012	 
+Wellington Motors (#170)	
+        CLAUDIO	
+        ROSSI	
+        452 MOWAT ST E	
+        	
+        LISTOWEL	
+        ON	
+        N4W0A4	
+        5194185716	
+        	
+        2007	
+        TOYOTA	
+        YARIS	
+        03/05/2012	 
+Wellington Motors (#170)	
+        SUSAN	
+        MIEHM	
+        57 CHELTONWOOD AVE	
+        	
+        GUELPH	
+        ON	
+        N1E4E4	
+        5198213837	
+        4163269046	
+        2008	
+        ACURA	
+        TSX	
+        03/16/2012	 
+Wellington Motors (#170)	
+        EVAN	
+        CHRISTENSEN	
+        209 WESTHOLLOW CRT	
+        	
+        WATERLOO	
+        ON	
+        N2T3A1	
+        5199944017	
+        5192099317	
+        2008	
+        CHEVROLET	
+        COBALT	
+        03/25/2012	 
+Wellington Motors (#170)	
+        CHRISTOPHER	
+        BENTHAM	
+        204A HESPELER RD AP302	
+        	
+        CAMBRIDGE	
+        ON	
+        N1R5Z8	
+        	
+        2267476995	
+        2004	
+        TOYOTA	
+        ECHO	
+        03/24/2012	 
+Wellington Motors (#170)	
+        PAULA	
+        PATERSON	
+        61 KOVAC RD	
+        	
+        CAMBRIDGE	
+        ON	
+        N1R8K4	
+        5196233819	
+        5197400678	
+        2012	
+        FIAT	
+        500	
+        03/14/2012	 
+Wellington Motors (#170)	
+        HELMUT	
+        SCHOENBERGER	
+        483 NYBERG ST	
+        	
+        KITCHENER	
+        ON	
+        N2G2Z2	
+        5197228834	
+        5196537777	
+        2012	
+        FIAT	
+        500	
+        03/26/2012	 
+Wellington Motors (#170)	
+        SUSAN	
+        FISHER	
+        302-30 BRANT AVE	
+        	
+        GUELPH	
+        ON	
+        N1E1E7	
+        5198034039	
+        5198372500	
+        2008	
+        CHEVROLET	
+        AVEO	
+        03/26/2012	 
+Wellington Motors (#170)	
+        FRANCO	
+        ANGELONE	
+        38 CHERRYWOOD DR	
+        	
+        GUELPH	
+        ON	
+        N1K1R7	
+        5198215015	
+        5194000502	
+        2012	
+        FIAT	
+        500	
+        03/19/2012	 
+Wellington Motors (#170)	
+        MICHELLE	
+        HARRIS	
+        10534 FIRST LINE	
+        	
+        MOFFAT	
+        ON	
+        L0P1J0	
+        9058545007	
+        6477460530	
+        2012	
+        FIAT	
+        500	
+        02/13/2012	 
+Wellington Motors (#170)	
+        MICHELLE	
+        TURNER	
+        6303 5TH LINE	
+        	
+        FERGUS	
+        ON	
+        N1M2W5	
+        5198468928	
+        5198244772	
+        2000	
+        VOLKSWAGEN	
+        JETTA	
+        02/11/2012	 
+Wellington Motors (#170)	
+        DOUGLAS	
+        FREURE	
+        137 PARK AVE	
+        	
+        CAMBRIDGE	
+        ON	
+        N1S2S5	
+        5196219422	
+        	
+        2004	
+        FORD	
+        FOCUS	
+        02/12/2012	 
+Wellington Motors (#170)	
+        SANDRA	
+        GROULX	
+        4 HALTER AVE RR1	
+        	
+        MARYHILL	
+        ON	
+        N0B2B0	
+        5196482813	
+        5195896154	
+        2012	
+        FIAT	
+        500	
+        03/02/2012	 
+Wellington Motors (#170)	
+        BERNARDINO	
+        FELIPE	
+        12 GLENGARY ST.	
+        	
+        GUELPH	
+        ON	
+        N1H6G7	
+        5193416492	
+        	
+        2012	
+        FIAT	
+        500	
+        02/23/2012	 
+Wellington Motors (#170)	
+        NEIL	
+        PRITCHARD	
+        581202 CNTY ROAD 17	
+        	
+        DUNDALK RR5	
+        ON	
+        N0C1B0	
+        	
+        5192171857	
+        2012	
+        FIAT	
+        500	
+        02/28/2012	 
+Wellington Motors (#170)	
+        ROBERT	
+        SHIELDS	
+        6410 MCNIVEN RD	
+        	
+        KILBRIDE	
+        ON	
+        L0P1G0	
+        9053355807	
+        9058757665	
+        2012	
+        FIAT	
+        500	
+        02/17/2012	 
+Wellington Motors (#170)	
+        LAUREN	
+        MEINZINGER	
+        302-772 STIRLING AVE S	
+        	
+        KITCHENER	
+        ON	
+        N2M3K3	
+        5192087793	
+        	
+        2012	
+        FIAT	
+        500	
+        01/15/2012	 
+Wellington Motors (#170)	
+        CYNTHIA	
+        ORR	
+        22 SLEEMAN AVENUE	
+        	
+        GUELPH	
+        ON	
+        N1H6E9	
+        5197631096	
+        5197806260	
+        2011	
+        DODGE	
+        CALIBER	
+        01/12/2012	 
+Wellington Motors (#170)	
+        HERMANIA	
+        GUITE	
+        6987 WELLINGTON RD 124	
+        RR7	
+        GUELPH	
+        ON	
+        N1H6J4	
+        5198368413	
+        5198228502	
+        2012	
+        FIAT	
+        500	
+        12/30/2011	 
+Wellington Motors (#170)	
+        R-MARK	
+        ANDERSON	
+        355 LUELLA ST	
+        	
+        KITCHENER	
+        ON	
+        N2H2J3	
+        5192084678	
+        	
+        2012	
+        FIAT	
+        500	
+        12/17/2011	 
+Wellington Motors (#170)	
+        PEDRO	
+        ARMAS	
+        1625 GREENFIELD RD	
+        	
+        CAMBRIDGE RR4	
+        ON	
+        N1R5S5	
+        5196234483	
+        	
+        2010	
+        DODGE	
+        CALIBER	
+        12/22/2011	 
+Wellington Motors (#170)	
+        LORI	
+        MOORE	
+        818 COLUMBIA FOREST CT	
+        	
+        WATERLOO	
+        ON	
+        N2V2M6	
+        5197251830	
+        5196358247	
+        2012	
+        FIAT	
+        500	
+        01/07/2012	 
+Wellington Motors (#170)	
+        SUSAN	
+        CRANE	
+        817 DOVER ST S	
+        	
+        CAMBRIDGE	
+        ON	
+        N3H5E1	
+        5196538284	
+        	
+        2012	
+        FIAT	
+        500	
+        01/15/2012	 
+Wellington Motors (#170)	
+        AARON	
+        KELLY	
+        123 NORMA CRES	
+        	
+        GUELPH	
+        ON	
+        N1E7M4	
+        5198235065	
+        	
+        2009	
+        DODGE	
+        CALIBER	
+        11/01/2011	 
+Wellington Motors (#170)	
+        JEORGE	
+        POLINAR	
+        29 CHILLICO DR	
+        	
+        GUELPH	
+        ON	
+        N1K1Y8	
+        5192399715	
+        5197802538	
+        2002	
+        HONDA	
+        CIVIC	
+        12/08/2011	 
+Wellington Motors (#170)	
+        YVETTE	
+        CAIRNS	
+        56 WILLIAM ST SS4	
+        	
+        SALEM	
+        ON	
+        N0B1S0	
+        19052990649	
+        	
+        2012	
+        FIAT	
+        500	
+        12/08/2011	 
+Wellington Motors (#170)	
+        JENNIFER	
+        GREGG	
+        1491 CLYDE RD	
+        	
+        CAMBRIDGE	
+        ON	
+        N1R5S7	
+        5196208926	
+        5196248816	
+        2012	
+        FIAT	
+        500	
+        12/09/2011	 
+Wellington Motors (#170)	
+        MARCO	
+        PEDROSA	
+        334 CHRISTOPHER DR	
+        	
+        CAMBRIDGE	
+        ON	
+        N1P1B9	
+        5196229560	
+        5198842251	
+
+        2012	
+        FIAT	
+        500	
+        10/16/2011	 
+Wellington Motors (#170)	
+        MARTHA	
+        DICKIE	
+        154 COUNTRY CLUB DR	
+        	
+        GUELPH	
+        ON	
+        N1E3L1	
+        5192743115	
+        	
+        2012	
+        FIAT	
+        500	
+        10/16/2011	 
+Wellington Motors (#170)	
+        CAROLE	
+        KENNEDY	
+        42 GILKINSON STREET RR2	
+        	
+        ELORA	
+        ON	
+        N0B1S0	
+        5198382072	
+        5198315491	
+        2012	
+        FIAT	
+        500	
+        10/23/2011	 
+Wellington Motors (#170)	
+        ROBERT	
+        WOOD	
+        19 BURTON RD	
+        	
+        GUELPH	
+        ON	
+        N1H8A6	
+        5198229858	
+        5197667840	
+        2005	
+        MAZDA	
+        MAZDA3	
+        10/26/2011	 
+Wellington Motors (#170)	
+        JACOB	
+        BELLAMY	
+        7703 WELLINGTON RD #22	
+        RR#5	
+        GUELPH	
+        ON	
+        N1H6J2	
+        5198220741	
+        	
+        2002	
+        CHRYSLER	
+        SEBRING	
+        10/20/2011	 
+Wellington Motors (#170)	
+        JOSEPH	
+        VANEXEM	
+        230 COUNTRY CLUB DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1E3L2	
+        5198225967	
+        5198232280	
+        2004	
+        FORD	
+        FOCUS	
+        10/24/2011	 
+Wellington Motors (#170)	
+        TU	
+        NGUYEN	
+        222 WINDFIELD AVE	
+        	
+        WATERLOO	
+        ON	
+        N2J3M9	
+        5194049036	
+        	
+        2012	
+        FIAT	
+        500	
+        10/30/2011	 
+Wellington Motors (#170)	
+        CLAUDINA	
+        GUERRA	
+        103 LANG CRES	
+        	
+        KITCHENER	
+        ON	
+        N2K1P4	
+        5192400113	
+        5192770990	
+        2012	
+        FIAT	
+        500	
+        10/08/2011	 
+Wellington Motors (#170)	
+        NATALIE	
+        TEHRANI	
+        72 WESTMOUNT ROAD S	
+        	
+        WATERLOO	
+        ON	
+        N2L2L1	
+        5194049166	
+        5194049166	
+        2012	
+        FIAT	
+        500	
+        09/30/2011	 
+Wellington Motors (#170)	
+        STEVEN	
+        METZGER	
+        160 HENRY STREET	
+        	
+        PALMERSTON	
+        ON	
+        N0G2P0	
+        5192910761	
+        5198379690	
+        2008	
+        PONTIAC	
+        G6	
+        10/02/2011	 
+Wellington Motors (#170)	
+        MIRELLA	
+        SCAPIN	
+        173 ALICE ST	
+        	
+        GUELPH	
+        ON	
+        N1E3A3	
+        	
+        	
+        2001	
+        PONTIAC	
+        SUNFIRE	
+        09/11/2011	 
+Wellington Motors (#170)	
+        MORAG	
+        WHALE	
+        2 BLUE FOREST CRES	
+        	
+        GUELPH	
+        ON	
+        N1H6J2	
+        5198232264	
+        	
+        2011	
+        TOYOTA	
+        MATRIX	
+        09/22/2011	 
+Wellington Motors (#170)	
+        WENDY	
+        JOHNSON	
+        5011 WELLINGTON RD 16	
+        	
+        BELWOOD	
+        ON	
+        N0B1J0	
+        5198435909	
+        6479214243	
+        2008	
+        PONTIAC	
+        G6	
+        09/21/2011	 
+Wellington Motors (#170)	
+        WILLIAM	
+        MACTAGGART	
+        25 MARY STREET	
+        	
+        GUELPH	
+        ON	
+        N1G2A6	
+        5198292860	
+        5198364633	
+        2011	
+        AUDI	
+        A5	
+        09/19/2011	 
+Wellington Motors (#170)	
+        DAVID	
+        FREY	
+        6256 RD 506 BOX 194	
+        	
+        PLEVNA	
+        ON	
+        K0H2M0	
+        6134790285	
+        	
+        2004	
+        HYUNDAI	
+        TIBURON	
+        09/23/2011	 
+Wellington Motors (#170)	
+        KRISTO	
+        SLAVA	
+        123 WESTECHESTER DR	
+        	
+        KITCHENER	
+        ON	
+        N2B3L8	
+        5195783797	
+        	
+        2000	
+        HONDA	
+        CIVIC	
+        09/23/2011	 
+Wellington Motors (#170)	
+        RICHARD	
+        GONCZ	
+        1816 KILDARE RD	
+        	
+        WINDSOR	
+        ON	
+        N8W2W7	
+        5192521784	
+        5197163978	
+        2012	
+        FIAT	
+        500	
+        10/01/2011	 
+Wellington Motors (#170)	
+        TINA	
+        MENHENNET	
+        60 KRUG ST	
+        	
+        KITCHENER	
+        ON	
+        N2H2X7	
+        5197425017	
+        5197494300	
+        2012	
+        FIAT	
+        500	
+        09/07/2011	 
+Wellington Motors (#170)	
+        CHRISTINA	
+        SIDER	
+        57-414 STONE RD W	
+        	
+        GUELPH	
+        ON	
+        N1G3E1	
+        5192650085	
+        5199934561	
+        2003	
+        PONTIAC	
+        GRAND AM	
+        10/01/2011	 
+Wellington Motors (#170)	
+        ALLEN	
+        KEELE	
+        64 SOPHIA ST SS4	
+        	
+        ELORA	
+        ON	
+        N0B1S0	
+        5198461169	
+        	
+        2012	
+        FIAT	
+        500	
+        10/12/2011	 
+Wellington Motors (#170)	
+        NORMAN	
+        LITCHFIELD	
+        605 ST DAVID ST N	
+        	
+        FERGUS	
+        ON	
+        N1M2K6	
+        5198435354	
+        5196231140	
+        2012	
+        FIAT	
+        500	
+        10/12/2011	 
+Wellington Motors (#170)	
+        SHERRI-LEE	
+        PRIEBE	
+        68 LEACOCK AVENUE	
+        	
+        GUELPH	
+        ON	
+        N1E6R1	
+        5197800252	
+        	
+        2001	
+        TOYOTA	
+        CAMRY SOLARA	
+        10/12/2011	 
+Wellington Motors (#170)	
+        CAMERON	
+        SHAPANSKY	
+        2000 CHILLIGO RD.RR#21	
+        	
+        CAMBRIDGE	
+        ON	
+        N3C2V3	
+        	
+        5302048406	
+        2012	
+        FIAT	
+        500	
+        09/12/2011	 
+Wellington Motors (#170)	
+        LISA	
+        SCHNEIDER	
+        54 WINDING WOOD CRES	
+        	
+        KITCHENER	
+        ON	
+        N2P2L6	
+        5198967181	
+        5197254282	
+        2012	
+        FIAT	
+        500	
+        09/10/2011	 
+Wellington Motors (#170)	
+        SHEILA	
+        MARKLE	
+        306 EDINBURGH RD S	
+        	
+        GUELPH	
+        ON	
+        N1G2K4	
+        5198267652	
+        5198242410	
+        2012	
+        FIAT	
+        500	
+        07/29/2011	 
+Wellington Motors (#170)	
+        KERRY	
+        FOWLER	
+        681 BEECHWOOD DR	
+        	
+        WATERLOO	
+        ON	
+        N2T2N7	
+        5195031544	
+        	
+        2012	
+        FIAT	
+        500	
+        08/21/2011	 
+Wellington Motors (#170)	
+        LORI	
+        CLAYFIELD	
+        7 BRYBECK CR	
+        	
+        KITCHENER	
+        ON	
+        N2M2C5	
+        5195726683	
+        	
+        2009	
+        CHEVROLET	
+        COBALT	
+        09/01/2011	 
+Wellington Motors (#170)	
+        BEVERLEY	
+        MILLIKEN	
+        RR1 LOT 4 CON 15	
+        	
+        FERGUS	
+        ON	
+        N1M2W3	
+        5197878509	
+        5199934344	
+        2010	
+        DODGE	
+        CALIBER	
+        08/17/2011	 
+Wellington Motors (#170)	
+        SHANNON	
+        CORSTORPHINE	
+        233 DELHI ST	
+        	
+        GUELPH	
+        ON	
+        N1E4K4	
+        5198038394	
+        9057302531	
+        2012	
+        FIAT	
+        500	
+        08/01/2011	 
+Wellington Motors (#170)	
+        TRACY	
+        WHELAN	
+        218-410 KING ST W	
+        UNIT 34	
+        KITCHENER	
+        ON	
+        N2G1C3	
+        5198946290	
+        5194986412	
+        2012	
+        FIAT	
+        500	
+        06/29/2011	 
+Wellington Motors (#170)	
+        STEPHEN	
+        FRANCIS	
+        88 WILLIAM STREET	
+        	
+        SALEM	
+        ON	
+        N0B1S0	
+        5198462140	
+        5194007828	
+        2008	
+        DODGE	
+        CALIBER	
+        07/18/2011	 
+Wellington Motors (#170)	
+        BRETT	
+        GOTTWALD	
+        138 ALBERT STREET EAST	
+        	
+        SAULT STE. MARIE	
+        ON	
+        P6A2J1	
+        7055758278	
+        7059411724	
+        2010	
+        DODGE	
+        CALIBER	
+        07/24/2011	 
+Wellington Motors (#170)	
+        RICHARD	
+        GERHARDT	
+        630 6TH STREET BLD 411 UNIT 4	
+        	
+        HANOVER	
+        ON	
+        N4N0A4	
+        5195064344	
+        	
+        2012	
+        FIAT	
+        500	
+        07/29/2011	 
+Wellington Motors (#170)	
+        QUINTINO	
+        SCHITO	
+        304 IMPERIAL RD S	
+        	
+        GUELPH	
+        ON	
+        N1K1M4	
+        5198239893	
+        	
+        2012	
+        FIAT	
+        500	
+        07/28/2011	 
+Wellington Motors (#170)	
+        MARCELLO	
+        CIPPARRONE	
+        412 AMBERLY CRES	
+        	
+        TECUMSEH	
+        ON	
+        N9N3M3	
+        5197354669	
+        5197919447	
+        2012	
+        FIAT	
+        500	
+        07/20/2011	 
+Wellington Motors (#170)	
+        PATRICIA	
+        ELLIOTT	
+        5 ST CHARLES ST WEST	
+        	
+        MARYHILL	
+        ON	
+        N0B2B0	
+        5196489798	
+        	
+        2006	
+        FORD	
+        MUSTANG	
+        07/22/2011	 
+Wellington Motors (#170)	
+        ALAN	
+        SLIMM	
+        111 TOVELL DR	
+        	
+        GUELPH	
+        ON	
+        N1K1Z5	
+        5198293458	
+        	
+        2012	
+        FIAT	
+        500	
+        06/14/2011	 
+Wellington Motors (#170)	
+        NANCY	
+        HILL	
+        25-17 ST SOUTH	
+        	
+        SAUBLE BEACH	
+        ON	
+        N0H2G0	
+        5198216776	
+        	
+        2010	
+        DODGE	
+        CALIBER	
+        05/30/2011	 
+Wellington Motors (#170)	
+        DAVID	
+        DUROSE	
+        217 WAVERLEY DR	
+        	
+        GUELPH	
+        ON	
+        N1E1H5	
+        5192657442	
+        	
+        2011	
+        DODGE	
+        CALIBER	
+        05/09/2014 12:00:00 AM	 
+Wellington Motors (#170)	
+        BRUCE	
+        FLEMING	
+        6 ELIOT PLACE	
+        	
+        GUELPH	
+        ON	
+        N1E6J1	
+        5198213963	
+        	
+        2010	
+        DODGE	
+        CALIBER	
+        06/16/2011	 
+Wellington Motors (#170)	
+        ALBERT	
+        CREMASCO	
+        91 VANCOUVER DR.	
+        	
+        GUELPH	
+        ON	
+        N1E2G1	
+        5198229037	
+        	
+        2011	
+        DODGE	
+        CALIBER	
+        06/25/2011	 
+Wellington Motors (#170)	
+        JANET	
+        KENNY	
+        37 PACIFICA PLACE	
+        APT 904	
+        GUELPH	
+        ON	
+        N1G4R5	
+        5198371773	
+        	
+        2003	
+        HYUNDAI	
+        ACCENT	
+        06/20/2011	 
+Wellington Motors (#170)	
+        JOEL	
+        STEMMLER	
+        5-2 SAMUEL STREET	
+        	
+        ELMIRA	
+        ON	
+        N3B1N5	
+        5192100475	
+        	
+        2010	
+        DODGE	
+        CALIBER	
+        09/09/2011	 
+Wellington Motors (#170)	
+        WAYNE	
+        POWER	
+        222 VICTORIA AVE	
+        	
+        CAMBRIDGE	
+        ON	
+        N1S3W5	
+        5192213576	
+        	
+        2012	
+        FIAT	
+        500	
+        06/09/2011	 
+Wellington Motors (#170)	
+        DAKHIL	
+        FARAJ	
+        104-262 KINGSWOOD DRIVE	
+        	
+        KITCHENER	
+        ON	
+        N2E2K2	
+        	
+        	
+        2003	
+        KIA	
+        RIO	
+        06/29/2011	 
+Wellington Motors (#170)	
+        IAN	
+        ELLIOTT	
+        16 PINE LANE ORO-MEDONTE	
+        	
+        BARRIE RR1	
+        ON	
+        L4M4Y8	
+        7058172025	
+        7057901665	
+        2012	
+        FIAT	
+        500	
+        07/02/2011	 
+Wellington Motors (#170)	
+        ANDREA	
+        BUCKLEY	
+        36 WATERLOO AVE	
+        	
+        GUELPH	
+        ON	
+        N1H3H5	
+        5198243448	
+        	
+        2012	
+        FIAT	
+        500	
+        07/09/2011	 
+Wellington Motors (#170)	
+        PAUL	
+        MARTIN	
+        620 WISSLER RD	
+        	
+        WATERLOO	
+        ON	
+        N2K3Z2	
+        5198859856	
+        5195817900	
+        2006	
+        FORD	
+        MUSTANG	
+        07/11/2011	 
+Wellington Motors (#170)	
+        LINDA	
+        BAILEY	
+        37 GEDDES CR	
+        	
+        GUELPH	
+        ON	
+        N1G5K7	
+        5198232363	
+        	
+        2007	
+        BMW	
+        3 SERIES	
+        04/26/2014 12:00:00 AM	 
+Wellington Motors (#170)	
+        JENNIFER	
+        LAVENDER	
+        225 LONDON RD W AP101	
+        	
+        GUELPH	
+        ON	
+        N1H2C6	
+        5192655311	
+        	
+        2009	
+        DODGE	
+        CALIBER	
+        06/13/2011	 
+Wellington Motors (#170)	
+        ROBERT	
+        CORNELIUS	
+        627 OSGOODE DR	
+        	
+        LONDON	
+        ON	
+        N6E1B8	
+        5196863135	
+        5196683478	
+        2007	
+        MITSUBISHI	
+        ECLIPSE	
+        05/09/2011	 
+Wellington Motors (#170)	
+        SYLVIE	
+        NOISEUX	
+        59 HASLER CRES	
+        	
+        GUELPH	
+        ON	
+        N1L0A2	
+        5194000831	
+        	
+        1999	
+        HONDA	
+        CIVIC	
+        05/18/2011	 
+Wellington Motors (#170)	
+        	
+        1597509 ONTARIO INC.	
+        443 THE QUEENSWAY UNIT 26	
+        	
+        KESWICK	
+        ON	
+        L4P3J4	
+        9058685203	
+        9054761811	
+        2008	
+        DODGE	
+        CALIBER	
+        05/20/2011	 
+Wellington Motors (#170)	
+        LISA	
+        DEANO	
+        486 ARKELL RD	
+        	
+        GUELPH	
+        ON	
+        N1H6H8	
+        5198248745	
+        	
+        2009	
+        DODGE	
+        CALIBER	
+        05/26/2011	 
+Wellington Motors (#170)	
+        ANGELO	
+        MUTO	
+        58 CAMBRIDGE STREET	
+        	
+        GUELPH	
+        ON	
+        N1H2V2	
+        5198360288	
+        5198221634	
+        2012	
+        FIAT	
+        500	
+        05/09/2011	 
+Wellington Motors (#170)	
+        ANDREW	
+        DEL NET	
+        284 BIEHN DR	
+        	
+        KITCHENER	
+        ON	
+        N2R1C6	
+        5198936625	
+        5195811044	
+        2010	
+        DODGE	
+        CALIBER	
+        03/31/2011	 
+Wellington Motors (#170)	
+        GORDON	
+        CARSON	
+        15 GLADSTONE AV	
+        	
+        GUELPH	
+        ON	
+        N1E1L7	
+        5198226048	
+        	
+        2009	
+        DODGE	
+        CALIBER	
+        04/22/2011	 
+Wellington Motors (#170)	
+        BETTY	
+        KNIGHT	
+        71 FLORAPINE RD	
+        	
+        ELMIRA	
+        ON	
+        N3B2Z1	
+        5196693707	
+        	
+        2008	
+        TOYOTA	
+        COROLLA	
+        05/05/2011	 
+Wellington Motors (#170)	
+        LEE	
+        KILLORAN	
+        113 BLENHEIM RD AP 10	
+        	
+        CAMBRIDGE	
+        ON	
+        N1S1G3	
+        5192672298	
+        	
+        2010	
+        DODGE	
+        CALIBER	
+        04/23/2011	 
+Wellington Motors (#170)	
+        SPENCER	
+        WARD	
+        66 MOCKINGBIRD DR	
+        	
+        ELMIRA	
+        ON	
+        N3B3H1	
+        5196692652	
+        5196642137	
+        2010	
+        DODGE	
+        CALIBER	
+        03/31/2011	 
+Wellington Motors (#170)	
+        LEE	
+        WILLIAMS	
+        2002 COUNTRY LANE COURT	
+        	
+        MOFFAT RR1	
+        ON	
+        L0P1J0	
+        9058545524	
+        	
+        2012	
+        FIAT	
+        500	
+        04/09/2011	 
+Wellington Motors (#170)	
+        ANTHONY	
+        BENOIT	
+        24 RALGREEN CRES	
+        	
+        KITCHENER	
+        ON	
+        N2M1T9	
+        7096425596	
+        5195044955	
+        2010	
+        DODGE	
+        CALIBER	
+        03/14/2011	 
+Wellington Motors (#170)	
+        FRANK	
+        RIDER	
+        7194 WELLINGTON RD 30	
+        	
+        ARISS R1	
+        ON	
+        N0B1B0	
+        5198243459	
+        5196552011	
+        2008	
+        TOYOTA	
+        MATRIX	
+        03/10/2011	 
+Wellington Motors (#170)	
+        AUDREY	
+        SEELEY	
+        110-244 WILLOW RD	
+        	
+        GUELPH	
+        ON	
+        N1H6R5	
+        5192656162	
+        	
+        2010	
+        DODGE	
+        CALIBER	
+        01/15/2011	 
+Wellington Motors (#170)	
+        CHRISTY	
+        PETTIT	
+        18 ST ANDREW ST	
+        	
+        GUELPH	
+        ON	
+        N1H1N8	
+        5197664254	
+        	
+        2008	
+        VOLKSWAGEN	
+        RABBIT	
+        01/04/2011	 
+Wellington Motors (#170)	
+        VALENTINA	
+        HETT	
+        143 ORIOLE ST	
+        	
+        KITCHENER	
+        ON	
+        N2J2B3	
+        5197433982	
+        	
+        2008	
+        TOYOTA	
+        COROLLA	
+        01/28/2011	 
+Wellington Motors (#170)	
+        JUDITH	
+        KRIST	
+        27 BROCK RD N	
+        	
+        ABERFOYLE	
+        ON	
+        N1H6H9	
+        5197637356	
+        	
+        2007	
+        DODGE	
+        CALIBER	
+        02/03/2011	 
+Wellington Motors (#170)	
+        STEVEN	
+        NADEAU	
+        70 VANCOUVER DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1E2E9	
+        5198364905	
+        	
+        2007	
+        DODGE	
+        CALIBER	
+        02/12/2011	 
+Wellington Motors (#170)	
+        ARCHIE	
+        WILSON	
+        94 MATHIESON ST.	
+        	
+        ELORA	
+        ON	
+        N0B1S0	
+        5198465170	
+        	
+        2007	
+        DODGE	
+        CALIBER	
+        06/14/2014 12:00:00 AM	 
+Wellington Motors (#170)	
+        RICHARD	
+        DAVEY	
+        38 ELORA ST	
+        	
+        GUELPH	
+        ON	
+        N1H2X8	
+        5198243754	
+        	
+        2010	
+        DODGE	
+        CALIBER	
+        01/10/2011	 
+Wellington Motors (#170)	
+        STEPHEN	
+        FRANCIS	
+        496 WATER STREET SS4	
+        	
+        ELORA	
+        ON	
+        N0B1S0	
+        5198462140	
+        5194007828	
+        2007	
+        DODGE	
+        CALIBER	
+        12/21/2010	 
+Wellington Motors (#170)	
+        CRYSTAL	
+        CHILVERS	
+        132 SWIFT CRESCENT	
+        	
+        GUELPH	
+        ON	
+        N1E7J2	
+        2892422242	
+        2892422242	
+        2010	
+        DODGE	
+        CALIBER	
+        11/18/2010	 
+Wellington Motors (#170)	
+        AMANDA	
+        RUDOW	
+        175 ELM RIDGE DR UN18	
+        	
+        KITCHENER	
+        ON	
+        N2N1L7	
+        	
+        5198835683	
+        2003	
+        CHRYSLER	
+        SEBRING	
+        11/25/2010	 
+Wellington Motors (#170)	
+        JACE	
+        DZIVER	
+        194 N HILL ST	
+        	
+        THUNDER BAY	
+        ON	
+        P7A5V9	
+        8072516528	
+        	
+        1998	
+        PONTIAC	
+        SUNFIRE	
+        11/14/2010	 
+Wellington Motors (#170)	
+        KENNETH	
+        WEBER	
+        38 NATCHEZ RD.	
+        UNIT 509	
+        KITCHENER	
+        ON	
+        N2B3A5	
+        5195793595	
+        	
+        2010	
+        DODGE	
+        CALIBER	
+        11/04/2010	 
+Wellington Motors (#170)	
+        SHANNON	
+        BUTCHER	
+        5399 WELLINGTON RD. 52	
+        	
+        ERIN	
+        ON	
+        N0B1T0	
+        4165546845	
+        	
+        2004	
+        CHRYSLER	
+        SEBRING	
+        10/31/2010	 
+Wellington Motors (#170)	
+        GRACE	
+        DA MAREN	
+        C-6 HOME STREET	
+        	
+        GUELPH	
+        ON	
+        N1H2E5	
+        5192657415	
+        5199931693	
+        2006	
+        MAZDA	
+        MAZDA3	
+        N/A	 
+Wellington Motors (#170)	
+        W BLAIR	
+        BUTCHER	
+        9327 WELLINGTON RD #22	
+        RR #1 HILLSBURG	
+        HILLSBURGH	
+        ON	
+        N0B1Z0	
+        5198559582	
+        5198332231	
+        2002	
+        CHRYSLER	
+        SEBRING	
+        11/06/2010	 
+Wellington Motors (#170)	
+        	
+        BOSSIE	
+        107 CENTRE ST GEN DEL	
+        	
+        HOLSTEIN	
+        ON	
+        N0G2A0	
+        5199939559	
+        	
+        2010	
+        DODGE	
+        CALIBER	
+        09/21/2010	 
+Wellington Motors (#170)	
+        JAMES	
+        MAHONEY	
+        48 WAXWING CR	
+        	
+        GUELPH	
+        ON	
+        N1C1E3	
+        8232897	
+        8364229	
+        2009	
+        DODGE	
+        CALIBER	
+        08/20/2010	 
+Wellington Motors (#170)	
+        SARAH	
+        FERRIER	
+        22 ALDER ST	
+        	
+        ORANGEVILLE	
+        ON	
+        L9W5A3	
+        5199380611	
+        	
+        2004	
+        HONDA	
+        CIVIC	
+        08/28/2010	 
+Wellington Motors (#170)	
+        WILLIAM	
+        KOSTAL	
+        68 ROBINSON AVE.	
+        	
+        GUELPH	
+        ON	
+        N1H2Z1	
+        5198244514	
+        5197633675	
+        2010	
+        DODGE	
+        CALIBER	
+        09/03/2010	 
+Wellington Motors (#170)	
+        WILLIAM	
+        GOETZ	
+        26 HIGH PARK DR	
+        	
+        GUELPH	
+        ON	
+        N1G2H7	
+        5198227590	
+        	
+        2004	
+        CHRYSLER	
+        SEBRING	
+        09/11/2010	 
+Wellington Motors (#170)	
+        HEATHER	
+        COX	
+        18 TRILLIUM CRT	
+        	
+        GUELPH	
+        ON	
+        N1G4P8	
+        5198366107	
+        	
+        2010	
+        DODGE	
+        CALIBER	
+        07/18/2010	 
+Wellington Motors (#170)	
+        SAMANTHA	
+        WHITE	
+        145 LAKESIDE DR	
+        	
+        KITCHENER	
+        ON	
+        N2M4C4	
+        5195056786	
+        	
+        2008	
+        DODGE	
+        CALIBER	
+        07/18/2010	 
+Wellington Motors (#170)	
+        KELLY	
+        SCHOLTES	
+        129 VICTORIA RD N UN 67	
+        	
+        GUELPH	
+        ON	
+        N1E6T8	
+        5198230028	
+        5197803400	
+        2008	
+        DODGE	
+        CALIBER	
+        07/21/2010	 
+Wellington Motors (#170)	
+        ARTHUR	
+        MAINLAND	
+        22 GOURLAY ROAD	
+        	
+        ELORA	
+        ON	
+        N0B1S0	
+        5198469534	
+        	
+        2009	
+        DODGE	
+        CALIBER	
+        07/29/2010	 
+Wellington Motors (#170)	
+        JOHN	
+        POOS	
+        61 VALERIE COURT	
+        	
+        CAMBRIDGE	
+        ON	
+        N3C3H4	
+        5196549408	
+        5198249150	
+        2003	
+        CHRYSLER	
+        SEBRING	
+        08/12/2010	 
+Wellington Motors (#170)	
+        LINDSAY	
+        SOMERVILLE	
+        229 FARLEY DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1L1N2	
+        5197634162	
+        5198032883	
+        2008	
+        DODGE	
+        CALIBER	
+        05/27/2010	 
+Wellington Motors (#170)	
+        	
+        PJR HOLDINGS INC.	
+        45 SINCLAIR AVE	
+        	
+        GEOPRGETOWN	
+        ON	
+        L7G4X4	
+        	
+        9058732532	
+        2007	
+        DODGE	
+        CALIBER	
+        07/14/2010	 
+Wellington Motors (#170)	
+        JEFFREY	
+        MILTON	
+        9 BRIGHT LANE	
+        	
+        GUELPH	
+        ON	
+        N1L1S6	
+        5197632036	
+        	
+        2008	
+        DODGE	
+        CALIBER	
+        06/24/2010	 
+Wellington Motors (#170)	
+        CONNER	
+        VAN BREDERODE-PAULL	
+        25 AMALIA CRES	
+        	
+        GUELPH	
+        ON	
+        N1L1L2	
+        5198212268	
+        	
+        2008	
+        DODGE	
+        CALIBER	
+        06/27/2010	 
+Wellington Motors (#170)	
+        ANN	
+        MULLER	
+        7541 WELL RD 34E COMP172 R3	
+        	
+        GUELPH	
+        ON	
+        N1H6H9	
+        5198370193	
+        5198032889	
+        2010	
+        DODGE	
+        CALIBER	
+        05/21/2010	 
+Wellington Motors (#170)	
+        JACQUELINE	
+        MOLSON	
+        162 WOOLWICH ST S BX 264	
+        	
+        BRESLAU	
+        ON	
+        N0B1M0	
+        5192130055	
+        5196212333	
+        2009	
+        DODGE	
+        CALIBER	
+        05/10/2010	 
+Wellington Motors (#170)	
+        KRISTY	
+        ELINESKY	
+        162 WINDING WAY	
+        UNIT # 1	
+        KITCHENER	
+        ON	
+        N2N1N5	
+        12268085169	
+        	
+        2010	
+        DODGE	
+        CALIBER	
+        06/05/2010	 
+Wellington Motors (#170)	
+        JUDITH	
+        HALES	
+        69 MCELDERRY RD	
+        	
+        GUELPH	
+        ON	
+        N1G4J2	
+        5198212935	
+        	
+        2010	
+        DODGE	
+        CALIBER	
+        04/12/2010	 
+Wellington Motors (#170)	
+        DOUGLAS	
+        THOMPSON	
+        160 ARTHUR ST N AP-C	
+        	
+        GUELPH	
+        ON	
+        N1E4V5	
+        5197800922	
+        	
+        2009	
+        DODGE	
+        CALIBER	
+        04/18/2010	 
+Wellington Motors (#170)	
+        PAMELA	
+        GIRARDI	
+        93 DIVISION ST	
+        	
+        GUELPH	
+        ON	
+        N1H1R5	
+        5198371636	
+        	
+        2008	
+        HONDA	
+        FIT	
+        04/22/2010	 
+Wellington Motors (#170)	
+        MARION	
+        ROBINSON	
+        54 LAUGHLAND LANE	
+        	
+        GUELPH	
+        ON	
+        N1L0C9	
+        5192654067	
+        5199940907	
+        2009	
+        DODGE	
+        CALIBER	
+        05/01/2010	 
+Wellington Motors (#170)	
+        ADRIENNE	
+        SEFTON	
+        56 SHADYBROOK AVE	
+        	
+        GUELPH	
+        ON	
+        N1G3G6	
+        5197632313	
+        	
+        2008	
+        DODGE	
+        CALIBER	
+        05/09/2010	 
+Wellington Motors (#170)	
+        CHANDRA-LYNN	
+        BROWN-ERLENDSON	
+        90 PINE RIDGE DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1L1J1	
+        5198371615	
+        5197484377	
+        2008	
+        DODGE	
+        CALIBER	
+        04/15/2010	 
+Wellington Motors (#170)	
+        ERICA	
+        ASMUSSEN	
+        18 COLONIAL DR	
+        	
+        AYR	
+        ON	
+        N0B1E0	
+        5196328665	
+        	
+        2008	
+        DODGE	
+        CALIBER	
+        05/12/2010	 
+Wellington Motors (#170)	
+        MICHAEL	
+        CLAER	
+        201 SILVERCREEK PKWY N	
+        	
+        GUELPH	
+        ON	
+        N1H3T4	
+        5198231565	
+        5192775133	
+        2002	
+        CHRYSLER	
+        SEBRING	
+        03/25/2010	 
+Wellington Motors (#170)	
+        BEVERLEY	
+        COPAGE	
+        81 BLACKHORNE DRIVE	
+        	
+        KITCHENER	
+        ON	
+        N2E1T5	
+        5195760578	
+        	
+        2009	
+        DODGE	
+        CALIBER	
+        03/09/2010	 
+Wellington Motors (#170)	
+        LAURA	
+        CAKE	
+        169 BISMARK DR UNIT 24	
+        	
+        CAMBRIDGE	
+        ON	
+        N1S5C1	
+        5196229145	
+        5198957005	
+        2010	
+        DODGE	
+        CALIBER	
+        03/05/2010	 
+Wellington Motors (#170)	
+        GARY	
+        SCHOOLEY	
+        42 JUNE AVE	
+        	
+        GUELPH	
+        ON	
+        N1H1H6	
+        5198364806	
+        	
+        2007	
+        DODGE	
+        CALIBER	
+        N/A	 
+Wellington Motors (#170)	
+        GRACE	
+        CHRISTIE	
+        209 ROUTE 4	
+        	
+        HARVEY YORK CO	
+        NB	
+        E6K1W7	
+        	
+        9056595116	
+        2009	
+        DODGE	
+        CALIBER	
+        03/17/2010	 
+Wellington Motors (#170)	
+        BARBARA	
+        MILSON	
+        26 HILL TRAIL	
+        	
+        GUELPH	
+        ON	
+        N1E7C5	
+        5198238528	
+        8238528	
+        2010	
+        DODGE	
+        CALIBER	
+        03/08/2010	 
+Wellington Motors (#170)	
+        JOHN	
+        SMITH	
+        1550 GORDON ST UNIT38	
+        	
+        GUELPH	
+        ON	
+        N1L1C7	
+        5198216173	
+        	
+        2009	
+        DODGE	
+        CALIBER	
+        03/07/2010	 
+Wellington Motors (#170)	
+        GARY	
+        HUTCHESON	
+        639 WHITE OAK DR.	
+        	
+        CAMBRIDGE	
+        ON	
+        N1S4J4	
+        5196221227	
+        5197403757	
+        2007	
+        DODGE	
+        CALIBER	
+        03/03/2010	 
+Wellington Motors (#170)	
+        PHILIP	
+        FORSYTH	
+        76 SOUTHCREEK TRAIL	
+        	
+        GUELPH	
+        ON	
+        N1G4Y8	
+        5198226284	
+        5198370100	
+        2009	
+        DODGE	
+        CALIBER	
+        03/13/2010	 
+Wellington Motors (#170)	
+        LISA	
+        WELKE	
+        101-380 VINE STREET	
+        	
+        ST CATHERINES	
+        ON	
+        L2M4T6	
+        9059350781	
+        6073297782	
+        2009	
+        DODGE	
+        CALIBER	
+        01/18/2010	 
+Wellington Motors (#170)	
+        MIRANDA	
+        RICHARDSON	
+        325 METCALFE	
+        	
+        GUELPH	
+        ON	
+        N1E5J8	
+        5197802066	
+        	
+        2007	
+        DODGE	
+        CALIBER	
+        02/11/2010	 
+Wellington Motors (#170)	
+        	
+        GUELPH NISSAN	
+        805 WOODLAWN RD. W.	
+        	
+        GUELPH	
+        ON	
+        N1K1E9	
+        5198229200	
+        	
+        2008	
+        DODGE	
+        CALIBER	
+        02/04/2010	 
+Wellington Motors (#170)	
+        PAUL	
+        LYDAN	
+        7251 WELLINGTON RD 51	
+        	
+        ARISS	
+        ON	
+        N0B1B0	
+        5198292853	
+        	
+        2002	
+        CHRYSLER	
+        SEBRING	
+        02/13/2010	 
+Wellington Motors (#170)	
+        BEVERLY	
+        CATTEAU	
+        54 KNOX RD	
+        	
+        WASAGA BEACH	
+        ON	
+        L9Z2A8	
+        7054220560	
+        	
+        2009	
+        DODGE	
+        CALIBER	
+        12/21/2009	 
+Wellington Motors (#170)	
+        MARK	
+        FENSKE	
+        8 PINTAIL CRT	
+        	
+        GUELPH	
+        ON	
+        N1C1A8	
+        5193419608	
+        5198244120	
+        2009	
+        DODGE	
+        CALIBER	
+        01/10/2010	 
+Wellington Motors (#170)	
+        BRANDON	
+        LEONARD	
+        6-124 GOSLING GARDENS	
+        	
+        GUELPH	
+        ON	
+        N1G5K6	
+        5192651618	
+        	
+        2007	
+        DODGE	
+        CALIBER	
+        12/07/2009	 
+Wellington Motors (#170)	
+        CHRISTINE	
+        NELSON	
+        272 CLYDE RD UNIT 9	
+        	
+        CAMBRIDGE	
+        ON	
+        N1R1L1	
+        5196221662	
+        	
+        2007	
+        DODGE	
+        CALIBER	
+        11/05/2009	 
+Wellington Motors (#170)	
+        KURT	
+        WETTGES	
+        83 FLEMING RD	
+        	
+        GUELPH	
+        ON	
+        N1E6X5	
+        5197661063	
+        	
+        2009	
+        DODGE	
+        CALIBER	
+        11/19/2009	 
+Wellington Motors (#170)	
+        KEVIN	
+        LOVEMAN	
+        601 WILLOW ROAD	
+        	
+        GUELPH	
+        ON	
+        N1H7J8	
+        5198370942	
+        5198353385	
+        2009	
+        DODGE	
+        CALIBER	
+        10/25/2009	 
+Wellington Motors (#170)	
+        EARL	
+        ANDERSON	
+        8 PATRICK DR ERIN TP	
+        	
+        ERIN	
+        ON	
+        N0B1T0	
+        5198268267	
+        	
+        2009	
+        DODGE	
+        CALIBER	
+        09/30/2009	 
+Wellington Motors (#170)	
+        MICHELLE	
+        TURNER	
+        LOT 4 CON6 #6303	
+        	
+        BELWOOD RR4	
+        ON	
+        N0B1S0	
+        8460554	
+        	
+        2001	
+        CHRYSLER	
+        SEBRING	
+        09/17/2009	 
+Wellington Motors (#170)	
+        PATRICIA	
+        DAVIS	
+        30 MUSKOKA DRIVE	
+        	
+        GUELPH	
+        ON	
+        N1E3M7	
+        5198240471	
+        5198244120	
+        2007	
+        DODGE	
+        CALIBER	
+        09/23/2009	 
+Wellington Motors (#170)	
+        LOUIE	
+        BALDASSO	
+        21 WESTERN AVE	
+        	
+        GUELPH	
+        ON	
+        N1H6A5	
+        5198221785	
+        	
+        2007	
+        DODGE	
+        CALIBER	
+        10/02/2009	 
+Wellington Motors (#170)	
+        SUZANNE	
+        SCHMIDT	
+        622B PINEROW CRES.	
+        	
+        WATERLOO	
+        ON	
+        N2T2K6	
+        5198853107	
+        	
+        2009	
+        DODGE	
+        CALIBER	
+        10/08/2009	 
+Wellington Motors (#170)	
+        JACQUELINE	
+        SCHWARTZENBURG	
+        42 BUSHMILLS CR	
+        	
+        GUELPH	
+        ON	
+        N1K1T7	
+        5198223599	
+        5196542877	
+        2007	
+        DODGE	
+        CALIBER	
+        10/08/2009	 
+Wellington Motors (#170)	
+        GARY	
+        BOLTON	
+        38 FRANKLIN	
+        	
+        GUELPH	
+        ON	
+        N1E4M7	
+        8244545	
+        	
+        2009	
+        DODGE	
+        CALIBER	
+        08/29/2009	 
+Wellington Motors (#170)	
+        ARLANDA	
+        WRIGHT	
+        46 WOOLWICH RD SS4	
+        	
+        ELORA	
+        ON	
+        N0B1S0	
+        5198462773	
+        5197871563	
+        2009	
+        DODGE	
+        CALIBER	
+        08/28/2009	 
+Wellington Motors (#170)	
+        KALA	
+        BENNETT	
+        44 EMMA ST UN405	
+        	
+        GUELPH	
+        ON	
+        N1E1T6	
+        5192650358	
+        	
+        2008	
+        DODGE	
+        CALIBER	
+        09/10/2009	 
+Wellington Motors (#170)	
+        CORNELIUS	
+        YOUNG	
+        561 HAVELOCK DR	
+        	
+        WATERLOO	
+        ON	
+        N2L4Z1	
+        5198849645	
+        5197485439	
+        2008	
+        DODGE	
+        CALIBER	
+        07/22/2009	 
+Wellington Motors (#170)	
+        MORGAN	
+        BESSEY	
+        212 BARDEN ST	
+        	
+        EDEN MILLS	
+        ON	
+        N0B1P0	
+        5198277257	
+        5198941810	
+        2009	
+        DODGE	
+        CALIBER	
+        07/23/2009	 
+Wellington Motors (#170)	
+        DERRICK	
+        MCMILLAN	
+        426 GRANGE RD, UNIT 9	
+        	
+        GUELPH	
+        ON	
+        N1E7E4	
+        5197639789	
+        5198353766	
+        2009	
+        DODGE	
+        CALIBER	
+        07/25/2009	 
+Wellington Motors (#170)	
+        MICHAEL	
+        LEWIS	
+        340 LYNDEN DRIVE UNIT214	
+        	
+        CAMBRIDGE	
+        ON	
+        N3H5L4	
+        5192191969	
+        2262200245	
+        2009	
+        DODGE	
+        CALIBER	
+        08/12/2009	 
+Wellington Motors (#170)	
+        ANDREW	
+        MC DERMID	
+        141 GEORGE ST	
+        	
+        ROCKWOOD	
+        ON	
+        N0B2K0	
+        5198564243	
+        5198564243	
+        2009	
+        DODGE	
+        CALIBER	
+        08/01/2009	 
+Wellington Motors (#170)	
+        DAVID	
+        MCGILLOWAY	
+        45 WESTMINSTER AVE.	
+        	
+        GUELPH	
+        ON	
+        N1E4B9	
+        5197635905	
+        	
+        2007	
+        DODGE	
+        CALIBER	
+        08/02/2009	 
+Wellington Motors (#170)	
+        KIMBERLY	
+        SCHOLL	
+        18 MAIN STREET	
+        	
+        WROXETER	
+        ON	
+        N0G2X0	
+        5193353550	
+        	
+        2009	
+        DODGE	
+        CALIBER	
+        08/02/2009	 
+Wellington Motors (#170)	
+        JOSEPH	
+        MORIN	
+        74 JANEFIELD AV AP18	
+        	
+        GUELPH	
+        ON	
+        N1G2L6	
+        5198222559	
+        5198240120	
+        2009	
+        DODGE	
+        CALIBER	
+        08/06/2009	 
+Wellington Motors (#170)	
+        KAYLA	
+        DOYLE	
+        136 BRANT AVE	
+        	
+        GUELPH	
+        ON	
+        N1E6C9	
+        5197637266	
+        	
+        2005	
+        MAZDA	
+        MAZDA3	
+        08/13/2009	 
+Wellington Motors (#170)	
+        ATTILA	
+        SZAKOLCZAY	
+        47 SCHRODER CRES	
+        	
+        GUELPH	
+        ON	
+        N1E7B3	
+        5198357319	
+        	
+        2006	
+        AUDI	
+        A4	
+        08/14/2009	 

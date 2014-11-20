@@ -1,0 +1,2 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Bill Howich Chrysler	GREG	PARRISH	474 HILCHEY STREET	CAMPBELL RIVER  B.C.	BC	V9W 1R1	2509235287		2007	DODGE	RAM TRUCK	06/16/2011 12:00:00 AM	 

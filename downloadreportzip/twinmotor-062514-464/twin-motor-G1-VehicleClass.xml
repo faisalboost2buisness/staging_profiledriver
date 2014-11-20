@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Twin Motors (#204)</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>BOX 111O</Address>
+    <Apartment></Apartment>
+    <City>THE PAS</City>
+    <State>MB</State>
+    <Zip>R9A 1L1</Zip>
+    <HomePhone>2046236405</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2014</Year>
+    <Make>JEEP</Make>
+    <Model>GRAND CHEROKEE</Model>
+    <PurchaseDate>N/A</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Twin Motors (#204)</DealershipName>
+    <FirstName>ALFRED</FirstName>
+    <LastName>MINK</LastName>
+    <Address>BOX 108 106 ALBERT STREET</Address>
+    <Apartment></Apartment>
+    <City>EASTERVILLE</City>
+    <State>MB</State>
+    <Zip>R0C 0V0</Zip>
+    <HomePhone>2043292496</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2004</Year>
+    <Make>FORD</Make>
+    <Model>FREESTAR</Model>
+    <PurchaseDate>N/A</PurchaseDate>
+  </Leadlist2>
+</data>

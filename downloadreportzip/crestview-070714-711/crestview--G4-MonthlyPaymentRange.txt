@@ -1,0 +1,29 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Crestview Chrysler (#202)	
+        	
+        	
+        1101 WINNIPEG ST	
+        	
+        REGINA	
+        SK	
+        S4R 1J5	
+        3067893252	
+        7893252	
+        2007	
+        PONTIAC	
+        MONTANA SV6	
+        07/20/2013	 
+Crestview Chrysler (#202)	
+        CAL	
+        HANIAK	
+        230 BROADWAY AVE	
+        	
+        REGINA	
+        SK	
+        S4N 1B3	
+        3065307726	
+        	
+        1998	
+        DODGE	
+        RAM 1500	
+        04/28/2013	 

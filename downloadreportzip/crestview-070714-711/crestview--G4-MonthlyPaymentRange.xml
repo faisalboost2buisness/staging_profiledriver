@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1101 WINNIPEG ST</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 1J5</Zip>
+    <HomePhone>3067893252</HomePhone>
+    <WorkPhone>7893252</WorkPhone>
+    <Year>2007</Year>
+    <Make>PONTIAC</Make>
+    <Model>MONTANA SV6</Model>
+    <PurchaseDate>07/20/2013</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName>CAL</FirstName>
+    <LastName>HANIAK</LastName>
+    <Address>230 BROADWAY AVE</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4N 1B3</Zip>
+    <HomePhone>3065307726</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1998</Year>
+    <Make>DODGE</Make>
+    <Model>RAM 1500</Model>
+    <PurchaseDate>04/28/2013</PurchaseDate>
+  </Leadlist2>
+</data>

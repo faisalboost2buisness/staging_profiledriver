@@ -1,0 +1,29 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Twin Motors (#204)	
+        CALGARY	
+        ADESA	
+        	
+        	
+        CALGARY	
+        AB	
+        S7K 6K4	
+        	
+        	
+        2003	
+        LAND ROVER	
+        DISCOVERY	
+        N/A	 
+Twin Motors (#204)	
+        RAY	
+        BJARNASON	
+        GEN DEL	
+        	
+        PUKATAWAGAN	
+        MB	
+        R0B 0G0	
+        	
+        	
+        2002	
+        FORD	
+        F-150	
+        N/A	 

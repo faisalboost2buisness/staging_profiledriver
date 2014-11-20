@@ -1,0 +1,2 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Crestview Chrysler (#202)	CAL	HANIAK	230 BROADWAY AVE	REGINA	SK	S4N 1B3	3065307726		2000	HONDA	CIVIC	11/30/2011	 

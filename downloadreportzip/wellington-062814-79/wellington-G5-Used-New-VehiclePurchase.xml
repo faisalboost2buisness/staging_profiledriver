@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName></FirstName>
+    <LastName>STANFIELD LAW OFFICES PROF CORP</LastName>
+    <Address>19 WATERLOO STREET S</Address>
+    <Apartment></Apartment>
+    <City>STRATFORD</City>
+    <State>ON</State>
+    <Zip>N5A4A5</Zip>
+    <HomePhone>5193050539</HomePhone>
+    <WorkPhone>5193050475</WorkPhone>
+    <Year>2010</Year>
+    <Make>JEEP</Make>
+    <Model>GRAND CHEROKEE</Model>
+    <PurchaseDate>05/09/2012</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>DANNY</FirstName>
+    <LastName>CASE</LastName>
+    <Address>3 CUMMINGS COURT</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1L1P1</Zip>
+    <HomePhone>5198371389</HomePhone>
+    <WorkPhone>5198212763</WorkPhone>
+    <Year>2007</Year>
+    <Make>SUZUKI</Make>
+    <Model>GRAND VITARA</Model>
+    <PurchaseDate>04/28/2012</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>MICHEL</FirstName>
+    <LastName>DUCHAINE</LastName>
+    <Address>7272 WELLINGTON RD 7</Address>
+    <Apartment></Apartment>
+    <City>ALMA</City>
+    <State>ON</State>
+    <Zip>N0B1A0</Zip>
+    <HomePhone>5198468386</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>DODGE</Make>
+    <Model>JOURNEY</Model>
+    <PurchaseDate>05/09/2012</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>AMY</FirstName>
+    <LastName>DYNEROWICZ</LastName>
+    <Address>110-357 HOFFMAN STREET</Address>
+    <Apartment>705</Apartment>
+    <City>KITCHENER</City>
+    <State>ON</State>
+    <Zip>N2M3M5</Zip>
+    <HomePhone>5195690483</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2007</Year>
+    <Make>JEEP</Make>
+    <Model>PATRIOT</Model>
+    <PurchaseDate>03/23/2012</PurchaseDate>
+  </Leadlist4>
+  <Leadlist5>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>SEAN</FirstName>
+    <LastName>BRUDER</LastName>
+    <Address>7218 SIDEROAD 14</Address>
+    <Apartment></Apartment>
+    <City>ARISS</City>
+    <State>ON</State>
+    <Zip>N0B1B0</Zip>
+    <HomePhone>5198208904</HomePhone>
+    <WorkPhone>5198260550</WorkPhone>
+    <Year>1998</Year>
+    <Make>LAND ROVER</Make>
+    <Model>DISCOVERY</Model>
+    <PurchaseDate>02/18/2012</PurchaseDate>
+  </Leadlist5>
+  <Leadlist6>
+    <DealershipName>Wellington Motors (#170)</DealershipName>
+    <FirstName>ELIZABETH</FirstName>
+    <LastName>SHANK</LastName>
+    <Address>1596 KASHAGAWIGAMONG LAKE RD</Address>
+    <Apartment></Apartment>
+    <City>MINDEN</City>
+    <State>ON</State>
+    <Zip>K0M2K0</Zip>
+    <HomePhone>17052860444</HomePhone>
+    <WorkPhone>17054553378</WorkPhone>
+    <Year>2003</Year>
+    <Make>JEEP</Make>
+    <Model>LIBERTY</Model>
+    <PurchaseDate>01/15/2012</PurchaseDate>
+  </Leadlist6>
+</data>

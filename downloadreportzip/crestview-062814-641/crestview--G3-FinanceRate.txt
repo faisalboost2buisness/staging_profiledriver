@@ -1,0 +1,57 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Crestview Chrysler (#202)	
+        VINCENT	
+        BELL	
+        27 CORNELL CRES	
+        	
+        BUSHELL PARK	
+        SK	
+        S0H 0N0	
+        3066910670	
+        3066922550	
+        2010	
+        DODGE	
+        RAM 1500	
+        01/17/2013	 
+Crestview Chrysler (#202)	
+        JELENA	
+        ALEKSIC	
+        31-136 HANBIDGE CRES	
+        	
+        REGINA	
+        SK	
+        S4R 7C5	
+        3065462971	
+        	
+        2013	
+        DODGE	
+        DART	
+        06/11/2013	 
+Crestview Chrysler (#202)	
+        LESLIE	
+        FAYANT	
+        4-50 Read Ave	
+        	
+        Regina	
+        SK	
+        S4T 7R6	
+        3065701705	
+        	
+        2013	
+        DODGE	
+        DART	
+        07/12/2013	 
+Crestview Chrysler (#202)	
+        Brenda	
+        Antoneshyn	
+        Box 326	
+        	
+        Maryfield	
+        SK	
+        S0G 3K0	
+        	
+        	
+        2013	
+        DODGE	
+        DART	
+        05/24/2013	 

@@ -1,0 +1,197 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Williamson Chrysler (#122)	
+        CHARLES R CAMMACK	
+        	
+        7 COLBY ROAD	
+        	
+        Uxbridge	
+        ON	
+        L9P 1R7	
+        (905)852-2288	
+        	
+        2012	
+        RAM	
+        1500	
+        07/06/2012 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        CRAIG M YABSLEY	
+        	
+        530 SCUGOG LINE 9	
+        	
+        Uxbridge	
+        ON	
+        L9P 1R3	
+        (905)852-6782	
+        	
+        2011	
+        RAM	
+        1500	
+        02/13/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        David Andrew Matthews	
+        	
+        67 Telecom Road	
+        	
+        Pontypool	
+        ON	
+        L0A 1K0	
+        (905)986-5751	
+        	
+        2012	
+        RAM	
+        1500	
+        09/30/2012 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Garry Popdyn	
+        	
+        14 Park Drive	
+        	
+        Bowmanville	
+        ON	
+        L1C 1B4	
+        (905)440-5169	
+        	
+        2012	
+        RAM	
+        1500	
+        07/14/2012 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        GLEN R DICKSON	
+        	
+        13 SALLIS DRIVE	
+        	
+        AJAX	
+        ON	
+        L1S 6Y9	
+        (905)427-6013	
+        	
+        2012	
+        RAM	
+        1500	
+        10/08/2012 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Harold G Millar	
+        	
+        90 Third Ave. S	
+        	
+        Uxbridge	
+        ON	
+        L9P 1K6	
+        (905)852-9509	
+        	
+        2008	
+        FORD	
+        RANGER	
+        05/04/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        J F KITCHING & SONS LIMITED	
+        	
+        22481 KENNEDY ROAD RR#2	
+        	
+        QUEENSVILLE	
+        ON	
+        L0G 1R0	
+        	
+        (905)473-3177	
+        2012	
+        RAM	
+        1500	
+        10/21/2012 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        MARK SABOURIN	
+        	
+        S12 The Pines Lane	
+        	
+        SUNDERLAND	
+        ON	
+        L0C 1H0	
+        (705)357-2116	
+        (416)297-7887	
+        2008	
+        DODGE	
+        DAKOTA	
+        07/08/2012 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        MARGARET E THOMAS	
+        	
+        10458 COUNTY ROAD 503 PBOX 9	
+        	
+        Gooderham	
+        ON	
+        K0M 1R0	
+        (705)854-3258	
+        (705)447-0129	
+        2008	
+        FORD	
+        RANGER	
+        05/04/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        RALPH E JACKSON	
+        	
+        70 WILLIAMS POINT ROAD	
+        	
+        SEAGRAVE	
+        ON	
+        L0B 1C0	
+        (905)986-0397	
+        	
+        2012	
+        RAM	
+        1500	
+        09/27/2012 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        ROBERT E LYONS	
+        	
+        	
+        	
+        	
+        	
+        	
+        (416)492-0976	
+        	
+        2011	
+        CHEVROLET	
+        AVALANCHE	
+        01/26/2013 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        MARK Kernohan	
+        	
+        15 Third Street	
+        	
+        Uxbridge	
+        ON	
+        L9P 1K5	
+        (905)862-0901	
+        	
+        2012	
+        RAM	
+        1500	
+        10/21/2012 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Victor Whiteley	
+        	
+        329 Main St Markham North	
+        	
+        Markham	
+        ON	
+        L3P 1Z2	
+        (905)294-1283	
+        	
+        2012	
+        RAM	
+        1500	
+        08/20/2012 12:00:00 AM	 
+Williamson Chrysler (#122)	
+        Wayne B Leslie & Palmer Company Ltd.	
+        	
+        14 Silver Springs Cr	
+        	
+        Uxbridge	
+        ON	
+        L9P 1R4	
+        (905)852-6899	
+        (905)852-4850	
+        2012	
+        RAM	
+        1500	
+        08/05/2012 12:00:00 AM	 

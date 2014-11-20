@@ -1,0 +1,15 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Twin Motors (#204)	
+        BRANDON	
+        MACINNIS	
+        APT 207-584 McMILLAN AVE	
+        	
+        WINNIPEG	
+        MB	
+        R3L 0N6	
+        2048034189	
+        	
+        2014	
+        JEEP	
+        PATRIOT	
+        12/31/1969	 

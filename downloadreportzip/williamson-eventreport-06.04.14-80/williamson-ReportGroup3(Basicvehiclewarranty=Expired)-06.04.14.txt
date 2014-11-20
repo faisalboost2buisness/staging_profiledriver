@@ -1,0 +1,3 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Williamson Chrysler	MICHELINE	HANN	14350 MARSH HILL ROAD	PORT PERRY	ON	L9L 1Z2	9059851706		2011	JEEP	WRANGLERUNLIMI		 
+Williamson Chrysler	BRITTANY	COOK	18 JOSEPHINE STREET BOX 3066	PRINCE ALBERT	ON	L9L 1C1	9059850527		2014	JEEP	WRANGLER	12/30/1899 12:00:00 AM	 

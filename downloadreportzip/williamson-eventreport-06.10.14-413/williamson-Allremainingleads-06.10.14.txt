@@ -1,0 +1,4 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Williamson Chrysler			1024 TWO DOGS LANE	Haliburton	ON	K0M 1S0	7054892580	7054892580	2012	RAM	2500 CREW CAB	02/26/2013 12:00:00 AM	 
+Williamson Chrysler			6211 MAIN STREET	STOUFFVILLE	ON	L4A 4J3	9056425617		2014	RAM	1500 CREW CAB	12/30/1899 12:00:00 AM	 
+Williamson Chrysler	MATTHEW	ADAMS	268 ELIZABETH STREET	OSHAWA	ON	L1J 6S4	9057202679		2013	DODGE	CHARGER	09/10/2013 12:00:00 AM	 

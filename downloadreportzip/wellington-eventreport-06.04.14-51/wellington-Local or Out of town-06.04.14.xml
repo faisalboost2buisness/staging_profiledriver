@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Wellington Motors</DealershipName>
+    <FirstName>LISA</FirstName>
+    <LastName>
+LOMAX</LastName>
+    <Address>525 ST PATRICK ST E</Address>
+    <Apartment></Apartment>
+    <City>FERGUS</City>
+    <State>ON</State>
+    <Zip>N1M1N3</Zip>
+    <HomePhone>5198432698</HomePhone>
+    <WorkPhone>5195764270</WorkPhone>
+    <Year>2010</Year>
+    <Make>DODGE</Make>
+    <Model>CHALLENGER</Model>
+    <PurchaseDate>09/28/2010</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Wellington Motors</DealershipName>
+    <FirstName>GRANT</FirstName>
+    <LastName>
+SCOTT</LastName>
+    <Address>1971 BERLETT'S ROAD</Address>
+    <Apartment></Apartment>
+    <City>ST. AGATHA</City>
+    <State>ON</State>
+    <Zip>N0B2L0</Zip>
+    <HomePhone>5196995695</HomePhone>
+    <WorkPhone>5197485110</WorkPhone>
+    <Year>2007</Year>
+    <Make>JEEP</Make>
+    <Model>WRANGLER</Model>
+    <PurchaseDate>07/11/2011</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Wellington Motors</DealershipName>
+    <FirstName></FirstName>
+    <LastName>
+GE CAPITAL CANADA LEASING LTD.</LastName>
+    <Address>2300 MEADOWVALE BLVD</Address>
+    <Apartment></Apartment>
+    <City>MISSISSAUGA</City>
+    <State>ON</State>
+    <Zip>L5N5P9</Zip>
+    <HomePhone>5197676574</HomePhone>
+    <WorkPhone>5198663017</WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>11/29/2012</PurchaseDate>
+  </Leadlist3>
+</data>

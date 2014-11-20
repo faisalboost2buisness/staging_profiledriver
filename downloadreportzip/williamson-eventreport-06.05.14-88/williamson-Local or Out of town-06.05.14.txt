@@ -1,0 +1,4 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Williamson Chrysler			11 HARRISON DRIVE	LEASKDALE	ON	L0C 1C0	6478288521		2013	RAM	1500 CREW CAB	05/07/2013 12:00:00 AM	 
+Williamson Chrysler			18 Sir George	Stouffville	ON	L4A 1P6			2012	RAM	2500 CREW CAB	01/24/2013 12:00:00 AM	 
+Williamson Chrysler			2159 DUNDAS ST W	TORONTO	ON	M6R 1X5		6478841340	2012	CHRYSLER	TOWN & COUNTRY	10/23/2013 12:00:00 AM	 

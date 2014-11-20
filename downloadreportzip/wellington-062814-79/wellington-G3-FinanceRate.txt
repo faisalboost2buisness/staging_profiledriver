@@ -1,0 +1,103 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Wellington Motors (#170)	
+        MARGARET	
+        MELANCON	
+        6639 CONCESSION 4, RR 6	
+        	
+        GUELPH	
+        ON	
+        N1H6J3	
+        5196540097	
+        5196482238	
+        2008	
+        JEEP	
+        COMPASS	
+        05/19/2012	 
+Wellington Motors (#170)	
+        JUSTIN	
+        COLLIER	
+        201 38 DAWSON RD	
+        	
+        GUELPH	
+        ON	
+        N1H5V1	
+        5192655269	
+        5198211429	
+        2010	
+        DODGE	
+        AVENGER	
+        04/04/2012	 
+Wellington Motors (#170)	
+        VERNON	
+        MACINTYRE	
+        #11 201 SILVERCREEK PRKWY N	
+        	
+        GUELPH	
+        ON	
+        N1H3T4	
+        5197664378	
+        5199934440	
+        2012	
+        JEEP	
+        PATRIOT	
+        04/27/2012	 
+Wellington Motors (#170)	
+        AURELIA	
+        
+VANGEYTENBEEK	
+        3 55 VALLEYVIEW RD	
+        	
+        KITCHENER	
+        ON	
+        N2E1L5	
+        5197297066	
+        	
+        2012	
+        FIAT	
+        500	
+        06/17/2012	 
+Wellington Motors (#170)	
+        DEAN	
+        
+GEISEL	
+        60 BRENTWOOD DR	
+        	
+        GUELPH	
+        ON	
+        N1H5M7	
+        5197660163	
+        5198353758	
+        2006	
+        DODGE	
+        RAM 1500	
+        07/05/2012	 
+Wellington Motors (#170)	
+        KENNETH	
+        
+LIVINGSTONE	
+        3451 PINE PASS MLA BOX 131	
+        	
+        FERGUS RR4	
+        ON	
+        N1M2W5	
+        2606670362	
+        	
+        2007	
+        DODGE	
+        CHARGER	
+        04/16/2012	 
+Wellington Motors (#170)	
+        BENJAMIN	
+        
+MOTT	
+        16 CINDY AVENUE	
+        	
+        CAMBRIDGE	
+        ON	
+        N3C3J2	
+        5197163910	
+        5198944422	
+        2012	
+        FIAT	
+        500	
+        01/01/2012	 

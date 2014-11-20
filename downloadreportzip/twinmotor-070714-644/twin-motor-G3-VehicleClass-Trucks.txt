@@ -1,0 +1,2535 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Twin Motors (#204)	
+        DEREK	
+        BYBLOW/MKH	
+        BOX 55 315 PINE AVE	
+        	
+        MAFEKING	
+        MB	
+        R0L 1B0	
+        2045452326	
+        	
+        2004	
+        DODGE	
+        DAKOTA	
+        N/A	 
+Twin Motors (#204)	
+        BRETT	
+        HAUKAAS/MKH	
+        PO BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046245674	
+        	
+        2011	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        DENIS	
+        GAGNE	
+        321 THIRD AVE SE BOX 54	
+        	
+        CRANBERRY PORTAGE	
+        MB	
+        R0B 0H0	
+        2044723099	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        RYAN	
+        BOURQUE	
+        161 2ND STREET	
+        	
+        THE PAS	
+        MB	
+        R9A 1K8	
+        2046235133	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        SHAWN	
+        REINFORT	
+        329 PATRICK AVENUE BOX 4017	
+        	
+        THE PAS	
+        MB	
+        R9A 1S5	
+        2046201501	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        JACK	
+        HOWARD	
+        11 ROSS ST	
+        	
+        FLIN FLON	
+        MB	
+        R8A 0X9	
+        2046873908	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        VERNON	
+        GALE	
+        354 VERENDRYE STREET	
+        	
+        THE PAS	
+        MB	
+        R9A 1S3	
+        2046235838	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        JUNE	
+        THOMAS	
+        53 NORTHSIDE ROAD BOX 42	
+        	
+        EASTERVILLE	
+        MB	
+        R0B 0V0	
+        2043292428	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        WAYNE	
+        KLYM	
+        HWY #10 NORTH	
+        	
+        THE PAS	
+        MB	
+        R9A 1K4	
+        2046237177	
+        	
+        2010	
+        GMC	
+        SIERRA 1500	
+        N/A	 
+Twin Motors (#204)	
+        CLEMENT	
+        BEAR	
+        BOX 121	
+        	
+        PUKATAWAGON	
+        MB	
+        R0B 1G0	
+        2045532094	
+        	
+        2011	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        GARRY	
+        WALOWSKI	
+        148 JACKFISH CREEK ROAD BOX 2124	
+        	
+        THE PAS	
+        MB	
+        R9A 1L8	
+        2046245099	
+        	
+        2011	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        MARY	
+        BARBEAU BRACEGIRDLE	
+        378 RALLS ISLAND ROAD BOX 241	
+        	
+        THE PAS	
+        MB	
+        R9A 1R8	
+        2046235370	
+        	
+        2012	
+        RAM	
+        3500	
+        N/A	 
+Twin Motors (#204)	
+        JUSTIN	
+        THWAITES	
+        1156 GORDON AVENUE BOX 4066	
+        	
+        THE PAS	
+        MB	
+        R9A 1S6	
+        2046236260	
+        	
+        2011	
+        FORD	
+        F-150	
+        N/A	 
+Twin Motors (#204)	
+        LIONEL	
+        DUBOIS	
+        106 RAILWAY DRIVE BOX 14	
+        	
+        CRANBERRY PORTAGE	
+        MB	
+        R0B 0H0	
+        2044723501	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        SHANE	
+        MADARASH	
+        601 MOODY DRIVE BOX 362	
+        	
+        DENARE BEACH	
+        SK	
+        S0P 0B0	
+        3063622299	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        MARIE	
+        LINKLATER	
+        BOX 391 528 SETTEE AVE	
+        	
+        THE PAS	
+        MB	
+        R9A 1K5	
+        2046232567	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        LEONARD	
+        MARSHALL	
+        PO BOX 1874 3RD ST W	
+        	
+        THE PAS	
+        MB	
+        R9L 1L6	
+        2046237533	
+        	
+        2010	
+        CHEVROLET	
+        SILVERADO 1500	
+        N/A	 
+Twin Motors (#204)	
+        MICHAEL	
+        KLYM	
+        25 HEINTZ ROAD BOX 74	
+        	
+        THE PAS	
+        MB	
+        R9A 1K3	
+        2046827205	
+        	
+        2012	
+        RAM	
+        3500	
+        N/A	 
+Twin Motors (#204)	
+        KELSEY	
+        CANN	
+        130 LIPSEY DRIVE BOX 597	
+        	
+        SNOW LAKE	
+        MB	
+        R0B 1M0	
+        2043582870	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        GARTH	
+        CARRIERE	
+        6 WILLOW ST	
+        	
+        OPASKWAYAK	
+        MB	
+        R9A 1L5	
+        2046233434	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        ROBERT	
+        BUCK	
+        54 BRACKEN DAM ROAD BOX 3723	
+        	
+        THE PAS	
+        MB	
+        R9A 1S3	
+        2046235489	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        COLTON	
+        CROWE	
+        SW20-10-19W BOX 9	
+        	
+        BRANDON	
+        MB	
+        R7A 5Y2	
+        2047619701	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        KAREN	
+        FRANCOIS	
+        BOX 96	
+        	
+        PUKATAWAGAN	
+        MB	
+        R0B 1G0	
+        2045532781	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        ROBERT	
+        MORACH	
+        138 JACKFISH DRIVE BOX 3544	
+        	
+        THE PAS	
+        MB	
+        R9A 1S2	
+        2046245015	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        PHILIP	
+        HARSTON	
+        249 LAROSE AVE BOX 484	
+        	
+        THE PAS	
+        MB	
+        R9A 1K6	
+        	
+        	
+        2010	
+        CHEVROLET	
+        SILVERADO 1500	
+        N/A	 
+Twin Motors (#204)	
+        JOHN	
+        O'TOOLE	
+        1038 TREMAUDEN	
+        	
+        THE PAS	
+        MB	
+        R9A 1L7	
+        2046235761	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        RODNEY	
+        JONES	
+        455 BIGNELL AVE BOX 4259	
+        	
+        THE PAS	
+        MB	
+        R9A 1M1	
+        2046235026	
+        	
+        2012	
+        RAM	
+        3500	
+        N/A	 
+Twin Motors (#204)	
+        EDWARD	
+        PATENAUDE	
+        22 CUDMORE CRES BOX 1955	
+        	
+        THE PAS	
+        MB	
+        R9A 1L6	
+        2046235513	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        AHAB	
+        CONSTANT	
+        61 AMISK CRES	
+        	
+        THE PAS	
+        MB	
+        R9A 1K5	
+        2046233610	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        SHIRLEY	
+        WALKER	
+        30 TRAILER PARK	
+        	
+        EASTERVILLE	
+        MB	
+        R0C 0V0	
+        2043292626	
+        	
+        2011	
+        CHEVROLET	
+        SILVERADO 1500	
+        N/A	 
+Twin Motors (#204)	
+        MONIKA	
+        BUHLER	
+        NW24-32-23W BOX 7	
+        	
+        PINE RIVER	
+        MB	
+        R0L 1M0	
+        2042632642	
+        	
+        2005	
+        DODGE	
+        DAKOTA	
+        N/A	 
+Twin Motors (#204)	
+        MAURICE	
+        MORIN	
+        226 2ND AVENUE BOX 98	
+        	
+        THE PAS	
+        MB	
+        R9A 1K3	
+        2046231775	
+        	
+        2006	
+        DODGE	
+        DAKOTA	
+        N/A	 
+Twin Motors (#204)	
+        GLENN	
+        MAXWELL	
+        60 CHANNING DRIVE	
+        	
+        FLIN FLON	
+        MB	
+        R8A 0S2	
+        2046873676	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        PETER	
+        LUDEK	
+        313 CENTENNIAL CRES	
+        	
+        FLIN FLON	
+        MB	
+        R8A 1T2	
+        2046873789	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        LAVERNE	
+        CONSTANT	
+        6 YOUNG DRIVE BOX 2701	
+        	
+        THE PAS	
+        MB	
+        R9A 1M5	
+        2046232075	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        BARBARA	
+        ATCHISON	
+        864 CATHEDRAL AVENUE BOX 2078	
+        	
+        THE PAS	
+        MB	
+        R9A 1L7	
+        2046235052	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        RAY	
+        CASE	
+        1505 SETTEE AVE BOX 2415	
+        	
+        THE PAS	
+        MB	
+        R9A 1S9	
+        2046232295	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        BRIAN	
+        DOWHY	
+        5 WATTS ST	
+        	
+        THE PAS	
+        MB	
+        R9A 1T8	
+        2046235602	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        EUGENE	
+        FARKAS	
+        3-30 CORAL CRESCENT	
+        	
+        THOMPSON	
+        MB	
+        R8N 1L1	
+        2047783587	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        TYLER	
+        ROBERTS	
+        54 GUYMER CRESENT	
+        	
+        The Pas	
+        MB	
+        R9A 1S9	
+        2046235318	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        JOHNNY	
+        SAYESE	
+        4 FARMER ROAD  BOX 3508	
+        	
+        THE PAS	
+        MB	
+        R9A 1S2	
+        2046232768	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        KILEY	
+        KOZLOWSKI	
+        35 READER STREET	
+        	
+        THE PAS	
+        MB	
+        R9A 1T6	
+        2046236406	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        KENNETH	
+        BENNETT	
+        37 SASKATCHEWAN CRES BOX 4151	
+        	
+        THE PAS	
+        MB	
+        R9A 1S6	
+        2046236193	
+        	
+        2012	
+        RAM	
+        3500	
+        N/A	 
+Twin Motors (#204)	
+        BRYAN	
+        KELLINGTON	
+        298 RALLS ISLAND ROAD BOX 4158	
+        	
+        THE PAS	
+        MB	
+        R9A 1S6	
+        2046236728	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        ABSAUL	
+        MASON	
+        BOX 111	
+        	
+        GOD'S LAKE NARROWS	
+        MB	
+        R0B 0M0	
+        2043352191	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        PATRICIA	
+        WHITNEY	
+        200 RALLS ISLAND ROAD BOX 986	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046234797	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        ARTHUR	
+        MICKELSON	
+        74 GREEN STREET	
+        	
+        FLIN FLON	
+        MB	
+        R8A 0P4	
+        2046878680	
+        	
+        2011	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        KELVIN	
+        TESSMER	
+        648 BERESKIN AVE	
+        	
+        CREIGHTON	
+        SK	
+        S0P 0A0	
+        3066885810	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        JOHN	
+        WATKINS	
+        BOX 3511 247 TRAGER DRIVE	
+        	
+        THE PAS	
+        MB	
+        R9A 1S2	
+        2046235644	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        ROGER	
+        PROKOPOW	
+        335 LAROSE AVE BOX 752	
+        	
+        THE PAS	
+        MB	
+        R9A 1K8	
+        2046234537	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        CATHERINE	
+        HERMAN LIPSCOMB	
+        263 PAUL AVE	
+        	
+        THE PAS	
+        MB	
+        R9A 1M6	
+        2046234737	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        DWIGHT	
+        LUCE	
+        8 FINGER PLACE	
+        	
+        THE PAS	
+        MB	
+        R9A 1T2	
+        2046232417	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        CANDIDA	
+        GAMACHE	
+        643 BERESKIN AVENUE BOX 527	
+        	
+        CREIGHTON	
+        SK	
+        S0P 0A0	
+        3066882005	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        TERRY	
+        GALE	
+        159 CROSSLEY AVE BOX 2947	
+        	
+        	
+        MB	
+        R9A 1R6	
+        2046245745	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        BRENDEN	
+        BERG	
+        116 SAILBOAT ROAD BOX 4344	
+        	
+        THE PAS	
+        MB	
+        R9A 1R2	
+        2046245543	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        MICHAEL	
+        WHITBREAD	
+        75 BELLEVUE	
+        	
+        FLIN FLON	
+        MB	
+        R8A 1G2	
+        2042711546	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        SHANE	
+        TILLING	
+        24 MAIN ROAD BOX 165	
+        	
+        WANLESS	
+        MB	
+        R0B 1T0	
+        2046206946	
+        	
+        2011	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        TERRANCE	
+        MCLENNAN	
+        119 ALDER BAY NE	
+        	
+        CRANBERRY PORTAGE	
+        MB	
+        R0B 0H0	
+        2044723753	
+        	
+        2011	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        DARYL	
+        HARKNESS	
+        9 BAGSHAW CRESENT	
+        	
+        THE PAS	
+        MB	
+        R9A 1S7	
+        2046237191	
+        	
+        2011	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        BOB	
+        CASSAN	
+        679 BEARSKIN AVE BOX 8	
+        	
+        CREIGHTON	
+        SK	
+        S0P 0A0	
+        3066884121	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        KEVIN	
+        GAUTHIER	
+        545 HARRISON ST	
+        	
+        FLIN FLON	
+        MB	
+        R8A 1E5	
+        2042712962	
+        	
+        2011	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        TERRY	
+        KADACHUK	
+        73 BRACKEN DAM ROAD	
+        	
+        THE PAS	
+        MB	
+        R9A 1M6	
+        2046203737	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        MORRIS	
+        ELDERKIN	
+        124 JEBBS DRIVE	
+        	
+        THE PAS	
+        MB	
+        R0B 2J0	
+        2046231054	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        SHERRIE	
+        WORDEN	
+        11 BURKE AVE	
+        	
+        FLIN FLON	
+        MB	
+        R8A 0C2	
+        2046874154	
+        	
+        2011	
+        GMC	
+        SIERRA 1500	
+        N/A	 
+Twin Motors (#204)	
+        TAYLOR	
+        MCKAY	
+        1005B HALCROW AVE BOX 3241	
+        	
+        THE PAS	
+        MB	
+        R9A 1R8	
+        2046205990	
+        	
+        2011	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        RICHARD	
+        WOLOSHYN	
+        319 PARKWAY	
+        	
+        FLIN FLON	
+        MB	
+        R8A 0J9	
+        2046876903	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        MITCHELL	
+        MCCORMICK	
+        102 LONGFORD AVENUE	
+        	
+        WINNIPEG	
+        MB	
+        R2N 1S9	
+        2047703083	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        DANIEL	
+        FLETT	
+        8 POPLAR ROAD BOX 1545	
+        	
+        THE PAS	
+        MB	
+        R9A 1L4	
+        2046202576	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        CATHERIN	
+        GAMBLIN	
+        APT 1-41 HAPNOT STREET	
+        	
+        FLIN FLON	
+        MB	
+        R8A 1N5	
+        2046873690	
+        	
+        2010	
+        CHEVROLET	
+        COLORADO	
+        N/A	 
+Twin Motors (#204)	
+        GORDON	
+        BAYER	
+        18 JONASSON DRIVE BOX 183	
+        	
+        WABOWDEN	
+        MB	
+        R0B 1S0	
+        2049991853	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        TERRY	
+        SEGUIN	
+        106 GREENWOOD DRIVE BOX 22	
+        	
+        CORMORANT	
+        MB	
+        R0B 0G0	
+        2043572416	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        ROLAND	
+        MOUSSEAU	
+        1045 HALCROW AVE	
+        	
+        THE PAS	
+        MB	
+        R9A 1L5	
+        2046237653	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        KEVIN	
+        PETTIT	
+        112 PAUL AVE BOX 4440	
+        	
+        THE PAS	
+        MB	
+        R9A 1R2	
+        2046234439	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        BRYAN	
+        ROMANOW	
+        23 4TH AVE SE	
+        	
+        DAUPHIN	
+        MB	
+        R7N 2N2	
+        2046384029	
+        	
+        2011	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        OLIVER	
+        BIGNELL	
+        5 UMPHERVILLE ROAD BOX 10477	
+        	
+        OPASKWAYAK	
+        MB	
+        R0B 2J0	
+        2049780234	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        PAUL	
+        CONSTANT	
+        34 SPRUCE ST BOX 3076	
+        	
+        THE PAS	
+        MB	
+        R9A 1L7	
+        2046236845	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        BRYAN	
+        KELLINGTON	
+        298 RALLS ISLAND ROAD BOX 4158	
+        	
+        THE PAS	
+        MB	
+        R9A 1S6	
+        2046236728	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        DENNIS	
+        LIBBRECHT	
+        58 BODNAR ROAD BOX 4224	
+        	
+        THE PAS	
+        MB	
+        R9A 1R2	
+        2046233841	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        GORDON	
+        CONSTANT	
+        21 BRACKEN DAM ROAD BOX 3847	
+        	
+        THE PAS	
+        MB	
+        R9A 1S4	
+        2046232608	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        GLORIA	
+        COWLEY	
+        BOX 10316 347 KICHE MASKANOW	
+        	
+        OPASKWAYAK	
+        MB	
+        R0B 2J0	
+        2046236336	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        CLIFFORD	
+        NABESS	
+        152 COWLEY AVE	
+        	
+        THE PAS	
+        MB	
+        R9A 1M2	
+        2046232966	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        DUSTIN	
+        BRUST	
+        66 MUKASEW BAY	
+        	
+        LEAF RAPIDS	
+        MB	
+        R0B 1W0	
+        2044738886	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        DARRELL	
+        FOSTER	
+        82 ROSS ST	
+        	
+        FLIN FLON	
+        MB	
+        R8A 0Y2	
+        2046870673	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        CLINT	
+        BICKEL	
+        SE 2 43 26W BOX 71	
+        	
+        MAFEKING	
+        MB	
+        R0L 1B0	
+        2042812810	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        DANIEL	
+        ALLEN	
+        LOT 8 BURKART RD. BOX 3582	
+        	
+        THE PAS	
+        MB	
+        R9A 1S2	
+        2046233009	
+        	
+        2011	
+        FORD	
+        F-150	
+        N/A	 
+Twin Motors (#204)	
+        CORINNE	
+        FEURSTIEN	
+        570-111 BRODERICK	
+        	
+        CREIGHTON	
+        SK	
+        S0P 0A0	
+        3066883320	
+        	
+        2010	
+        FORD	
+        RANGER	
+        N/A	 
+Twin Motors (#204)	
+        CLAYTON	
+        HILLIER	
+        1 BIRCH ROAD	
+        	
+        DENARE BEACH	
+        SK	
+        S0P 0B0	
+        3063622140	
+        	
+        2011	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        ESAU	
+        UMPHERVILLE	
+        128 JEBBS DRIVE BOX 10561	
+        	
+        OPASKWAYAK	
+        MB	
+        R0B 2J0	
+        2046235853	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        HEATHER	
+        DOERKSEN	
+        51 CROSSLEY BOX 904	
+        	
+        THE PAS	
+        MB	
+        R9A 1S5	
+        2046235502	
+        	
+        2005	
+        TOYOTA	
+        TACOMA	
+        N/A	 
+Twin Motors (#204)	
+        SCOTT	
+        KOSOLOWSKI	
+        7 WILLOW CRES	
+        	
+        FLIN FLON	
+        MB	
+        R8A 1T5	
+        2048986982	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        GILBERT	
+        YOUNG	
+        133 KICHEMASKANOW ROAD	
+        	
+        OPASKAWAYAK	
+        MB	
+        R0B 0J0	
+        2046232759	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        RON	
+        HRABARCHUK	
+        863 HALCROW AVE BOX 1831	
+        	
+        	
+        MB	
+        R9A 1L5	
+        2046233063	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        DALE	
+        FORSTER	
+        BOX 149	
+        	
+        ROCKY LAKE	
+        MB	
+        R0B 1T0	
+        2046827014	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        DALTON	
+        LABINE	
+        265 DADSON ROW	
+        	
+        FLIN FLON	
+        MB	
+        R8A 1T7	
+        2046877931	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        AL	
+        SHIRRAN	
+        BOX 819	
+        	
+        FLIN FLON	
+        MB	
+        R8A 1N6	
+        2046873493	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        BERNADETTE	
+        ALOTUT	
+        817 INUKJUAK	
+        	
+        RANKIN INLET	
+        NU	
+        X0C 0G0	
+        8676454301	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        TONY	
+        MARKUS	
+        BOX 1883	
+        	
+        THE PAS	
+        MB	
+        R9A 1L6	
+        2046233911	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        GREG	
+        MCAREE	
+        BOX 3705	
+        	
+        THE PAS	
+        MB	
+        R9A 1S3	
+        2046236351	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 111O	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        JODY	
+        EHMAN	
+        488 CROSSING BAY ROAD	
+        	
+        CROSSING BAY	
+        MB	
+        R0B 0Y0	
+        2046202212	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        PETER	
+        YOUNG	
+        BOX 170	
+        	
+        EASTERVILLE	
+        MB	
+        R0C 0V0	
+        2043294092	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        ERIC	
+        HOPPER	
+        BOX 870	
+        	
+        THE PAS	
+        MB	
+        R9A 1K8	
+        2046205987	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        SHEA	
+        ARGUE	
+        748 19TH ST.	
+        	
+        BRANDON	
+        MB	
+        R7B 1K8	
+        2048254070	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        PHILIP	
+        MILLER	
+        BOX 415 105CHERRY AVE	
+        	
+        SNOW LAKE	
+        MB	
+        R0B 1M0	
+        2043589058	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH VENTURES INC	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        CARL	
+        TRAVERSE	
+        863 TREMAUDEN AVE BOX 1776	
+        	
+        THE PAS	
+        MB	
+        R9A 1L5	
+        2046236732	
+        	
+        2001	
+        DODGE	
+        DAKOTA	
+        N/A	 
+Twin Motors (#204)	
+        MURRAY	
+        TOWNSEND	
+        110 BIRCHWOOD DR	
+        	
+        CLEARWATER LAKE	
+        MB	
+        R9A 1S6	
+        2046245535	
+        	
+        2011	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        CALGARY	
+        ADESA	
+        	
+        	
+        CALGARY	
+        AB	
+        S7K 6K4	
+        	
+        	
+        2004	
+        NISSAN	
+        TITAN	
+        N/A	 
+Twin Motors (#204)	
+        PETER	
+        PFUND	
+        BOX 2400	
+        	
+        THE PAS	
+        MB	
+        R9A 1M2	
+        2046827516	
+        	
+        2004	
+        CHEVROLET	
+        SILVERADO 2500HD	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        WAYNE	
+        WRIGHT	
+        LOT 7 RALLS IS.RD. BOX 1221	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236854	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        LISA	
+        BECKER	
+        6 harvey place BOX 2941	
+        	
+        THE PAS	
+        MB	
+        R9A 1R6	
+        	
+        	
+        2008	
+        FORD	
+        F-150	
+        N/A	 
+Twin Motors (#204)	
+        	
+        CORMORANT LOGGING& CONSTRUCTION	
+        BOX 52	
+        	
+        CORMORANT	
+        MB	
+        R0B 0G0	
+        2043572101	
+        	
+        2011	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        MARCIA	
+        NOVO	
+        BOX 3691	
+        	
+        THE PAS	
+        MB	
+        R9A 1S3	
+        2046232166	
+        	
+        2003	
+        DODGE	
+        DAKOTA	
+        N/A	 
+Twin Motors (#204)	
+        GAVIN	
+        DURST	
+        731 TAYLOR AVE	
+        	
+        THE PAS	
+        MB	
+        R9A 1R7	
+        2046232100	
+        	
+        2000	
+        GMC	
+        SONOMA	
+        N/A	 
+Twin Motors (#204)	
+        RYAN	
+        BLAZENKO	
+        SW 22 39 25W	
+        	
+        BIRCH RIVER	
+        MB	
+        R0L 0E0	
+        2042364715	
+        	
+        2009	
+        GMC	
+        SIERRA 1500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        GENERAL DELIVERY	
+        	
+        WANLESS	
+        MB	
+        R0B 1T0	
+        	
+        	
+        1997	
+        FORD	
+        F-150	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        	
+        	
+        WINNIPEG	
+        MB	
+        S7K 6K4	
+        	
+        	
+        2005	
+        CHEVROLET	
+        SILVERADO 1500	
+        N/A	 
+Twin Motors (#204)	
+        PAULINE	
+        MERASTY	
+        237 KICHE MASKANOW	
+        	
+        OCN	
+        MB	
+        R0B 2J0	
+        2046236066	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH VENTURES INC	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        RICHARD	
+        BEAUDRY	
+        BOX 87	
+        	
+        ELIE	
+        MB	
+        R0H 0H0	
+        2043532481	
+        	
+        2011	
+        FORD	
+        F-150	
+        N/A	 
+Twin Motors (#204)	
+        CALGARY	
+        ADESA	
+        	
+        	
+        CALGARY	
+        AB	
+        S7K 6K4	
+        	
+        	
+        2003	
+        CHEVROLET	
+        AVALANCHE	
+        N/A	 
+Twin Motors (#204)	
+        RAY	
+        BJARNASON	
+        GEN DEL	
+        	
+        PUKATAWAGAN	
+        MB	
+        R0B 0G0	
+        	
+        	
+        2002	
+        FORD	
+        F-150	
+        N/A	 
+Twin Motors (#204)	
+        RICK	
+        SMITH	
+        BOX 3435	
+        	
+        THE PAS	
+        MB	
+        R9A 1S2	
+        2046232140	
+        	
+        2004	
+        FORD	
+        F-150	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        CHRISTINE	
+        PARSONS	
+        Box 3822	
+        	
+        The Pas	
+        MB	
+        R9A 1S4	
+        2046236466	
+        	
+        2005	
+        CHEVROLET	
+        SILVERADO 1500	
+        N/A	 
+Twin Motors (#204)	
+        BRIAN	
+        DURUPT	
+        142 DUNRAVEN AVENUE	
+        	
+        WINNIPEG	
+        MB	
+        R2M 0H6	
+        2042312569	
+        	
+        2007	
+        GMC	
+        SIERRA 2500HD CLASSIC	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        3500	
+        N/A	 
+Twin Motors (#204)	
+        SEUN	
+        BAMMEKE	
+        P.O. BOX 815	
+        	
+        WINNIPEG	
+        MB	
+        R3C 2P4	
+        	
+        	
+        2012	
+        RAM	
+        3500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        3500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        mkh	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        BOX 111O	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        mkh	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        mkh	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH VENTURES INC	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH VENTURES INC	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH VENTURES INC	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        BUDGET DAUPHIN	
+        BOX 111O	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        RODGER	
+        DEIGHTON	
+        142 PROFIT ROAD BOX 3304	
+        	
+        THE PAS	
+        MB	
+        R9A 1R9	
+        2046235551	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        WAYNE	
+        COULTER	
+        BOX 734	
+        	
+        PINE FALLS	
+        MB	
+        R0C 0V0	
+        2043671896	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        	
+        	
+        	
+        MB	
+        	
+        6236405	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        DENNIS	
+        LIBBRECHT	
+        BOX 273 LOT 5 BLK 10 ATIKAMEG DRIVE	
+        	
+        CLEARWATER LAKE, THE PAS	
+        MB	
+        R9A 1L1	
+        2046245729	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        BARRETT	
+        SNOWDON	
+        BOX 2978 463 BIGNELL AVENUE	
+        	
+        THE PAS	
+        MB	
+        R9A 1R7	
+        2046177399	
+        	
+        2012	
+        RAM	
+        3500	
+        N/A	 
+Twin Motors (#204)	
+        DEAN	
+        DAVIDSON	
+        108 CAMPBELL DRIVE BOX 432	
+        	
+        THE PAS	
+        MB	
+        R9A 1K5	
+        2046232164	
+        	
+        2012	
+        RAM	
+        3500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        R.A.G/MKH	
+        BOX 2190	
+        	
+        THE PAS	
+        MB	
+        R9A 1L8	
+        2046235463	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        ZARY	
+        MAURICE	
+        7634 HENDERSON HWY BOX 12 GRP 320 RR3	
+        	
+        SELKIRK	
+        MB	
+        R1A 2A8	
+        2046236405	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        MARK	
+        WHITE	
+        13 READER STREET	
+        	
+        THE PAS	
+        MB	
+        R9A 1T5	
+        2049780551	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 111O	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        NORMAN	
+        COLOMB	
+        BOX 195	
+        	
+        PUKATAWAGAN	
+        MB	
+        R0B 1G0	
+        2046205818	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        	
+        MKH	
+        BOX 111O	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        	
+        	
+        2012	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        BARRETT	
+        SNOWDON	
+        BOX 2978 463 BIGNELL AVENUE	
+        	
+        THE PAS	
+        MB	
+        R9A 1R7	
+        2046177399	
+        	
+        2012	
+        RAM	
+        3500	
+        N/A	 
+Twin Motors (#204)	
+        ALEX	
+        CONSTANT	
+        BOX 1573 209 BRACKEN DAM	
+        	
+        THE PAS	
+        MB	
+        R9A 1L6	
+        2046237196	
+        	
+        2004	
+        FORD	
+        F-150	
+        N/A	 
+Twin Motors (#204)	
+        GARRY	
+        ROSS/MKH	
+        Box 10003 701 KICHEMASKANOW	
+        	
+        Opaskwayak	
+        MB	
+        R0B 2J0	
+        2046234652	
+        	
+        2012	
+        GMC	
+        SIERRA 1500	
+        N/A	 
+Twin Motors (#204)	
+        PAMELA	
+        PACKO	
+        BOX 54 10 CHARTIER DRIVE	
+        	
+        EASTERVILLE	
+        MB	
+        R0C 0V0	
+        2046177168	
+        	
+        2010	
+        FORD	
+        F-150	
+        N/A	 
+Twin Motors (#204)	
+        	
+        	
+        BOX 1110	
+        	
+        THE PAS	
+        MB	
+        R9A 1L1	
+        2046236405	
+        	
+        2013	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        JUSTIN	
+        KLYM	
+        BOX 74 1 STEAN DRIVE	
+        	
+        THE PAS	
+        MB	
+        R9A 1K3	
+        2046234055	
+        	
+        2011	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        DAVID	
+        FERLAND	
+        415 7TH STREET E BOX 2045	
+        	
+        THE PAS	
+        MB	
+        R9A 1L7	
+        2046233127	
+        	
+        2002	
+        CHEVROLET	
+        SILVERADO 1500	
+        N/A	 
+Twin Motors (#204)	
+        RICK	
+        MOORE	
+        BOX 2827	
+        	
+        THE PAS	
+        MB	
+        R9A 1M6	
+        2046237923	
+        	
+        2005	
+        CHEVROLET	
+        SILVERADO 1500	
+        N/A	 
+Twin Motors (#204)	
+        JASON	
+        OMAN	
+        58 RIVERSIDE DRIVE BOX 10075	
+        	
+        OPASKWAYAK	
+        MB	
+        R0B 2J0	
+        2046233673	
+        	
+        2011	
+        RAM	
+        1500	
+        N/A	 
+Twin Motors (#204)	
+        GEORGINA	
+        GENAILLE	
+        114 LAVALLEE STREET BOX 69	
+        	
+        CORMORANT	
+        MB	
+        R0B 0G0	
+        2043572240	
+        	
+        2004	
+        FORD	
+        F-150	
+        N/A	 
+Twin Motors (#204)	
+        MARY	
+        BARBEAU BRACEGIRDLE	
+        378 RALLS ISLAND ROAD BOX 241	
+        	
+        THE PAS	
+        MB	
+        R9A 1R8	
+        2046235370	
+        	
+        2012	
+        RAM	
+        2500	
+        N/A	 
+Twin Motors (#204)	
+        DANIEL	
+        SCOTT	
+        PO BOX 10416 153-1 3rd STREET	
+        	
+        THE PAS	
+        MB	
+        R0B 2J0	
+        2049780080	
+        	
+        2011	
+        RAM	
+        1500	
+        N/A	 

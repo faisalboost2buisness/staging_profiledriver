@@ -1,0 +1,9 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Demo Dealer	Green Cars	VehicleClass	26 BAINHART CRES.NotRequired	NA	ON	M1H 2R3	NotRequired	NotRequired	2012	NotImportant	NotImportant	01/30/2014 12:00:00 AM	 
+Demo Dealer	Gas	FuelType	20 NICHOLSON DRIVENotRequired	NA	ON	L9P 1R2	7052288793	NotRequired	2012	NotImportant	NotImportant	07/26/2013 12:00:00 AM	 
+Demo Dealer	Diesel	FuelType	80 CAMERON ST ENotRequired	NA	ON	L0E 1E0	7054328694	NotRequired	2013	NotImportant	NotImportant	01/30/2013 12:00:00 AM	 
+Demo Dealer	Other/Unknown	FuelType	9 HIGHWAY 7NotRequired	NA	ON	K0M 2J0	9054739135	NotRequired	2013	NotImportant	NotImportant	07/04/2013 12:00:00 AM	 
+Demo Dealer	City=Edmonton	Local/Out of Town	9 Testa RdNotRequired	Edmonton	ON	L9P 1M1	9058520652	NotRequired	2013	NotImportant	NotImportant	06/13/2013 12:00:00 AM	 
+Demo Dealer	City=Fort MCMurray	Local/Out of Town	63 MUNRO CRES.NotRequired	Fort McMurray	ONTARIO	L9P 1L8	9058522436	4162995900	2013	NotImportant	NotImportant	06/16/2012 12:00:00 AM	 
+Demo Dealer	Used	Used vs. New Purchase	2050 7th concession RR4NotRequired	NA	ON	L9P 1R4	9056493324	NotRequired	2013	NotImportant	NotImportant	12/08/2012 12:00:00 AM	 
+Demo Dealer	New	Used vs. New Purchase	440 LAKESHORE DRIVENotRequired	NA	ON	L9L 1N7	9059853018	NotRequired	2013	NotImportant	NotImportant	12/06/2013 12:00:00 AM	 

@@ -1,0 +1,29 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Wellington Motors (#170)	
+        	
+        MASON	
+        71 HARPER CRES	
+        	
+        FERGUS	
+        ON	
+        N1M3W1	
+        5197871251	
+        5196699454	
+        2013	
+        FIAT	
+        500	
+        07/01/2013	 
+Wellington Motors (#170)	
+        JONATHAN	
+        BURKE	
+        3 TRILLIUM COURT	
+        	
+        GUELPH	
+        ON	
+        N1G4P8	
+        5198030191	
+        5198248899	
+        2013	
+        DODGE	
+        AVENGER	
+        06/19/2013	 

@@ -1,0 +1,54 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Demo Dealer	mid-size cars	VehicleClass	268 ELIZABETH STREETNotRequired	NA	ON	L1J 6S4	9057202679	NotRequired	2013	NotImportant	NotImportant	09/10/2013 12:00:00 AM	 
+Demo Dealer	small cars	VehicleClass	74 EWEN DRIVENotRequired	NA	ON	L9P 1L5	9058521302	NotRequired	2013	NotImportant	NotImportant	01/24/2014 12:00:00 AM	 
+Demo Dealer	SUVS	VehicleClass	34 FIRST STREETNotRequired	NA	ON	L0B 1E0	9059861376	NotRequired	2014	NotImportant	NotImportant	02/28/2013 12:00:00 AM	 
+Demo Dealer	Crossovers	VehicleClass	68 HEATH CRNotRequired	NA	ON	L9L 1K9	9059852847	NotRequired	2013	NotImportant	NotImportant	07/29/2013 12:00:00 AM	 
+Demo Dealer	Trucks	VehicleClass	39 Miltrose Cres.NotRequired	NA	ON	L4A 0P8	6479227568	NotRequired	2013	NotImportant	NotImportant	12/18/2012 12:00:00 AM	 
+Demo Dealer	Vans	VehicleClass	....NEED NEW ADDRESS....APT 2006	NA	NotRequired	___ ___	2893874214	0	2010	NotImportant	NotImportant	08/21/2012 12:00:00 AM	 
+Demo Dealer	Green Cars	VehicleClass	26 BAINHART CRES.NotRequired	NA	ON	M1H 2R3	NotRequired	NotRequired	2012	NotImportant	NotImportant	01/30/2014 12:00:00 AM	 
+Demo Dealer	Gas	FuelType	48 BOLSTER LANENotRequired	NA	ONT	L9P 1X8	4169107428	NotRequired	2012	NotImportant	NotImportant	10/31/2012 12:00:00 AM	 
+Demo Dealer	Gas	FuelType	69 BOLSTER LANENotRequired	NA	ONTARIO	L9P 1X6	9058523405	9054751400	2012	NotImportant	NotImportant	06/07/2013 12:00:00 AM	 
+Demo Dealer	Gas	FuelType	2481 GLENWOODS AVENotRequired	NA	ON	L4P 3E9	9054767502	NotRequired	2013	NotImportant	NotImportant	12/05/2013 12:00:00 AM	 
+Demo Dealer	Gas	FuelType	40 Valentia RoadNotRequired	NA	ON	K0M 2C0	7057863937	NotRequired	2006	NotImportant	NotImportant	02/01/2013 12:00:00 AM	 
+Demo Dealer	Gas	FuelType	183 Casimir St.APT 1	NA	ON	L9L 1B7	9059854033	0	2013	NotImportant	NotImportant	07/24/2012 12:00:00 AM	 
+Demo Dealer	Gas	FuelType	75 Russell Barton LaneNotRequired	NA	ON	L9P 1Z2	9058623445	NotRequired	2012	NotImportant	NotImportant	09/28/2012 12:00:00 AM	 
+Demo Dealer	Gas	FuelType	20 NICHOLSON DRIVENotRequired	NA	ON	L9P 1R2	7052288793	NotRequired	2012	NotImportant	NotImportant	07/26/2013 12:00:00 AM	 
+Demo Dealer	Diesel	FuelType	213 SECOND STREETNotRequired	NA	ON	L4A 1B9	4165096744	NotRequired	2012	NotImportant	NotImportant	06/20/2013 12:00:00 AM	 
+Demo Dealer	Diesel	FuelType	17 DEERHURST LANENotRequired	NA	ON	L0E 1N0	0	0	2013	NotImportant	NotImportant	07/24/2013 12:00:00 AM	 
+Demo Dealer	Diesel	FuelType	2 VICTORIA ST VICTORIA SQUARNotRequired	NA	ON	L6C 1A7	9058875348	NotRequired	2013	NotImportant	NotImportant	07/24/2013 12:00:00 AM	 
+Demo Dealer	Diesel	FuelType	52 MILL RUN GATE RR1NotRequired	NA	ON	L9P 1R1	9058524346	NotRequired	2013	NotImportant	NotImportant	05/14/2013 12:00:00 AM	 
+Demo Dealer	Diesel	FuelType	105 STATION RDNotRequired	NA	ON	K0M 2J0	7053573365	NotRequired	2013	NotImportant	NotImportant	10/10/2013	 
+Demo Dealer	Diesel	FuelType	658 CARTIER AVENotRequired	NA	ON	L1J 2E2	NotRequired	NotRequired	2013	NotImportant	NotImportant	12/27/2013 12:00:00 AM	 
+Demo Dealer	Diesel	FuelType	80 CAMERON ST ENotRequired	NA	ON	L0E 1E0	7054328694	NotRequired	2013	NotImportant	NotImportant	01/30/2013 12:00:00 AM	 
+Demo Dealer	Other/Unknown	FuelType	227 UNION AVE.NotRequired	NA	ON	L9L 2C7	9059821420	9054310189	2013	NotImportant	NotImportant	12/06/2013 12:00:00 AM	 
+Demo Dealer	Other/Unknown	FuelType	140 Shrewsbury DriveNotRequired	NA	ON	L1M 0E3	9054254113	9054254113	2014	NotImportant	NotImportant	11/30/2012 12:00:00 AM	 
+Demo Dealer	Other/Unknown	FuelType	109 MAYTREE AVE. BOX 1417NotRequired	NA	ON	L4A 8A3	9056405409	NotRequired	2013	NotImportant	NotImportant	04/15/2013 12:00:00 AM	 
+Demo Dealer	Other/Unknown	FuelType	122 ASHWORTH ROADNotRequired	NA	ON	L0G 1M0	9054732324	NotRequired	2013	NotImportant	NotImportant	06/13/2013 12:00:00 AM	 
+Demo Dealer	Other/Unknown	FuelType	581 SLINGERLAND CIRCLENotRequired	NA	ON	L3X 1X9	6473338674	0	2013	NotImportant	NotImportant	10/31/2013 12:00:00 AM	 
+Demo Dealer	Other/Unknown	FuelType	349 PEFFERLAW ROADNotRequired	NA	ON	L4A 4Z9	7054373377	4169301899	2014	NotImportant	NotImportant	02/01/2013 12:00:00 AM	 
+Demo Dealer	Other/Unknown	FuelType	9 HIGHWAY 7NotRequired	NA	ON	K0M 2J0	9054739135	NotRequired	2013	NotImportant	NotImportant	07/04/2013 12:00:00 AM	 
+Demo Dealer	City=Edmonton	Local/Out of Town	12420 DURHAM ROAD 30 RR 3NotRequired	Edmonton	ON	L4A 7X4	9056420964	NotRequired	2013	NotImportant	NotImportant	05/15/2013 12:00:00 AM	 
+Demo Dealer	City=Edmonton	Local/Out of Town	43 SOUTH BEECHNotRequired	Edmonton	ON	L9P 1G1	9058522412	0	2013	NotImportant	NotImportant	07/16/2013 12:00:00 AM	 
+Demo Dealer	City=Edmonton	Local/Out of Town	5520 HWY 47NotRequired	Edmonton	ONTARIO	L9P 1R1	9058523830	NotRequired	2013	NotImportant	NotImportant	10/25/2013 12:00:00 AM	 
+Demo Dealer	City=Edmonton	Local/Out of Town	410-105 WINLANE DRIVENotRequired	Edmonton	ON	L4A 1V7	9054733003	0	2013	NotImportant	NotImportant	02/04/2014 12:00:00 AM	 
+Demo Dealer	City=Edmonton	Local/Out of Town	9 Testa RdNotRequired	Edmonton	ON	L9P 1M1	9058520652	NotRequired	2013	NotImportant	NotImportant	06/13/2013 12:00:00 AM	 
+Demo Dealer	City=Fort MCMurray	Local/Out of Town	1005 Darlingford DrNotRequired	Fort McMurray	ON	K0M 1S0	4164401659	NotRequired	2009	NotImportant	NotImportant	12/04/2012 12:00:00 AM	 
+Demo Dealer	City=Fort MCMurray	Local/Out of Town	1584 BRAMSEY DRNotRequired	Fort McMurray	ON	L5J 2H6	9058238018	4166462811	2012	NotImportant	NotImportant	01/02/2013 12:00:00 AM	 
+Demo Dealer	City=Fort MCMurray	Local/Out of Town	103 UNION AVENotRequired	Fort McMurray	ON	L9L 1E6	9059854851	NotRequired	2011	NotImportant	NotImportant	10/25/2013 12:00:00 AM	 
+Demo Dealer	City=Fort MCMurray	Local/Out of Town	32 EARL S CUDDIE BLVD.NotRequired	Fort McMurray	ON	L9L 1T4	9059857498	NotRequired	2013	NotImportant	NotImportant	04/12/2013 12:00:00 AM	 
+Demo Dealer	City=Fort MCMurray	Local/Out of Town	13450 Old Scugog RoadNotRequired	Fort McMurray	ON	L0B 1B0	9059869902	NotRequired	2013	NotImportant	NotImportant	12/07/2012 12:00:00 AM	 
+Demo Dealer	City=Fort MCMurray	Local/Out of Town	27 SMITH DRIVENotRequired	Fort McMurray	ON	L0C 1E0	9056490293	NotRequired	2013	NotImportant	NotImportant	04/11/2013 12:00:00 AM	 
+Demo Dealer	City=Fort MCMurray	Local/Out of Town	63 MUNRO CRES.NotRequired	Fort McMurray	ONTARIO	L9P 1L8	9058522436	4162995900	2013	NotImportant	NotImportant	06/16/2012 12:00:00 AM	 
+Demo Dealer	Used	Used vs. New Purchase	11295 LAKERIDGE ROADNotRequired	NA	ON	L0C 1H0	9058523684	NotRequired	2012	NotImportant	NotImportant	05/01/2013 12:00:00 AM	 
+Demo Dealer	Used	Used vs. New Purchase	7 COLBY ROADNotRequired	NA	ON	L9P 1R7	9058522288	NotRequired	2013	NotImportant	NotImportant	06/06/2012 12:00:00 AM	 
+Demo Dealer	Used	Used vs. New Purchase	31 Robmar CresNotRequired	NA	ON	K0M 2J0	7053572253	9058521212	2012	NotImportant	NotImportant	06/25/2012 12:00:00 AM	 
+Demo Dealer	Used	Used vs. New Purchase	3 BRETHOUR STREETNotRequired	NA	ON	L0C 1H0	9057165106	NotRequired	2012	NotImportant	NotImportant	03/21/2013 12:00:00 AM	 
+Demo Dealer	Used	Used vs. New Purchase	36 SPRINGDALE DRIVENotRequired	NA	ON	K9V 0J4	7058789941	NotRequired	2013	NotImportant	NotImportant	10/29/2013 12:00:00 AM	 
+Demo Dealer	Used	Used vs. New Purchase	338 VICTORIA STNotRequired	NA	ON	L0E 1N0	7052288754	NotRequired	2012	NotImportant	NotImportant	03/09/2013 12:00:00 AM	 
+Demo Dealer	Used	Used vs. New Purchase	2050 7th concession RR4NotRequired	NA	ON	L9P 1R4	9056493324	NotRequired	2013	NotImportant	NotImportant	12/08/2012 12:00:00 AM	 
+Demo Dealer	New	Used vs. New Purchase	14 HAYFIELD AVENUENotRequired	NA	ON	L9P 0A2	9058623831	NotRequired	2011	NotImportant	NotImportant	11/20/2013 12:00:00 AM	 
+Demo Dealer	New	Used vs. New Purchase	160 BROCK CONCESSION 4NotRequired	NA	ON	L0C 1H0	NotRequired	NotRequired	2014	NotImportant	NotImportant	12/24/2013 12:00:00 AM	 
+Demo Dealer	New	Used vs. New Purchase	53 BARTON LANENotRequired	NA	ON	L9P 1V3	9058527514	NotRequired	2012	NotImportant	NotImportant	08/26/2013 12:00:00 AM	 
+Demo Dealer	New	Used vs. New Purchase	45 BEECH STREET NNotRequired	NA	ON	L9P 1A8	9058524966	NotRequired	2011	NotImportant	NotImportant	07/09/2013 12:00:00 AM	 
+Demo Dealer	New	Used vs. New Purchase	15B SOUTH BALSAM STREETNotRequired	NA	ON	L9P 1E9	9058523457	NotRequired	2013	NotImportant	NotImportant	03/30/2013 12:00:00 AM	 
+Demo Dealer	New	Used vs. New Purchase	440 LAKESHORE DRIVENotRequired	NA	ON	L9L 1N7	9059853018	NotRequired	2013	NotImportant	NotImportant	12/06/2013 12:00:00 AM	 

@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>RORY</FirstName>
+    <LastName>CLARK</LastName>
+    <Address>#9-260 SOUTH ISLAND HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 1A4</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1994</Year>
+    <Make>MAZDA</Make>
+    <Model>MX-6</Model>
+    <PurchaseDate>03/10/2010 12:00:00 AM</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HOLLIE</FirstName>
+    <LastName>CLAUSEN</LastName>
+    <Address>BOX 106</Address>
+    <Apartment></Apartment>
+    <City>SOINTULA</City>
+    <State>BC</State>
+    <Zip>V0N 3E0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>KIA</Make>
+    <Model>SORENTO</Model>
+    <PurchaseDate>02/18/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>BRANDY</FirstName>
+    <LastName>HILL</LastName>
+    <Address>9280 ELK DRIVE</Address>
+    <Apartment></Apartment>
+    <City>PORT HARDY</City>
+    <State>BC</State>
+    <Zip>V0N 2P0</Zip>
+    <HomePhone>2509498589</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>FIAT</Make>
+    <Model>500</Model>
+    <PurchaseDate>04/26/2014 12:00:00 AM</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HEATHER</FirstName>
+    <LastName>SOMERSET</LastName>
+    <Address>20 SOUTH MCLEAN</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 6E1</Zip>
+    <HomePhone>2508300043</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2008</Year>
+    <Make>JEEP</Make>
+    <Model>GRAND CHEROKEE</Model>
+    <PurchaseDate>04/08/2010 12:00:00 AM</PurchaseDate>
+  </Leadlist4>
+</data>

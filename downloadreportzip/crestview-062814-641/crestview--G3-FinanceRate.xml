@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName>VINCENT</FirstName>
+    <LastName>BELL</LastName>
+    <Address>27 CORNELL CRES</Address>
+    <Apartment></Apartment>
+    <City>BUSHELL PARK</City>
+    <State>SK</State>
+    <Zip>S0H 0N0</Zip>
+    <HomePhone>3066910670</HomePhone>
+    <WorkPhone>3066922550</WorkPhone>
+    <Year>2010</Year>
+    <Make>DODGE</Make>
+    <Model>RAM 1500</Model>
+    <PurchaseDate>01/17/2013</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName>JELENA</FirstName>
+    <LastName>ALEKSIC</LastName>
+    <Address>31-136 HANBIDGE CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 7C5</Zip>
+    <HomePhone>3065462971</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>DART</Model>
+    <PurchaseDate>06/11/2013</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName>LESLIE</FirstName>
+    <LastName>FAYANT</LastName>
+    <Address>4-50 Read Ave</Address>
+    <Apartment></Apartment>
+    <City>Regina</City>
+    <State>SK</State>
+    <Zip>S4T 7R6</Zip>
+    <HomePhone>3065701705</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>DART</Model>
+    <PurchaseDate>07/12/2013</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Crestview Chrysler (#202)</DealershipName>
+    <FirstName>Brenda</FirstName>
+    <LastName>Antoneshyn</LastName>
+    <Address>Box 326</Address>
+    <Apartment></Apartment>
+    <City>Maryfield</City>
+    <State>SK</State>
+    <Zip>S0G 3K0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>DART</Model>
+    <PurchaseDate>05/24/2013</PurchaseDate>
+  </Leadlist4>
+</data>

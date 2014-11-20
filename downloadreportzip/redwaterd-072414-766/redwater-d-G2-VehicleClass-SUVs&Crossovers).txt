@@ -1,0 +1,2213 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Redwater Dodge (#210)	
+        STEVEN	
+        FORRE	
+        4906 57 ST	
+        	
+        BEAUMONT	
+        AB	
+        T4X1C4	
+        7806868904	
+        	
+        2012	
+        DODGE	
+        JOURNEY	
+        07/11/2014	 
+Redwater Dodge (#210)	
+        MEL	
+        SMITH	
+        BOX 453	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809423991	
+        	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        07/19/2014	 
+Redwater Dodge (#210)	
+        	
+        RFA HOLDINGS LMT	
+        RR2 SITE 5	
+        	
+        OKOTOKS	
+        AB	
+        T1S1A2	
+        	
+        	
+        2006	
+        CHEVROLET	
+        TRAILBLAZER	
+        07/19/2014	 
+Redwater Dodge (#210)	
+        	
+        RFA HOLDINGS LMT	
+        RR2 SITE 5	
+        	
+        OKOTOKS	
+        AB	
+        T1S1A2	
+        	
+        	
+        2006	
+        FORD	
+        ESCAPE	
+        07/21/2014	 
+Redwater Dodge (#210)	
+        JOSEPH	
+        BELL	
+        54 DISCOVERY AVENUE	
+        	
+        STURGEON COUNTY	
+        AB	
+        T8R1N3	
+        7807173779	
+        	
+        2014	
+        DODGE	
+        JOURNEY	
+        07/26/2014	 
+Redwater Dodge (#210)	
+        	
+        RFA HOLDINGS LMT	
+        RR2 SITE 5	
+        	
+        OKOTOKS	
+        AB	
+        T1S1A2	
+        	
+        	
+        2008	
+        JEEP	
+        GRAND CHEROKEE	
+        06/07/2014	 
+Redwater Dodge (#210)	
+        ALORA-BRIE	
+        POSELUZNY	
+        7911 128A AVE NW	
+        	
+        EDMONTON	
+        AB	
+        T5C1V3	
+        7802921755	
+        	
+        2014	
+        DODGE	
+        JOURNEY	
+        06/21/2014	 
+Redwater Dodge (#210)	
+        MITCHELL	
+        DORE	
+        145 WEBER CLOSE	
+        	
+        EDMONTON	
+        AB	
+        T6M0C4	
+        7809666336	
+        	
+        2014	
+        JEEP	
+        WRANGLER	
+        07/09/2014	 
+Redwater Dodge (#210)	
+        MARY	
+        HALE	
+        PO BOX 792	
+        	
+        THORHILD	
+        AB	
+        T0A3J0	
+        7803485560	
+        	
+        2010	
+        DODGE	
+        JOURNEY	
+        06/23/2014	 
+Redwater Dodge (#210)	
+        BRENT	
+        LESIUK	
+        	
+        608 9 ST SW	
+        CALGARY	
+        AB	
+        T2P2B3	
+        4036097576	
+        	
+        2014	
+        JEEP	
+        CHEROKEE	
+        06/26/2014	 
+Redwater Dodge (#210)	
+        LYNDA	
+        VEILLETTE	
+        BOX 815	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7805800055	
+        	
+        2014	
+        DODGE	
+        JOURNEY	
+        06/30/2014	 
+Redwater Dodge (#210)	
+        LISA	
+        FAGAN	
+        PO BOX 81	
+        	
+        BRUDERHEIM	
+        AB	
+        T0B0S0	
+        7809958533	
+        	
+        2014	
+        JEEP	
+        CHEROKEE	
+        07/05/2014	 
+Redwater Dodge (#210)	
+        KUNAL	
+        BHIDE	
+        SUITE#301 450 ROSE HAVEN DR.	
+        	
+        FORT MCMURRAY	
+        AB	
+        T9H4K1	
+        7803702208	
+        	
+        2010	
+        DODGE	
+        NITRO	
+        07/06/2014	 
+Redwater Dodge (#210)	
+        TRAVIS	
+        KING	
+        5104 51 STREET	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7805802502	
+        	
+        2014	
+        JEEP	
+        WRANGLER	
+        07/10/2014	 
+Redwater Dodge (#210)	
+        HAROLD	
+        PEARSON	
+        PO BOX 56	
+        	
+        ABEE	
+        AB	
+        T0A0A0	
+        7809108908	
+        	
+        2012	
+        FORD	
+        ESCAPE	
+        07/10/2014	 
+Redwater Dodge (#210)	
+        DAVID	
+        SLOMAN	
+        BOX 696	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7807775721	
+        	
+        2008	
+        DODGE	
+        NITRO	
+        06/14/2014	 
+Redwater Dodge (#210)	
+        ERIN	
+        MCDONALD	
+        BOX 487	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        5879906577	
+        	
+        2014	
+        JEEP	
+        CHEROKEE	
+        06/12/2014	 
+Redwater Dodge (#210)	
+        GARETT	
+        SCHLENDER	
+        BOX 768	
+        	
+        THORHILD	
+        AB	
+        T0A3J0	
+        7806982241	
+        	
+        2014	
+        JEEP	
+        CHEROKEE	
+        05/29/2014	 
+Redwater Dodge (#210)	
+        JENNIFER	
+        MACARTHUR	
+        BOX 93	
+        	
+        BON ACCORD	
+        AB	
+        T0A0K0	
+        7802650390	
+        	
+        2014	
+        DODGE	
+        JOURNEY	
+        05/16/2014	 
+Redwater Dodge (#210)	
+        MARK	
+        BORDIGNON	
+        12126 49 ST NW	
+        	
+        EDMONTON	
+        AB	
+        T5W3A5	
+        7802423675	
+        	
+        2014	
+        JEEP	
+        WRANGLER	
+        05/23/2014	 
+Redwater Dodge (#210)	
+        	
+        OSMAN AUCTION INC.	
+        6330-75 ST	
+        	
+        EDMONTON	
+        AB	
+        T6E2W6	
+        7807777771	
+        7804695081	
+        2007	
+        JEEP	
+        WRANGLER	
+        05/14/2014	 
+Redwater Dodge (#210)	
+        CAITLIN	
+        HEFFEL	
+        BOX 5814	
+        	
+        WESTLOCK	
+        AB	
+        T7P2P6	
+        7803078755	
+        	
+        2008	
+        JEEP	
+        GRAND CHEROKEE	
+        05/17/2014	 
+Redwater Dodge (#210)	
+        MARION	
+        STONE	
+        RR1	
+        	
+        LEGAL	
+        AB	
+        T0G1L0	
+        	
+        	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        05/24/2014	 
+Redwater Dodge (#210)	
+        LANA	
+        BOLLERS	
+        BOX 244	
+        NE1/2-5-58-20-W4	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7807774311	
+        	
+        2014	
+        DODGE	
+        JOURNEY	
+        05/24/2014	 
+Redwater Dodge (#210)	
+        JENNIFER	
+        MCCONNELL	
+        26 SUTHERLAND ST	
+        	
+        LEDUC	
+        AB	
+        T9E8R6	
+        7809998046	
+        	
+        2014	
+        JEEP	
+        PATRIOT	
+        06/02/2014	 
+Redwater Dodge (#210)	
+        RICHARD	
+        SWAN	
+        22 WINDERMERE COURT	
+        	
+        FORT SASKATCHEWAN	
+        AB	
+        T8L4M6	
+        7809999169	
+        7809423501	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        05/24/2014	 
+Redwater Dodge (#210)	
+        ELVIN	
+        WALDO	
+        BOX 1592	
+        	
+        GIBBONS	
+        AB	
+        T0A1N0	
+        7809423138	
+        	
+        2011	
+        DODGE	
+        JOURNEY	
+        05/28/2014	 
+Redwater Dodge (#210)	
+        JACK	
+        DENNETT	
+        BOX 444	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809423695	
+        	
+        2014	
+        JEEP	
+        CHEROKEE	
+        05/30/2014	 
+Redwater Dodge (#210)	
+        ANIK	
+        CORMIER	
+        PO BOX 526	
+        5011 51ST	
+        LEGAL	
+        AB	
+        T0G1L0	
+        7802781288	
+        	
+        2010	
+        FORD	
+        ESCAPE	
+        06/01/2014	 
+Redwater Dodge (#210)	
+        VALERIE	
+        FOURNIER	
+        #222 1180 HYNDMAN RD	
+        	
+        EDMONTON	
+        AB	
+        T5A0P8	
+        7809406098	
+        	
+        2014	
+        DODGE	
+        JOURNEY	
+        06/07/2014	 
+Redwater Dodge (#210)	
+        BONNIE	
+        WESLOWSKI	
+        133 - 52225	
+        RANGE ROAD 232	
+        SHERWOOD PARK	
+        AB	
+        T8B1L5	
+        7809774641	
+        	
+        2013	
+        JEEP	
+        GRAND CHEROKEE	
+        06/06/2014	 
+Redwater Dodge (#210)	
+        CASSANDRA	
+        NICOL	
+        PO BOX 924	
+        	
+        THORHILD	
+        AB	
+        T0A3J0	
+        7802830200	
+        	
+        2008	
+        JEEP	
+        LIBERTY	
+        06/06/2014	 
+Redwater Dodge (#210)	
+        JAMES	
+        MCCULLOUGH	
+        PO BOX 823	
+        	
+        GIBBONS	
+        AB	
+        T0A1N0	
+        7809182771	
+        	
+        2014	
+        DODGE	
+        JOURNEY	
+        04/05/2014	 
+Redwater Dodge (#210)	
+        JONATHAN	
+        COMEAU	
+        BOX 431	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7805803555	
+        	
+        2014	
+        JEEP	
+        WRANGLER	
+        04/07/2014	 
+Redwater Dodge (#210)	
+        DANIEL	
+        BEGON	
+        114 WOODBEND WAY	
+        	
+        FORT SASKATCHEWAN	
+        AB	
+        T8L4R4	
+        7809532664	
+        	
+        2014	
+        JEEP	
+        WRANGLER	
+        04/18/2014	 
+Redwater Dodge (#210)	
+        TEOFLO	
+        PANGANIBAN	
+        14023 37ST. NW	
+        	
+        EDMONTON	
+        AB	
+        T5Y0E2	
+        7809753273	
+        	
+        2010	
+        DODGE	
+        JOURNEY	
+        04/14/2014	 
+Redwater Dodge (#210)	
+        	
+        OSMAN AUCTION INC.	
+        6330-75 ST	
+        	
+        EDMONTON	
+        AB	
+        T6E2W6	
+        7807777771	
+        7804695081	
+        2007	
+        CHRYSLER	
+        ASPEN	
+        04/16/2014	 
+Redwater Dodge (#210)	
+        CRYSTAL	
+        HRYCUN	
+        BOX 31	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809422477	
+        	
+        2013	
+        FORD	
+        ESCAPE	
+        04/17/2014	 
+Redwater Dodge (#210)	
+        MARTHINUS	
+        VANDERWALT	
+        BOX 393	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7807224050	
+        	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        04/23/2014	 
+Redwater Dodge (#210)	
+        SCOTT	
+        MURRAY	
+        3767 13ST	
+        	
+        EDMONTON	
+        AB	
+        T6T0E5	
+        7807170847	
+        	
+        2013	
+        JEEP	
+        GRAND CHEROKEE	
+        04/28/2014	 
+Redwater Dodge (#210)	
+        LORNA	
+        LONG	
+        29 GREENFEILD BEND	
+        	
+        FORT SASKATCHEWAN	
+        AB	
+        T8L0K3	
+        7805186980	
+        	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        05/04/2014	 
+Redwater Dodge (#210)	
+        DAVE	
+        MCCORMACK	
+        BOX 387	
+        	
+        BRUDERHEIM	
+        AB	
+        T0B0S0	
+        7807963539	
+        7804313701	
+        2014	
+        JEEP	
+        COMPASS	
+        04/27/2014	 
+Redwater Dodge (#210)	
+        	
+        GATEWAY TOYOTA	
+        2020 103A ST	
+        	
+        EDMONTON	
+        AB	
+        T6W1A1	
+        	
+        	
+        2010	
+        TOYOTA	
+        4RUNNER	
+        04/27/2014	 
+Redwater Dodge (#210)	
+        	
+        677517 AB LMT	
+        4124 89ST	
+        	
+        EDMONTON	
+        AB	
+        T6K1G3	
+        	
+        	
+        2008	
+        CHEVROLET	
+        TRAILBLAZER	
+        04/27/2014	 
+Redwater Dodge (#210)	
+        GARY	
+        SCHESNUK	
+        BOX 835	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809102869	
+        	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        04/30/2014	 
+Redwater Dodge (#210)	
+        TRACEY	
+        TINGLEY	
+        5319 64 ST	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        	
+        	
+        2014	
+        JEEP	
+        CHEROKEE	
+        04/30/2014	 
+Redwater Dodge (#210)	
+        ALLEGRA	
+        TINGLEY	
+        5319 64 ST	
+        PO BOX 812	
+        REDWATER	
+        AB	
+        T0A2W0	
+        	
+        	
+        2014	
+        JEEP	
+        CHEROKEE	
+        04/30/2014	 
+Redwater Dodge (#210)	
+        TRUDY	
+        LEFEBVRE	
+        5 NOTTINGHAM HARBOUR	
+        	
+        SHERWOOD PARK	
+        AB	
+        T8A5Z7	
+        7807206564	
+        	
+        2012	
+        DODGE	
+        JOURNEY	
+        05/03/2014	 
+Redwater Dodge (#210)	
+        KELSEY	
+        CLARKE	
+        2711 129AVE NW	
+        	
+        EDMONTON	
+        AB	
+        T5A3X5	
+        5879903281	
+        	
+        2014	
+        JEEP	
+        WRANGLER	
+        03/17/2014	 
+Redwater Dodge (#210)	
+        CHARLY-JEAN	
+        MOORE	
+        PO BOX 1224	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        	
+        	
+        2013	
+        JEEP	
+        GRAND CHEROKEE	
+        03/13/2014	 
+Redwater Dodge (#210)	
+        ANGELA	
+        SEMENIUK	
+        BOX 881	
+        	
+        SMOKY LAKE	
+        AB	
+        T0A3C0	
+        	
+        	
+        2014	
+        DODGE	
+        DURANGO	
+        03/12/2014	 
+Redwater Dodge (#210)	
+        WAYNE	
+        CRAWFORD	
+        PO BOX 103	
+        	
+        NEWBROOK	
+        AB	
+        T0A2P0	
+        	
+        	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        03/10/2014	 
+Redwater Dodge (#210)	
+        TIFFANY	
+        ARSENAULT	
+        6008 101AVE	
+        	
+        EDMONTON	
+        AB	
+        T6A0G9	
+        	
+        	
+        2014	
+        JEEP	
+        COMPASS	
+        03/12/2014	 
+Redwater Dodge (#210)	
+        TRACY	
+        WOLOSHYNIUK	
+        BOX 249	
+        	
+        NEWBROOK	
+        AB	
+        	
+        7805762796	
+        	
+        2014	
+        JEEP	
+        CHEROKEE	
+        03/14/2014	 
+Redwater Dodge (#210)	
+        VICTORIA	
+        WAISMAN	
+        88-5404 42ST	
+        	
+        INNISFAIL	
+        AB	
+        T4G1S2	
+        	
+        	
+        2014	
+        JEEP	
+        CHEROKEE	
+        03/16/2014	 
+Redwater Dodge (#210)	
+        DAVID	
+        HEESING	
+        BOX 165	
+        	
+        GOODSOIL	
+        SK	
+        S0M1A0	
+        3062384407	
+        	
+        2013	
+        JEEP	
+        WRANGLER	
+        03/16/2014	 
+Redwater Dodge (#210)	
+        	
+        MANHEIM EDMONTON	
+        12866 153ST	
+        	
+        EDMONTON	
+        AB	
+        T5V1A9	
+        	
+        	
+        2008	
+        FORD	
+        EXPEDITION	
+        03/17/2014	 
+Redwater Dodge (#210)	
+        	
+        RFA HOLDINGS LMT	
+        RR2 SITE 5	
+        	
+        OKOTOKS	
+        AB	
+        T1S1A2	
+        	
+        	
+        2008	
+        NISSAN	
+        ARMADA	
+        03/20/2014	 
+Redwater Dodge (#210)	
+        KYRA	
+        VAN VEEN	
+        7 CHEYENNE CR.	
+        	
+        SHERWOOD PARK	
+        AB	
+        T8H1C4	
+        	
+        7804172072	
+        2011	
+        HYUNDAI	
+        TUCSON	
+        03/20/2014	 
+Redwater Dodge (#210)	
+        DANIEL	
+        SAWCHUK	
+        BOX 25	
+        	
+        NEWBROOK	
+        AB	
+        T0A2P0	
+        7803072725	
+        	
+        2006	
+        HUMMER	
+        H3	
+        03/23/2014	 
+Redwater Dodge (#210)	
+        	
+        MANHEIM EDMONTON	
+        12866 153ST	
+        	
+        EDMONTON	
+        AB	
+        T5V1A9	
+        	
+        	
+        2007	
+        LAND ROVER	
+        LR3	
+        03/28/2014	 
+Redwater Dodge (#210)	
+        CHRISTINE	
+        GUEST	
+        20111 56 AVE	
+        	
+        EDMONTON	
+        AB	
+        T6M0B3	
+        7807219509	
+        	
+        2014	
+        DODGE	
+        JOURNEY	
+        03/28/2014	 
+Redwater Dodge (#210)	
+        	
+        DK BROKERAGE LTD	
+        SUITE 5 1653 SALTON RD	
+        	
+        ABBOTS FORD	
+        BC	
+        V2S7P2	
+        	
+        6046441449	
+        2013	
+        BMW	
+        X3	
+        03/30/2014	 
+Redwater Dodge (#210)	
+        A D CASEY	
+        DESCHAMP	
+        4953 13 AVE NW	
+        	
+        EDMONTON	
+        AB	
+        T6L6Z3	
+        7804655527	
+        	
+        2009	
+        DODGE	
+        DURANGO	
+        03/30/2014	 
+Redwater Dodge (#210)	
+        BRENT	
+        GRAY	
+        BOX 1133	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809422222	
+        	
+        2013	
+        JEEP	
+        WRANGLER	
+        04/02/2014	 
+Redwater Dodge (#210)	
+        JEAN	
+        HARE	
+        BOX 617	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        	
+        	
+        2014	
+        DODGE	
+        JOURNEY	
+        02/12/2014	 
+Redwater Dodge (#210)	
+        MORGAN	
+        ALEXANDER	
+        BOX 786	
+        	
+        THORHILD	
+        AB	
+        T0A3J0	
+        7803983869	
+        	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        02/23/2014	 
+Redwater Dodge (#210)	
+        JEFF	
+        WOROBETZ	
+        BOX 1194	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809968078	
+        	
+        2014	
+        DODGE	
+        JOURNEY	
+        02/19/2014	 
+Redwater Dodge (#210)	
+        	
+        OSMAN AUCTION INC.	
+        6330-75 ST	
+        	
+        EDMONTON	
+        AB	
+        T6E2W6	
+        7807777771	
+        7804695081	
+        2003	
+        GMC	
+        YUKON XL	
+        02/20/2014	 
+Redwater Dodge (#210)	
+        JORDAN	
+        NAHIRNICK	
+        BOX 466	
+        	
+        LEGAL	
+        AB	
+        T0G1L0	
+        	
+        7808865286	
+        2012	
+        JEEP	
+        WRANGLER	
+        02/20/2014	 
+Redwater Dodge (#210)	
+        ROSE	
+        RAY	
+        BOX 121	
+        	
+        RADWAY	
+        AB	
+        T0A2V0	
+        7807362388	
+        	
+        2014	
+        DODGE	
+        JOURNEY	
+        02/24/2014	 
+Redwater Dodge (#210)	
+        	
+        ADESA EDMONTON	
+        1701 9TH STREET	
+        	
+        NISKU	
+        AB	
+        T9E8M8	
+        	
+        7809554400	
+        2005	
+        NISSAN	
+        PATHFINDER	
+        02/27/2014	 
+Redwater Dodge (#210)	
+        JOURDAIN	
+        DALLAIRE	
+        16203 87 AVE	
+        	
+        EDMONTON	
+        AB	
+        T5R1H4	
+        7802977369	
+        	
+        2011	
+        JEEP	
+        PATRIOT	
+        03/02/2014	 
+Redwater Dodge (#210)	
+        DALLAS	
+        JACKSON	
+        BOX 172	
+        	
+        LAC LA BICHE	
+        AB	
+        T0A2C0	
+        7804047234	
+        	
+        2010	
+        DODGE	
+        JOURNEY	
+        03/12/2014	 
+Redwater Dodge (#210)	
+        GREGORY	
+        SCHWARZ	
+        68 LINKSVIEW BAY	
+        	
+        SPRUCE GROVE	
+        AB	
+        T7X4L5	
+        7808868075	
+        	
+        2012	
+        JEEP	
+        GRAND CHEROKEE	
+        01/04/2014	 
+Redwater Dodge (#210)	
+        DONALD	
+        R	
+        BOX 321	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809200265	
+        	
+        2014	
+        JEEP	
+        WRANGLER	
+        01/15/2014	 
+Redwater Dodge (#210)	
+        JASON	
+        THEISEN	
+        5401 48 ST	
+        	
+        LLOYDMINSTER	
+        AB	
+        T9V0J6	
+        7808755770	
+        7800870778	
+        2014	
+        JEEP	
+        CHEROKEE	
+        01/26/2014	 
+Redwater Dodge (#210)	
+        FRED	
+        MOODY	
+        5323-63 ST	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809186743	
+        	
+        2014	
+        JEEP	
+        CHEROKEE	
+        01/20/2014	 
+Redwater Dodge (#210)	
+        TYLER	
+        WAISMAN	
+        BOX 519	
+        	
+        ESTEVAN	
+        SK	
+        S4A2A5	
+        3064614214	
+        	
+        2014	
+        JEEP	
+        CHEROKEE	
+        01/26/2014	 
+Redwater Dodge (#210)	
+        NATHAN	
+        QUINTAL	
+        4819 48 AVE	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7804044592	
+        	
+        2009	
+        JEEP	
+        PATRIOT	
+        02/01/2014	 
+Redwater Dodge (#210)	
+        COLLIN	
+        LABBE	
+        P.O. BOX 1065	
+        	
+        GIBBONS	
+        AB	
+        T0A1N0	
+        7805783365	
+        7802356558	
+        2014	
+        DODGE	
+        DURANGO	
+        01/29/2014	 
+Redwater Dodge (#210)	
+        	
+        RFA HOLDINGS LTD	
+        144 LAKE WAPTA RISE SE	
+        	
+        CALGARY	
+        AB	
+        T2J2M9	
+        	
+        	
+        2010	
+        SUBARU	
+        FORESTER	
+        01/29/2014	 
+Redwater Dodge (#210)	
+        LEO	
+        ARSENAULT	
+        BOX 36	
+        	
+        OPAL	
+        AB	
+        T0A2R0	
+        7809423086	
+        	
+        2014	
+        JEEP	
+        CHEROKEE	
+        01/29/2014	 
+Redwater Dodge (#210)	
+        	
+        CLAYTON AUTO LTD	
+        20311 46 AVE	
+        	
+        EDMONTON	
+        AB	
+        T6M0C2	
+        	
+        	
+        2008	
+        PONTIAC	
+        TORRENT	
+        01/29/2014	 
+Redwater Dodge (#210)	
+        	
+        RFA HOLDINGS LTD	
+        144 LAKE WAPTA RISE SE	
+        	
+        CALGARY	
+        AB	
+        T2J2M9	
+        	
+        	
+        2012	
+        JEEP	
+        WRANGLER	
+        01/30/2014	 
+Redwater Dodge (#210)	
+        DAVE & JUDY	
+        DICKSON	
+        BOX 5 SITE 50 RR2	
+        	
+        BOYLE	
+        AB	
+        T0A0M0	
+        	
+        	
+        2014	
+        JEEP	
+        CHEROKEE	
+        02/05/2014	 
+Redwater Dodge (#210)	
+        LEANNE	
+        GAGNE	
+        BOX 1746	
+        	
+        GIBBONS	
+        AB	
+        T0A1N0	
+        7809771064	
+        	
+        2008	
+        DODGE	
+        NITRO	
+        02/06/2014	 
+Redwater Dodge (#210)	
+        RICHARD	
+        SWAN	
+        22WINDEMERE COURT	
+        	
+        FORTSASKATCHEWAN	
+        AB	
+        T8L4M6	
+        7809999169	
+        7809423501	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        12/28/2013	 
+Redwater Dodge (#210)	
+        	
+        RFA HOLDINGS LTD	
+        144 LAKE WAPTA RISE SE	
+        	
+        CALGARY	
+        AB	
+        T2J2M9	
+        	
+        	
+        2006	
+        JEEP	
+        GRAND CHEROKEE	
+        12/29/2013	 
+Redwater Dodge (#210)	
+        KENNETH	
+        GOSS	
+        BOX 998	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809990508	
+        	
+        2013	
+        JEEP	
+        WRANGLER	
+        01/02/2014	 
+Redwater Dodge (#210)	
+        JAMIE	
+        MCDONALD	
+        17722 10 AVE SW	
+        	
+        EDMONTON	
+        AB	
+        T6W2A1	
+        7809359543	
+        	
+        2010	
+        JEEP	
+        WRANGLER	
+        02/02/2014	 
+Redwater Dodge (#210)	
+        	
+        OSMAN AUCTION INC.	
+        6330-75 ST	
+        	
+        EDMONTON	
+        AB	
+        T6E2W6	
+        7807777771	
+        7804695081	
+        2008	
+        FORD	
+        ESCAPE	
+        12/04/2013	 
+Redwater Dodge (#210)	
+        LORNE	
+        WOG	
+        BOX 722	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809424308	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        12/14/2013	 
+Redwater Dodge (#210)	
+        PETER	
+        LEMIEUX	
+        5417 47 ST	
+        	
+        STONY PLAIN	
+        AB	
+        T7Z1E4	
+        7809826790	
+        	
+        2014	
+        JEEP	
+        CHEROKEE	
+        12/18/2013	 
+Redwater Dodge (#210)	
+        LAWRENCE	
+        HRYCUN	
+        BOX 1033	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809422878	
+        	
+        2010	
+        JEEP	
+        COMPASS	
+        12/23/2013	 
+Redwater Dodge (#210)	
+        LYNDSAY	
+        LOEWEN	
+        69 WESTWOOD LANE	
+        	
+        FORT SASKATCHEWAN	
+        AB	
+        T8L4N7	
+        7805893370	
+        	
+        2014	
+        DODGE	
+        JOURNEY	
+        12/21/2013	 
+Redwater Dodge (#210)	
+        RILEY	
+        GREENCORN	
+        133 BRINTNELL BLVD NW	
+        	
+        EDMONTON	
+        AB	
+        T5Y3L9	
+        7806674120	
+        	
+        2007	
+        DODGE	
+        DURANGO	
+        12/23/2013	 
+Redwater Dodge (#210)	
+        BRILEY	
+        CARLSON	
+        7108 95 AVE NW	
+        	
+        EDMONTON	
+        AB	
+        T6B1B2	
+        7802337477	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        10/30/2013	 
+Redwater Dodge (#210)	
+        CODY	
+        BURRELL	
+        BOX 1103	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7808623716	
+        	
+        2014	
+        JEEP	
+        WRANGLER	
+        11/22/2013	 
+Redwater Dodge (#210)	
+        MEAGAN	
+        HINCH	
+        	
+        	
+        RADWAY	
+        AB	
+        T0A2V0	
+        5879854676	
+        	
+        2006	
+        FORD	
+        ESCAPE	
+        11/10/2013	 
+Redwater Dodge (#210)	
+        SUSAN	
+        SPEAKMAN	
+        BOX 143	
+        	
+        RADWAY	
+        AB	
+        T0A2V0	
+        7807363615	
+        	
+        2013	
+        JEEP	
+        PATRIOT	
+        11/16/2013	 
+Redwater Dodge (#210)	
+        PIERRE	
+        CHARTRAND	
+        31 25015 TWP RD 544A	
+        	
+        STURGEON COUNTY	
+        AB	
+        T8T0B9	
+        7809103029	
+        7784772290	
+        2013	
+        CADILLAC	
+        ESCALADE	
+        11/16/2013	 
+Redwater Dodge (#210)	
+        DAN/JOANNE	
+        SCHESNUK	
+        BOX 1076	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809424493	
+        	
+        2010	
+        HYUNDAI	
+        SANTA FE	
+        11/20/2013	 
+Redwater Dodge (#210)	
+        DWAYNE	
+        PRITCHARD	
+        BOX 746	
+        	
+        SMOKEY LAKE	
+        AB	
+        T0A3C0	
+        7806502177	
+        	
+        2011	
+        DODGE	
+        DURANGO	
+        11/21/2013	 
+Redwater Dodge (#210)	
+        KERRY JOHN	
+        KOZAK	
+        13247 68 ST	
+        	
+        EDMONTON	
+        AB	
+        T5C0G1	
+        7809844430	
+        	
+        2013	
+        JEEP	
+        WRANGLER	
+        11/21/2013	 
+Redwater Dodge (#210)	
+        DELORES	
+        GLADUE	
+        131 SPRUCE DR	
+        	
+        CONKLIN	
+        AB	
+        T0P1H1	
+        7805598400	
+        	
+        2014	
+        JEEP	
+        PATRIOT	
+        11/22/2013	 
+Redwater Dodge (#210)	
+        CARLY	
+        CORNELIUS	
+        APT 411 10131 159 ST NW	
+        	
+        EDMONTON	
+        AB	
+        T5P3P1	
+        5879856111	
+        	
+        2008	
+        MITSUBISHI	
+        ENDEAVOR	
+        11/29/2013	 
+Redwater Dodge (#210)	
+        PETER	
+        BUCHMANN	
+        BOX 335	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809423329	
+        7809423437	
+        2013	
+        DODGE	
+        JOURNEY	
+        12/05/2013	 
+Redwater Dodge (#210)	
+        GARY	
+        POSELUZNY	
+        PO BOX 375	
+        	
+        BON ACCORD	
+        AB	
+        T0A0K0	
+        5875886873	
+        7802223731	
+        2014	
+        JEEP	
+        WRANGLER	
+        09/11/2013	 
+Redwater Dodge (#210)	
+        CARL HARDMAN	
+        STELLING	
+        105 123 ARABIAN DR	
+        	
+        FORT MCMURRAY	
+        AB	
+        T9H5K4	
+        7807722448	
+        7807931043	
+        2013	
+        JEEP	
+        GRAND CHEROKEE	
+        11/04/2013	 
+Redwater Dodge (#210)	
+        GARY	
+        KOSTIW	
+        SITE 3 COMP 40 RR1	
+        	
+        LEGAL	
+        AB	
+        T0G1L0	
+        7809613422	
+        	
+        2012	
+        DODGE	
+        DURANGO	
+        10/04/2013	 
+Redwater Dodge (#210)	
+        CHRISTOPHER	
+        MORRISSEY	
+        10309-164 AVE NW	
+        	
+        EDMONTON	
+        AB	
+        T5X2J2	
+        7805547334	
+        	
+        2007	
+        FORD	
+        EXPLORER	
+        10/09/2013	 
+Redwater Dodge (#210)	
+        ROSE	
+        RAY	
+        BOX 121	
+        	
+        RADWAY	
+        AB	
+        T0A2V0	
+        7807362388	
+        7809160612	
+        2010	
+        DODGE	
+        JOURNEY	
+        10/09/2013	 
+Redwater Dodge (#210)	
+        JANE	
+        CHAN	
+        BOX 390	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809186450	
+        	
+        2011	
+        DODGE	
+        JOURNEY	
+        10/10/2013	 
+Redwater Dodge (#210)	
+        DWIGHT	
+        LANSDELL	
+        BOX 412	
+        	
+        WASKATENAU	
+        AB	
+        T0A3P0	
+        7809068477	
+        	
+        2007	
+        CADILLAC	
+        SRX	
+        10/12/2013	 
+Redwater Dodge (#210)	
+        STEWART	
+        SMITH	
+        BOX 81	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809422430	
+        	
+        2010	
+        FORD	
+        ESCAPE	
+        10/13/2013	 
+Redwater Dodge (#210)	
+        MARK	
+        CANNON	
+        1845 GARNETT WAY NW	
+        	
+        EDMONTON	
+        AB	
+        T5T6R3	
+        7804015212	
+        	
+        2008	
+        JEEP	
+        PATRIOT	
+        10/14/2013	 
+Redwater Dodge (#210)	
+        	
+        OSMAN AUCTION INC.	
+        6330-75 ST	
+        	
+        EDMONTON	
+        AB	
+        T6E2W6	
+        7807777771	
+        7804695081	
+        2006	
+        FORD	
+        ESCAPE	
+        10/17/2013	 
+Redwater Dodge (#210)	
+        WENDY	
+        MOTIUK	
+        RR1	
+        	
+        STAR	
+        AB	
+        T0B4E0	
+        7809402214	
+        	
+        2014	
+        JEEP	
+        PATRIOT	
+        10/17/2013	 
+Redwater Dodge (#210)	
+        	
+        OSMAN AUCTION INC.	
+        6330-75 ST	
+        	
+        EDMONTON	
+        AB	
+        T6E2W6	
+        7807777771	
+        7804695081	
+        2006	
+        DODGE	
+        DURANGO	
+        10/20/2013	 
+Redwater Dodge (#210)	
+        JONATHAN	
+        KERR	
+        BOX 619	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7803180759	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        10/25/2013	 
+Redwater Dodge (#210)	
+        	
+        RFA HOLDINGS LTD	
+        RR2 SITE 5 BOX 10	
+        	
+        DEWINGTON	
+        AB	
+        T0L0X0	
+        	
+        	
+        2006	
+        JEEP	
+        COMMANDER	
+        10/26/2013	 
+Redwater Dodge (#210)	
+        LESLEY	
+        PYSYK	
+        1165 96AVE	
+        	
+        DAWSON CREEK	
+        BC	
+        V1G1L2	
+        7802981487	
+        	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        10/26/2013	 
+Redwater Dodge (#210)	
+        ANGEL-WENDY	
+        LADOUCEUR	
+        BOX 132	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7804411131	
+        	
+        2010	
+        JEEP	
+        PATRIOT	
+        10/26/2013	 
+Redwater Dodge (#210)	
+        SHELBY	
+        ANDERSEN	
+        9363 SIMPSON DRIVE NW	
+        	
+        EDMONTON	
+        AB	
+        T6R0N4	
+        5878732429	
+        	
+        2011	
+        JEEP	
+        COMPASS	
+        10/30/2013	 
+Redwater Dodge (#210)	
+        FREDRICK	
+        KOZAK	
+        208-392 SILVER BERRY RD NW	
+        	
+        EDMONTON	
+        AB	
+        T6T0H1	
+        7806196544	
+        	
+        2013	
+        JEEP	
+        GRAND CHEROKEE	
+        10/28/2013	 
+Redwater Dodge (#210)	
+        	
+        OSMAN AUCTION INC.	
+        6330-75 ST	
+        	
+        EDMONTON	
+        AB	
+        T6E2W6	
+        7807777771	
+        7804695081	
+        2007	
+        DODGE	
+        NITRO	
+        10/30/2013	 
+Redwater Dodge (#210)	
+        	
+        RFA HOLDINGS LTD	
+        RR2 SITE 5 BOX 10	
+        	
+        DEWINGTON	
+        AB	
+        T0L0X0	
+        	
+        	
+        2014	
+        MAZDA	
+        CX-5	
+        10/30/2013	 
+Redwater Dodge (#210)	
+        MARY ANN	
+        LEWCHUK	
+        BOX 563	
+        	
+        SMOKY LAKE	
+        AB	
+        T0A3C0	
+        7806560557	
+        	
+        2014	
+        DODGE	
+        JOURNEY	
+        11/07/2013	 
+Redwater Dodge (#210)	
+        DON	
+        SICZEK	
+        BOX 165	
+        	
+        RADWAY	
+        AB	
+        T0A2V0	
+        7807004194	
+        	
+        2014	
+        DODGE	
+        JOURNEY	
+        11/10/2013	 
+Redwater Dodge (#210)	
+        SYED	
+        RAFIQUE	
+        2411 108 ST NW	
+        	
+        EDMONTON	
+        AB	
+        	
+        5878737333	
+        	
+        2014	
+        DODGE	
+        JOURNEY	
+        11/11/2013	 
+Redwater Dodge (#210)	
+        KARRA	
+        BURRELL	
+        BOX 1103	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809424194	
+        7809847097	
+        2014	
+        JEEP	
+        COMPASS	
+        11/11/2013	 
+Redwater Dodge (#210)	
+        VIRGINIA	
+        KIPLING	
+        9719 SARGENT ST	
+        	
+        SUMMERLAND	
+        BC	
+        T0A2W0	
+        2504946465	
+        	
+        2011	
+        CADILLAC	
+        ESCALADE	
+        07/10/2013	 
+Redwater Dodge (#210)	
+        CHARLY-JEAN	
+        MOORE	
+        BOX 1224	
+        	
+        GIBBONS	
+        AB	
+        T0A1N0	
+        7806916104	
+        	
+        2013	
+        JEEP	
+        WRANGLER	
+        09/11/2013	 
+Redwater Dodge (#210)	
+        AHMAD	
+        JARIDA	
+        14012-116 ST	
+        	
+        EDMONTON	
+        AB	
+        T5X3N9	
+        7809207242	
+        	
+        2007	
+        JEEP	
+        GRAND CHEROKEE	
+        09/11/2013	 
+Redwater Dodge (#210)	
+        DAVID	
+        HEWITT	
+        BOX 994	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809429067	
+        7804999081	
+        2008	
+        JEEP	
+        WRANGLER	
+        09/11/2013	 
+Redwater Dodge (#210)	
+        BEVERLY	
+        JOHNSTON	
+        24 PARK CIRCLE	
+        	
+        WHITECOURT	
+        AB	
+        T7S1V3	
+        7802681444	
+        	
+        2014	
+        FORD	
+        EXPLORER	
+        09/13/2013	 
+Redwater Dodge (#210)	
+        	
+        OSMAN AUCTION INC.	
+        6330-75 ST	
+        	
+        EDMONTON	
+        AB	
+        T6E2W6	
+        7807777771	
+        7804695081	
+        2005	
+        BUICK	
+        RENDEZVOUS	
+        08/02/2013	 
+Redwater Dodge (#210)	
+        CHERYL	
+        REXIN	
+        10-56420 RGE RD 231	
+        	
+        STURGEON COUNTY	
+        AB	
+        T0A1N4	
+        7809423239	
+        7809232338	
+        2013	
+        DODGE	
+        JOURNEY	
+        08/05/2013	 
+Redwater Dodge (#210)	
+        MICHAEL	
+        DILLON	
+        BOX 871	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7802031667	
+        7809423607	
+        2013	
+        JEEP	
+        PATRIOT	
+        08/10/2013	 
+Redwater Dodge (#210)	
+        BRENT & WENDY	
+        JOHNSON	
+        BOX 563	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809422604	
+        	
+        2013	
+        DODGE	
+        DURANGO	
+        08/21/2013	 
+Redwater Dodge (#210)	
+        RACHAEL	
+        STEPHEN	
+        PO BOX 179	
+        4723 47 AVE	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809424223	
+        	
+        2013	
+        FORD	
+        EDGE	
+        08/30/2013	 
+Redwater Dodge (#210)	
+        KEVIN	
+        WAWRYNCHUK	
+        BOX 458	
+        	
+        SMOKY LAKE	
+        AB	
+        T0A3C0	
+        7806562263	
+        	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        08/28/2013	 
+Redwater Dodge (#210)	
+        RUSS	
+        GAUTHIER	
+        BOX 1471	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7808030894	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        08/29/2013	 
+Redwater Dodge (#210)	
+        MARGARET	
+        HEINTZMAN	
+        27357 HWY 16	
+        	
+        SOUTH HAZELTON	
+        BC	
+        V0J2J1	
+        	
+        	
+        2013	
+        JEEP	
+        WRANGLER	
+        07/17/2013	 
+Redwater Dodge (#210)	
+        JADE-ANN	
+        SCHNEIDER	
+        53537 RANGE RD 212	
+        	
+        ARDROSSAN	
+        AB	
+        T8G2C2	
+        7809770823	
+        	
+        2009	
+        DODGE	
+        JOURNEY	
+        07/12/2013	 
+Redwater Dodge (#210)	
+        ELIZABETH	
+        BOHILL	
+        BOX 195	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809166822	
+        	
+        2013	
+        DODGE	
+        JOURNEY	
+        07/14/2013	 
+Redwater Dodge (#210)	
+        KIMBERLY	
+        PRYZNYK	
+        21 OTTERBURY AVE	
+        	
+        RED DEER	
+        AB	
+        T4N4Z8	
+        4035974696	
+        	
+        2010	
+        FORD	
+        EDGE	
+        07/20/2013	 
+Redwater Dodge (#210)	
+        DENISE	
+        DUECK	
+        	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7807362490	
+        	
+        2008	
+        PONTIAC	
+        TORRENT	
+        07/25/2013	 
+Redwater Dodge (#210)	
+        RUDY	
+        WOUTERS	
+        151 WESTPARK WAY	
+        	
+        FORT SASKATCHEWAN	
+        AB	
+        	
+        7809987051	
+        	
+        2010	
+        JEEP	
+        WRANGLER	
+        07/28/2013	 
+Redwater Dodge (#210)	
+        DOUGLAS	
+        IVERSON	
+        207 RATTLEPAN CREEK CRES	
+        	
+        FORT MACMURRAY	
+        AB	
+        T9K2V6	
+        7809774476	
+        	
+        2012	
+        CADILLAC	
+        ESCALADE	
+        06/09/2013	 
+Redwater Dodge (#210)	
+        LYNDON	
+        OAKLEY	
+        BOX 505	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7809424996	
+        7809180230	
+        2013	
+        DODGE	
+        JOURNEY	
+        06/30/2013	 
+Redwater Dodge (#210)	
+        	
+        BILLY'S AUTO	
+        27064 TWP 380	
+        	
+        RED DEER	
+        AB	
+        T4E1A8	
+        4033504918	
+        4033464097	
+        2007	
+        SATURN	
+        VUE	
+        06/17/2013	 
+Redwater Dodge (#210)	
+        	
+        BILLY'S AUTO	
+        27064 TWP 380	
+        	
+        RED DEER	
+        AB	
+        T4E1A8	
+        4033504918	
+        4033464097	
+        2007	
+        CHEVROLET	
+        SUBURBAN	
+        06/29/2013	 
+Redwater Dodge (#210)	
+        CORTNEY	
+        JOHNSTON	
+        PO BOX 100	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        5879861681	
+        	
+        2012	
+        JEEP	
+        PATRIOT	
+        08/02/2014	 
+Redwater Dodge (#210)	
+        	
+        RED DEER MOTORS	
+        4720 JOHNSTONE DR	
+        	
+        RED DEER	
+        AB	
+        T4P3R2	
+        	
+        	
+        2013	
+        FORD	
+        ESCAPE	
+        08/10/2014	 
+Redwater Dodge (#210)	
+        LYNDA	
+        VEILLETTE	
+        PO BOX 815	
+        	
+        REDWATER	
+        AB	
+        T0A2W0	
+        7805800055	
+        	
+        2014	
+        JEEP	
+        GRAND CHEROKEE	
+        08/03/2014	 
+Redwater Dodge (#210)	
+        	
+        677517 ALBERTA LTD	
+        4124-89 ST	
+        	
+        BARRHEAD	
+        AB	
+        T6K1G3	
+        7806742227	
+        	
+        2010	
+        FORD	
+        EDGE	
+        08/10/2014	 

@@ -1,0 +1,729 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+PBS Demo (#198)	
+        Jose Taylor	
+        	
+        3513 Cinder Private	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        2892087373	
+        8981402413	
+        2008	
+        CHEVROLET	
+        UPLANDER	
+        07/05/2014	 
+PBS Demo (#198)	
+        Laura Cooper	
+        	
+        7541 Fallen Apple Parkway	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        9059120901	
+        4964442464	
+        2006	
+        DODGE	
+        CARAVAN	
+        07/06/2014	 
+PBS Demo (#198)	
+        Alice Ross	
+        	
+        9419 Golden Sky Passage	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198231692	
+        3481913299	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        07/07/2014	 
+PBS Demo (#198)	
+        Cynthia Brooks	
+        	
+        2996 Emerald Rise Range	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5196994696	
+        5257867952	
+        2014	
+        DODGE	
+        GRAND CARAVAN	
+        07/08/2014	 
+PBS Demo (#198)	
+        James Perez	
+        	
+        6978 Pleasant Spring Centre	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192753505	
+        7665133236	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        07/09/2014	 
+PBS Demo (#198)	
+        Marilyn Lee	
+        	
+        7119 Quiet Grove Edge	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5197435637	
+        8215093472	
+        2014	
+        DODGE	
+        GRAND CARAVAN	
+        07/10/2014	 
+PBS Demo (#198)	
+        Dorothy Davis	
+        	
+        2351 Easy Pioneer Gardens	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        2265001196	
+        1327238307	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        07/11/2014	 
+PBS Demo (#198)	
+        Jennifer Griffin	
+        	
+        2165 Noble Heath	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        9058204550	
+        5027297972	
+        2008	
+        DODGE	
+        SPRINTER	
+        07/12/2014	 
+PBS Demo (#198)	
+        Brandon Rodriguez	
+        	
+        1532 Shady Pike	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        9058204551	
+        5401517721	
+        2007	
+        FORD	
+        FREESTAR	
+        07/01/2014	 
+PBS Demo (#198)	
+        Larry Walker	
+        	
+        8631 Burning Townline	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198279142	
+        5574206392	
+        2003	
+        PONTIAC	
+        MONTANA	
+        07/02/2014	 
+PBS Demo (#198)	
+        Rickey Sherman	
+        	
+        6020 Thunder River Edge	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5196216396	
+        5198402251	
+        2008	
+        CHEVROLET	
+        UPLANDER	
+        07/30/2010	 
+PBS Demo (#198)	
+        Christopher Ferguson	
+        	
+        1377 Quiet Carrefour	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196232013	
+        5196519888	
+        2006	
+        DODGE	
+        CARAVAN	
+        07/30/2011	 
+PBS Demo (#198)	
+        Roger French	
+        	
+        3852 Hidden Timber Run	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198461239	
+        2263394490	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        07/30/2012	 
+PBS Demo (#198)	
+        Olga Martinez	
+        	
+        8190 Hazy Estates	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5198279423	
+        6474032067	
+        2014	
+        DODGE	
+        GRAND CARAVAN	
+        07/30/2013	 
+PBS Demo (#198)	
+        Thelma Hampton	
+        	
+        1404 Burning Spring Passage	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5199935778	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        07/30/2014	 
+PBS Demo (#198)	
+        Dallas Adams	
+        	
+        6418 Colonial Glade	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        2266785645	
+        5198248150	
+        2014	
+        DODGE	
+        GRAND CARAVAN	
+        08/30/2009	 
+PBS Demo (#198)	
+        Bobbie Franklin	
+        	
+        9796 Red Bear Court	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198562187	
+        	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        08/30/2008	 
+PBS Demo (#198)	
+        Karen Gibson	
+        	
+        123 Dewy Rabbit Key	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192655427	
+        5192655427	
+        2008	
+        DODGE	
+        SPRINTER	
+        08/30/2010	 
+PBS Demo (#198)	
+        Ted Freeman	
+        	
+        9983 Crystal Row	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198368930	
+        	
+        2007	
+        FORD	
+        FREESTAR	
+        08/30/2011	 
+PBS Demo (#198)	
+        Patrick Potter	
+        	
+        2090 Amber Anchor Boulevard	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5195019891	
+        	
+        2003	
+        PONTIAC	
+        MONTANA	
+        08/30/2012	 
+PBS Demo (#198)	
+        Geraldine Higgins	
+        	
+        1318 Old Brook Island	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        	
+        9058038000	
+        2008	
+        CHEVROLET	
+        UPLANDER	
+        04/30/2008	 
+PBS Demo (#198)	
+        Verna Jacobs	
+        	
+        8362 Colonial Via	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196571083	
+        5198410687	
+        2006	
+        DODGE	
+        CARAVAN	
+        04/30/2010	 
+PBS Demo (#198)	
+        Brian White	
+        	
+        2950 Rocky Beacon Hill	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196483211	
+        	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        04/30/2011	 
+PBS Demo (#198)	
+        Ashley Perry	
+        	
+        676 Quaking Harbour	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        	
+        5197422599	
+        2014	
+        DODGE	
+        GRAND CARAVAN	
+        04/30/2012	 
+PBS Demo (#198)	
+        Alice Alexander	
+        	
+        6201 Middle Cider Ridge	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192654350	
+        	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        04/30/2013	 
+PBS Demo (#198)	
+        Cynthia Walker	
+        	
+        5028 Rustic Horse Line	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5199932276	
+        18005753381	
+        2014	
+        DODGE	
+        GRAND CARAVAN	
+        04/30/2014	 
+PBS Demo (#198)	
+        Joe Baker	
+        	
+        9404 Harvest Anchor Rise	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5194562154	
+        7054353226	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        05/30/2009	 
+PBS Demo (#198)	
+        Gerald Martin	
+        	
+        4533 Silent Mews	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198854920	
+        5198364311	
+        2008	
+        DODGE	
+        SPRINTER	
+        05/30/2008	 
+PBS Demo (#198)	
+        Sara Brown	
+        	
+        9335 Thunder Lagoon Concession	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198367378	
+        5198369028	
+        2007	
+        FORD	
+        FREESTAR	
+        05/30/2010	 
+PBS Demo (#198)	
+        Sharon Bennett	
+        	
+        8121 Silver Goose Crescent	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198239406	
+        5194000994	
+        2003	
+        PONTIAC	
+        MONTANA	
+        05/30/2011	 
+PBS Demo (#198)	
+        Frank Stewart	
+        	
+        3782 Amber Plaza	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198364126	
+        	
+        2008	
+        CHEVROLET	
+        UPLANDER	
+        03/02/2009	 
+PBS Demo (#198)	
+        Denise Bailey	
+        	
+        1289 Sunny Expressway	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198364126	
+        8360220469	
+        2006	
+        DODGE	
+        CARAVAN	
+        03/01/2008	 
+PBS Demo (#198)	
+        Christopher Lee	
+        	
+        4279 Merry Gate Downs	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        7053892647	
+        	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        03/02/2010	 
+PBS Demo (#198)	
+        Carlos Ramirez	
+        	
+        2139 Rustic Private	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5193627733	
+        5198244352	
+        2014	
+        DODGE	
+        GRAND CARAVAN	
+        03/02/2011	 
+PBS Demo (#198)	
+        Howard Rodriguez	
+        	
+        4024 Cozy Meadow	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192652507	
+        5198298284	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        03/01/2012	 
+PBS Demo (#198)	
+        Arthur Anderson	
+        	
+        8181 Quaking Common	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198370658	
+        5198248899	
+        2014	
+        DODGE	
+        GRAND CARAVAN	
+        03/02/2013	 
+PBS Demo (#198)	
+        Paula Hughes	
+        	
+        1623 Velvet Pony Corner	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5192718578	
+        5192768579	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        03/02/2014	 
+PBS Demo (#198)	
+        Laura Phillips	
+        	
+        3322 Cotton Island	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        2264442417	
+        	
+        2008	
+        DODGE	
+        SPRINTER	
+        03/30/2009	 
+PBS Demo (#198)	
+        Jesse Henderson	
+        	
+        1040 Burning Mall 	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192447547	
+        5196640565	
+        2007	
+        FORD	
+        FREESTAR	
+        03/30/2008	 
+PBS Demo (#198)	
+        Jason Rivera	
+        	
+        1271 Misty Prairie Swale	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5192659090	
+        	
+        2003	
+        PONTIAC	
+        MONTANA	
+        03/30/2010	 
+PBS Demo (#198)	
+        Germane Chan	
+        	
+        6020 Thunder River Edge	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5196216396	
+        3385996925	
+        2008	
+        CHEVROLET	
+        UPLANDER	
+        07/30/2010	 
+PBS Demo (#198)	
+        Glenna Waters	
+        	
+        1377 Quiet Carrefour	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196232013	
+        2734601881	
+        2006	
+        DODGE	
+        CARAVAN	
+        07/30/2011	 
+PBS Demo (#198)	
+        Elliott Pickett	
+        	
+        3852 Hidden Timber Run	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198461239	
+        1539236629	
+        2011	
+        DODGE	
+        GRAND CARAVAN	
+        07/30/2012	 
+PBS Demo (#198)	
+        Brooke Meyer	
+        	
+        8190 Hazy Estates	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5198279423	
+        3298294751	
+        2014	
+        DODGE	
+        GRAND CARAVAN	
+        07/30/2013	 
+PBS Demo (#198)	
+        Gannon Skinner	
+        	
+        1404 Burning Spring Passage	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5199935778	
+        6709494199	
+        2013	
+        DODGE	
+        GRAND CARAVAN	
+        07/30/2014	 
+PBS Demo (#198)	
+        Robert Dudley	
+        	
+        6418 Colonial Glade	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        2266785645	
+        5551766262	
+        2014	
+        DODGE	
+        GRAND CARAVAN	
+        08/30/2009	 
+PBS Demo (#198)	
+        Finn Townsend	
+        	
+        9796 Red Bear Court	
+        	
+        ST. ALBERT	
+        AB	
+        T5H 3S6	
+        5198562187	
+        4712242082	
+        2012	
+        DODGE	
+        GRAND CARAVAN	
+        08/30/2008	 
+PBS Demo (#198)	
+        Rebecca Lawson	
+        	
+        123 Dewy Rabbit Key	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5192655427	
+        5149712683	
+        2008	
+        DODGE	
+        SPRINTER	
+        08/30/2010	 
+PBS Demo (#198)	
+        Bianca Munoz	
+        	
+        9983 Crystal Row	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5198368930	
+        4299765072	
+        2007	
+        FORD	
+        FREESTAR	
+        08/30/2011	 
+PBS Demo (#198)	
+        Raja Clements	
+        	
+        2090 Amber Anchor Boulevard	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        5195019891	
+        1552694357	
+        2003	
+        PONTIAC	
+        MONTANA	
+        08/30/2012	 
+PBS Demo (#198)	
+        Macaulay Tyson	
+        	
+        1318 Old Brook Island	
+        	
+        SHERWOOD PARK	
+        AB	
+        T5H 3S6	
+        1609972313	
+        4165831972	
+        2008	
+        CHEVROLET	
+        UPLANDER	
+        04/30/2008	 
+PBS Demo (#198)	
+        Ignatius Farrell	
+        	
+        8362 Colonial Via	
+        	
+        EDMONTON	
+        AB	
+        T5H 3S6	
+        5196571083	
+        6371752481	
+        2006	
+        DODGE	
+        CARAVAN	
+        04/30/2010	 

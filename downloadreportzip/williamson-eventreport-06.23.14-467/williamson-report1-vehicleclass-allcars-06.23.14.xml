@@ -1,0 +1,595 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>ALAN</FirstName>
+    <LastName>JENKINS</LastName>
+    <Address>26 REACH STREET</Address>
+    <Apartment></Apartment>
+    <City>UXBRIDGE</City>
+    <State>ON</State>
+    <Zip>L9P 1K8</Zip>
+    <HomePhone>9058529410</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>CHALLENGER</Model>
+    <PurchaseDate>10/11/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>ARTHUR</FirstName>
+    <LastName>GULLACHSEN</LastName>
+    <Address>50 HARLAND CRT</Address>
+    <Apartment></Apartment>
+    <City>Fredericton</City>
+    <State>NB</State>
+    <Zip>E3B 0E3</Zip>
+    <HomePhone>5064608310</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>CHALLENGER</Model>
+    <PurchaseDate>03/28/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>BRUCE</FirstName>
+    <LastName>SHRUBSHALL</LastName>
+    <Address>5 ST JOHN'S COURT</Address>
+    <Apartment></Apartment>
+    <City>Uxbridge</City>
+    <State>ON</State>
+    <Zip>L9P 1M3</Zip>
+    <HomePhone>9058620777</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>CHRYSLER</Make>
+    <Model>SEBRING</Model>
+    <PurchaseDate>03/24/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Nicole</FirstName>
+    <LastName>Colucci</LastName>
+    <Address>8 Bolster Lane</Address>
+    <Apartment></Apartment>
+    <City>Uxbridge</City>
+    <State>ON</State>
+    <Zip>L9P 2A3</Zip>
+    <HomePhone>9058622815</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2010</Year>
+    <Make>CHEVROLET</Make>
+    <Model>CAMARO</Model>
+    <PurchaseDate>09/29/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist4>
+  <Leadlist5>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Christine</FirstName>
+    <LastName>Deklavs</LastName>
+    <Address>2-180 QUEEN ST.</Address>
+    <Apartment></Apartment>
+    <City>Port Perry</City>
+    <State>ON</State>
+    <Zip>L9L 1B8</Zip>
+    <HomePhone>4167952175</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>AVENGER</Model>
+    <PurchaseDate>04/23/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist5>
+  <Leadlist6>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>DARLEEN</FirstName>
+    <LastName>SHEA-BARRATT</LastName>
+    <Address>33 EWEN DR</Address>
+    <Apartment></Apartment>
+    <City>UXBRIDGE</City>
+    <State>ON</State>
+    <Zip>L9P 1L6</Zip>
+    <HomePhone>9058529400</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>CHRYSLER</Make>
+    <Model>200</Model>
+    <PurchaseDate>06/08/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist6>
+  <Leadlist7>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Donna</FirstName>
+    <LastName>Minz</LastName>
+    <Address>5661 19th Avenue</Address>
+    <Apartment></Apartment>
+    <City>Markham</City>
+    <State>ON</State>
+    <Zip>L3P 3J3</Zip>
+    <HomePhone>9056405423</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>08/04/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist7>
+  <Leadlist8>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>DWAYNE</FirstName>
+    <LastName>BATTY</LastName>
+    <Address>5 MILL RACE COURT</Address>
+    <Apartment></Apartment>
+    <City>MARKHAM</City>
+    <State>ON</State>
+    <Zip>L3P 3J3</Zip>
+    <HomePhone>9056404534</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2007</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>04/10/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist8>
+  <Leadlist9>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Glenn</FirstName>
+    <LastName>Wagner</LastName>
+    <Address>69 Campbell Drive</Address>
+    <Apartment></Apartment>
+    <City>Uxbridge</City>
+    <State>ON</State>
+    <Zip>L9P 0B3</Zip>
+    <HomePhone>9058525837</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>N/A</PurchaseDate>
+  </Leadlist9>
+  <Leadlist10>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Glenn</FirstName>
+    <LastName>Irwin</LastName>
+    <Address>27 Button Cres.</Address>
+    <Apartment></Apartment>
+    <City>Uxbridge</City>
+    <State>ON</State>
+    <Zip>L9P 1Z4</Zip>
+    <HomePhone>9058527094</HomePhone>
+    <WorkPhone>9058899100</WorkPhone>
+    <Year>2012</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>10/21/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist10>
+  <Leadlist11>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>LARRY</FirstName>
+    <LastName>KERNOHAN</LastName>
+    <Address>53 Inglewood Place</Address>
+    <Apartment></Apartment>
+    <City>Whitby</City>
+    <State>ON</State>
+    <Zip>L1N 8Z9</Zip>
+    <HomePhone>9057288569</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>AVENGER</Model>
+    <PurchaseDate>05/30/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist11>
+  <Leadlist12>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>CASEY &amp; JEFF</FirstName>
+    <LastName>RANICH</LastName>
+    <Address>809 WAGG ROAD</Address>
+    <Apartment></Apartment>
+    <City>UXBRIDGE</City>
+    <State>ONTARIO</State>
+    <Zip>L9P 1M7</Zip>
+    <HomePhone>9058622133</HomePhone>
+    <WorkPhone>9055657726</WorkPhone>
+    <Year>2012</Year>
+    <Make>CHRYSLER</Make>
+    <Model>200</Model>
+    <PurchaseDate>10/04/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist12>
+  <Leadlist13>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>John</FirstName>
+    <LastName>Siegrist</LastName>
+    <Address>34 Sauble Woodscres. BX 10</Address>
+    <Apartment></Apartment>
+    <City>Sauble Beach R1</City>
+    <State>ON</State>
+    <Zip>NOH2G0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>9058523313</WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>10/14/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist13>
+  <Leadlist14>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Judith</FirstName>
+    <LastName>Freeman</LastName>
+    <Address>59 Cemetery Road</Address>
+    <Apartment></Apartment>
+    <City>Uxbridge</City>
+    <State>ON</State>
+    <Zip>L9P 1R1</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2006</Year>
+    <Make>CADILLAC</Make>
+    <Model>CTS</Model>
+    <PurchaseDate>03/08/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist14>
+  <Leadlist15>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Karl</FirstName>
+    <LastName>Rassinger</LastName>
+    <Address>91 Castille Cres.</Address>
+    <Apartment></Apartment>
+    <City>Keswick</City>
+    <State>ON</State>
+    <Zip>L4P 3L2</Zip>
+    <HomePhone>9054768086</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2010</Year>
+    <Make>CHEVROLET</Make>
+    <Model>CAMARO</Model>
+    <PurchaseDate>02/18/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist15>
+  <Leadlist16>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>KAREN</FirstName>
+    <LastName>FROMM</LastName>
+    <Address>69 OAKSIDE DRIVE</Address>
+    <Apartment></Apartment>
+    <City>Uxbridge</City>
+    <State>ON</State>
+    <Zip>L9P 2A6</Zip>
+    <HomePhone>9058520223</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>CHEVROLET</Make>
+    <Model>CRUZE</Model>
+    <PurchaseDate>04/05/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist16>
+  <Leadlist17>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>KAY</FirstName>
+    <LastName>BYERS</LastName>
+    <Address>63 MUNRO CRES.</Address>
+    <Apartment></Apartment>
+    <City>UXBRIDGE</City>
+    <State>ONTARIO</State>
+    <Zip>L9P 1L8</Zip>
+    <HomePhone>9058522436</HomePhone>
+    <WorkPhone>4162995900</WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>AVENGER</Model>
+    <PurchaseDate>07/16/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist17>
+  <Leadlist18>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>LAURA</FirstName>
+    <LastName>LORENTSEN</LastName>
+    <Address>100 MUNRO CRES.</Address>
+    <Apartment></Apartment>
+    <City>Uxbridge</City>
+    <State>ON</State>
+    <Zip>L9P 1L6</Zip>
+    <HomePhone>9058522586</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>FORD</Make>
+    <Model>FUSION</Model>
+    <PurchaseDate>04/11/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist18>
+  <Leadlist19>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Michael</FirstName>
+    <LastName>McGuinness</LastName>
+    <Address>65 Gerrow Rd</Address>
+    <Apartment></Apartment>
+    <City>Port Perry</City>
+    <State>ON</State>
+    <Zip>L9L 1B4</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>10/24/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist19>
+  <Leadlist20>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Michelle</FirstName>
+    <LastName>Fisher</LastName>
+    <Address>3 Oak Street</Address>
+    <Apartment></Apartment>
+    <City>Hagersville</City>
+    <State>ON</State>
+    <Zip>N0A 1H0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>CHEVROLET</Make>
+    <Model>MALIBU</Model>
+    <PurchaseDate>02/11/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist20>
+  <Leadlist21>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Murray</FirstName>
+    <LastName>Jelley</LastName>
+    <Address>986 Sigley St.</Address>
+    <Apartment></Apartment>
+    <City>Newmarket</City>
+    <State>ON</State>
+    <Zip>L3Y 1Y3</Zip>
+    <HomePhone>9058954749</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>CHRYSLER</Make>
+    <Model>200</Model>
+    <PurchaseDate>10/29/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist21>
+  <Leadlist22>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>PHANESSA</FirstName>
+    <LastName>LACASSE</LastName>
+    <Address>159 GARDEN AVE</Address>
+    <Apartment></Apartment>
+    <City>Keswick</City>
+    <State>ON</State>
+    <Zip>L4P 2L2</Zip>
+    <HomePhone>9059553790</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>CHEVROLET</Make>
+    <Model>CRUZE</Model>
+    <PurchaseDate>10/25/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist22>
+  <Leadlist23>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Richard</FirstName>
+    <LastName>Balsdon</LastName>
+    <Address>13 Marsh Creek Rd</Address>
+    <Apartment></Apartment>
+    <City>Little Britain Rd</City>
+    <State>ON</State>
+    <Zip>K0M 2C0</Zip>
+    <HomePhone>7057861740</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>CHRYSLER</Make>
+    <Model>200</Model>
+    <PurchaseDate>09/30/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist23>
+  <Leadlist24>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Ross</FirstName>
+    <LastName>Rennie</LastName>
+    <Address>61 Lakeview Dr</Address>
+    <Apartment></Apartment>
+    <City>Port Perry</City>
+    <State>ON</State>
+    <Zip>L9L 1H1</Zip>
+    <HomePhone>9059854949</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>01/11/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist24>
+  <Leadlist25>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>Susan</FirstName>
+    <LastName>Stuart</LastName>
+    <Address>2069 Nash Road</Address>
+    <Apartment></Apartment>
+    <City>Bowmanville</City>
+    <State>ON</State>
+    <Zip>L1C 3K4</Zip>
+    <HomePhone>9056979140</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2003</Year>
+    <Make>CHEVROLET</Make>
+    <Model>IMPALA</Model>
+    <PurchaseDate>08/09/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist25>
+  <Leadlist26>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>WAYNE</FirstName>
+    <LastName></LastName>
+    <Address>250 COCHRANE DRIVE</Address>
+    <Apartment>APT 2</Apartment>
+    <City>Markham</City>
+    <State>ON</State>
+    <Zip>L3R 8E5</Zip>
+    <HomePhone>9054158248</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2010</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>05/10/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist26>
+  <Leadlist27>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>BRYAN</FirstName>
+    <LastName>DIPPINTO</LastName>
+    <Address>PO BOX 275</Address>
+    <Apartment></Apartment>
+    <City>FERGUS</City>
+    <State>ON</State>
+    <Zip>N1M2W8</Zip>
+    <HomePhone>5198436276</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>07/03/2009</PurchaseDate>
+  </Leadlist27>
+  <Leadlist28>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>DAVID</FirstName>
+    <LastName>TEBOEKHORST</LastName>
+    <Address>30 VAUGHAN ST UNIT71</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1G0B8</Zip>
+    <HomePhone>4164283801</HomePhone>
+    <WorkPhone>5198365692</WorkPhone>
+    <Year>2006</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>07/15/2009</PurchaseDate>
+  </Leadlist28>
+  <Leadlist29>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>KHADIM</FirstName>
+    <LastName>ANSARI</LastName>
+    <Address>404 HADFIELD CRT</Address>
+    <Apartment></Apartment>
+    <City>CAMBRIDGE</City>
+    <State>ON</State>
+    <Zip>N3H5M4</Zip>
+    <HomePhone>5196538706</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2006</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>07/01/2009</PurchaseDate>
+  </Leadlist29>
+  <Leadlist30>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>JAMES</FirstName>
+    <LastName>WIEBE</LastName>
+    <Address>7752 WELLINGTON RD #22</Address>
+    <Apartment>RR# 5</Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1H6J2</Zip>
+    <HomePhone>5198366227</HomePhone>
+    <WorkPhone>9056762340</WorkPhone>
+    <Year>2008</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>07/06/2009</PurchaseDate>
+  </Leadlist30>
+  <Leadlist31>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>ANNE-MARIE</FirstName>
+    <LastName>BETTSCHEN</LastName>
+    <Address>164 MARSHALL STREET</Address>
+    <Apartment></Apartment>
+    <City>WATERLOO</City>
+    <State>ON</State>
+    <Zip>N2J2T9</Zip>
+    <HomePhone>5198853598</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2008</Year>
+    <Make>DODGE</Make>
+    <Model>AVENGER</Model>
+    <PurchaseDate>07/09/2009</PurchaseDate>
+  </Leadlist31>
+  <Leadlist32>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>SHARON</FirstName>
+    <LastName>SMITH</LastName>
+    <Address>5461 HWY 6 N</Address>
+    <Apartment></Apartment>
+    <City>GUELPH R5</City>
+    <State>ON</State>
+    <Zip>N1H6J2</Zip>
+    <HomePhone>5198216466</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2008</Year>
+    <Make>CHRYSLER</Make>
+    <Model>SEBRING</Model>
+    <PurchaseDate>07/16/2009</PurchaseDate>
+  </Leadlist32>
+  <Leadlist33>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>BRENT</FirstName>
+    <LastName>JOHNSON</LastName>
+    <Address>31 DAKOTA ST</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1E5J4</Zip>
+    <HomePhone>5198358950</HomePhone>
+    <WorkPhone>5198228950</WorkPhone>
+    <Year>2008</Year>
+    <Make>MERCEDES-BENZ</Make>
+    <Model>C-CLASS</Model>
+    <PurchaseDate>08/22/2012</PurchaseDate>
+  </Leadlist33>
+  <Leadlist34>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>DIANE</FirstName>
+    <LastName>BEITZ</LastName>
+    <Address>2111 GREENHOUSE RD</Address>
+    <Apartment></Apartment>
+    <City>BRESLAU</City>
+    <State>ON</State>
+    <Zip>N0B1M0</Zip>
+    <HomePhone>5196482078</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>CHRYSLER</Make>
+    <Model>200</Model>
+    <PurchaseDate>06/15/2013</PurchaseDate>
+  </Leadlist34>
+  <Leadlist35>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>WILLIAM</FirstName>
+    <LastName>HANCOCK</LastName>
+    <Address>6 ATHLONE RD</Address>
+    <Apartment></Apartment>
+    <City>CAMBRIDGE</City>
+    <State>ON</State>
+    <Zip>N1R1H8</Zip>
+    <HomePhone>5197406257</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>CHRYSLER</Make>
+    <Model>300</Model>
+    <PurchaseDate>06/16/2013</PurchaseDate>
+  </Leadlist35>
+  <Leadlist36>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>TINA</FirstName>
+    <LastName>MACKINNON</LastName>
+    <Address>149 SUNPOINT CRES</Address>
+    <Apartment></Apartment>
+    <City>WATERLOO</City>
+    <State>ON</State>
+    <Zip>N2V1T9</Zip>
+    <HomePhone>5197466913</HomePhone>
+    <WorkPhone>5195908463</WorkPhone>
+    <Year>2012</Year>
+    <Make>CHRYSLER</Make>
+    <Model>200</Model>
+    <PurchaseDate>06/05/2013</PurchaseDate>
+  </Leadlist36>
+  <Leadlist37>
+    <DealershipName>Williamson Chrysler (#122)</DealershipName>
+    <FirstName>LYNDSAY</FirstName>
+    <LastName>BOTTS</LastName>
+    <Address>79 BARD BLVD</Address>
+    <Apartment></Apartment>
+    <City>GUELPH</City>
+    <State>ON</State>
+    <Zip>N1L0E3</Zip>
+    <HomePhone>5198304304</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>CHRYSLER</Make>
+    <Model>200</Model>
+    <PurchaseDate>06/10/2013</PurchaseDate>
+  </Leadlist37>
+</data>

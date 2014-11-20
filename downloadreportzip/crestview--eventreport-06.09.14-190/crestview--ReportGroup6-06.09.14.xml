@@ -1,0 +1,803 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HAZEN</FirstName>
+    <LastName>TAYLOR</LastName>
+    <Address>379 GLACIER CRESCENT</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 6H1</Zip>
+    <HomePhone>2509237686</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>WESTLAND</Make>
+    <Model>CAMPER</Model>
+    <PurchaseDate>02/11/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HEATHER</FirstName>
+    <LastName>PAULGAARD</LastName>
+    <Address>9516 DOYLE ROAD</Address>
+    <Apartment></Apartment>
+    <City>BLACK CREEK</City>
+    <State>BC</State>
+    <Zip>V9J 1E7</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1993</Year>
+    <Make>DODGE</Make>
+    <Model>W200</Model>
+    <PurchaseDate>05/30/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HELEN</FirstName>
+    <LastName>NELSON</LastName>
+    <Address>104-283 IST AVENUE</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 3S9</Zip>
+    <HomePhone>2509141049</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>DODGE</Make>
+    <Model>AVENGER</Model>
+    <PurchaseDate>08/27/2010 12:00:00 AM</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HERMAN</FirstName>
+    <LastName>WHITE</LastName>
+    <Address>BOX 1201, 520 NIMKISH DRIVE</Address>
+    <Apartment></Apartment>
+    <City>GOLD RIVER</City>
+    <State>BC</State>
+    <Zip>V0P 1G0</Zip>
+    <HomePhone>2502839167</HomePhone>
+    <WorkPhone>2502832808</WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>DURANGO</Model>
+    <PurchaseDate>05/19/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist4>
+  <Leadlist5>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>STEVE</FirstName>
+    <LastName>HESSEIN</LastName>
+    <Address>106-701 HILCHEY ROAD</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip></Zip>
+    <HomePhone>2509266692</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2008</Year>
+    <Make>DODGE</Make>
+    <Model>RAM TRUCK</Model>
+    <PurchaseDate>08/09/2010 12:00:00 AM</PurchaseDate>
+  </Leadlist5>
+  <Leadlist6>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>WILLIAM</FirstName>
+    <LastName>HICKS</LastName>
+    <Address>1670 ELM AVE</Address>
+    <Apartment></Apartment>
+    <City>COMOX</City>
+    <State>BC</State>
+    <Zip>V9M 2G5</Zip>
+    <HomePhone>2503393249</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>CHRYSLER</Make>
+    <Model>200</Model>
+    <PurchaseDate>12/04/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist6>
+  <Leadlist7>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName>HIWAY #4 AUTO SALVAGE</LastName>
+    <Address>BOX 130, 2540 ALBERNI HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>COOMBS</City>
+    <State>BC</State>
+    <Zip>V0R 1M0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>2502488916</WorkPhone>
+    <Year>2003</Year>
+    <Make>MITSUBISHI</Make>
+    <Model>LANCER</Model>
+    <PurchaseDate>10/18/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist7>
+  <Leadlist8>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName>HIWAY #4 AUTO SALVAGE</LastName>
+    <Address>BOX 130, 2540 ALBERNI HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>COOMBS</City>
+    <State>BC</State>
+    <Zip>V0R 1M0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>2502488916</WorkPhone>
+    <Year>1992</Year>
+    <Make>SUBARU</Make>
+    <Model>SVX</Model>
+    <PurchaseDate>10/18/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist8>
+  <Leadlist9>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName>HIWAY #4 AUTO SALVAGE</LastName>
+    <Address>BOX 130, 2540 ALBERNI HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>COOMBS</City>
+    <State>BC</State>
+    <Zip>V0R 1M0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>2502488916</WorkPhone>
+    <Year>1990</Year>
+    <Make>JEEP</Make>
+    <Model>CHEROKEE</Model>
+    <PurchaseDate>10/18/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist9>
+  <Leadlist10>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName>HIWAY #4 AUTO SALVAGE</LastName>
+    <Address>BOX 130, 2540 ALBERNI HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>COOMBS</City>
+    <State>BC</State>
+    <Zip>V0R 1M0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>2502488916</WorkPhone>
+    <Year>1988</Year>
+    <Make>BMW</Make>
+    <Model>735I</Model>
+    <PurchaseDate>10/18/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist10>
+  <Leadlist11>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName>HIWAY #4 AUTO SALVAGE</LastName>
+    <Address>BOX 130, 2540 ALBERNI HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>COOMBS</City>
+    <State>BC</State>
+    <Zip>V0R 1M0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>2502488916</WorkPhone>
+    <Year>1994</Year>
+    <Make>CADILLAC</Make>
+    <Model>SEVILLE</Model>
+    <PurchaseDate>10/18/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist11>
+  <Leadlist12>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName>HIWAY #4 AUTO SALVAGE</LastName>
+    <Address>BOX 130, 2540 ALBERNI HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>COOMBS</City>
+    <State>BC</State>
+    <Zip>V0R 1M0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>2502488916</WorkPhone>
+    <Year>1995</Year>
+    <Make>MAZDA</Make>
+    <Model>B4000</Model>
+    <PurchaseDate>10/20/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist12>
+  <Leadlist13>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName>HIWAY #4 AUTO SALVAGE</LastName>
+    <Address>BOX 130, 2540 ALBERNI HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>COOMBS</City>
+    <State>BC</State>
+    <Zip>V0R 1M0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>2502488916</WorkPhone>
+    <Year>1989</Year>
+    <Make>ACURA</Make>
+    <Model>LEGEND</Model>
+    <PurchaseDate>11/18/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist13>
+  <Leadlist14>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>BOX 130, 2540 ALBERNI HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>COOMBS</City>
+    <State>BC</State>
+    <Zip>V0R 1M0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>2502488916</WorkPhone>
+    <Year>1998</Year>
+    <Make>INFINITI</Make>
+    <Model>QX4</Model>
+    <PurchaseDate>04/22/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist14>
+  <Leadlist15>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>BOX 130 2540 ALBERNI HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>COOMBS</City>
+    <State>BC</State>
+    <Zip>V0R 1M0</Zip>
+    <HomePhone>2502488916</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1997</Year>
+    <Make>FORD</Make>
+    <Model>EXPLORER</Model>
+    <PurchaseDate>04/22/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist15>
+  <Leadlist16>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>BOX 130, 2540 ALBERNI HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>COOMBS</City>
+    <State>BC</State>
+    <Zip>V0R 1M0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>2502488916</WorkPhone>
+    <Year>1988</Year>
+    <Make>GMC</Make>
+    <Model>GMT-400</Model>
+    <PurchaseDate>04/22/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist16>
+  <Leadlist17>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>BOX 130, 2540 ALBERNI HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>COOMBS</City>
+    <State>BC</State>
+    <Zip>V0R 1M0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>2502488916</WorkPhone>
+    <Year>1992</Year>
+    <Make>FORD</Make>
+    <Model>F250</Model>
+    <PurchaseDate>04/22/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist17>
+  <Leadlist18>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>BOX 130, 2540 ALBERNI HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>COOMBS</City>
+    <State>BC</State>
+    <Zip>V0R 1M0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>2502488916</WorkPhone>
+    <Year>1992</Year>
+    <Make>FORD</Make>
+    <Model>EXPLORER</Model>
+    <PurchaseDate>04/22/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist18>
+  <Leadlist19>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>JOHN</FirstName>
+    <LastName>HOGAN</LastName>
+    <Address>533 SOUTH BIRCH STREET</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>B.C.</State>
+    <Zip>V9W 6A7</Zip>
+    <HomePhone>2508501354</HomePhone>
+    <WorkPhone>2502033740</WorkPhone>
+    <Year>2014</Year>
+    <Make>RAM</Make>
+    <Model>TRUCK</Model>
+    <PurchaseDate>02/21/2014 12:00:00 AM</PurchaseDate>
+  </Leadlist19>
+  <Leadlist20>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HOLLY</FirstName>
+    <LastName>KNOWLES</LastName>
+    <Address>4-2261 MATLATEN CRESCENT</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 4G8</Zip>
+    <HomePhone>2509141967</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1999</Year>
+    <Make>CHEVROLET</Make>
+    <Model>MALIBU</Model>
+    <PurchaseDate>04/18/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist20>
+  <Leadlist21>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HOLLIE</FirstName>
+    <LastName>CLAUSEN</LastName>
+    <Address>BOX 106</Address>
+    <Apartment></Apartment>
+    <City>SOINTULA</City>
+    <State>BC</State>
+    <Zip>V0N 3E0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>KIA</Make>
+    <Model>SORENTO</Model>
+    <PurchaseDate>02/18/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist21>
+  <Leadlist22>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HOMER  </FirstName>
+    <LastName>SINCLAIR</LastName>
+    <Address>642 DOGWOOD DRVE PO BOX 246</Address>
+    <Apartment></Apartment>
+    <City>GOLD RIVER</City>
+    <State>BC</State>
+    <Zip>V0P 2G0</Zip>
+    <HomePhone>2502837472</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2010</Year>
+    <Make>CHEVROLET</Make>
+    <Model>COBALT</Model>
+    <PurchaseDate>03/22/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist22>
+  <Leadlist23>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName>HONK.CA AUTOMOTIVE LTD.</LastName>
+    <Address>45930 AIRPORT RAOD</Address>
+    <Apartment></Apartment>
+    <City>CHILLIWACK</City>
+    <State>BC</State>
+    <Zip>V2P 1A2</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>6047959104</WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>RAM TRUCK</Model>
+    <PurchaseDate>08/26/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist23>
+  <Leadlist24>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>RORY</FirstName>
+    <LastName>CLARK</LastName>
+    <Address>#9-260 SOUTH ISLAND HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 1A4</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1994</Year>
+    <Make>MAZDA</Make>
+    <Model>MX-6</Model>
+    <PurchaseDate>03/10/2010 12:00:00 AM</PurchaseDate>
+  </Leadlist24>
+  <Leadlist25>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>BRUCE</FirstName>
+    <LastName>HORNING</LastName>
+    <Address>835 GEORGIA DRIVE</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9H 1S2</Zip>
+    <HomePhone>2509235880</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2014</Year>
+    <Make>JEEP</Make>
+    <Model>CHEROKEE</Model>
+    <PurchaseDate>04/07/2014 12:00:00 AM</PurchaseDate>
+  </Leadlist25>
+  <Leadlist26>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HOWARD</FirstName>
+    <LastName>FIELDING</LastName>
+    <Address>BOX 795</Address>
+    <Apartment></Apartment>
+    <City>QUATHIASKI COVE</City>
+    <State>BC</State>
+    <Zip>V0P 1N0</Zip>
+    <HomePhone>2502032672</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2010</Year>
+    <Make>EVINRUDE</Make>
+    <Model>40 HP ETEC</Model>
+    <PurchaseDate>07/13/2010 12:00:00 AM</PurchaseDate>
+  </Leadlist26>
+  <Leadlist27>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HOWARD</FirstName>
+    <LastName>FIELDING</LastName>
+    <Address>BOX 795</Address>
+    <Apartment></Apartment>
+    <City>QUATHIASKI COVE</City>
+    <State>BC</State>
+    <Zip>V0P 1N0</Zip>
+    <HomePhone>2502032672</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1994</Year>
+    <Make>BOSTON WHALER</Make>
+    <Model>DAUNTESS</Model>
+    <PurchaseDate>07/13/2010 12:00:00 AM</PurchaseDate>
+  </Leadlist27>
+  <Leadlist28>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HOWIE</FirstName>
+    <LastName>AIKMAN</LastName>
+    <Address>25 TAYLOR WAY</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 3A7</Zip>
+    <HomePhone>2502878486</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2010</Year>
+    <Make>EVINRUDE</Make>
+    <Model>90 HP ETEC</Model>
+    <PurchaseDate>09/01/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist28>
+  <Leadlist29>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HOWARD</FirstName>
+    <LastName>LEE</LastName>
+    <Address>BOX 2265, #6-8805 CENTRAL ST.</Address>
+    <Apartment></Apartment>
+    <City>PORT HARDY</City>
+    <State>BC</State>
+    <Zip>V0N 2P0</Zip>
+    <HomePhone>2509496886</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>JEEP</Make>
+    <Model>WRANGLER UNLIM</Model>
+    <PurchaseDate>01/13/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist29>
+  <Leadlist30>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HOWIE</FirstName>
+    <LastName>MAXWELL</LastName>
+    <Address>9HOLLY RD</Address>
+    <Apartment></Apartment>
+    <City>FORT ST JOHN</City>
+    <State>BC</State>
+    <Zip>VIJ4M7</Zip>
+    <HomePhone>2507858902</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2001</Year>
+    <Make>HARLEY DAVIDSO</Make>
+    <Model>FXSTD</Model>
+    <PurchaseDate>08/27/2010 12:00:00 AM</PurchaseDate>
+  </Leadlist30>
+  <Leadlist31>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>CAMERON</FirstName>
+    <LastName>HOWARD</LastName>
+    <Address>7630 GLACIER CR E</Address>
+    <Apartment></Apartment>
+    <City>PORT HARDY</City>
+    <State>BC</State>
+    <Zip>V0N 2P0</Zip>
+    <HomePhone>2509492628</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>TUFF TRAILER</Make>
+    <Model>TSA 910</Model>
+    <PurchaseDate>03/10/2014 12:00:00 AM</PurchaseDate>
+  </Leadlist31>
+  <Leadlist32>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>RYAN</FirstName>
+    <LastName>HOWICH</LastName>
+    <Address>575 ASH STREET</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 5L8</Zip>
+    <HomePhone>2509237526</HomePhone>
+    <WorkPhone>2502879555</WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>RAM TRUCK</Model>
+    <PurchaseDate>02/17/2014 12:00:00 AM</PurchaseDate>
+  </Leadlist32>
+  <Leadlist33>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HSU</FirstName>
+    <LastName>HUNG-LAING</LastName>
+    <Address>15710-89 TH. AVENUE N.W.</Address>
+    <Apartment></Apartment>
+    <City>EDMONTON</City>
+    <State>AB</State>
+    <Zip>T5R 4R5</Zip>
+    <HomePhone>7807006586</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2004</Year>
+    <Make>FORD</Make>
+    <Model>F150</Model>
+    <PurchaseDate>07/21/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist33>
+  <Leadlist34>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HUBERT</FirstName>
+    <LastName>COLE</LastName>
+    <Address>2291 KING ROAD</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9H 1C6</Zip>
+    <HomePhone>2509233247</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2010</Year>
+    <Make>JEEP</Make>
+    <Model>COMPASS</Model>
+    <PurchaseDate>07/10/2010 12:00:00 AM</PurchaseDate>
+  </Leadlist34>
+  <Leadlist35>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HUGH</FirstName>
+    <LastName>DAVIS</LastName>
+    <Address>1890 MALLARD DRIVE</Address>
+    <Apartment></Apartment>
+    <City>COURTENAY</City>
+    <State>B.C.</State>
+    <Zip>V9N 8M2</Zip>
+    <HomePhone>2508971817</HomePhone>
+    <WorkPhone>2508971817</WorkPhone>
+    <Year>2011</Year>
+    <Make>JEEP</Make>
+    <Model>GRAND CHEROKEE</Model>
+    <PurchaseDate>08/02/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist35>
+  <Leadlist36>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HUGH</FirstName>
+    <LastName>HUNTER</LastName>
+    <Address>4790 MCLEOD ROAD</Address>
+    <Apartment></Apartment>
+    <City>POWELL RIVER</City>
+    <State>BC</State>
+    <Zip>V8A 0T1</Zip>
+    <HomePhone>6044854303</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2005</Year>
+    <Make>GMC</Make>
+    <Model>SIERRA</Model>
+    <PurchaseDate>11/30/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist36>
+  <Leadlist37>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>HUGH</FirstName>
+    <LastName>PERSSON</LastName>
+    <Address>8740 PAULSEN ROAD</Address>
+    <Apartment></Apartment>
+    <City>BLACK CREEK</City>
+    <State>B.C.</State>
+    <Zip>V9N 1J8</Zip>
+    <HomePhone>2503372062</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>RAM</Make>
+    <Model>TRUCK</Model>
+    <PurchaseDate>04/29/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist37>
+  <Leadlist38>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>LEON</FirstName>
+    <LastName>HUGHES</LastName>
+    <Address>5106 NORTH ISLAND HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>COURTENAY</City>
+    <State>BC</State>
+    <Zip>V9J 1S6</Zip>
+    <HomePhone>2507032802</HomePhone>
+    <WorkPhone>2503381840</WorkPhone>
+    <Year>2014</Year>
+    <Make>JEEP</Make>
+    <Model>GRAND CHEROKEE</Model>
+    <PurchaseDate>12/23/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist38>
+  <Leadlist39>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>LEON</FirstName>
+    <LastName></LastName>
+    <Address>5106 NORTH ISLAND HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>COURTENAY</City>
+    <State>BC</State>
+    <Zip>V9J 1S6</Zip>
+    <HomePhone>2507032802</HomePhone>
+    <WorkPhone>2503381840</WorkPhone>
+    <Year>2005</Year>
+    <Make>FORD</Make>
+    <Model>SRW SUPER DUTY</Model>
+    <PurchaseDate>03/24/2014 12:00:00 AM</PurchaseDate>
+  </Leadlist39>
+  <Leadlist40>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>LEONA</FirstName>
+    <LastName>HUMCHITT</LastName>
+    <Address>BOX 77, 335 CLATSJA STREET</Address>
+    <Apartment></Apartment>
+    <City>BELLA BELLA</City>
+    <State>BC</State>
+    <Zip>V0T 1Z0</Zip>
+    <HomePhone>2509578371</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>RAM 2500</Model>
+    <PurchaseDate>08/21/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist40>
+  <Leadlist41>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>ERLING</FirstName>
+    <LastName>VESTAD</LastName>
+    <Address>5434 W. ISLAND HIGHWAY</Address>
+    <Apartment></Apartment>
+    <City>QUALICUM BEACH</City>
+    <State>BC</State>
+    <Zip>V9K 2E8</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>2509496618</WorkPhone>
+    <Year>2014</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>01/03/2014 12:00:00 AM</PurchaseDate>
+  </Leadlist41>
+  <Leadlist42>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>GREGORY</FirstName>
+    <LastName>HUTCHINSON</LastName>
+    <Address>80B SOUTH BIRCH</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 1A8</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>OUTBACK</Make>
+    <Model>TRAILER</Model>
+    <PurchaseDate>04/21/2014 12:00:00 AM</PurchaseDate>
+  </Leadlist42>
+  <Leadlist43>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>DENNIS</FirstName>
+    <LastName>HUTTON</LastName>
+    <Address>3866 MINTO ROAD</Address>
+    <Apartment></Apartment>
+    <City>COURTENAY</City>
+    <State>BC</State>
+    <Zip>V9N 9P8</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2010</Year>
+    <Make>PJ TRAILERS</Make>
+    <Model>DECKOVER</Model>
+    <PurchaseDate>04/10/2014 12:00:00 AM</PurchaseDate>
+  </Leadlist43>
+  <Leadlist44>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>201-990 CEDAR STREET</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 7Z8</Zip>
+    <HomePhone>2502876098</HomePhone>
+    <WorkPhone>2502872131</WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>RAM TRUCK</Model>
+    <PurchaseDate>03/15/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist44>
+  <Leadlist45>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>201-990 CEDAR STREET</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 7Z8</Zip>
+    <HomePhone>2502876098</HomePhone>
+    <WorkPhone>2502872131</WorkPhone>
+    <Year>2014</Year>
+    <Make>CONTINENTAL</Make>
+    <Model>ORTW820TA2</Model>
+    <PurchaseDate>12/24/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist45>
+  <Leadlist46>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>201-990 CEDAR STREET</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 7Z8</Zip>
+    <HomePhone>2502876098</HomePhone>
+    <WorkPhone>2502872131</WorkPhone>
+    <Year>2014</Year>
+    <Make>DODGE</Make>
+    <Model>RAM 3500</Model>
+    <PurchaseDate>04/23/2014 12:00:00 AM</PurchaseDate>
+  </Leadlist46>
+  <Leadlist47>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>IAIN</FirstName>
+    <LastName>PARA</LastName>
+    <Address>1627 FOXXWOOD</Address>
+    <Apartment></Apartment>
+    <City>COMOX</City>
+    <State>B.C.</State>
+    <Zip>V9M 1B3</Zip>
+    <HomePhone>2506501178</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2001</Year>
+    <Make>DODGE</Make>
+    <Model>4WHDR</Model>
+    <PurchaseDate>02/04/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist47>
+  <Leadlist48>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>IAN</FirstName>
+    <LastName>KENNEDY</LastName>
+    <Address>245 ERT ROAD</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 3E7</Zip>
+    <HomePhone>2502038046</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2010</Year>
+    <Make>WILDWOOD</Make>
+    <Model>T25KS</Model>
+    <PurchaseDate>06/26/2010 12:00:00 AM</PurchaseDate>
+  </Leadlist48>
+  <Leadlist49>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>IAN</FirstName>
+    <LastName>TURNER</LastName>
+    <Address>345 SERENITY DRIVE</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 0A7</Zip>
+    <HomePhone>2502040837</HomePhone>
+    <WorkPhone>2502868863</WorkPhone>
+    <Year>2007</Year>
+    <Make>FORD</Make>
+    <Model>F150</Model>
+    <PurchaseDate>04/14/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist49>
+  <Leadlist50>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>IAN</FirstName>
+    <LastName>KING</LastName>
+    <Address>BOX 33, 985 THUNDER ROAD</Address>
+    <Apartment></Apartment>
+    <City>MANSONS LANDING</City>
+    <State>BC</State>
+    <Zip>V0P 1K0</Zip>
+    <HomePhone>2509356485</HomePhone>
+    <WorkPhone>2509356485</WorkPhone>
+    <Year>2008</Year>
+    <Make>JEEP</Make>
+    <Model>LIBERTY</Model>
+    <PurchaseDate>04/18/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist50>
+</data>

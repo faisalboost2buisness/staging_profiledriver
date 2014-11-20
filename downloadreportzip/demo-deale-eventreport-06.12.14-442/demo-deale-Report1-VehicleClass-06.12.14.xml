@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>Full-size cars</FirstName>
+    <LastName>VehicleClass</LastName>
+    <Address>12 IRONSHORE CRT</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L4G 5X9</Zip>
+    <HomePhone>NotRequired</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2010</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>08/15/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>mid-size cars</FirstName>
+    <LastName>VehicleClass</LastName>
+    <Address>268 ELIZABETH STREET</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L1J 6S4</Zip>
+    <HomePhone>9057202679</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2013</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>09/10/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>Gas</FirstName>
+    <LastName>FuelType</LastName>
+    <Address>3137 KASHAGAWIGAMOG LK RD</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>K0M 1S0</Zip>
+    <HomePhone>7054574911</HomePhone>
+    <WorkPhone>0</WorkPhone>
+    <Year>2001</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>07/31/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>Gas</FirstName>
+    <LastName>FuelType</LastName>
+    <Address>48 BOLSTER LANE</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ONT</State>
+    <Zip>L9P 1X8</Zip>
+    <HomePhone>4169107428</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2012</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>10/31/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist4>
+  <Leadlist5>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>Diesel</FirstName>
+    <LastName>FuelType</LastName>
+    <Address>38 PINE ST</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L0B 1E0</Zip>
+    <HomePhone>9059864238</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2013</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>05/08/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist5>
+  <Leadlist6>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>Diesel</FirstName>
+    <LastName>FuelType</LastName>
+    <Address>213 SECOND STREET</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L4A 1B9</Zip>
+    <HomePhone>4165096744</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2012</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>06/20/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist6>
+  <Leadlist7>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>Other/Unknown</FirstName>
+    <LastName>FuelType</LastName>
+    <Address>227 UNION AVE.</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L9L 2C7</Zip>
+    <HomePhone>9059821420</HomePhone>
+    <WorkPhone>9054310189</WorkPhone>
+    <Year>2012</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>12/02/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist7>
+  <Leadlist8>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>Other/Unknown</FirstName>
+    <LastName>FuelType</LastName>
+    <Address>227 UNION AVE.</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L9L 2C7</Zip>
+    <HomePhone>9059821420</HomePhone>
+    <WorkPhone>9054310189</WorkPhone>
+    <Year>2013</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>12/06/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist8>
+  <Leadlist9>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>City=Edmonton</FirstName>
+    <LastName>Local/Out of Town</LastName>
+    <Address>311 CENTRAL PARK BLVD. S</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>Edmonton</City>
+    <State>ON</State>
+    <Zip>L1H 5W9</Zip>
+    <HomePhone>NotRequired</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2013</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>09/03/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist9>
+  <Leadlist10>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>City=Edmonton</FirstName>
+    <LastName>Local/Out of Town</LastName>
+    <Address>12420 DURHAM ROAD 30 RR 3</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>Edmonton</City>
+    <State>ON</State>
+    <Zip>L4A 7X4</Zip>
+    <HomePhone>9056420964</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2013</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>05/15/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist10>
+  <Leadlist11>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>City=Fort MCMurray</FirstName>
+    <LastName>Local/Out of Town</LastName>
+    <Address>52 Antioch Court</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>Fort McMurray</City>
+    <State>ON</State>
+    <Zip>L0C 1H0</Zip>
+    <HomePhone>7053570002</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2013</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>07/10/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist11>
+  <Leadlist12>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>City=Fort MCMurray</FirstName>
+    <LastName>Local/Out of Town</LastName>
+    <Address>1005 Darlingford Dr</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>Fort McMurray</City>
+    <State>ON</State>
+    <Zip>K0M 1S0</Zip>
+    <HomePhone>4164401659</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2009</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>12/04/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist12>
+  <Leadlist13>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>Used</FirstName>
+    <LastName>Used vs. New Purchase</LastName>
+    <Address>15 CHISWICK AVE</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L1M 0C7</Zip>
+    <HomePhone>9056551979</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2011</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>09/30/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist13>
+  <Leadlist14>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>Used</FirstName>
+    <LastName>Used vs. New Purchase</LastName>
+    <Address>11295 LAKERIDGE ROAD</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L0C 1H0</Zip>
+    <HomePhone>9058523684</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2012</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>05/01/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist14>
+  <Leadlist15>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>New</FirstName>
+    <LastName>Used vs. New Purchase</LastName>
+    <Address>132 WOODFIELD DRIVE</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L0E 1N0</Zip>
+    <HomePhone>9058528562</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2013</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>06/12/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist15>
+  <Leadlist16>
+    <DealershipName>Demo Dealer (#198)</DealershipName>
+    <FirstName>New</FirstName>
+    <LastName>Used vs. New Purchase</LastName>
+    <Address>14 HAYFIELD AVENUE</Address>
+    <Apartment>NotRequired</Apartment>
+    <City>NA</City>
+    <State>ON</State>
+    <Zip>L9P 0A2</Zip>
+    <HomePhone>9058623831</HomePhone>
+    <WorkPhone>NotRequired</WorkPhone>
+    <Year>2011</Year>
+    <Make>NotImportant</Make>
+    <Model>NotImportant</Model>
+    <PurchaseDate>11/20/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist16>
+</data>

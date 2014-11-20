@@ -1,0 +1,5 @@
+Dealership Name    FirstName	LastName    Address	Apartment	City	State	Zip	 HomePhone	BusinessPhone	 Year	Make  Model   Purchase Date Trade In Value
+Wellington Motors	CLARENCE	
+JACKSON	22231 WONDERLAND RD N BX 612	ILDERTON	ON	N0M2A0	5196663723	5198233568	2011	RAM	1500	06/08/2011	 
+Wellington Motors	JOHN	
+MONDY	6585 ELLIS RD	CAMBRIDGE R22	ON	N3C2V4	5196582819		2005	TOYOTA	ECHO	11/19/2013	 

@@ -1,0 +1,355 @@
+<?xml version="1.0"?>
+<data>
+  <Leadlist1>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>ALVIN</FirstName>
+    <LastName>LEVISTE</LastName>
+    <Address>19 YARNTON CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 4A1</Zip>
+    <HomePhone>3065458189</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2010</Year>
+    <Make>DODGE</Make>
+    <Model>JOURNEY</Model>
+    <PurchaseDate>02/02/2013</PurchaseDate>
+  </Leadlist1>
+  <Leadlist2>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>STEVEN</FirstName>
+    <LastName>JAROCKI</LastName>
+    <Address>103 BROAD ST</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4R 1W8</Zip>
+    <HomePhone>3065506619</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2012</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>10/26/2012</PurchaseDate>
+  </Leadlist2>
+  <Leadlist3>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>PETER</FirstName>
+    <LastName>CYPRIEN</LastName>
+    <Address>14 KRAUSS STREET</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4T 6G3</Zip>
+    <HomePhone>7802339423</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>DODGE</Make>
+    <Model>CALIBER</Model>
+    <PurchaseDate>05/16/2012</PurchaseDate>
+  </Leadlist3>
+  <Leadlist4>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>LESLIE</FirstName>
+    <LastName>AUGER</LastName>
+    <Address>706 CONNAUGHT STREET</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4X 0G3</Zip>
+    <HomePhone>3065960215</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2008</Year>
+    <Make>DODGE</Make>
+    <Model>RAM 1500</Model>
+    <PurchaseDate>03/31/2012</PurchaseDate>
+  </Leadlist4>
+  <Leadlist5>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>ALEXANDER</FirstName>
+    <LastName>RAPOPORT</LastName>
+    <Address>49-2751 WINDSOR PARK RD</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4V 1H1</Zip>
+    <HomePhone>3065208606</HomePhone>
+    <WorkPhone>3067779484</WorkPhone>
+    <Year>2011</Year>
+    <Make>DODGE</Make>
+    <Model>JOURNEY</Model>
+    <PurchaseDate>01/07/2012</PurchaseDate>
+  </Leadlist5>
+  <Leadlist6>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>SHANNON</FirstName>
+    <LastName>SPENCE</LastName>
+    <Address>BOX 3362</Address>
+    <Apartment></Apartment>
+    <City>MELVILLE</City>
+    <State>SK</State>
+    <Zip>S0A 2P0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2013</Year>
+    <Make>DODGE</Make>
+    <Model>CHARGER</Model>
+    <PurchaseDate>04/04/2014</PurchaseDate>
+  </Leadlist6>
+  <Leadlist7>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>ARKARDI</FirstName>
+    <LastName>NUDELSTEIN</LastName>
+    <Address>6418 HIRD CRES</Address>
+    <Apartment></Apartment>
+    <City>REGINA</City>
+    <State>SK</State>
+    <Zip>S4X 4G8</Zip>
+    <HomePhone>3062091022</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2009</Year>
+    <Make>FORD</Make>
+    <Model>F-150</Model>
+    <PurchaseDate>04/19/2014</PurchaseDate>
+  </Leadlist7>
+  <Leadlist8>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <Address>1380 WAVERLEY ST</Address>
+    <Apartment></Apartment>
+    <City>WINNIPEG</City>
+    <State>MB</State>
+    <Zip>R3T 0P5</Zip>
+    <HomePhone>2054787800</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2014</Year>
+    <Make>CHRYSLER</Make>
+    <Model>TOWN &amp; COUNTRY</Model>
+    <PurchaseDate>05/20/2014</PurchaseDate>
+  </Leadlist8>
+  <Leadlist9>
+    <DealershipName>Crestview Chrysler</DealershipName>
+    <FirstName>Jacob</FirstName>
+    <LastName>Ring</LastName>
+    <Address>PO Box 100</Address>
+    <Apartment></Apartment>
+    <City>Pilot Butte</City>
+    <State>SK</State>
+    <Zip>S0G 3Z0</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>JEEP</Make>
+    <Model>WRANGLER UNLIMITED</Model>
+    <PurchaseDate>04/18/2014</PurchaseDate>
+  </Leadlist9>
+  <Leadlist10>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>WILLIAM</FirstName>
+    <LastName>SCHOEN</LastName>
+    <Address>725 LAIRD CRESCENT</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 5X5</Zip>
+    <HomePhone>2509236058</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2008</Year>
+    <Make>JEEP</Make>
+    <Model>PATRIOT</Model>
+    <PurchaseDate>06/02/2010 12:00:00 AM</PurchaseDate>
+  </Leadlist10>
+  <Leadlist11>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>GEORGE</FirstName>
+    <LastName>WHITE</LastName>
+    <Address>PO BOX 177 13 FREDA ROAD</Address>
+    <Apartment></Apartment>
+    <City>TAHSIS</City>
+    <State>BC</State>
+    <Zip>V0P 1X0</Zip>
+    <HomePhone>2509346675</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2006</Year>
+    <Make>DODGE</Make>
+    <Model>DAKOTA</Model>
+    <PurchaseDate>03/12/2014 12:00:00 AM</PurchaseDate>
+  </Leadlist11>
+  <Leadlist12>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>WELDON</FirstName>
+    <LastName>MUNRO</LastName>
+    <Address>BOX 339, 9 FROESE PLACE</Address>
+    <Apartment></Apartment>
+    <City>PORT CLEMENTS</City>
+    <State>BC</State>
+    <Zip>V0T 1R0</Zip>
+    <HomePhone>2505574230</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2005</Year>
+    <Make>DODGE</Make>
+    <Model>GRAND CARAVAN</Model>
+    <PurchaseDate>05/30/2012 12:00:00 AM</PurchaseDate>
+  </Leadlist12>
+  <Leadlist13>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>RYAN</FirstName>
+    <LastName>CHANNELL</LastName>
+    <Address>B1869 CHEVIOT ROAD</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 4E2</Zip>
+    <HomePhone>2509143392</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2002</Year>
+    <Make>CHEVROLET</Make>
+    <Model>CAVALIER</Model>
+    <PurchaseDate>07/18/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist13>
+  <Leadlist14>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>RYAN</FirstName>
+    <LastName>BINNERSLEY</LastName>
+    <Address>BOX 384, 1357 WEST ROAD</Address>
+    <Apartment></Apartment>
+    <City>HERIOT BAY</City>
+    <State>BC</State>
+    <Zip>V0P 1H0</Zip>
+    <HomePhone>2502853541</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2004</Year>
+    <Make>FORD</Make>
+    <Model>F150</Model>
+    <PurchaseDate>11/22/2010 12:00:00 AM</PurchaseDate>
+  </Leadlist14>
+  <Leadlist15>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName></FirstName>
+    <LastName>REHN ENTERPRISES LTD.</LastName>
+    <Address>722 MOUNT PAUL WAY</Address>
+    <Apartment></Apartment>
+    <City>KAMLOOPS</City>
+    <State>BC</State>
+    <Zip>V2H 1B5</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone>2502863646</WorkPhone>
+    <Year>2013</Year>
+    <Make>TAILWIND</Make>
+    <Model>TW612SA</Model>
+    <PurchaseDate>10/17/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist15>
+  <Leadlist16>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>MARCIA</FirstName>
+    <LastName>LUCCOCK</LastName>
+    <Address>13582 59 AVENUE</Address>
+    <Apartment></Apartment>
+    <City>SURREY</City>
+    <State>BC</State>
+    <Zip>V3X 3M1</Zip>
+    <HomePhone>7785653877</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2007</Year>
+    <Make>ROADTREKER</Make>
+    <Model>RS ADVENTURE</Model>
+    <PurchaseDate>08/28/2013 12:00:00 AM</PurchaseDate>
+  </Leadlist16>
+  <Leadlist17>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>MARIA</FirstName>
+    <LastName>SWATZKY</LastName>
+    <Address>778 MARINA BLV</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 1X4</Zip>
+    <HomePhone>2502861775</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2003</Year>
+    <Make>NISSAN</Make>
+    <Model>SENTRA</Model>
+    <PurchaseDate>06/11/2010 12:00:00 AM</PurchaseDate>
+  </Leadlist17>
+  <Leadlist18>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>RAYMOND</FirstName>
+    <LastName>LUST</LastName>
+    <Address>6050  BRONZE RD</Address>
+    <Apartment></Apartment>
+    <City>PORT HARDY</City>
+    <State>BC</State>
+    <Zip>V0N 2P0</Zip>
+    <HomePhone>2509020503</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>1986</Year>
+    <Make>FORD</Make>
+    <Model>MUSTANG</Model>
+    <PurchaseDate>01/23/2014 12:00:00 AM</PurchaseDate>
+  </Leadlist18>
+  <Leadlist19>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>LAWRENCE</FirstName>
+    <LastName>VON SCHILLING</LastName>
+    <Address>BOX 134, 517 SUNSET PLACE</Address>
+    <Apartment></Apartment>
+    <City>PORT McNEILL</City>
+    <State>BC</State>
+    <Zip>V0N 2R0</Zip>
+    <HomePhone>2509563260</HomePhone>
+    <WorkPhone>2509565200</WorkPhone>
+    <Year>2011</Year>
+    <Make>WILDWOOD</Make>
+    <Model>T22XLT</Model>
+    <PurchaseDate>08/31/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist19>
+  <Leadlist20>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>JOAN</FirstName>
+    <LastName>GLENDALE</LastName>
+    <Address>#16 530 ROCKLAND ROAD</Address>
+    <Apartment></Apartment>
+    <City>CAMPBELL RIVER</City>
+    <State>BC</State>
+    <Zip>V9W 7L5</Zip>
+    <HomePhone></HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2006</Year>
+    <Make>JEEP</Make>
+    <Model>LIBERTY</Model>
+    <PurchaseDate>05/08/2010 12:00:00 AM</PurchaseDate>
+  </Leadlist20>
+  <Leadlist21>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>JAMES</FirstName>
+    <LastName>BRIDGES</LastName>
+    <Address>7031 JACKS ROAD</Address>
+    <Apartment></Apartment>
+    <City>LANTZVILLE</City>
+    <State>BC</State>
+    <Zip>V0R 2H0</Zip>
+    <HomePhone>2503902318</HomePhone>
+    <WorkPhone></WorkPhone>
+    <Year>2011</Year>
+    <Make>TAMARACK TRAIL</Make>
+    <Model>718FQ</Model>
+    <PurchaseDate>08/12/2011 12:00:00 AM</PurchaseDate>
+  </Leadlist21>
+  <Leadlist22>
+    <DealershipName>Bill Howich Chrysler</DealershipName>
+    <FirstName>JAMES</FirstName>
+    <LastName>GAMMEL</LastName>
+    <Address>107 LAWRENCE STREET</Address>
+    <Apartment></Apartment>
+    <City>FT MCMURRAY</City>
+    <State>ALBERT</State>
+    <Zip>T9K 2S5</Zip>
+    <HomePhone>7807485844</HomePhone>
+    <WorkPhone>7807436400</WorkPhone>
+    <Year>2009</Year>
+    <Make>DODGE</Make>
+    <Model>RAM TRUCK</Model>
+    <PurchaseDate>02/11/2010 12:00:00 AM</PurchaseDate>
+  </Leadlist22>
+</data>
