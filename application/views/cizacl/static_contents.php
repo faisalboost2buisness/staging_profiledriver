@@ -165,3 +165,23 @@
 <!-- Plugins -->
 <script type="text/javascript" src="<?=base_url()?>js/libs/jquery.tablesorter.min.js"></script>
 <script type="text/javascript" src="<?=base_url()?>js/libs/DataTables/jquery.dataTables.min.js"></script>
+<script type="text/javascript">
+    /*$(document).ready(function(){
+
+    });*/
+    $(window).on("resize", function () {
+        console.log('window resize');
+        var $grid = $("#roles_table"),
+        newWidth = $grid.closest(".ui-jqgrid").parent().width();
+        $grid.setGridWidth(newWidth);
+
+        var $grid = $("#resources_table"),
+        newWidth = $grid.closest(".ui-jqgrid").parent().width();
+        $grid.setGridWidth(newWidth);
+
+        var $grid = $("#rules_table"),
+        newWidth = $grid.closest(".ui-jqgrid").parent().width();
+        $grid.setGridWidth(newWidth);
+    });
+
+</script>
