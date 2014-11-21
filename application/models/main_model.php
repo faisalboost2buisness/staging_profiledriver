@@ -147,7 +147,7 @@ class Main_model extends CI_Model {
                     registration.`usertype` = 'dealership' ,
                     registration.registration_id desc
               ";
-            
+
             $query=$this->db->query($sql);
             if($query -> num_rows() > 0){
                 $returnvalue= $query->result_array();
@@ -157,18 +157,19 @@ class Main_model extends CI_Model {
             }
         }else{
             if($member_user_type=='dealership'){
-                $condition="and usertype='dealership'";
+                $condition="and registration.usertype='dealership'";
             }else if($member_user_type=='account_managers'){
-                $condition="and usertype='account_managers'";
+                $condition="and registration.usertype='account_managers'";
             }else if($member_user_type=='auto_brand'){
-                $condition="and usertype='auto_brand'";
+                $condition="and registration.usertype='auto_brand'";
             }else if($member_user_type=='sub_admin'){
-                $condition="and usertype='sub_admin'";
+                $condition="and registration.usertype='sub_admin'";
             }
-            $sql=("SELECT *
-                    FROM registration
-                    WHERE STATUS = 'VERIFIED' and usertype<> 'admin'  $condition
-                    ORDER BY registration_id desc ");
+            $sql=("SELECT registration.*, dealership.`company_name` ,dealership.`company_phonenumber`
+                   FROM registration
+                    LEFT JOIN dealership ON dealership.registration_id = registration.registration_id
+                    WHERE registration.status = 'VERIFIED' and registration.usertype<> 'admin'  $condition
+                    ORDER BY registration.registration_id desc ");
             $query=$this->db->query($sql);
             if($query -> num_rows() > 0){
                 $returnvalue= $query->result_array();
