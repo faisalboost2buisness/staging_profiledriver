@@ -151,6 +151,11 @@
     .resource_op .inline-small-label > .label{
         width: 225px !important;
     }
+    .ui-jqgrid{
+        border-left-width: 0 !important;
+        border-top-width: 0 !important;;
+    }
+
 </style>
 <script type="text/javascript" src="<?=base_url()?>js/libs/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="<?=base_url()?>js/jquery.ui.js"></script>

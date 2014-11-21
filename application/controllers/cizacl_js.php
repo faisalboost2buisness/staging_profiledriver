@@ -382,7 +382,7 @@ class Cizacl_Js extends CI_Controller {
 		
 		
 		function add_role()	{
-			colorbox("/cizacl/role_add/",550,400,null,"reloadGrid");
+			colorbox("/cizacl/role_add/",550,500,null,"reloadGrid");
 		}
 		
 		function edit_role()	{
