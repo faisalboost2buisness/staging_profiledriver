@@ -683,7 +683,7 @@ class Auth extends CI_Controller {
         if($membership_type == 'dealership'){
             $this->form_validation->set_rules('data_source', 'Data Source', 'required|xss_clean');
             if(!$edit)
-                $this->form_validation->set_rules('dealership_email', 'Dealership Email', 'required|valid_email|is_unique[' . $tables['users'] . '.dealership_email]');
+                $this->form_validation->set_rules('dealership_email', 'Dealership Email', 'required|valid_email|is_unique[dealership.dealership_email]');
         }
 
         if($membership_type == 'auto_brand'){
