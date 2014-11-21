@@ -409,7 +409,7 @@ class Cizacl_Js extends CI_Controller {
 		}
 
 		function add_resource()	{
-			colorbox("/cizacl/resource_add/",500,400,null,"reloadGrid");
+			colorbox("/cizacl/resource_add/",550,450,null,"reloadGrid");
 		}
 		
 		function edit_resource()	{
