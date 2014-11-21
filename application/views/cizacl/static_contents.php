@@ -143,6 +143,14 @@
         width: 22px !important;
         height: 20px !important;
     }
+    .styled-select select{
+        width: 115px !important;
+        -moz-appreance:none;
+        -webkit-appearance:none;
+    }
+    .resource_op .inline-small-label > .label{
+        width: 225px !important;
+    }
 </style>
 <script type="text/javascript" src="<?=base_url()?>js/libs/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="<?=base_url()?>js/jquery.ui.js"></script>

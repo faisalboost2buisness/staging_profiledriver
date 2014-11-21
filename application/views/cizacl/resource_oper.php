@@ -11,7 +11,7 @@
 	<table width="100%">
 		<tr>
 			<td width="150" class="inline-small-label button-height">
-                <label class="label">
+                <label class="label" style="width:225px !important;">
                     <?php echo $this->lang->line('type')?>
                 </label>
             </td>

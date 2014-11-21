@@ -675,7 +675,7 @@ class Cizacl_Js extends CI_Controller {
 				this.td42					= $("<td/>", {"valign":"top"});
 				this.td5					= $("<td/>", {"valign":"top"});
 				this.td6					= $("<td/>", {"valign":"top"});
-				
+				this.controller_container   = $("<div class=\"styled-select\">");
 				this.del_rule				= $("<button/>", {"type":"button","onclick":"delRule("+array_idx+")", "title":"'.$this->lang->line("del").'"});
 				this.del_rule.text("'.$this->lang->line("del").'").button({icons: {primary: "ui-icon-trash"},text: false});
 				
@@ -690,7 +690,7 @@ class Cizacl_Js extends CI_Controller {
 				this.tr_controller			= $("<tr/>", {"id":"ctrlr_"+array_ctrlr_idx});
 				this.add_controller			= $("<button/>", {"type":"button","onclick":"addController("+array_idx+","+array_ctrlr_idx+")", "title":"'.$this->lang->line("add").'"});
 				this.add_controller.text("'.$this->lang->line("add").'").button({icons: {primary: "ui-icon-plus"},text: false});
-				this.controllers			= $("<select/>", {"name":"controller["+array_idx+"][]", "id":"controller["+array_idx+"]["+array_ctrlr_idx+"]","class":"select withClearFunctions"});
+				this.controllers			= $("<select/>", {"name":"controller["+array_idx+"][]", "id":"controller["+array_idx+"]["+array_ctrlr_idx+"]","class":"select withClearFunctions replacement select-styled-list"});
 				this.controllers.html(ctrlr_options).val(controllers_input);
 		
 				this.table_function			= $("<table/>", {"width":"100%", "cellpadding":"0", "cellspacing":"0", "id":"function_"+array_idx+"_table"});
@@ -719,6 +719,7 @@ class Cizacl_Js extends CI_Controller {
 			main.append(this.td2);
 			
 			this.td31.append(this.add_controller);
+			/*this.td32.append(this.controller_container.append(this.controllers));*/
 			this.td32.append(this.controllers);
 			this.tr_controller.append(this.td31,this.td32);
 			this.tbody_controller.append(this.tr_controller);

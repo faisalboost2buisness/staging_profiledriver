@@ -843,7 +843,8 @@ class Cizacl extends CI_Controller	{
 			'action'		=> '#',
 			'attributes'	=> array(
 				'name'		=> 'form1',
-				'id'		=> 'form1'
+				'id'		=> 'form1',
+				'class'		=> 'resources_op'
 			),
 			'submit'		=> $this->lang->line('add'),
 			
@@ -911,7 +912,8 @@ class Cizacl extends CI_Controller	{
 			'action'		=> '#',
 			'attributes'	=> array(
 				'name'		=> 'form1',
-				'id'		=> 'form1'
+				'id'		=> 'form1',
+				'class'		=> 'resource_op'
 			),
 			'submit'		=> $this->lang->line('edit'),
 			
