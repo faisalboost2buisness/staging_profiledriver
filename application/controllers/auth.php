@@ -654,11 +654,12 @@ class Auth extends CI_Controller {
      * function of auth controller.
      * @param $membership_type
      * @param $tables
+     * @param bool $edit
      */
     private function validateRegistrationData($membership_type,$tables,$edit = false){
 
 
-        if(in_array($membership_type,array('dealership','auto_brand','trainer','sub_admin','admin','sales_person','account_managers'))) {
+        if(in_array($membership_type,array('auto_brand','trainer','sub_admin','admin','sales_person','account_managers'))) {
 
             $this->form_validation->set_rules('first_name', 'First Name', 'required|xss_clean');
             $this->form_validation->set_rules('last_name', 'Last Name', 'required|xss_clean');
@@ -682,6 +683,7 @@ class Auth extends CI_Controller {
 
         if($membership_type == 'dealership'){
             $this->form_validation->set_rules('data_source', 'Data Source', 'required|xss_clean');
+            $this->form_validation->set_rules('email', 'Email', 'required|valid_email|is_unique[' . $tables['users'] . '.email_id]');
             if(!$edit)
                 $this->form_validation->set_rules('dealership_email', 'Dealership Email', 'required|valid_email');
         }
@@ -740,8 +742,8 @@ class Auth extends CI_Controller {
                 $folder_name = ( $company_name .'-'. $registration_id.'-'.$date);
 
                 $base_path = $this->config->item('rootpath');
-                $targetPath=$base_path.'/clients/'.$folder_name.'/';
-                $file_path=$base_path.'/clients/'.$folder_name.'/';
+                $targetPath='/home/advantage/'.$base_path.'/clients/'.$folder_name.'/';
+                $file_path='/home/advantage/'.$base_path.'/clients/'.$folder_name.'/';
                 if(!is_dir($targetPath)){
                     mkdir($file_path, 0755);
                 }
@@ -755,7 +757,7 @@ class Auth extends CI_Controller {
                     'password'      => $password,
                 );
 
-                $message = $this->load->view($this->config->item('email_templates', 'ion_auth').$this->config->item('email_email_dealership', 'ion_auth'), $data, true);
+                $message = $this->load->view('auth/email/dealership.tpl.php', $data, true);
 
                 $admin_email_id= $this->config-> item('admin_address');
                 $subject='Welcome to Exclusive Private Sale.Inc';
