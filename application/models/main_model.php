@@ -137,14 +137,17 @@ class Main_model extends CI_Model {
         $condition='';
         if($member_user_type=='All'){
             $all_users_id='';
-            $sql=("SELECT *
-                FROM registration
-                WHERE STATUS = 'VERIFIED' and 
-                usertype<> 'admin'
-                ORDER BY `usertype` = 'auto_brand', 
-                `usertype` = 'account_managers', 
-                `usertype` = 'dealership' ,
-                registration_id desc ");
+            $sql ="SELECT registration.*, dealership.`company_name` ,dealership.`company_phonenumber`
+                   FROM registration
+                    LEFT JOIN dealership ON dealership.registration_id = registration.registration_id
+                   WHERE registration.status = 'VERIFIED' and
+                      registration.usertype <> 'admin'
+                   ORDER BY registration.`usertype` = 'auto_brand',
+                    registration.`usertype` = 'account_managers',
+                    registration.`usertype` = 'dealership' ,
+                    registration.registration_id desc
+              ";
+            
             $query=$this->db->query($sql);
             if($query -> num_rows() > 0){
                 $returnvalue= $query->result_array();
