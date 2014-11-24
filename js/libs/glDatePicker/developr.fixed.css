@@ -125,7 +125,6 @@
 .gldp-default .thu,
 .gldp-default .fri {
 	font-weight: bold;
-        color: #666666 !important;
 }
 
 /* Weekend days */
@@ -172,7 +171,6 @@
 	-webkit-text-shadow: 0 1px 0 white;
 	-moz-text-shadow: 0 1px 0 white;
 	text-shadow: 0 1px 0 white;
-        color: #000;
 }
 
 /* Today */

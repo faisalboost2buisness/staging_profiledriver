@@ -156,6 +156,15 @@
         border-top-width: 0 !important;;
     }
 
+    #menu header {
+        font-family: Corbel,Lucida Grande,Lucida Sans Unicode,Lucida Sans,DejaVu Sans,Bitstream Vera Sans,Liberation Sans,Verdana !important;
+        font-size: 13px;
+    }
+
+    .ui-jqgrid .ui-jqgrid-bdiv{
+        overflow-x:hidden !important;
+    }
+
 </style>
 <script type="text/javascript" src="<?=base_url()?>js/libs/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="<?=base_url()?>js/jquery.ui.js"></script>

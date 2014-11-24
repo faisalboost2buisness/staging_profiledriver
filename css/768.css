@@ -1069,6 +1069,11 @@ h2 {
 		display: block;
 		top: 29px;
 	}
-    .dealerdahboardmainbox{
-        min-height:600px;position: relative; float: left; top: 58px; left: 298px; width: 58%;
-    }
+  .dealerdahboardmainbox {
+    float: left;
+    left: 56px;
+    min-height: 600px;
+    position: relative;
+    top: 58px;
+    width: 79%;
+}

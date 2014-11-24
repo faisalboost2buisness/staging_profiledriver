@@ -84,7 +84,26 @@ body, button, input, textarea {
 	line-height: 16px;
 	color: #666666;
 }
-
+.event-date-cal {
+    background: url("../images/standard/icon.png") no-repeat scroll 0 0 / 50px auto rgba(0, 0, 0, 0);
+    height: 50px;
+    margin: 20px auto auto;
+    width: 50px;
+}
+.event-date-shield{
+    
+    background: url("../images/standard/shield.png") no-repeat scroll 0 0 / 50px auto rgba(0, 0, 0, 0);
+    height: 50px;
+    margin: 20px auto auto;
+    width: 50px;
+}
+.event-date-analysis{
+    
+    background: url("../images/standard/analysis.png") no-repeat scroll 0 0 / 50px auto rgba(0, 0, 0, 0);
+    height: 50px;
+    margin: 20px auto auto;
+    width: 50px;
+}
 
 /********************************************************/
 /*               2. Basic elements/styles               */
@@ -4777,44 +4796,4 @@ a:link {
     float: right;
     margin-bottom: 17px;
     margin-right: 8px;
-}
-/*Footer CSS*/
-.footer-class{
-    background: -moz-linear-gradient(center top , #5E5E5E, #4F4F4F 4%, #262626 44%, #1C1C1C 50%, #050505 50%, #000000) repeat scroll 0 0 rgba(0, 0, 0, 0);
-    height: 55px;
-    width: 100%;
-    background-color: #4F4F4F;
-    bottom: 0;
-    float: left;
-    position: absolute;
-    margin-top: 0px;
-
-}
-.copyright-text{
-    color: #FFFFFF;
-    float: right;
-    font-size: 11px;
-    margin-right: 547px;
-    margin-top: 15px;
-}
-.glow:before, #footer-id:before {
-    background: url("../images/effects/glow.png") no-repeat scroll center center / 100% 100% rgba(0, 0, 0, 0);
-    bottom: 0;
-    content: " ";
-    display: block;
-    left: 0;
-    pointer-events: none;
-
-    right: 0;
-    top: 0;
-}
-.privacypolicy{
-    float: left;
-    font-size: 11px;
-    padding-top: 4px;
-    text-align: center;
-    width: 94%;
-}
-.privacypolicy a{
-    color: #FFFFFF;
 }

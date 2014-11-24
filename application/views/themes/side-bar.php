@@ -346,7 +346,7 @@ j('#Sellermenu').mouseout(function(){
                             <a title="Messages" href="<?=base_url()?>messages/<?=$user_id?>"><span class="icon-inbox"></span><span class="count"><?php echo $this->settings_model->countMessages();?></span></a>
                         </li>
                     </ul>
-                <section class="navigable" style="clear: both;<?php echo ($segment =='cizacl') ? 'min-height:322px !important;': ''?>">
+                <section class="navigable" style="clear: both;<?php echo ($segment =='cizacl') ? 'min-height:332px !important;': ''?>">
                     <ul class="big-menu">
                         <li class="with-right-arrow">
                             <ul class="big-menu">

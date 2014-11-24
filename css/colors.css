@@ -152,17 +152,17 @@
 }
 .big-menu {
 	color: white;
-	background: #6ead12 url(../img/old-browsers/colors/bg_big-menu.png) repeat-x;
+	background: #074247 url(../img/old-browsers/colors/bg_big-menu.png) repeat-x;
 	-webkit-background-size: 100% 100%;
 	-moz-background-size: 100% 100%;
 	-o-background-size: 100% 100%;
 	background-size: 100% 100%;
-	background: -webkit-gradient(linear, left top, left bottom, from(#b1d322), to(#6ead12));
-	background: -webkit-linear-gradient(top, #b1d322, #6ead12);
-	background: -moz-linear-gradient(top, #b1d322, #6ead12);
-	background: -ms-linear-gradient(top, #b1d322, #6ead12);
-	background: -o-linear-gradient(top, #b1d322, #6ead12);
-	background: linear-gradient(top, #b1d322, #6ead12);
+	background: -webkit-gradient(linear, left top, left bottom, from(#0b7d87), to(#074247));
+	background: -webkit-linear-gradient(top, #0b7d87, #074247);
+	background: -moz-linear-gradient(top, #0b7d87, #074247);
+	background: -ms-linear-gradient(top, #0b7d87, #074247);
+	background: -o-linear-gradient(top, #0b7d87, #074247);
+	background: linear-gradient(top, #0b7d87, #074247);
 }
 .translucid,
 .notification {
